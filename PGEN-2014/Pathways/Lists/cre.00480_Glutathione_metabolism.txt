@@ -1,0 +1,52 @@
+CHLREDRAFT_123233  
+5-oxoprolinase; K01469 5-oxoprolinase (ATP-hydrolysing) [EC:3.5.2.9] [KO:K01469] [EC:3.5.2.9]
+CHLREDRAFT_181975  
+GSH1; gamma-glutamylcysteine synthetase [KO:K01919] [EC:6.3.2.2]
+CHLREDRAFT_189020  
+GSH2; glutathione synthetase [KO:K01920] [EC:6.3.2.3]
+CHLREDRAFT_82208  
+hypothetical protein; K01255 leucyl aminopeptidase [EC:3.4.11.1] [KO:K01255] [EC:3.4.11.1]
+CHLREDRAFT_132291  
+hypothetical protein; K01256 aminopeptidase N [EC:3.4.11.2] [KO:K01256] [EC:3.4.11.2]
+CHLREDRAFT_194224  
+FAP179; flagellar associated protein [KO:K00799] [EC:2.5.1.18]
+CHLREDRAFT_167675  
+hypothetical protein; K00799 glutathione S-transferase [EC:2.5.1.18] [KO:K00799] [EC:2.5.1.18]
+CHLREDRAFT_194226  
+glutathione S-transferase; K00799 glutathione S-transferase [EC:2.5.1.18] [KO:K00799] [EC:2.5.1.18]
+CHLREDRAFT_146799  
+glutathione S-transferase; K00799 glutathione S-transferase [EC:2.5.1.18] [KO:K00799] [EC:2.5.1.18]
+CHLREDRAFT_154723  
+glutathione S-transferase; K00799 glutathione S-transferase [EC:2.5.1.18] [KO:K00799] [EC:2.5.1.18]
+CHLREDRAFT_134165  
+GSHR1; glutathione reductase [KO:K00383] [EC:1.8.1.7]
+CHLREDRAFT_196567  
+IDH3; isocitrate dehydrogenase, NADP-dependent [KO:K00031] [EC:1.1.1.42]
+CHLREDRAFT_192597  
+GND1a; 6-phosphogluconate dehydrogenase, decarboxylating [KO:K00033] [EC:1.1.1.44]
+CHLREDRAFT_173841  
+GLD2-N; glucose-6-phosphate dehydrogenase [KO:K00036] [EC:1.1.1.49]
+CHLREDRAFT_119861  
+GLD1; glucose-6-phosphate-1-dehydrogenase [KO:K00036] [EC:1.1.1.49]
+CHLREDRAFT_137012  
+GPX3; glutathione peroxidase [KO:K00432] [EC:1.11.1.9]
+CHLREDRAFT_143122  
+GPX5; glutathione peroxidase [KO:K00432] [EC:1.11.1.9]
+CHLREDRAFT_206067  
+ODC1; ornithine decarboxylase 1 [KO:K01581] [EC:4.1.1.17]
+CHLREDRAFT_206050  
+SPD1; spermidine synthase [KO:K00797] [EC:2.5.1.16]
+CHLREDRAFT_206069  
+SPS1; spermine synthase [KO:K00797] [EC:2.5.1.16]
+CHLREDRAFT_186597  
+APX1; ascorbate peroxidase [KO:K00434] [EC:1.11.1.11]
+CHLREDRAFT_165193  
+L-ascorbate peroxidase; K00434 L-ascorbate peroxidase [EC:1.11.1.11] [KO:K00434] [EC:1.11.1.11]
+CHLREDRAFT_205910  
+APX2; L-ascorbate peroxidase [KO:K00434] [EC:1.11.1.11]
+CHLREDRAFT_185583  
+RIR1; ribonucleoside-diphosphate reductase large subunit [KO:K10807] [EC:1.17.4.1]
+CHLREDRAFT_188785  
+RIR2A; ribonucleoside-diphosphate reductase small chain [KO:K10808] [EC:1.17.4.1]
+CHLREDRAFT_144621  
+RIR2B; ribonucleoside-diphosphate reductase small subunit [KO:K10808] [EC:1.17.4.1]

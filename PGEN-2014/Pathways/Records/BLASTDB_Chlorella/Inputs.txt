@@ -1,0 +1,5 @@
+Chlorella_NC64A.all_proteins.fasta
+Chlorella_NC64A.allmasked
+Chlorella_NC64A_ESTclusters.fasta
+
+Data available on the JGI website.

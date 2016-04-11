@@ -1,0 +1,34 @@
+OSTLU_31597  
+hypothetical protein; K14455 aspartate aminotransferase, mitochondrial [EC:2.6.1.1] [KO:K14455] [EC:2.6.1.1]
+OSTLU_24902  
+hypothetical protein; K00278 L-aspartate oxidase [EC:1.4.3.16] [KO:K00278] [EC:1.4.3.16]
+OSTLU_45116  
+hypothetical protein; K01953 asparagine synthase (glutamine-hydrolysing) [EC:6.3.5.4] [KO:K01953] [EC:6.3.5.4]
+OSTLU_30612  
+hypothetical protein; K00814 alanine transaminase [EC:2.6.1.2] [KO:K00814] [EC:2.6.1.2]
+OSTLU_19853  
+hypothetical protein; K01940 argininosuccinate synthase [EC:6.3.4.5] [KO:K01940] [EC:6.3.4.5]
+OSTLU_26950  
+hypothetical protein; K01755 argininosuccinate lyase [EC:4.3.2.1] [KO:K01755] [EC:4.3.2.1]
+OSTLU_19549  
+hypothetical protein; K01939 adenylosuccinate synthase [EC:6.3.4.4] [KO:K01939] [EC:6.3.4.4]
+OSTLU_29392  
+hypothetical protein; K01756 adenylosuccinate lyase [EC:4.3.2.2] [KO:K01756] [EC:4.3.2.2]
+OSTLU_19816  
+PYR2; aspartate carbamoyltransferase [KO:K00609] [EC:2.1.3.2]
+OSTLU_36228  
+hypothetical protein; K01580 glutamate decarboxylase [EC:4.1.1.15] [KO:K01580] [EC:4.1.1.15]
+OSTLU_38108  
+hypothetical protein; K13524 4-aminobutyrate aminotransferase / (S)-3-amino-2-methylpropionate transaminase [EC:2.6.1.19 2.6.1.22] [KO:K13524] [EC:2.6.1.22 2.6.1.19]
+OSTLU_30910  
+hypothetical protein; K00294 1-pyrroline-5-carboxylate dehydrogenase [EC:1.5.1.12] [KO:K00294] [EC:1.5.1.12]
+OSTLU_39960  
+hypothetical protein; K01915 glutamine synthetase [EC:6.3.1.2] [KO:K01915] [EC:6.3.1.2]
+OSTLU_42572  
+PYR1L; Carbamoyl-phosphate synthase L chain [KO:K01955] [EC:6.3.5.5]
+OSTLU_28074  
+PYR1S; Carbamoyl-phosphate synthase S chain [KO:K01956] [EC:6.3.5.5]
+OSTLU_31870  
+hypothetical protein; K00820 glucosamine--fructose-6-phosphate aminotransferase (isomerizing) [EC:2.6.1.16] [KO:K00820] [EC:2.6.1.16]
+OSTLU_19754  
+hypothetical protein; K00764 amidophosphoribosyltransferase [EC:2.4.2.14] [KO:K00764] [EC:2.4.2.14]

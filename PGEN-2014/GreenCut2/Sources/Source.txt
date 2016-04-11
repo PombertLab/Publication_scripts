@@ -1,0 +1,3 @@
+Chlre3_1.GeneCatalog_2007_09_13.proteins.fasta.gz --> Available from the JGI website.
+
+jbc.M111.233734-2.xls --> Available from the GreenCut2 paper.

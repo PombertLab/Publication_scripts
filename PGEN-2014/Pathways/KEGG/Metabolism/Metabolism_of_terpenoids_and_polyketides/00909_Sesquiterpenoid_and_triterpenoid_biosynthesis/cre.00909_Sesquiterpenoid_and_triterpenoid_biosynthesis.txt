@@ -1,0 +1,2 @@
+CHLREDRAFT_99438  
+farnesyl-diphosphate farnesyltransferase; K00801 farnesyl-diphosphate farnesyltransferase [EC:2.5.1.21] [KO:K00801] [EC:2.5.1.21]

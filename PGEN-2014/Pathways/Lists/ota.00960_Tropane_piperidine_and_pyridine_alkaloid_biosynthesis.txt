@@ -1,0 +1,8 @@
+Ot16g01100  
+putative short chain alcohol dehydrogenase (ISS); K08081 tropine dehydrogenase [EC:1.1.1.206] [KO:K08081] [EC:1.1.1.206]
+Ot05g01290  
+AAT; Aspartate aminotransferase, likely mitochondrial [Precursor] (IC) [KO:K14455] [EC:2.6.1.1]
+Ot16g00690  
+putative aspartate aminotransferase (ISS); K15849 bifunctional aspartate aminotransferase and glutamate/aspartate-prephenate aminotransferase [EC:2.6.1.1 2.6.1.78 2.6.1.79] [KO:K15849] [EC:2.6.1.79 2.6.1.78 2.6.1.1]
+Ot01g04390  
+LOC443707 protein (ISS); K00815 tyrosine aminotransferase [EC:2.6.1.5] [KO:K00815] [EC:2.6.1.5]

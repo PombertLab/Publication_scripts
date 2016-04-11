@@ -1,0 +1,16 @@
+Ot01g01590  
+putative precursor monofunctional aspartokina (ISS); K00928 aspartate kinase [EC:2.7.2.4] [KO:K00928] [EC:2.7.2.4]
+Ot09g03610  
+Identical to gb|X71364 gene for aspartate kinas (ISS); K12524 bifunctional aspartokinase / homoserine dehydrogenase 1 [EC:2.7.2.4 1.1.1.3] [KO:K12524] [EC:1.1.1.3 2.7.2.4]
+Ot01g02440  
+Mitochondrial FAD carrier protein (ISS); K00133 aspartate-semialdehyde dehydrogenase [EC:1.2.1.11] [KO:K00133] [EC:1.2.1.11]
+Ot05g01340  
+dihydrodipicolinate synthase (ISS); K01714 4-hydroxy-tetrahydrodipicolinate synthase [EC:4.3.3.7] [KO:K01714] [EC:4.3.3.7]
+Ot16g00560  
+dihydrodipicolinate reductase family protein (ISS); K00215 dihydrodipicolinate reductase [EC:1.3.1.26] [KO:K00215] [EC:1.3.1.26]
+Ot02g06370  
+hypothetical protein; K01778 diaminopimelate epimerase [EC:5.1.1.7] [KO:K01778] [EC:5.1.1.7]
+Ot03g00800  
+putative aminotransferase AGD2 (ISS); K10206 LL-diaminopimelate aminotransferase [EC:2.6.1.83] [KO:K10206] [EC:2.6.1.83]
+Ot18g01130  
+diaminopimelate decarboxylase (ISS); K01586 diaminopimelate decarboxylase [EC:4.1.1.20] [KO:K01586] [EC:4.1.1.20]

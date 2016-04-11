@@ -1,0 +1,22 @@
+OSTLU_10425  
+hypothetical protein; K01495 GTP cyclohydrolase I [EC:3.5.4.16] [KO:K01495] [EC:3.5.4.16]
+OSTLU_26163  
+hypothetical protein; K01113 alkaline phosphatase D [EC:3.1.3.1] [KO:K01113] [EC:3.1.3.1]
+OSTLU_33546  
+hypothetical protein; K01633 dihydroneopterin aldolase [EC:4.1.2.25] [KO:K01633] [EC:4.1.2.25]
+OSTLU_2171  
+hypothetical protein; K13941 2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase / dihydropteroate synthase [EC:2.7.6.3 2.5.1.15] [KO:K13941] [EC:2.5.1.15 2.7.6.3]
+OSTLU_49676  
+hypothetical protein; K13998 dihydrofolate reductase / thymidylate synthase [EC:1.5.1.3 2.1.1.45] [KO:K13998] [EC:2.1.1.45 1.5.1.3]
+OSTLU_16744  
+hypothetical protein; K01930 folylpolyglutamate synthase [EC:6.3.2.17] [KO:K01930] [EC:6.3.2.17]
+OSTLU_50634  
+hypothetical protein; K03639 molybdenum cofactor biosynthesis protein [KO:K03639]
+OSTLU_119780  
+Cnx3; Molybdopterin biosynthesis CNX3/MoaC precursor Z synthase subunit [KO:K03639]
+OSTLU_37690  
+hypothetical protein; K03635 molybdopterin synthase catalytic subunit [EC:2.-.-.-] [KO:K03635] [EC:2.-.-.-]
+OSTLU_94198  
+hypothetical protein; K03635 molybdopterin synthase catalytic subunit [EC:2.-.-.-] [KO:K03635] [EC:2.-.-.-]
+OSTLU_42151  
+hypothetical protein; K13950 para-aminobenzoate synthetase [EC:2.6.1.85] [KO:K13950] [EC:2.6.1.85]

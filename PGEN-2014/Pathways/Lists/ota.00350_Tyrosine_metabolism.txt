@@ -1,0 +1,14 @@
+Ot05g01290  
+AAT; Aspartate aminotransferase, likely mitochondrial [Precursor] (IC) [KO:K14455] [EC:2.6.1.1]
+Ot16g00690  
+putative aspartate aminotransferase (ISS); K15849 bifunctional aspartate aminotransferase and glutamate/aspartate-prephenate aminotransferase [EC:2.6.1.1 2.6.1.78 2.6.1.79] [KO:K15849] [EC:2.6.1.79 2.6.1.78 2.6.1.1]
+Ot01g04390  
+LOC443707 protein (ISS); K00815 tyrosine aminotransferase [EC:2.6.1.5] [KO:K00815] [EC:2.6.1.5]
+Ot03g03700  
+p-hydroxyphenylpyruvate dioxigenase (ISS); K00457 4-hydroxyphenylpyruvate dioxygenase [EC:1.13.11.27] [KO:K00457] [EC:1.13.11.27]
+Ot09g03460  
+MGC53924 protein (ISS); K00545 catechol O-methyltransferase [EC:2.1.1.6] [KO:K00545] [EC:2.1.1.6]
+Ot15g01360  
+alcohol dehydrogenase class III [Oryza sativa (ISS); K00121 S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase [EC:1.1.1.284 1.1.1.1] [KO:K00121] [EC:1.1.1.1 1.1.1.284]
+Ot01g01850  
+RNA methyltransferase family protein (ISS); K00599 [EC:2.1.1.-] [KO:K00599] [EC:2.1.1.-]

@@ -1,0 +1,8 @@
+CHLREDRAFT_190856  
+hypothetical protein; K03097 casein kinase II subunit alpha [EC:2.7.11.1] [KO:K03097] [EC:2.7.11.1]
+CHLREDRAFT_194436  
+casein kinase 2 alpha chain; K03097 casein kinase II subunit alpha [EC:2.7.11.1] [KO:K03097] [EC:2.7.11.1]
+CHLREDRAFT_116537  
+casein kinase 2 beta chain; K03115 casein kinase II subunit beta [KO:K03115]
+CHLREDRAFT_116381  
+hypothetical protein; K10143 E3 ubiquitin-protein ligase RFWD2 [EC:6.3.2.19] [KO:K10143] [EC:6.3.2.19]

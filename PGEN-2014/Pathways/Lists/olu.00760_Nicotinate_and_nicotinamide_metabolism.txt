@@ -1,0 +1,16 @@
+OSTLU_24902  
+hypothetical protein; K00278 L-aspartate oxidase [EC:1.4.3.16] [KO:K00278] [EC:1.4.3.16]
+OSTLU_28143  
+hypothetical protein; K03517 quinolinate synthase [EC:2.5.1.72] [KO:K03517] [EC:2.5.1.72]
+OSTLU_33946  
+hypothetical protein; K00767 nicotinate-nucleotide pyrophosphorylase (carboxylating) [EC:2.4.2.19] [KO:K00767] [EC:2.4.2.19]
+OSTLU_39962  
+hypothetical protein; K00763 nicotinate phosphoribosyltransferase [EC:2.4.2.11] [KO:K00763] [EC:2.4.2.11]
+OSTLU_33475  
+hypothetical protein; K01950 NAD+ synthase (glutamine-hydrolysing) [EC:6.3.5.1] [KO:K01950] [EC:6.3.5.1]
+OSTLU_28809  
+hypothetical protein; K01239 purine nucleosidase [EC:3.2.2.1] [KO:K01239] [EC:3.2.2.1]
+OSTLU_43339  
+hypothetical protein; K00858 NAD+ kinase [EC:2.7.1.23] [KO:K00858] [EC:2.7.1.23]
+OSTLU_35817  
+hypothetical protein; K00858 NAD+ kinase [EC:2.7.1.23] [KO:K00858] [EC:2.7.1.23]

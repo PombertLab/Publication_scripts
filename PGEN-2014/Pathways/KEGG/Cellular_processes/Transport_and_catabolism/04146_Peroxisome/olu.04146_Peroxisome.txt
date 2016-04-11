@@ -1,0 +1,36 @@
+OSTLU_10028  
+ABC(ABCD) family transporter: long-chain fatty acid; K05677 ATP-binding cassette, subfamily D (ALD), member 3 [KO:K05677]
+OSTLU_88512  
+PPI family transporter: peroxisomal targeting signal type 2 receptor (PEX7); K13341 peroxin-7 [KO:K13341]
+OSTLU_31719  
+PEX5; peroxisomal targeting signal 1 receptor [KO:K13342]
+OSTLU_26106  
+hypothetical protein; K13344 peroxin-13 [KO:K13344]
+OSTLU_30255  
+hypothetical protein; K13345 peroxin-12 [KO:K13345]
+OSTLU_29380  
+hypothetical protein; K13346 peroxin-10 [KO:K13346]
+OSTLU_36679  
+hypothetical protein; K06664 peroxin-2 [KO:K06664]
+OSTLU_41926  
+hypothetical protein; K06664 peroxin-2 [KO:K06664]
+OSTLU_30479  
+hypothetical protein; K13348 protein Mpv17 [KO:K13348]
+OSTLU_7358  
+hypothetical protein; K13348 protein Mpv17 [KO:K13348]
+OSTLU_43906  
+MC family transporter: peroxisomal membrane protein; K13354 solute carrier family 25 (peroxisomal adenine nucleotide transporter), member 17 [KO:K13354]
+OSTLU_13743  
+hypothetical protein; K00232 acyl-CoA oxidase [EC:1.3.3.6] [KO:K00232] [EC:1.3.3.6]
+OSTLU_40909  
+hypothetical protein; K07513 acetyl-CoA acyltransferase 1 [EC:2.3.1.16] [KO:K07513] [EC:2.3.1.16]
+OSTLU_26758  
+hypothetical protein; K01897 long-chain acyl-CoA synthetase [EC:6.2.1.3] [KO:K01897] [EC:6.2.1.3]
+OSTLU_24496  
+hypothetical protein; K01897 long-chain acyl-CoA synthetase [EC:6.2.1.3] [KO:K01897] [EC:6.2.1.3]
+OSTLU_47417  
+hypothetical protein; K00031 isocitrate dehydrogenase [EC:1.1.1.42] [KO:K00031] [EC:1.1.1.42]
+OSTLU_28559  
+CSD1; hypothetical protein [KO:K04565] [EC:1.15.1.1]
+OSTLU_31067  
+sodA; Mn-Superoxide dismutase [KO:K04564] [EC:1.15.1.1]

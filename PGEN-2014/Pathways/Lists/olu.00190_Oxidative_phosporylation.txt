@@ -1,0 +1,126 @@
+OSTLU_40699  
+hypothetical protein; K00329 NADH dehydrogenase [EC:1.6.5.3] K00356 NADH dehydrogenase [EC:1.6.99.3] [KO:K00329 K00356] [EC:1.6.5.3 1.6.99.3]
+OSTLU_39049  
+hypothetical protein; K03934 NADH dehydrogenase (ubiquinone) Fe-S protein 1 [EC:1.6.5.3 1.6.99.3] [KO:K03934] [EC:1.6.99.3 1.6.5.3]
+OSTLU_26714  
+hypothetical protein; K03938 NADH dehydrogenase (ubiquinone) Fe-S protein 5 [EC:1.6.5.3 1.6.99.3] [KO:K03938] [EC:1.6.99.3 1.6.5.3]
+OSTLU_18502  
+hypothetical protein; K03941 NADH dehydrogenase (ubiquinone) Fe-S protein 8 [EC:1.6.5.3 1.6.99.3] [KO:K03941] [EC:1.6.99.3 1.6.5.3]
+OSTLU_43184  
+hypothetical protein; K03942 NADH dehydrogenase (ubiquinone) flavoprotein 1 [EC:1.6.5.3 1.6.99.3] [KO:K03942] [EC:1.6.99.3 1.6.5.3]
+OSTLU_7050  
+hypothetical protein; K03943 NADH dehydrogenase (ubiquinone) flavoprotein 2 [EC:1.6.5.3 1.6.99.3] [KO:K03943] [EC:1.6.99.3 1.6.5.3]
+OSTLU_31430  
+hypothetical protein; K03945 NADH dehydrogenase (ubiquinone) 1 alpha subcomplex 1 [EC:1.6.5.3 1.6.99.3] [KO:K03945] [EC:1.6.99.3 1.6.5.3]
+OSTLU_27581  
+hypothetical protein; K03946 NADH dehydrogenase (ubiquinone) 1 alpha subcomplex 2 [EC:1.6.5.3 1.6.99.3] [KO:K03946] [EC:1.6.99.3 1.6.5.3]
+OSTLU_9445  
+hypothetical protein; K03949 NADH dehydrogenase (ubiquinone) 1 alpha subcomplex 5 [EC:1.6.5.3 1.6.99.3] [KO:K03949] [EC:1.6.99.3 1.6.5.3]
+OSTLU_34652  
+hypothetical protein; K03952 NADH dehydrogenase (ubiquinone) 1 alpha subcomplex 8 [EC:1.6.5.3 1.6.99.3] [KO:K03952] [EC:1.6.99.3 1.6.5.3]
+OSTLU_26150  
+hypothetical protein; K03953 NADH dehydrogenase (ubiquinone) 1 alpha subcomplex 9 [EC:1.6.5.3 1.6.99.3] [KO:K03953] [EC:1.6.99.3 1.6.5.3]
+OSTLU_42161  
+hypothetical protein; K03955 NADH dehydrogenase (ubiquinone) 1 alpha/beta subcomplex 1 [EC:1.6.5.3 1.6.99.3] [KO:K03955] [EC:1.6.99.3 1.6.5.3]
+OSTLU_16353  
+hypothetical protein; K11353 NADH dehydrogenase (ubiquinone) 1 alpha subcomplex 13 [EC:1.6.5.3 1.6.99.3] [KO:K11353] [EC:1.6.99.3 1.6.5.3]
+OSTLU_29176  
+hypothetical protein; K03963 NADH dehydrogenase (ubiquinone) 1 beta subcomplex 7 [EC:1.6.5.3 1.6.99.3] [KO:K03963] [EC:1.6.99.3 1.6.5.3]
+OSTLU_36839  
+hypothetical protein; K03885 NADH dehydrogenase [EC:1.6.99.3] [KO:K03885] [EC:1.6.99.3]
+OSTLU_44781  
+NDA2; NADH dehydrogenase, extrinsic [KO:K03885] [EC:1.6.99.3]
+OSTLU_10487  
+hypothetical protein; K00236 succinate dehydrogenase (ubiquinone) cytochrome b560 subunit [KO:K00236]
+OSTLU_33089  
+hypothetical protein; K00237 succinate dehydrogenase (ubiquinone) membrane anchor subunit [KO:K00237]
+OSTLU_29304  
+hypothetical protein; K00234 succinate dehydrogenase (ubiquinone) flavoprotein subunit [EC:1.3.5.1] [KO:K00234] [EC:1.3.5.1]
+OSTLU_43363  
+hypothetical protein; K00235 succinate dehydrogenase (ubiquinone) iron-sulfur subunit [EC:1.3.5.1] [KO:K00235] [EC:1.3.5.1]
+OSTLU_36665  
+hypothetical protein; K00411 ubiquinol-cytochrome c reductase iron-sulfur subunit [EC:1.10.2.2] [KO:K00411] [EC:1.10.2.2]
+OSTLU_41673  
+hypothetical protein; K00411 ubiquinol-cytochrome c reductase iron-sulfur subunit [EC:1.10.2.2] [KO:K00411] [EC:1.10.2.2]
+OSTLU_28125  
+hypothetical protein; K00413 ubiquinol-cytochrome c reductase cytochrome c1 subunit [KO:K00413]
+OSTLU_32929  
+hypothetical protein; K00416 ubiquinol-cytochrome c reductase subunit 6 [KO:K00416]
+OSTLU_94712  
+hypothetical protein; K00417 ubiquinol-cytochrome c reductase subunit 7 [KO:K00417]
+OSTLU_27073  
+hypothetical protein; K00419 ubiquinol-cytochrome c reductase subunit 9 [KO:K00419]
+OSTLU_87130  
+hypothetical protein; K02257 protoheme IX farnesyltransferase [EC:2.5.1.-] [KO:K02257] [EC:2.5.1.-]
+OSTLU_28952  
+hypothetical protein; K02265 cytochrome c oxidase subunit 5b [KO:K02265]
+OSTLU_27824  
+hypothetical protein; K02266 cytochrome c oxidase subunit 6a [KO:K02266]
+OSTLU_37791  
+hypothetical protein; K02267 cytochrome c oxidase subunit 6b [KO:K02267]
+OSTLU_7271  
+COX11; cox 11/CtaG family of cytochrome oxidase assembly protein-like protein [KO:K02258]
+OSTLU_43606  
+hypothetical protein; K02259 cytochrome c oxidase assembly protein subunit 15 [KO:K02259]
+OSTLU_43298  
+coxC; cytochrome c oxidase Cu chaperone [KO:K02260]
+OSTLU_24766  
+F-ATPase family transporter: protons (chloroplast); K02115 F-type H+-transporting ATPase subunit gamma [EC:3.6.3.14] [KO:K02115] [EC:3.6.3.14]
+OSTLU_30441  
+F-ATPase family transporter: protons (mitochondrial); K02111 F-type H+-transporting ATPase subunit alpha [EC:3.6.3.14] [KO:K02111] [EC:3.6.3.14]
+OSTLU_32540  
+F-ATPase family transporter: protons (chloroplast); K02113 F-type H+-transporting ATPase subunit delta [EC:3.6.3.14] [KO:K02113] [EC:3.6.3.14]
+OSTLU_13609  
+F-ATPase family transporter: protons (mitochondrial); K02109 F-type H+-transporting ATPase subunit b [EC:3.6.3.14] [KO:K02109] [EC:3.6.3.14]
+OSTLU_32630  
+F-ATPase family transporter: protons (mitochondrial); K02135 F-type H+-transporting ATPase subunit epsilon [EC:3.6.3.14] [KO:K02135] [EC:3.6.3.14]
+OSTLU_35127  
+F-ATPase family transporter: protons (mitochondrial); K02134 F-type H+-transporting ATPase subunit delta [EC:3.6.3.14] [KO:K02134] [EC:3.6.3.14]
+OSTLU_119590  
+AtpB; ATP synthase beta chain, mitochondrial precursor [KO:K02133] [EC:3.6.3.14]
+OSTLU_29009  
+F-ATPase family transporter: protons (mitochondrial); K02136 F-type H+-transporting ATPase subunit gamma [EC:3.6.3.14] [KO:K02136] [EC:3.6.3.14]
+OSTLU_31663  
+F-ATPase family transporter: protons (mitochondrial); K02137 F-type H+-transporting ATPase oligomycin sensitivity conferral protein [EC:3.6.3.14] [KO:K02137] [EC:3.6.3.14]
+OSTLU_93050  
+hypothetical protein; K02138 F-type H+-transporting ATPase subunit d [EC:3.6.3.14] [KO:K02138] [EC:3.6.3.14]
+OSTLU_26185  
+hypothetical protein; K02140 F-type H+-transporting ATPase subunit g [EC:3.6.3.14] [KO:K02140] [EC:3.6.3.14]
+OSTLU_119494  
+VaoD; vacuolar ATP synthase subunit D, probable [KO:K02146] [EC:3.6.3.14]
+OSTLU_15055  
+F-ATPase family transporter: protons (vacuolar); K02151 V-type H+-transporting ATPase subunit F [EC:3.6.3.14] [KO:K02151] [EC:3.6.3.14]
+OSTLU_87859  
+F-ATPase family transporter: protons (vacuolar); K02148 V-type H+-transporting ATPase subunit C [EC:3.6.3.14] [KO:K02148] [EC:3.6.3.14]
+OSTLU_50597  
+F-ATPase family transporter: protons (vacuolar); K02145 V-type H+-transporting ATPase subunit A [EC:3.6.3.14] [KO:K02145] [EC:3.6.3.14]
+OSTLU_88387  
+F-ATPase family transporter: protons (vacuolar); K02147 V-type H+-transporting ATPase subunit B [EC:3.6.3.14] [KO:K02147] [EC:3.6.3.14]
+OSTLU_7408  
+F-ATPase family transporter: protons (vacuolar); K02150 V-type H+-transporting ATPase subunit E [EC:3.6.3.14] [KO:K02150] [EC:3.6.3.14]
+OSTLU_35397  
+F-ATPase family transporter: protons (vacuolar); K02155 V-type H+-transporting ATPase 16kDa proteolipid subunit [EC:3.6.3.14] [KO:K02155] [EC:3.6.3.14]
+OSTLU_119546  
+VatL; vacuolar type H+-ATPase proteolipid subunit [KO:K02155] [EC:3.6.3.14]
+OSTLU_13768  
+F-ATPase family transporter: protons (vacuolar); K03661 V-type H+-transporting ATPase 21kDa proteolipid subunit [EC:3.6.3.14] [KO:K03661] [EC:3.6.3.14]
+OSTLU_46292  
+F-ATPase family transporter: protons (vacuolar); K02154 V-type H+-transporting ATPase subunit I [EC:3.6.3.14] [KO:K02154] [EC:3.6.3.14]
+OSTLU_88668  
+F-ATPase family transporter: protons (vacuolar); K02149 V-type H+-transporting ATPase subunit D [EC:3.6.3.14] [KO:K02149] [EC:3.6.3.14]
+OSTLU_14631  
+F-ATPase family transporter: protons (vacuolar); K02152 V-type H+-transporting ATPase subunit G [EC:3.6.3.14] [KO:K02152] [EC:3.6.3.14]
+OSTLU_9572  
+F-ATPase family transporter: protons (vacuolar); K02144 V-type H+-transporting ATPase 54 kD subunit [EC:3.6.3.14] [KO:K02144] [EC:3.6.3.14]
+OSTLU_41354  
+P-ATPase family transporter: proton; K01535 H+-transporting ATPase [EC:3.6.3.6] [KO:K01535] [EC:3.6.3.6]
+OSTLU_31307  
+H+-PPase family transporter: proton; K01507 inorganic pyrophosphatase [EC:3.6.1.1] [KO:K01507] [EC:3.6.1.1]
+OSTLU_39838  
+H+-PPase family transporter: proton; K01507 inorganic pyrophosphatase [EC:3.6.1.1] [KO:K01507] [EC:3.6.1.1]
+OSTLU_40612  
+hypothetical protein; K01507 inorganic pyrophosphatase [EC:3.6.1.1] [KO:K01507] [EC:3.6.1.1]
+OSTLU_48479  
+H+-PPase family transporter: proton; K01507 inorganic pyrophosphatase [EC:3.6.1.1] [KO:K01507] [EC:3.6.1.1]
+OSTLU_39859  
+hypothetical protein; K00937 polyphosphate kinase [EC:2.7.4.1] [KO:K00937] [EC:2.7.4.1]

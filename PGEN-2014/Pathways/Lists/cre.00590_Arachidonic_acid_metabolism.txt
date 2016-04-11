@@ -1,0 +1,14 @@
+CHLREDRAFT_183258  
+hypothetical protein; K14674 TAG lipase / steryl ester hydrolase / phospholipase A2 / LPA acyltransferase [EC:3.1.1.3 3.1.1.13 3.1.1.4 2.3.1.51] [KO:K14674] [EC:2.3.1.51 3.1.1.4 3.1.1.13 3.1.1.3]
+CHLREDRAFT_137012  
+GPX3; glutathione peroxidase [KO:K00432] [EC:1.11.1.9]
+CHLREDRAFT_143122  
+GPX5; glutathione peroxidase [KO:K00432] [EC:1.11.1.9]
+CHLREDRAFT_113845  
+LKHA4; leukotriene A-4 hydrolase [KO:K01254] [EC:3.3.2.6]
+CHLREDRAFT_196715  
+CYP744C1; cytochrome P450, CYP711 clan [KO:K01832] [EC:5.3.99.5]
+CHLREDRAFT_142756  
+TEF18; glutathione S-transferase-related protein [KO:K05309] [EC:5.3.99.3]
+CHLREDRAFT_159999  
+short chain dehydrogenase/reductase; K00079 carbonyl reductase 1 [EC:1.1.1.184 1.1.1.189 1.1.1.197] [KO:K00079] [EC:1.1.1.197 1.1.1.189 1.1.1.184]

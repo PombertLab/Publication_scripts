@@ -1,0 +1,36 @@
+CHLREDRAFT_175586  
+hypothetical protein; K02335 DNA polymerase I [EC:2.7.7.7] [KO:K02335] [EC:2.7.7.7]
+CHLREDRAFT_13480  
+RAD50; DNA repair protein [KO:K10866] [EC:3.6.-.-]
+CHLREDRAFT_123286  
+MRE11; MRE11 eukaryotic DNA repair protein [KO:K10865]
+CHLREDRAFT_123566  
+RPA70A; replication protein A, 70 kDa DNA-binding subunit [KO:K07466]
+CHLREDRAFT_205634  
+RPA70B; replication protein A, 70 kDa DNA-binding subunit [KO:K07466]
+CHLREDRAFT_79613  
+hypothetical protein; K07466 replication factor A1 [KO:K07466]
+CHLREDRAFT_186935  
+RPA30; replication protein A 30 kDa subunit [KO:K10739]
+CHLREDRAFT_190735  
+RAD51; DNA recombination protein [KO:K04482]
+CHLREDRAFT_194265  
+hypothetical protein; K10881 26 proteasome complex subunit DSS1 [KO:K10881]
+CHLREDRAFT_111277  
+hypothetical protein; K10875 DNA repair and recombination protein RAD54 and RAD54-like protein [EC:3.6.4.-] [KO:K10875] [EC:3.6.4.-]
+CHLREDRAFT_145450  
+SWI/SNF chromatin remodeling complex component; K10877 DNA repair and recombination protein RAD54B [EC:3.6.4.-] [KO:K10877] [EC:3.6.4.-]
+CHLREDRAFT_189721  
+POLD1; DNA polymerase delta subunit one [KO:K02327] [EC:2.7.7.7]
+CHLREDRAFT_103391  
+POLD2; DNA polymerase delta small subunit [KO:K02328]
+CHLREDRAFT_190579  
+hypothetical protein; K03504 DNA polymerase delta subunit 3 [KO:K03504]
+CHLREDRAFT_185774  
+hypothetical protein; K03505 DNA polymerase delta subunit 4 [KO:K03505]
+CHLREDRAFT_170922  
+hypothetical protein; K10901 bloom syndrome protein [EC:3.6.4.12] [KO:K10901] [EC:3.6.4.12]
+CHLREDRAFT_205526  
+ATP-dependent DNA helicase; K10901 bloom syndrome protein [EC:3.6.4.12] [KO:K10901] [EC:3.6.4.12]
+CHLREDRAFT_138607  
+hypothetical protein; K03165 DNA topoisomerase III [EC:5.99.1.2] [KO:K03165] [EC:5.99.1.2]

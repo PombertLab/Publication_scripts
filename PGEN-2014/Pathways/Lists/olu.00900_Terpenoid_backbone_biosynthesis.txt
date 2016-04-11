@@ -1,0 +1,36 @@
+OSTLU_48774  
+DXS; 1-deoxy-D-xylulose-5-phosphate synthase plastid precursor [KO:K01662] [EC:2.2.1.7]
+OSTLU_31255  
+DXR; 1-deoxy-D-xylulose 5-phosphate reductoisomerase, chloroplast precursor (DXP reductoisomerase) (1-deoxyxylulose-5-phosphate reductoisomerase) [KO:K00099] [EC:1.1.1.267]
+OSTLU_24843  
+CMS; 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase (4-diphosphocytidyl-2C-methyl-D-erythritol synthase) (MEP cytidylyltransferase) (MCT) (ISPD) [KO:K00991] [EC:2.7.7.60]
+OSTLU_4287  
+CMK; 4-diphosphocytidyl-2-C-methyl-D-erythritol kinase, putative chloroplast precursor (CMK) (4-(cytidine-5'-diphospho)-2-C-methyl-D-erythritol kinase) (CDPMEK) (ISPE) [KO:K00919] [EC:2.7.1.148]
+OSTLU_44114  
+MCS; 2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase, putative chloroplast precursor (MECPS) (MECDP-synthase) (ISPF) [KO:K01770] [EC:4.6.1.12]
+OSTLU_12863  
+HDS; 4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase, putative chloroplast precursor (1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate synthase) (ISPG) [KO:K03526] [EC:1.17.7.1]
+OSTLU_32979  
+IDS; isopentenyl diphosphate synthase, putative chloroplast precursor [KO:K03527] [EC:1.17.1.2]
+OSTLU_13493  
+hypothetical protein; K01823 isopentenyl-diphosphate delta-isomerase [EC:5.3.3.2] [KO:K01823] [EC:5.3.3.2]
+OSTLU_34113  
+hypothetical protein; K00787 farnesyl diphosphate synthase [EC:2.5.1.1 2.5.1.10] [KO:K00787] [EC:2.5.1.10 2.5.1.1]
+OSTLU_31245  
+hypothetical protein; K14066 geranyl diphosphate synthase [EC:2.5.1.1] [KO:K14066] [EC:2.5.1.1]
+OSTLU_17563  
+hypothetical protein; K13789 geranylgeranyl diphosphate synthase, type II [EC:2.5.1.1 2.5.1.10 2.5.1.29] [KO:K13789] [EC:2.5.1.29 2.5.1.10 2.5.1.1]
+OSTLU_51700  
+ClpR2; chloroplast Clp protease, subunit of ClpP peptidase complex [KO:K05356] [EC:2.5.1.85 2.5.1.84]
+OSTLU_40498  
+hypothetical protein; K11778 ditrans,polycis-polyprenyl diphosphate synthase [EC:2.5.1.87] [KO:K11778] [EC:2.5.1.87]
+OSTLU_119498  
+Ggh; geranylgeranyl reductase [KO:K10960] [EC:1.3.1.83]
+OSTLU_86397  
+hypothetical protein; K05954 protein farnesyltransferase subunit beta [EC:2.5.1.58] [KO:K05954] [EC:2.5.1.58]
+OSTLU_16795  
+hypothetical protein; K08658 prenyl protein peptidase [EC:3.4.22.-] [KO:K08658] [EC:3.4.22.-]
+OSTLU_86391  
+hypothetical protein; K00587 protein-S-isoprenylcysteine O-methyltransferase [EC:2.1.1.100] [KO:K00587] [EC:2.1.1.100]
+OSTLU_25096  
+hypothetical protein; K15889 prenylcysteine alpha-carboxyl methylesterase [EC:3.1.1.-] [KO:K15889] [EC:3.1.1.-]

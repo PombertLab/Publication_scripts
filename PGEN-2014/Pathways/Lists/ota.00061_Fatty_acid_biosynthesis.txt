@@ -1,0 +1,22 @@
+Ot01g03240  
+acetyl-CoA carboxylase (ISS); K11262 acetyl-CoA carboxylase / biotin carboxylase [EC:6.4.1.2 6.3.4.14] [KO:K11262] [EC:6.3.4.14 6.4.1.2]
+Ot09g03050  
+probable (ISS); K00645 [acyl-carrier-protein] S-malonyltransferase [EC:2.3.1.39] [KO:K00645] [EC:2.3.1.39]
+Ot20g00030  
+Malonyl-CoA:ACP transacylase (ISS); K00645 [acyl-carrier-protein] S-malonyltransferase [EC:2.3.1.39] [KO:K00645] [EC:2.3.1.39]
+Ot02g06880  
+A Chain A; K09458 3-oxoacyl-[acyl-carrier-protein] synthase II [EC:2.3.1.179] [KO:K09458] [EC:2.3.1.179]
+Ot02g03940  
+beta-ketoacyl-ACP synthase (ISS); K09458 3-oxoacyl-[acyl-carrier-protein] synthase II [EC:2.3.1.179] [KO:K09458] [EC:2.3.1.179]
+Ot15g01520  
+Animal-type fatty acid synthase and related proteins (ISS); K09458 3-oxoacyl-[acyl-carrier-protein] synthase II [EC:2.3.1.179] [KO:K09458] [EC:2.3.1.179]
+Ot15g01930  
+OSJNBa0063C18.19 [Oryza sativa (ISS); K00648 3-oxoacyl-[acyl-carrier-protein] synthase III [EC:2.3.1.180] [KO:K00648] [EC:2.3.1.180]
+Ot01g02200  
+CR051 protein (ISS); K00059 3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100] [KO:K00059] [EC:1.1.1.100]
+Ot07g03740  
+enoyl-(ISS); K00208 enoyl-[acyl-carrier protein] reductase I [EC:1.3.1.9 1.3.1.10] [KO:K00208] [EC:1.3.1.10 1.3.1.9]
+Ot01g06550  
+probable oleoyl-(ISS); K10782 fatty acyl-ACP thioesterase A [EC:3.1.2.14 3.1.2.-] [KO:K10782] [EC:3.1.2.- 3.1.2.14]
+Ot04g03720  
+acyl desaturase (ISS); K03921 acyl-[acyl-carrier-protein] desaturase [EC:1.14.19.2] [KO:K03921] [EC:1.14.19.2]

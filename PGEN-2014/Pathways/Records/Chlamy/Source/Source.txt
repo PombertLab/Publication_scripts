@@ -1,0 +1,3 @@
+Chlre3_1.GeneCatalog_2007_09_13.proteins.fasta.gz
+
+Available on the JGI website.

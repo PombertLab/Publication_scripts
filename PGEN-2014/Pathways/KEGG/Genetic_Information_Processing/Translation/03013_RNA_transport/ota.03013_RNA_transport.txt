@@ -1,0 +1,132 @@
+Ot03g02860  
+hypothetical protein; K01164 ribonuclease P/MRP protein subunit POP1 [EC:3.1.26.5] [KO:K01164] [EC:3.1.26.5]
+Ot04g03980  
+RNase P/RNase MRP subunit POP5 (ISS); K03537 ribonuclease P/MRP protein subunit POP5 [EC:3.1.26.5] [KO:K03537] [EC:3.1.26.5]
+Ot11g00520  
+Ribonuclease P/MRP 30kDa subunit (ISS); K03539 ribonuclease P/MRP protein subunit RPP1 [EC:3.1.26.5] [KO:K03539] [EC:3.1.26.5]
+Ot03g05020  
+Predicted metal-dependent hydrolase (beta-lactamase superfamily) (ISS); K00784 ribonuclease Z [EC:3.1.26.11] [KO:K00784] [EC:3.1.26.11]
+Ot02g05150  
+Predicted metal-dependent hydrolase (beta-lactamase superfamily) (ISS); K00784 ribonuclease Z [EC:3.1.26.11] [KO:K00784] [EC:3.1.26.11]
+Ot13g01210  
+GTP-binding protein (ISS); K07936 GTP-binding nuclear protein Ran [KO:K07936]
+Ot13g00910  
+EF-1 alpha-like protein (ISS); K03231 elongation factor 1-alpha [KO:K03231]
+Ot02g05880  
+putative exportin1 protein XPO1 (ISS); K14290 exportin-1 [KO:K14290]
+Ot06g00280  
+Mediator of U snRNA nuclear export PHAX (ISS); K14291 phosphorylated adapter RNA export protein [KO:K14291]
+Ot07g01400  
+nuclear cap-binding protein CBP80 (ISS); K12882 nuclear cap-binding protein subunit 1 [KO:K12882]
+Ot09g03510  
+OSJNBa0026E05.36 gene product (ISS); K02516 protein arginine N-methyltransferase 5 [EC:2.1.1.125] [KO:K02516] [EC:2.1.1.125]
+Ot02g06490  
+importin beta-2; K14293 importin subunit beta-1 [KO:K14293]
+Ot08g01440  
+m3G-cap-specific nuclear import receptor (Snurportin1) (ISS); K13151 snurportin-1 [KO:K13151]
+Ot16g00990  
+NMD protein affecting ribosome stability and mRNA decay (ISS); K07562 nonsense-mediated mRNA decay protein 3 [KO:K07562]
+Ot06g01880  
+transducin family protein / WD-40 repeat family protein (ISS); K14298 mRNA export factor [KO:K14298]
+Ot11g03460  
+Sec13l1 protein (ISS); K14004 protein transport protein SEC13 [KO:K14004]
+Ot14g02610  
+hypothetical protein; K14300 nuclear pore complex protein Nup133 [KO:K14300]
+Ot01g06090  
+Nuclear pore complex; K14301 nuclear pore complex protein Nup107 [KO:K14301]
+Ot15g00630  
+Nucleoporin-like protein [Oryza sativa (ISS); K14303 nuclear pore complex protein Nup160 [KO:K14303]
+Ot01g06040  
+Nuclear pore complex component (sc Nup85) (ISS); K14304 nuclear pore complex protein Nup85 [KO:K14304]
+Ot02g00500  
+nup62; Nup62 nuclear pore complex glycoprotein p62-related protein (IC) [KO:K14306]
+Ot06g03280  
+hypothetical protein; K14310 nuclear pore complex protein Nup205 [KO:K14310]
+Ot04g03020  
+putative protein (ISS); K14311 nuclear pore complex protein Nup188 [KO:K14311]
+Ot10g02170  
+Nuclear pore complex; K14312 nuclear pore complex protein Nup155 [KO:K14312]
+Ot10g02180  
+Nuclear pore complex; K14312 nuclear pore complex protein Nup155 [KO:K14312]
+Ot03g02540  
+Mitotic phosphoprotein (ISS); K14313 nuclear pore complex protein Nup53 [KO:K14313]
+Ot05g05050  
+nuclear pore complex protein-related (ISS); K14318 nuclear pore complex protein Nup88 [KO:K14318]
+Ot05g03720  
+putative RAN GTPase activating protein 1 protein (ISS); K14319 Ran GTPase-activating protein 1 [KO:K14319]
+Ot06g01370  
+Ubiquitin-protein ligase (ISS); K10577 ubiquitin-conjugating enzyme E2 I [EC:6.3.2.19] [KO:K10577] [EC:6.3.2.19]
+Ot06g01250  
+DDX20_HUMAN Probable ATP-dependent RNA helicase DDX20 (ISS); K13131 ATP-dependent RNA helicase DDX20 [EC:3.6.4.13] [KO:K13131] [EC:3.6.4.13]
+Ot03g03900  
+FLJ00137 protein (ISS); K13133 gem associated protein 5 [KO:K13133]
+Ot10g02260  
+Translation initiation factor eIF3; K03245 translation initiation factor 3 subunit J [KO:K03245]
+Ot06g00590  
+TGF-beta receptor-interacting protein 1 (ISS); K03246 translation initiation factor 3 subunit I [KO:K03246]
+Ot13g03050  
+Translation initiation factor 3; K03247 translation initiation factor 3 subunit H [KO:K03247]
+Ot06g04320  
+initiation factor 3g (ISS); K03248 translation initiation factor 3 subunit G [KO:K03248]
+Ot02g06740  
+putative 26S proteasome regulatory subunit (ISS); K03249 translation initiation factor 3 subunit F [KO:K03249]
+Ot13g02570  
+putative eIF3e (ISS); K03250 translation initiation factor 3 subunit E [KO:K03250]
+Ot08g00380  
+putative eukaryotic translation initiation factor (ISS); K03251 translation initiation factor 3 subunit D [KO:K03251]
+Ot02g04700  
+IF38_MEDTR Eukaryotic translation initiation factor 3 subunit 8 (ISS); K03252 translation initiation factor 3 subunit C [KO:K03252]
+Ot15g01870  
+Translation initiation factor 3; K03253 translation initiation factor 3 subunit B [KO:K03253]
+Ot07g04200  
+putative eukaryotic translation initiation factor 3 large subunit (ISS); K03254 translation initiation factor 3 subunit A [KO:K03254]
+Ot17g01900  
+Translation initiation factor SUI1; K03113 translation initiation factor 1 [KO:K03113]
+Ot07g03860  
+eukaryotic initiation factor 5 (ISS); K03262 translation initiation factor 5 [KO:K03262]
+Ot02g03060  
+Eif2a; Eif2a Eukaryotic translation initiation factor 2, alpha subunit (IC) [KO:K03237]
+Ot12g02870  
+protein synthesis initiation factor eIF2 beta (ISS); K03238 translation initiation factor 2 subunit 2 [KO:K03238]
+Ot06g04260  
+from S (ISS); K03242 translation initiation factor 2 subunit 3 [KO:K03242]
+Ot05g04300  
+Translation initiation factor 2B; K03680 translation initiation factor eIF-2B subunit delta [KO:K03680]
+Ot08g01210  
+P0016F11.32 gene pro (ISS); K03240 translation initiation factor eIF-2B subunit epsilon [KO:K03240]
+Ot08g01220  
+P0016F11.32 gene pro (ISS); K03240 translation initiation factor eIF-2B subunit epsilon [KO:K03240]
+Ot03g04660  
+putative translation initiation factor IF-2 (ISS); K03243 translation initiation factor 5B [KO:K03243]
+Ot01g01600  
+putative eukaryotic initiation factor eIF4 (ISS); K03260 translation initiation factor 4G [KO:K03260]
+Ot02g04220  
+If4E; If4E eukaryotic translation initiation factor 4E (IC) [KO:K03259]
+Ot07g03680  
+polyadenylate-binding protein; K13126 polyadenylate-binding protein [KO:K13126]
+Ot06g03130  
+RNA-binding protein RBM8/Tsunagi (RRM superfamily) (ISS); K12876 RNA-binding protein 8A [KO:K12876]
+Ot03g05030  
+MGN_ORYSA Mago nashi protein homolog (ISS); K12877 protein mago nashi [KO:K12877]
+Ot12g03060  
+putative nicotiana eukaryotic (ISS); K13025 ATP-dependent RNA helicase [EC:3.6.4.13] [KO:K13025] [EC:3.6.4.13]
+Ot14g00820  
+THOC4_HUMAN THO complex subunit 4 (ISS); K12881 THO complex subunit 4 [KO:K12881]
+Ot14g01480  
+putative HLA-B associated transcript 1 (ISS); K12812 ATP-dependent RNA helicase UAP56/SUB2 [EC:3.6.4.13] [KO:K12812] [EC:3.6.4.13]
+Ot02g05290  
+Nuclear matrix protein (ISS); K12878 THO complex subunit 1 [KO:K12878]
+Ot02g00350  
+tho2; Tho2 transcription & nuclear export THO-TREX component protein T (IC) [KO:K12879]
+Ot10g00500  
+PREDICTED OJ1004_A11.24 gene product [Oryza sativa (ISS); K13174 THO complex subunit 5 [KO:K13174]
+Ot01g01000  
+hypothetical protein; K13176 THO complex subunit 7 [KO:K13176]
+Ot03g04300  
+WD40 repeat-containing protein (ISS); K12880 THO complex subunit 3 [KO:K12880]
+Ot09g02820  
+RNA helicase; K14326 regulator of nonsense transcripts 1 [EC:3.6.4.-] [KO:K14326] [EC:3.6.4.-]
+Ot04g01750  
+MIF4G domain-containing protein (ISS); K14327 regulator of nonsense transcripts 2 [KO:K14327]
+Ot15g01270  
+hypothetical protein; K14328 regulator of nonsense transcripts 3 [KO:K14328]

@@ -1,0 +1,42 @@
+CHLREDRAFT_192517  
+SHKA1; 3-deoxy-D-arabino-heptulosonate 7-phosphate synthetase [KO:K01626] [EC:2.5.1.54]
+CHLREDRAFT_196549  
+DHQS; 3-dehydroquinate synthase [KO:K01735] [EC:4.2.3.4]
+CHLREDRAFT_196935  
+SHKD1; dehydroquinate dehydratase [KO:K13832] [EC:1.1.1.25 4.2.1.10]
+CHLREDRAFT_196593  
+SHKF1; shikimate kinase [KO:K00891] [EC:2.7.1.71]
+CHLREDRAFT_133088  
+SHKG1; 5-enolpyruvylshikimate-3-phosphate synthase [KO:K00800] [EC:2.5.1.19]
+CHLREDRAFT_191993  
+SHKH1; chorismate synthase [KO:K01736] [EC:4.2.3.5]
+CHLREDRAFT_115047  
+ANS1; anthranilate synthase, alpha subunit [KO:K01657] [EC:4.1.3.27]
+CHLREDRAFT_79042  
+ASB1; anthranilate synthase beta subunit [KO:K01658] [EC:4.1.3.27]
+CHLREDRAFT_126030  
+PRT1; anthranilate phosphoribosyltransferase [KO:K00766] [EC:2.4.2.18]
+CHLREDRAFT_184947  
+ASB2; phosphoribosylanthranilate isomerase [KO:K01817] [EC:5.3.1.24]
+CHLREDRAFT_9190  
+IGS1; indole-3-glycerol-phosphate synthase [KO:K01609] [EC:4.1.1.48]
+CHLREDRAFT_81238  
+TSA1; tryptophan synthetase alpha subunit [KO:K01695] [EC:4.2.1.20]
+CHLREDRAFT_9823  
+MAA7; tryptophan synthase beta subunit [KO:K01696] [EC:4.2.1.20]
+CHLREDRAFT_196317  
+CHM1; chorismate mutase [KO:K01850] [EC:5.4.99.5]
+CHLREDRAFT_191605  
+AGD1; arogenate/prephenate dehydrogenase [KO:K15227] [EC:1.3.1.78]
+CHLREDRAFT_196330  
+PRD1; prephenate dehydratase [KO:K05359] [EC:4.2.1.51 4.2.1.91]
+CHLREDRAFT_174097  
+AST1; aspartate aminotransferase [KO:K14454] [EC:2.6.1.1]
+CHLREDRAFT_126943  
+AST4; aspartate aminotransferase [KO:K14455] [EC:2.6.1.1]
+CHLREDRAFT_186959  
+AST3; aspartate aminotransferase [KO:K00811] [EC:2.6.1.1]
+CHLREDRAFT_118364  
+hypothetical protein; K15849 bifunctional aspartate aminotransferase and glutamate/aspartate-prephenate aminotransferase [EC:2.6.1.1 2.6.1.78 2.6.1.79] [KO:K15849] [EC:2.6.1.79 2.6.1.78 2.6.1.1]
+CHLREDRAFT_103841  
+HIS5; histidinol phosphate aminotransferase [KO:K00817] [EC:2.6.1.9]

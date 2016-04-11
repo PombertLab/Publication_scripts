@@ -1,0 +1,66 @@
+VOLCADRAFT_60151  
+hypothetical protein; K02707 photosystem II cytochrome b559 subunit alpha [KO:K02707]
+VOLCADRAFT_71655  
+hypothetical protein; K02709 photosystem II PsbH protein [KO:K02709]
+VOLCADRAFT_83003  
+oee1; subunit of oxygen evolving complex of photosystem II [KO:K02716]
+VOLCADRAFT_79577  
+oee3; oxygen-evolving enhancer protein 3 [KO:K08901]
+VOLCADRAFT_109549  
+psbr; hypothetical protein [KO:K03541]
+VOLCADRAFT_106616  
+psbw; photosystem II subunit W, chloroplast precursor [KO:K02721]
+VOLCADRAFT_108813  
+hypothetical protein; K02723 photosystem II PsbY protein [KO:K02723]
+VOLCADRAFT_103469  
+hypothetical protein; K02723 photosystem II PsbY protein [KO:K02723]
+VOLCADRAFT_107104  
+hypothetical protein; K08902 photosystem II Psb27 protein [KO:K08902]
+VOLCADRAFT_64814  
+hypothetical protein; K02690 photosystem I P700 chlorophyll a apoprotein A2 [KO:K02690]
+VOLCADRAFT_121148  
+hypothetical protein; K02692 photosystem I subunit II [KO:K02692]
+VOLCADRAFT_108984  
+psaE; photosystem I reaction center subunit IV, chloroplast precursor [KO:K02693]
+VOLCADRAFT_81870  
+psaF; chloroplast precursor [KO:K02694]
+VOLCADRAFT_120759  
+psaG; photosystem I reaction center subunit V, chloroplast precursor [KO:K08905]
+VOLCADRAFT_83838  
+psaH; photosystem I reaction center subunit VI, chloroplast precursor [KO:K02695]
+VOLCADRAFT_109536  
+psaK; photosystem I reaction center subunit psaK, chloroplast precursor [KO:K02698]
+VOLCADRAFT_80111  
+psal; hypothetical protein [KO:K02699]
+VOLCADRAFT_109887  
+gon46; photosystem I reaction center subunit N, chloroplast precursor [KO:K02701]
+VOLCADRAFT_120934  
+psaO; photosystem I reaction center subunit O [KO:K14332]
+VOLCADRAFT_84990  
+hypothetical protein; K02634 apocytochrome f [KO:K02634]
+VOLCADRAFT_101314  
+hypothetical protein; K02635 cytochrome b6 [KO:K02635]
+VOLCADRAFT_93639  
+hypothetical protein; K02637 cytochrome b6-f complex subunit 4 [KO:K02637]
+VOLCADRAFT_72905  
+hypothetical protein; K02638 plastocyanin [KO:K02638]
+VOLCADRAFT_79339  
+hypothetical protein; K02638 plastocyanin [KO:K02638]
+VOLCADRAFT_110096  
+fer1; ferredoxin [KO:K02639]
+VOLCADRAFT_74853  
+hypothetical protein; K02639 ferredoxin [KO:K02639]
+VOLCADRAFT_106598  
+fnr; ferredoxin-NADP+ reductase [KO:K02641] [EC:1.18.1.2]
+VOLCADRAFT_121636  
+hypothetical protein; K08906 cytochrome c6 [KO:K08906]
+VOLCADRAFT_95875  
+hypothetical protein; K02114 F-type H+-transporting ATPase subunit epsilon [EC:3.6.3.14] [KO:K02114] [EC:3.6.3.14]
+VOLCADRAFT_102786  
+atgcg1; ATP synthase, subunit gamma, chloroplast precursor [KO:K02115] [EC:3.6.3.14]
+VOLCADRAFT_77395  
+atpcd1; ATP synthase, subunit D, chloroplast precursor [KO:K02113] [EC:3.6.3.14]
+VOLCADRAFT_83961  
+gon34; CF0 ATP synthase subunit II precursor [KO:K02109] [EC:3.6.3.14]
+VOLCADRAFT_72167  
+hypothetical protein; K02108 F-type H+-transporting ATPase subunit a [EC:3.6.3.14] [KO:K02108] [EC:3.6.3.14]

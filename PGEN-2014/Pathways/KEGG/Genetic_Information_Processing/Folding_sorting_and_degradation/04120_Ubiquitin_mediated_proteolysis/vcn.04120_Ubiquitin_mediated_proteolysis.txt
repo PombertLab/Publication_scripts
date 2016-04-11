@@ -1,0 +1,94 @@
+VOLCADRAFT_79505  
+hypothetical protein; K03178 ubiquitin-activating enzyme E1 [EC:6.3.2.19] [KO:K03178] [EC:6.3.2.19]
+VOLCADRAFT_95199  
+hypothetical protein; K10684 ubiquitin-like 1-activating enzyme E1 A [EC:6.3.2.19] [KO:K10684] [EC:6.3.2.19]
+VOLCADRAFT_104505  
+hypothetical protein; K10685 ubiquitin-like 1-activating enzyme E1 B [EC:6.3.2.19] [KO:K10685] [EC:6.3.2.19]
+VOLCADRAFT_109881  
+hypothetical protein; K10686 ubiquitin-activating enzyme E1 C [EC:6.3.2.19] [KO:K10686] [EC:6.3.2.19]
+VOLCADRAFT_83518  
+hypothetical protein; K10573 ubiquitin-conjugating enzyme E2 A [EC:6.3.2.19] [KO:K10573] [EC:6.3.2.19]
+VOLCADRAFT_84429  
+hypothetical protein; K06689 ubiquitin-conjugating enzyme E2 D/E [EC:6.3.2.19] [KO:K06689] [EC:6.3.2.19]
+VOLCADRAFT_80460  
+hypothetical protein; K06689 ubiquitin-conjugating enzyme E2 D/E [EC:6.3.2.19] [KO:K06689] [EC:6.3.2.19]
+VOLCADRAFT_106071  
+ubcA; ubiquitin conjugating enzyme E2 [KO:K10575] [EC:6.3.2.19]
+VOLCADRAFT_65865  
+hypothetical protein; K10576 ubiquitin-conjugating enzyme E2 H [EC:6.3.2.19] [KO:K10576] [EC:6.3.2.19]
+VOLCADRAFT_102189  
+hypothetical protein; K10577 ubiquitin-conjugating enzyme E2 I [EC:6.3.2.19] [KO:K10577] [EC:6.3.2.19]
+VOLCADRAFT_120065  
+hypothetical protein; K10578 ubiquitin-conjugating enzyme E2 J1 [EC:6.3.2.19] [KO:K10578] [EC:6.3.2.19]
+VOLCADRAFT_103384  
+hypothetical protein; K04554 ubiquitin-conjugating enzyme E2 J2 [EC:6.3.2.19] [KO:K04554] [EC:6.3.2.19]
+VOLCADRAFT_109434  
+hypothetical protein; K10579 ubiquitin-conjugating enzyme E2 M [EC:6.3.2.19] [KO:K10579] [EC:6.3.2.19]
+VOLCADRAFT_84644  
+hypothetical protein; K10580 ubiquitin-conjugating enzyme E2 N [EC:6.3.2.19] [KO:K10580] [EC:6.3.2.19]
+VOLCADRAFT_82625  
+hypothetical protein; K10583 ubiquitin-conjugating enzyme E2 S [EC:6.3.2.19] [KO:K10583] [EC:6.3.2.19]
+VOLCADRAFT_95153  
+hypothetical protein; K10688 ubiquitin-conjugating enzyme E2 W [EC:6.3.2.19] [KO:K10688] [EC:6.3.2.19]
+VOLCADRAFT_62621  
+hypothetical protein; K04649 ubiquitin-conjugating enzyme (huntingtin interacting protein 2) [EC:6.3.2.19] [KO:K04649] [EC:6.3.2.19]
+VOLCADRAFT_80336  
+hypothetical protein; K10587 ubiquitin-protein ligase E3 A [EC:6.3.2.19] [KO:K10587] [EC:6.3.2.19]
+VOLCADRAFT_57484  
+hypothetical protein; K10587 ubiquitin-protein ligase E3 A [EC:6.3.2.19] [KO:K10587] [EC:6.3.2.19]
+VOLCADRAFT_99935  
+hypothetical protein; K10589 ubiquitin-protein ligase E3 C [EC:6.3.2.19] [KO:K10589] [EC:6.3.2.19]
+VOLCADRAFT_69679  
+hypothetical protein; K10589 ubiquitin-protein ligase E3 C [EC:6.3.2.19] [KO:K10589] [EC:6.3.2.19]
+VOLCADRAFT_82684  
+hypothetical protein; K10590 E3 ubiquitin-protein ligase TRIP12 [EC:6.3.2.19] [KO:K10590] [EC:6.3.2.19]
+VOLCADRAFT_75266  
+hypothetical protein; K10592 E3 ubiquitin-protein ligase HUWE1 [EC:6.3.2.19] [KO:K10592] [EC:6.3.2.19]
+VOLCADRAFT_87432  
+hypothetical protein; K10597 ubiquitin conjugation factor E4 B [EC:6.3.2.19] [KO:K10597] [EC:6.3.2.19]
+VOLCADRAFT_67840  
+hypothetical protein; K09561 STIP1 homology and U-box containing protein 1 [EC:6.3.2.19] [KO:K09561] [EC:6.3.2.19]
+VOLCADRAFT_80185  
+hypothetical protein; K10599 pre-mRNA-processing factor 19 [EC:6.3.2.19] [KO:K10599] [EC:6.3.2.19]
+VOLCADRAFT_44236  
+hypothetical protein; K10143 E3 ubiquitin-protein ligase RFWD2 [EC:6.3.2.19] [KO:K10143] [EC:6.3.2.19]
+VOLCADRAFT_59540  
+hypothetical protein; K10144 RING finger and CHY zinc finger domain-containing protein 1 [EC:6.3.2.19] [KO:K10144] [EC:6.3.2.19]
+VOLCADRAFT_67392  
+hypothetical protein; K10601 E3 ubiquitin-protein ligase synoviolin [EC:6.3.2.19] [KO:K10601] [EC:6.3.2.19]
+VOLCADRAFT_91394  
+hypothetical protein; K10606 E3 ubiquitin-protein ligase FANCL [EC:6.3.2.19] [KO:K10606] [EC:6.3.2.19]
+VOLCADRAFT_75918  
+hypothetical protein; K03868 RING-box protein 1 [KO:K03868]
+VOLCADRAFT_108919  
+hypothetical protein; K03347 cullin 1 [KO:K03347]
+VOLCADRAFT_73445  
+hypothetical protein; K03094 S-phase kinase-associated protein 1 [KO:K03094]
+VOLCADRAFT_73804  
+hypothetical protein; K03872 transcription elongation factor B, polypeptide 1 [KO:K03872]
+VOLCADRAFT_83034  
+hypothetical protein; K03869 cullin 3 [KO:K03869]
+VOLCADRAFT_57881  
+hypothetical protein; K10609 cullin 4 [KO:K10609]
+VOLCADRAFT_40179  
+ddb1; UV-damaged DNA binding complex subunit 1 protein [KO:K10610]
+VOLCADRAFT_117128  
+hypothetical protein; K10140 DNA damage-binding protein 2 [KO:K10140]
+VOLCADRAFT_65806  
+hypothetical protein; K10570 DNA excision repair protein ERCC-8 [KO:K10570]
+VOLCADRAFT_68107  
+hypothetical protein; K03358 anaphase-promoting complex subunit 11 [KO:K03358]
+VOLCADRAFT_80889  
+hypothetical protein; K03349 anaphase-promoting complex subunit 2 [KO:K03349]
+VOLCADRAFT_127316  
+cdc20; activator and specificity subunit of anaphase promoting complex [KO:K03363]
+VOLCADRAFT_60635  
+cdh1; activator and specificity factor for anaphase promoting complex [KO:K03364]
+VOLCADRAFT_66436  
+hypothetical protein; K03350 anaphase-promoting complex subunit 3 [KO:K03350]
+VOLCADRAFT_68591  
+hypothetical protein; K03353 anaphase-promoting complex subunit 6 [KO:K03353]
+VOLCADRAFT_100315  
+hypothetical protein; K03355 anaphase-promoting complex subunit 8 [KO:K03355]
+VOLCADRAFT_80519  
+hypothetical protein; K03357 anaphase-promoting complex subunit 10 [KO:K03357]

@@ -1,0 +1,18 @@
+Ot09g03650  
+cysteine desulfurase (ISS); K04487 cysteine desulfurase [EC:2.8.1.7] [KO:K04487] [EC:2.8.1.7]
+Ot03g02290  
+Cysteine desulfurase NFS1 (ISS); K04487 cysteine desulfurase [EC:2.8.1.7] [KO:K04487] [EC:2.8.1.7]
+Ot15g00100  
+Mercaptopyruvate sulfurtransferase/thiosulfate sulfurtransferase (ISS); K01011 thiosulfate/3-mercaptopyruvate sulfurtransferase [EC:2.8.1.1 2.8.1.2] [KO:K01011] [EC:2.8.1.2 2.8.1.1]
+Ot10g01005  
+Cnx5; K11996 adenylyltransferase and sulfurtransferase [KO:K11996]
+Ot11g01980  
+tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase (ISS); K00566 tRNA-specific 2-thiouridylase [EC:2.8.1.-] [KO:K00566] [EC:2.8.1.-]
+Ot14g03040  
+tRNA (ISS); K00566 tRNA-specific 2-thiouridylase [EC:2.8.1.-] [KO:K00566] [EC:2.8.1.-]
+Ot17g00250  
+Molybdopterin synthase; K03635 molybdopterin synthase catalytic subunit [EC:2.-.-.-] [KO:K03635] [EC:2.-.-.-]
+Ot02g07740  
+molybdopterin biosynthesis CNX3 protein / molybdenum cofactor biosynthesis enzyme CNX3 (ISS); K03639 molybdenum cofactor biosynthesis protein [KO:K03639]
+Ot10g00990  
+Cnx2; K03639 molybdenum cofactor biosynthesis protein [KO:K03639]

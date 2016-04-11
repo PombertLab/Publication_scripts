@@ -1,0 +1,8 @@
+Ot03g01300  
+oxidoreductase of zinc-binding dehydrogenase family (ISS); K07512 mitochondrial trans-2-enoyl-CoA reductase [EC:1.3.1.38] [KO:K07512] [EC:1.3.1.38]
+Ot17g00700  
+palmitoyl-protein thioesterase precursor (ISS); K01074 palmitoyl-protein thioesterase [EC:3.1.2.22] [KO:K01074] [EC:3.1.2.22]
+Ot09g02550  
+polyunsaturated fatty acid elongase 2 (ISS); K10249 elongation of very long chain fatty acids protein 4 [EC:2.3.1.199] [KO:K10249] [EC:2.3.1.199]
+Ot03g04010  
+putative synaptic glycoprotein SC2 (ISS); K10258 very-long-chain enoyl-CoA reductase [EC:1.3.1.93] [KO:K10258] [EC:1.3.1.93]

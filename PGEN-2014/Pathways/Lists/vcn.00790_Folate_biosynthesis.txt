@@ -1,0 +1,18 @@
+VOLCADRAFT_62867  
+hypothetical protein; K01495 GTP cyclohydrolase I [EC:3.5.4.16] [KO:K01495] [EC:3.5.4.16]
+VOLCADRAFT_66296  
+hypothetical protein; K13998 dihydrofolate reductase / thymidylate synthase [EC:1.5.1.3 2.1.1.45] [KO:K13998] [EC:2.1.1.45 1.5.1.3]
+VOLCADRAFT_93841  
+hypothetical protein; K01930 folylpolyglutamate synthase [EC:6.3.2.17] [KO:K01930] [EC:6.3.2.17]
+VOLCADRAFT_102798  
+hypothetical protein; K01307 gamma-glutamyl hydrolase [EC:3.4.19.9] [KO:K01307] [EC:3.4.19.9]
+VOLCADRAFT_61540  
+hypothetical protein; K03639 molybdenum cofactor biosynthesis protein [KO:K03639]
+VOLCADRAFT_57519  
+hypothetical protein; K03639 molybdenum cofactor biosynthesis protein [KO:K03639]
+VOLCADRAFT_61348  
+hypothetical protein; K03635 molybdopterin synthase catalytic subunit [EC:2.-.-.-] [KO:K03635] [EC:2.-.-.-]
+VOLCADRAFT_82067  
+hypothetical protein; K03635 molybdopterin synthase catalytic subunit [EC:2.-.-.-] [KO:K03635] [EC:2.-.-.-]
+VOLCADRAFT_56121  
+adc1; ADC synthase [KO:K13950] [EC:2.6.1.85]

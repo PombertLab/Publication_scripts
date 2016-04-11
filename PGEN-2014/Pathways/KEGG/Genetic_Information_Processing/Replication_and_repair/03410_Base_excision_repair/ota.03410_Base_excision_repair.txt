@@ -1,0 +1,34 @@
+Ot16g02210  
+A Chain A; K03660 N-glycosylase/DNA lyase [EC:3.2.2.- 4.2.99.18] [KO:K03660] [EC:4.2.99.18 3.2.2.-]
+Ot14g01120  
+putative endonuclease (ISS); K10773 endonuclease III [EC:4.2.99.18] [KO:K10773] [EC:4.2.99.18]
+Ot12g01720  
+uracil-DNA glycosylase-like protein (ISS); K03648 uracil-DNA glycosylase [EC:3.2.2.27] [KO:K03648] [EC:3.2.2.27]
+Ot09g00130  
+putative metalloendopeptidase (ISS); K10801 methyl-CpG-binding domain protein 4 [EC:3.2.2.-] [KO:K10801] [EC:3.2.2.-]
+Ot03g02610  
+ARP protein (ISS); K10771 AP endonuclease 1 [EC:4.2.99.18] [KO:K10771] [EC:4.2.99.18]
+Ot04g05410  
+APEX nuclease (ISS); K10772 AP endonuclease 2 [EC:4.2.99.18] [KO:K10772] [EC:4.2.99.18]
+Ot09g02810  
+PolI-like DNA polymerase; K02335 DNA polymerase I [EC:2.7.7.7] [KO:K02335] [EC:2.7.7.7]
+Ot09g04230  
+DNA polymerase lambda (ISS); K03512 DNA polymerase lambda [EC:2.7.7.7 4.2.99.-] [KO:K03512] [EC:4.2.99.- 2.7.7.7]
+Ot14g01720  
+COG0272: NAD-dependent DNA ligase (ISS); K01972 DNA ligase (NAD+) [EC:6.5.1.2] [KO:K01972] [EC:6.5.1.2]
+Ot06g03150  
+proliferating cell nuclear antigen PCNA-rape sp|Q43124|PCNA_BRANA PROLIFERATING CELL NUCLEAR ANTIGEN (ISS); K04802 proliferating cell nuclear antigen [KO:K04802]
+Ot02g05840  
+DPOD1_ORYSA DNA polymerase delta catalytic subunit gb|AAX96341.1| dna pol (ISS); K02327 DNA polymerase delta subunit 1 [EC:2.7.7.7] [KO:K02327] [EC:2.7.7.7]
+Ot12g00120  
+DPOD2_ORYSA DNA polymerase delta small subunit (ISS); K02328 DNA polymerase delta subunit 2 [KO:K02328]
+Ot07g02450  
+Polymerase (ISS); K03505 DNA polymerase delta subunit 4 [KO:K03505]
+Ot11g02010  
+DNA polymerase delta; K02324 DNA polymerase epsilon subunit 1 [EC:2.7.7.7] [KO:K02324] [EC:2.7.7.7]
+Ot08g03600  
+DEAD-box protein abstrakt (ISS); K02325 DNA polymerase epsilon subunit 2 [EC:2.7.7.7] [KO:K02325] [EC:2.7.7.7]
+Ot08g02230  
+FEN-1 (ISS); K04799 flap endonuclease-1 [EC:3.-.-.-] [KO:K04799] [EC:3.-.-.-]
+Ot10g00640  
+putative DNA ligase [Oryza sativa (ISS); K10747 DNA ligase 1 [EC:6.5.1.1] [KO:K10747] [EC:6.5.1.1]

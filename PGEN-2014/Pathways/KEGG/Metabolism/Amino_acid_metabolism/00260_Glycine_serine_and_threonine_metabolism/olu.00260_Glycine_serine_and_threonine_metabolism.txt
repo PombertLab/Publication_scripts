@@ -1,0 +1,52 @@
+OSTLU_44504  
+hypothetical protein; K00928 aspartate kinase [EC:2.7.2.4] [KO:K00928] [EC:2.7.2.4]
+OSTLU_16870  
+hypothetical protein; K12524 bifunctional aspartokinase / homoserine dehydrogenase 1 [EC:2.7.2.4 1.1.1.3] [KO:K12524] [EC:1.1.1.3 2.7.2.4]
+OSTLU_28856  
+hypothetical protein; K00133 aspartate-semialdehyde dehydrogenase [EC:1.2.1.11] [KO:K00133] [EC:1.2.1.11]
+OSTLU_10263  
+hypothetical protein; K00872 homoserine kinase [EC:2.7.1.39] [KO:K00872] [EC:2.7.1.39]
+OSTLU_37018  
+hypothetical protein; K01733 threonine synthase [EC:4.2.3.1] [KO:K01733] [EC:4.2.3.1]
+OSTLU_32331  
+hypothetical protein; K01733 threonine synthase [EC:4.2.3.1] [KO:K01733] [EC:4.2.3.1]
+OSTLU_33121  
+hypothetical protein; K01620 threonine aldolase [EC:4.1.2.5] [KO:K01620] [EC:4.1.2.5]
+OSTLU_30421  
+hypothetical protein; K00600 glycine hydroxymethyltransferase [EC:2.1.2.1] [KO:K00600] [EC:2.1.2.1]
+OSTLU_29554  
+hypothetical protein; K00600 glycine hydroxymethyltransferase [EC:2.1.2.1] [KO:K00600] [EC:2.1.2.1]
+OSTLU_37794  
+hypothetical protein; K00600 glycine hydroxymethyltransferase [EC:2.1.2.1] [KO:K00600] [EC:2.1.2.1]
+OSTLU_16249  
+hypothetical protein; K01079 phosphoserine phosphatase [EC:3.1.3.3] [KO:K01079] [EC:3.1.3.3]
+OSTLU_12357  
+hypothetical protein; K00831 phosphoserine aminotransferase [EC:2.6.1.52] [KO:K00831] [EC:2.6.1.52]
+OSTLU_39000  
+hypothetical protein; K00058 D-3-phosphoglycerate dehydrogenase [EC:1.1.1.95] [KO:K00058] [EC:1.1.1.95]
+OSTLU_13344  
+hypothetical protein; K00058 D-3-phosphoglycerate dehydrogenase [EC:1.1.1.95] [KO:K00058] [EC:1.1.1.95]
+OSTLU_41282  
+hypothetical protein; K15918 D-glycerate 3-kinase [EC:2.7.1.31] [KO:K15918] [EC:2.7.1.31]
+OSTLU_33106  
+hypothetical protein; K15633 2,3-bisphosphoglycerate-independent phosphoglycerate mutase [EC:5.4.2.1] [KO:K15633] [EC:5.4.2.1]
+OSTLU_35517  
+hypothetical protein; K15634 probable phosphoglycerate mutase [EC:5.4.2.1] [KO:K15634] [EC:5.4.2.1]
+OSTLU_26284  
+hypothetical protein; K00281 glycine dehydrogenase [EC:1.4.4.2] [KO:K00281] [EC:1.4.4.2]
+OSTLU_26241  
+hypothetical protein; K00605 aminomethyltransferase [EC:2.1.2.10] [KO:K00605] [EC:2.1.2.10]
+OSTLU_26614  
+hypothetical protein; K00382 dihydrolipoamide dehydrogenase [EC:1.8.1.4] [KO:K00382] [EC:1.8.1.4]
+OSTLU_15203  
+hypothetical protein; K00382 dihydrolipoamide dehydrogenase [EC:1.8.1.4] [KO:K00382] [EC:1.8.1.4]
+OSTLU_50750  
+hypothetical protein; K00130 betaine-aldehyde dehydrogenase [EC:1.2.1.8] [KO:K00130] [EC:1.2.1.8]
+OSTLU_94246  
+hypothetical protein; K00301 sarcosine oxidase [EC:1.5.3.1] [KO:K00301] [EC:1.5.3.1]
+OSTLU_39224  
+hypothetical protein; K01754 threonine dehydratase [EC:4.3.1.19] [KO:K01754] [EC:4.3.1.19]
+OSTLU_49484  
+hypothetical protein; K01695 tryptophan synthase alpha chain [EC:4.2.1.20] [KO:K01695] [EC:4.2.1.20]
+OSTLU_32688  
+hypothetical protein; K01696 tryptophan synthase beta chain [EC:4.2.1.20] [KO:K01696] [EC:4.2.1.20]

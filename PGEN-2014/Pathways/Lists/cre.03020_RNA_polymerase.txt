@@ -1,0 +1,52 @@
+ChreCp047  
+rpoC2; atypical [KO:K03046] [EC:2.7.7.6]
+CHLREDRAFT_186432  
+RPB2; DNA-directed RNA polymerase II, 135 kDa polypeptide [KO:K03010] [EC:2.7.7.6]
+CHLREDRAFT_196948  
+RPB1; DNA-directed RNA polymerase II, largest subunit [KO:K03006] [EC:2.7.7.6]
+CHLREDRAFT_111305  
+RPB3; DNA-directed RNA polymerase II, 36 kDa polypeptide [KO:K03011]
+CHLREDRAFT_182662  
+RPB11; DNA-directed RNA polymerase II, 13.6 kDa polypeptide [KO:K03008]
+CHLREDRAFT_189366  
+RPB7A; DNA-directed RNA polymerase II, 19 kDa polypeptide [KO:K03015]
+CHLREDRAFT_135424  
+RPB9; DNA-directed RNA polymerase II, 14.5 kDa polypeptide [KO:K03017]
+CHLREDRAFT_151082  
+RPB5; DNA-directed RNA polymerase II, 23 kDa polypeptide [KO:K03013]
+CHLREDRAFT_107215  
+RPB6; subunit of DNA-directed RNA polymerase [KO:K03014]
+CHLREDRAFT_126483  
+RPB8; DNA-directed RNA polymerase II, 16.5 kDa polypeptide [KO:K03016]
+CHLREDRAFT_78868  
+RPB12; subunit f DNA-directed RNA polymerase [KO:K03009]
+CHLREDRAFT_127606  
+RPB10; DNA-directed RNA polymerases I/II/III subunit [KO:K03007]
+CHLREDRAFT_129857  
+DNA-directed RNA polymerase III; K03021 DNA-directed RNA polymerase III subunit RPC2 [EC:2.7.7.6] [KO:K03021] [EC:2.7.7.6]
+CHLREDRAFT_169121  
+hypothetical protein; K03018 DNA-directed RNA polymerase III subunit RPC1 [EC:2.7.7.6] [KO:K03018] [EC:2.7.7.6]
+CHLREDRAFT_123383  
+RPC19; RNA polymerase subunit [KO:K03020]
+CHLREDRAFT_174488  
+hypothetical protein; K03023 DNA-directed RNA polymerase III subunit RPC3 [KO:K03023]
+CHLREDRAFT_154065  
+hypothetical protein; K03026 DNA-directed RNA polymerase III subunit RPC4 [KO:K03026]
+CHLREDRAFT_143043  
+hypothetical protein; K14721 DNA-directed RNA polymerase III subunit RPC5 [KO:K14721]
+CHLREDRAFT_76582  
+hypothetical protein; K03019 DNA-directed RNA polymerase III subunit RPC10 [KO:K03019]
+CHLREDRAFT_79435  
+RPB7B; DNA-directed RNA polymerase II, 19 kDa polypeptide [KO:K03022]
+CHLREDRAFT_155892  
+hypothetical protein; K03025 DNA-directed RNA polymerase III subunit RPC6 [KO:K03025]
+CHLREDRAFT_113199  
+hypothetical protein; K03002 DNA-directed RNA polymerase I subunit RPA2 [EC:2.7.7.6] [KO:K03002] [EC:2.7.7.6]
+CHLREDRAFT_176094  
+RPA1; DNA-directed RNA polymerase I subunit A [KO:K02999] [EC:2.7.7.6]
+CHLREDRAFT_183563  
+RPA12; DNA-directed RNA polymerase I subunit [KO:K03000]
+CHLREDRAFT_166368  
+hypothetical protein; K03004 DNA-directed RNA polymerase I subunit RPA43 [KO:K03004]
+CHLREDRAFT_147364  
+hypothetical protein; K03004 DNA-directed RNA polymerase I subunit RPA43 [KO:K03004]

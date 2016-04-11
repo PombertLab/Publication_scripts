@@ -1,0 +1,8 @@
+CHLREDRAFT_166297  
+hypothetical protein; K05656 ATP-binding cassette, subfamily B (MDR/TAP), member 9 [KO:K05656]
+CHLREDRAFT_138602  
+MDR-like ABC transporter; K05658 ATP-binding cassette, subfamily B (MDR/TAP), member 1 [KO:K05658]
+CHLREDRAFT_138672  
+MDR-like ABC transporter; K05658 ATP-binding cassette, subfamily B (MDR/TAP), member 1 [KO:K05658]
+CHLREDRAFT_105113  
+ATM2; half-size ABC transporter, membrane protein [KO:K05663]

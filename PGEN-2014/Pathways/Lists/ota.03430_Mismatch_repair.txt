@@ -1,0 +1,44 @@
+Ot05g02750  
+ATP-dependent DNA helicase (ISS); K03657 DNA helicase II / ATP-dependent DNA helicase PcrA [EC:3.6.4.12] [KO:K03657] [EC:3.6.4.12]
+Ot14g01720  
+COG0272: NAD-dependent DNA ligase (ISS); K01972 DNA ligase (NAD+) [EC:6.5.1.2] [KO:K01972] [EC:6.5.1.2]
+Ot06g04240  
+putative PMS2 postmeiotic segregation incre (ISS); K10858 DNA mismatch repair protein PMS2 [KO:K10858]
+Ot13g02400  
+putative MLH1 protein (ISS); K08734 DNA mismatch repair protein MLH1 [KO:K08734]
+Ot06g02860  
+putative mismatch binding protein Mus3 (ISS); K08737 DNA mismatch repair protein MSH6 [KO:K08737]
+Ot10g02130  
+Mismatch repair ATPase MSH4 (MutS family) (ISS); K08735 DNA mismatch repair protein MSH2 [KO:K08735]
+Ot04g02200  
+DNA mismatch repair protein MSH3 (ISS); K08736 DNA mismatch repair protein MSH3 [KO:K08736]
+Ot02g00700  
+replication factor C 110 kDa subunit (ISS); K10754 replication factor C subunit 1 [KO:K10754]
+Ot09g01040  
+replication factor C 37 kDa subunit (ISS); K10755 replication factor C subunit 2/4 [KO:K10755]
+Ot12g02530  
+Replication factor C 2 (ISS); K10755 replication factor C subunit 2/4 [KO:K10755]
+Ot02g00770  
+rfc5; rfc5 replication factor C subunit 5 (36kDa), probable (IC) [KO:K10756]
+Ot05g00140  
+putative replication factor (ISS); K10756 replication factor C subunit 3/5 [KO:K10756]
+Ot06g03150  
+proliferating cell nuclear antigen PCNA-rape sp|Q43124|PCNA_BRANA PROLIFERATING CELL NUCLEAR ANTIGEN (ISS); K04802 proliferating cell nuclear antigen [KO:K04802]
+Ot01g04690  
+exonuclease; 92014-93872 (ISS) [KO:K10746] [EC:3.1.-.-]
+Ot18g01590  
+replication protein; K07466 replication factor A1 [KO:K07466]
+Ot15g01090  
+Single-stranded DNA-binding replication protein A (RPA); K07466 replication factor A1 [KO:K07466]
+Ot13g01160  
+Single-stranded DNA-binding replication protein A (RPA); K10739 replication factor A2 [KO:K10739]
+Ot07g02570  
+hypothetical protein; K10740 replication factor A3 [KO:K10740]
+Ot02g05840  
+DPOD1_ORYSA DNA polymerase delta catalytic subunit gb|AAX96341.1| dna pol (ISS); K02327 DNA polymerase delta subunit 1 [EC:2.7.7.7] [KO:K02327] [EC:2.7.7.7]
+Ot12g00120  
+DPOD2_ORYSA DNA polymerase delta small subunit (ISS); K02328 DNA polymerase delta subunit 2 [KO:K02328]
+Ot07g02450  
+Polymerase (ISS); K03505 DNA polymerase delta subunit 4 [KO:K03505]
+Ot10g00640  
+putative DNA ligase [Oryza sativa (ISS); K10747 DNA ligase 1 [EC:6.5.1.1] [KO:K10747] [EC:6.5.1.1]

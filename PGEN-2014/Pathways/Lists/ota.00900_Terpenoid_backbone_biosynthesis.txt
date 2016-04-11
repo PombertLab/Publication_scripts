@@ -1,0 +1,34 @@
+Ot02g03880  
+dxs; Dxs 1-deoxy-D-xylulose-5-phosphate synthase plastid precursor (IC) [KO:K01662] [EC:2.2.1.7]
+Ot04g03460  
+1-deoxy-D-xylulose-5-phosphate reductoisomerase (ISS); K00099 1-deoxy-D-xylulose-5-phosphate reductoisomerase [EC:1.1.1.267] [KO:K00099] [EC:1.1.1.267]
+Ot16g02030  
+putative isopentenyl monophosphat (ISS); K00919 4-diphosphocytidyl-2-C-methyl-D-erythritol kinase [EC:2.7.1.148] [KO:K00919] [EC:2.7.1.148]
+Ot11g00050  
+putative 2C-methyl-D-erythritol 2; K01770 2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase [EC:4.6.1.12] [KO:K01770] [EC:4.6.1.12]
+Ot09g00990  
+putative chloroplast 1-hydroxy-2-methyl-2-(ISS); K03526 (E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase [EC:1.17.7.1] [KO:K03526] [EC:1.17.7.1]
+Ot08g01140  
+putative LytB protein (ISS); K03527 4-hydroxy-3-methylbut-2-enyl diphosphate reductase [EC:1.17.1.2] [KO:K03527] [EC:1.17.1.2]
+Ot03g02400  
+farnesyl pyrophosphate synthase (ISS); K00787 farnesyl diphosphate synthase [EC:2.5.1.1 2.5.1.10] [KO:K00787] [EC:2.5.1.10 2.5.1.1]
+Ot04g03330  
+geranyl diphosphat synthase (ISS); K14066 geranyl diphosphate synthase [EC:2.5.1.1] [KO:K14066] [EC:2.5.1.1]
+Ot12g01350  
+geranylgeranyl diphosphate synthase (ISS); K13789 geranylgeranyl diphosphate synthase, type II [EC:2.5.1.1 2.5.1.10 2.5.1.29] [KO:K13789] [EC:2.5.1.29 2.5.1.10 2.5.1.1]
+Ot17g01520  
+putative polyprenyl diphosphate synthase (ISS); K05356 all-trans-nonaprenyl-diphosphate synthase [EC:2.5.1.84 2.5.1.85] [KO:K05356] [EC:2.5.1.85 2.5.1.84]
+Ot16g02750  
+MGC52912 protein (ISS); K11778 ditrans,polycis-polyprenyl diphosphate synthase [EC:2.5.1.87] [KO:K11778] [EC:2.5.1.87]
+Ot02g04630  
+ggh; Ggh geranylgeranyl reductase (IC) [KO:K10960] [EC:1.3.1.83]
+Ot02g05950  
+putative farnesyltransferase beta subunit (ISS); K05954 protein farnesyltransferase subunit beta [EC:2.5.1.58] [KO:K05954] [EC:2.5.1.58]
+Ot09g02490  
+hypothetical protein; K08658 prenyl protein peptidase [EC:3.4.22.-] [KO:K08658] [EC:3.4.22.-]
+Ot02g06040  
+Farnesyl cysteine-carboxyl methyltransferase (ISS); K00587 protein-S-isoprenylcysteine O-methyltransferase [EC:2.1.1.100] [KO:K00587] [EC:2.1.1.100]
+Ot10g00030  
+Carboxylesterase and related proteins (ISS); K15889 prenylcysteine alpha-carboxyl methylesterase [EC:3.1.1.-] [KO:K15889] [EC:3.1.1.-]
+Ot07g00660  
+Predicted ER membrane protein (ISS); K15892 farnesol kinase [EC:2.7.1.-] [KO:K15892] [EC:2.7.1.-]

@@ -1,0 +1,122 @@
+VOLCADRAFT_82032  
+nuo3; NADH:ubiquinone oxidoreductase ND3 subunit [KO:K03880] [EC:1.6.5.3]
+VOLCADRAFT_75683  
+nuoS1; NADH:ubiquinone oxidoreductase 76 kDa subunit [KO:K03934] [EC:1.6.99.3 1.6.5.3]
+VOLCADRAFT_84552  
+nuo7; NADH:ubiquinone oxidoreductase 49 kDa subunit [KO:K03935] [EC:1.6.99.3 1.6.5.3]
+VOLCADRAFT_75676  
+nuo9; NADH:ubiquinone oxidoreductase 30 kDa subunit [KO:K03936] [EC:1.6.99.3 1.6.5.3]
+VOLCADRAFT_77953  
+nuoS4; NADH:ubiquinone oxidoreductase 18 kDa subunit [KO:K03937] [EC:1.6.99.3 1.6.5.3]
+VOLCADRAFT_73712  
+nuo10; NADH:ubiquinone oxidoreductase subunit 10 [KO:K03940] [EC:1.6.99.3 1.6.5.3]
+VOLCADRAFT_109652  
+nuo8; NADH:ubiquinone oxidoreductase subunit 8 [KO:K03941] [EC:1.6.99.3 1.6.5.3]
+VOLCADRAFT_58014  
+nuo6; NADH:ubiquinone oxidoreductase 51 kDa subunit [KO:K03942] [EC:1.6.99.3 1.6.5.3]
+VOLCADRAFT_120415  
+nuo5; NADH:ubiquinone oxidoreductase 24 kDa subunit [KO:K03943] [EC:1.6.99.3 1.6.5.3]
+VOLCADRAFT_74105  
+nuoB13; NADH:ubiquinone oxidoreductase 18 kDa subunit [KO:K03949] [EC:1.6.99.3 1.6.5.3]
+VOLCADRAFT_109314  
+nuoB14; NADH:ubiquinone oxidoreductase B14 subunit [KO:K03950] [EC:1.6.99.3 1.6.5.3]
+VOLCADRAFT_79565  
+nuoA8; NADH:ubiquinone oxidoreductase 12.5 kDa subunit [KO:K03952] [EC:1.6.99.3 1.6.5.3]
+VOLCADRAFT_106450  
+nuoA9; NADH:ubiquinone oxidoreductase 39 kDa subunit [KO:K03953] [EC:1.6.99.3 1.6.5.3]
+VOLCADRAFT_105506  
+acp1; acyl-carrier protein, probably mitochondrial [KO:K03955] [EC:1.6.99.3 1.6.5.3]
+VOLCADRAFT_78207  
+nuob16; NADH:ubiquinone oxidoreductase subunit [KO:K11353] [EC:1.6.99.3 1.6.5.3]
+VOLCADRAFT_120235  
+nuoB18; NADH:ubiquinone oxidoreductase B18 subunit [KO:K03963] [EC:1.6.99.3 1.6.5.3]
+VOLCADRAFT_99267  
+nuoB22; NADH:ubiquinone oxidoreductase B22 subunit [KO:K03965] [EC:1.6.99.3 1.6.5.3]
+VOLCADRAFT_63040  
+hypothetical protein; K03885 NADH dehydrogenase [EC:1.6.99.3] [KO:K03885] [EC:1.6.99.3]
+VOLCADRAFT_76599  
+hypothetical protein; K03885 NADH dehydrogenase [EC:1.6.99.3] [KO:K03885] [EC:1.6.99.3]
+VOLCADRAFT_105834  
+hypothetical protein; K03885 NADH dehydrogenase [EC:1.6.99.3] [KO:K03885] [EC:1.6.99.3]
+VOLCADRAFT_107672  
+hypothetical protein; K03885 NADH dehydrogenase [EC:1.6.99.3] [KO:K03885] [EC:1.6.99.3]
+VOLCADRAFT_63330  
+hypothetical protein; K03885 NADH dehydrogenase [EC:1.6.99.3] [KO:K03885] [EC:1.6.99.3]
+VOLCADRAFT_74298  
+sdh1; succinate dehydrogenase subunit A, mitochondrial [KO:K00234] [EC:1.3.5.1]
+VOLCADRAFT_78776  
+sdh2; iron-sulfur subunit of mitochondrial succinate dehydrogenase [KO:K00235] [EC:1.3.5.1]
+VOLCADRAFT_77835  
+hypothetical protein; K00411 ubiquinol-cytochrome c reductase iron-sulfur subunit [EC:1.10.2.2] [KO:K00411] [EC:1.10.2.2]
+VOLCADRAFT_76796  
+cyt1; ubiquinol:cytochrome c oxidoreductase cytochrome c1, mitochondrial [KO:K00413]
+VOLCADRAFT_80825  
+hypothetical protein; K00416 ubiquinol-cytochrome c reductase subunit 6 [KO:K00416]
+VOLCADRAFT_78796  
+qcr7; hypothetical protein [KO:K00417]
+VOLCADRAFT_121084  
+hypothetical protein; K00419 ubiquinol-cytochrome c reductase subunit 9 [KO:K00419]
+VOLCADRAFT_79954  
+hypothetical protein; K02257 protoheme IX farnesyltransferase [EC:2.5.1.-] [KO:K02257] [EC:2.5.1.-]
+VOLCADRAFT_80299  
+cox2B; cytochrome c oxidase subunit II [KO:K02261]
+VOLCADRAFT_48974  
+hypothetical protein; K02267 cytochrome c oxidase subunit 6b [KO:K02267]
+VOLCADRAFT_80232  
+hypothetical protein; K02258 cytochrome c oxidase assembly protein subunit 11 [KO:K02258]
+VOLCADRAFT_48953  
+hypothetical protein; K02260 cytochrome c oxidase assembly protein subunit 17 [KO:K02260]
+VOLCADRAFT_95875  
+hypothetical protein; K02114 F-type H+-transporting ATPase subunit epsilon [EC:3.6.3.14] [KO:K02114] [EC:3.6.3.14]
+VOLCADRAFT_102786  
+atgcg1; ATP synthase, subunit gamma, chloroplast precursor [KO:K02115] [EC:3.6.3.14]
+VOLCADRAFT_77395  
+atpcd1; ATP synthase, subunit D, chloroplast precursor [KO:K02113] [EC:3.6.3.14]
+VOLCADRAFT_83961  
+gon34; CF0 ATP synthase subunit II precursor [KO:K02109] [EC:3.6.3.14]
+VOLCADRAFT_72167  
+hypothetical protein; K02108 F-type H+-transporting ATPase subunit a [EC:3.6.3.14] [KO:K02108] [EC:3.6.3.14]
+VOLCADRAFT_80163  
+hypothetical protein; K02135 F-type H+-transporting ATPase subunit epsilon [EC:3.6.3.14] [KO:K02135] [EC:3.6.3.14]
+VOLCADRAFT_109632  
+hypothetical protein; K02134 F-type H+-transporting ATPase subunit delta [EC:3.6.3.14] [KO:K02134] [EC:3.6.3.14]
+VOLCADRAFT_80433  
+hypothetical protein; K02133 F-type H+-transporting ATPase subunit beta [EC:3.6.3.14] [KO:K02133] [EC:3.6.3.14]
+VOLCADRAFT_76794  
+atpmg1; F1F0 ATP synthase, subunit G, mitochondrial [KO:K02136] [EC:3.6.3.14]
+VOLCADRAFT_109721  
+hypothetical protein; K02137 F-type H+-transporting ATPase oligomycin sensitivity conferral protein [EC:3.6.3.14] [KO:K02137] [EC:3.6.3.14]
+VOLCADRAFT_83693  
+hypothetical protein; K02128 F-type H+-transporting ATPase subunit c [EC:3.6.3.14] [KO:K02128] [EC:3.6.3.14]
+VOLCADRAFT_83692  
+atpmc1; F1F0 ATP synthase, subunit C, mitochondrial [KO:K02128] [EC:3.6.3.14]
+VOLCADRAFT_72840  
+atpvd1; vacuolar H+ ATPase V0 sector, subunit D [KO:K02146] [EC:3.6.3.14]
+VOLCADRAFT_104166  
+hypothetical protein; K02151 V-type H+-transporting ATPase subunit F [EC:3.6.3.14] [KO:K02151] [EC:3.6.3.14]
+VOLCADRAFT_106399  
+atpvc1; vacuolar ATP synthase, subunit C [KO:K02148] [EC:3.6.3.14]
+VOLCADRAFT_74447  
+atpva1; vacuolar ATP synthase, subunit A [KO:K02145] [EC:3.6.3.14]
+VOLCADRAFT_110003  
+hypothetical protein; K02147 V-type H+-transporting ATPase subunit B [EC:3.6.3.14] [KO:K02147] [EC:3.6.3.14]
+VOLCADRAFT_75406  
+atpve1; vacuolar ATP synthase subunit E [KO:K02150] [EC:3.6.3.14]
+VOLCADRAFT_107886  
+hypothetical protein; K02155 V-type H+-transporting ATPase 16kDa proteolipid subunit [EC:3.6.3.14] [KO:K02155] [EC:3.6.3.14]
+VOLCADRAFT_109870  
+hypothetical protein; K03661 V-type H+-transporting ATPase 21kDa proteolipid subunit [EC:3.6.3.14] [KO:K03661] [EC:3.6.3.14]
+VOLCADRAFT_79461  
+hypothetical protein; K02154 V-type H+-transporting ATPase subunit I [EC:3.6.3.14] [KO:K02154] [EC:3.6.3.14]
+VOLCADRAFT_73085  
+hypothetical protein; K02149 V-type H+-transporting ATPase subunit D [EC:3.6.3.14] [KO:K02149] [EC:3.6.3.14]
+VOLCADRAFT_83249  
+atpvh1; vacuolar ATP synthase, subunit H [KO:K02144] [EC:3.6.3.14]
+VOLCADRAFT_105176  
+hypothetical protein; K01535 H+-transporting ATPase [EC:3.6.3.6] [KO:K01535] [EC:3.6.3.6]
+VOLCADRAFT_103448  
+hypothetical protein; K01535 H+-transporting ATPase [EC:3.6.3.6] [KO:K01535] [EC:3.6.3.6]
+VOLCADRAFT_82661  
+hypothetical protein; K01507 inorganic pyrophosphatase [EC:3.6.1.1] [KO:K01507] [EC:3.6.1.1]
+VOLCADRAFT_76427  
+hypothetical protein; K01507 inorganic pyrophosphatase [EC:3.6.1.1] [KO:K01507] [EC:3.6.1.1]

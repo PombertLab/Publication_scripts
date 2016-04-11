@@ -1,0 +1,50 @@
+OSTLU_43599  
+hypothetical protein; K01087 trehalose 6-phosphate phosphatase [EC:3.1.3.12] [KO:K01087] [EC:3.1.3.12]
+OSTLU_51081  
+hypothetical protein; K16055 trehalose 6-phosphate synthase/phosphatase [EC:2.4.1.15 3.1.3.12] [KO:K16055] [EC:3.1.3.12 2.4.1.15]
+OSTLU_991  
+hypothetical protein; K16055 trehalose 6-phosphate synthase/phosphatase [EC:2.4.1.15 3.1.3.12] [KO:K16055] [EC:3.1.3.12 2.4.1.15]
+OSTLU_38852  
+hypothetical protein; K01194 alpha,alpha-trehalase [EC:3.2.1.28] [KO:K01194] [EC:3.2.1.28]
+OSTLU_43578  
+hypothetical protein; K02438 glycogen operon protein [EC:3.2.1.-] [KO:K02438] [EC:3.2.1.-]
+OSTLU_19757  
+hypothetical protein; K02438 glycogen operon protein [EC:3.2.1.-] [KO:K02438] [EC:3.2.1.-]
+OSTLU_27143  
+hypothetical protein; K00012 UDPglucose 6-dehydrogenase [EC:1.1.1.22] [KO:K00012] [EC:1.1.1.22]
+OSTLU_29766  
+hypothetical protein; K00012 UDPglucose 6-dehydrogenase [EC:1.1.1.22] [KO:K00012] [EC:1.1.1.22]
+OSTLU_14357  
+hypothetical protein; K08679 UDP-glucuronate 4-epimerase [EC:5.1.3.6] [KO:K08679] [EC:5.1.3.6]
+OSTLU_42958  
+hypothetical protein; K01835 phosphoglucomutase [EC:5.4.2.2] [KO:K01835] [EC:5.4.2.2]
+OSTLU_17428  
+hypothetical protein; K01810 glucose-6-phosphate isomerase [EC:5.3.1.9] [KO:K01810] [EC:5.3.1.9]
+OSTLU_35780  
+hypothetical protein; K00975 glucose-1-phosphate adenylyltransferase [EC:2.7.7.27] [KO:K00975] [EC:2.7.7.27]
+OSTLU_42209  
+hypothetical protein; K00975 glucose-1-phosphate adenylyltransferase [EC:2.7.7.27] [KO:K00975] [EC:2.7.7.27]
+OSTLU_41777  
+hypothetical protein; K00703 starch synthase [EC:2.4.1.21] [KO:K00703] [EC:2.4.1.21]
+OSTLU_40458  
+hypothetical protein; K00703 starch synthase [EC:2.4.1.21] [KO:K00703] [EC:2.4.1.21]
+OSTLU_41853  
+hypothetical protein; K00703 starch synthase [EC:2.4.1.21] [KO:K00703] [EC:2.4.1.21]
+OSTLU_48511  
+hypothetical protein; K00703 starch synthase [EC:2.4.1.21] [KO:K00703] [EC:2.4.1.21]
+OSTLU_45076  
+hypothetical protein; K00700 1,4-alpha-glucan branching enzyme [EC:2.4.1.18] [KO:K00700] [EC:2.4.1.18]
+OSTLU_31320  
+hypothetical protein; K00700 1,4-alpha-glucan branching enzyme [EC:2.4.1.18] [KO:K00700] [EC:2.4.1.18]
+OSTLU_14998  
+hypothetical protein; K00688 starch phosphorylase [EC:2.4.1.1] [KO:K00688] [EC:2.4.1.1]
+OSTLU_44172  
+hypothetical protein; K00688 starch phosphorylase [EC:2.4.1.1] [KO:K00688] [EC:2.4.1.1]
+OSTLU_25192  
+hypothetical protein; K00688 starch phosphorylase [EC:2.4.1.1] [KO:K00688] [EC:2.4.1.1]
+OSTLU_36075  
+hypothetical protein; K01176 alpha-amylase [EC:3.2.1.1] [KO:K01176] [EC:3.2.1.1]
+OSTLU_44779  
+hypothetical protein; K00705 4-alpha-glucanotransferase [EC:2.4.1.25] [KO:K00705] [EC:2.4.1.25]
+OSTLU_44388  
+hypothetical protein; K00705 4-alpha-glucanotransferase [EC:2.4.1.25] [KO:K00705] [EC:2.4.1.25]

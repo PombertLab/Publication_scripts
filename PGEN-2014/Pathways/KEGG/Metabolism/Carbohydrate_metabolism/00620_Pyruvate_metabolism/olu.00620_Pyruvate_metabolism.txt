@@ -1,0 +1,54 @@
+OSTLU_44757  
+hypothetical protein; K01895 acetyl-CoA synthetase [EC:6.2.1.1] [KO:K01895] [EC:6.2.1.1]
+OSTLU_29179  
+hypothetical protein; K00161 pyruvate dehydrogenase E1 component subunit alpha [EC:1.2.4.1] [KO:K00161] [EC:1.2.4.1]
+OSTLU_12625  
+hypothetical protein; K00162 pyruvate dehydrogenase E1 component subunit beta [EC:1.2.4.1] [KO:K00162] [EC:1.2.4.1]
+OSTLU_31760  
+hypothetical protein; K00627 pyruvate dehydrogenase E2 component (dihydrolipoamide acetyltransferase) [EC:2.3.1.12] [KO:K00627] [EC:2.3.1.12]
+OSTLU_2905  
+hypothetical protein; K00627 pyruvate dehydrogenase E2 component (dihydrolipoamide acetyltransferase) [EC:2.3.1.12] [KO:K00627] [EC:2.3.1.12]
+OSTLU_26614  
+hypothetical protein; K00382 dihydrolipoamide dehydrogenase [EC:1.8.1.4] [KO:K00382] [EC:1.8.1.4]
+OSTLU_15203  
+hypothetical protein; K00382 dihydrolipoamide dehydrogenase [EC:1.8.1.4] [KO:K00382] [EC:1.8.1.4]
+OSTLU_36056  
+hypothetical protein; K00656 formate C-acetyltransferase [EC:2.3.1.54] [KO:K00656] [EC:2.3.1.54]
+OSTLU_40662  
+hypothetical protein; K00873 pyruvate kinase [EC:2.7.1.40] [KO:K00873] [EC:2.7.1.40]
+OSTLU_27708  
+hypothetical protein; K00873 pyruvate kinase [EC:2.7.1.40] [KO:K00873] [EC:2.7.1.40]
+OSTLU_44400  
+hypothetical protein; K11262 acetyl-CoA carboxylase / biotin carboxylase [EC:6.4.1.2 6.3.4.14] [KO:K11262] [EC:6.3.4.14 6.4.1.2]
+OSTLU_13873  
+hypothetical protein; K00128 aldehyde dehydrogenase (NAD+) [EC:1.2.1.3] [KO:K00128] [EC:1.2.1.3]
+OSTLU_46355  
+hypothetical protein; K00102 D-lactate dehydrogenase (cytochrome) [EC:1.1.2.4] [KO:K00102] [EC:1.1.2.4]
+OSTLU_6929  
+hypothetical protein; K01069 hydroxyacylglutathione hydrolase [EC:3.1.2.6] [KO:K01069] [EC:3.1.2.6]
+OSTLU_6889  
+hypothetical protein; K01069 hydroxyacylglutathione hydrolase [EC:3.1.2.6] [KO:K01069] [EC:3.1.2.6]
+OSTLU_26919  
+hypothetical protein; K00028 malate dehydrogenase (decarboxylating) [EC:1.1.1.39] [KO:K00028] [EC:1.1.1.39]
+OSTLU_41212  
+hypothetical protein; K00029 malate dehydrogenase (oxaloacetate-decarboxylating)(NADP+) [EC:1.1.1.40] [KO:K00029] [EC:1.1.1.40]
+OSTLU_12474  
+hypothetical protein; K00029 malate dehydrogenase (oxaloacetate-decarboxylating)(NADP+) [EC:1.1.1.40] [KO:K00029] [EC:1.1.1.40]
+OSTLU_32964  
+hypothetical protein; K01958 pyruvate carboxylase [EC:6.4.1.1] [KO:K01958] [EC:6.4.1.1]
+OSTLU_87414  
+hypothetical protein; K00025 malate dehydrogenase [EC:1.1.1.37] [KO:K00025] [EC:1.1.1.37]
+OSTLU_32875  
+hypothetical protein; K00026 malate dehydrogenase [EC:1.1.1.37] [KO:K00026] [EC:1.1.1.37]
+OSTLU_24671  
+hypothetical protein; K00026 malate dehydrogenase [EC:1.1.1.37] [KO:K00026] [EC:1.1.1.37]
+OSTLU_12282  
+hypothetical protein; K00026 malate dehydrogenase [EC:1.1.1.37] [KO:K00026] [EC:1.1.1.37]
+OSTLU_42336  
+hypothetical protein; K00051 malate dehydrogenase (NADP+) [EC:1.1.1.82] [KO:K00051] [EC:1.1.1.82]
+OSTLU_51006  
+hypothetical protein; K01595 phosphoenolpyruvate carboxylase [EC:4.1.1.31] [KO:K01595] [EC:4.1.1.31]
+OSTLU_29856  
+hypothetical protein; K01006 pyruvate,orthophosphate dikinase [EC:2.7.9.1] [KO:K01006] [EC:2.7.9.1]
+OSTLU_29150  
+hypothetical protein; K01649 2-isopropylmalate synthase [EC:2.3.3.13] [KO:K01649] [EC:2.3.3.13]

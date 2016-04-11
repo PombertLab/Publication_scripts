@@ -1,0 +1,4 @@
+VOLCADRAFT_63971  
+hypothetical protein; K00106 xanthine dehydrogenase/oxidase [EC:1.17.1.4 1.17.3.2] [KO:K00106] [EC:1.17.3.2 1.17.1.4]
+VOLCADRAFT_73602  
+hypothetical protein; K00365 urate oxidase [EC:1.7.3.3] [KO:K00365] [EC:1.7.3.3]

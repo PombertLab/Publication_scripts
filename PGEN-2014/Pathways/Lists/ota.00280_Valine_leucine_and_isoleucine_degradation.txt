@@ -1,0 +1,14 @@
+Ot04g04970  
+Putative aminotransferase (ISS); K00826 branched-chain amino acid aminotransferase [EC:2.6.1.42] [KO:K00826] [EC:2.6.1.42]
+Ot08g02190  
+Branched chain aminotransferase BCAT1; K00826 branched-chain amino acid aminotransferase [EC:2.6.1.42] [KO:K00826] [EC:2.6.1.42]
+Ot14g01920  
+branched-chain amino acid aminotransferase-like protein (ISS); K00826 branched-chain amino acid aminotransferase [EC:2.6.1.42] [KO:K00826] [EC:2.6.1.42]
+Ot04g05070  
+putative lipoamide dehydrogenase (ISS); K00382 dihydrolipoamide dehydrogenase [EC:1.8.1.4] [KO:K00382] [EC:1.8.1.4]
+Ot11g03020  
+dihydrolipoamide dehydrogenase precursor (ISS); K00382 dihydrolipoamide dehydrogenase [EC:1.8.1.4] [KO:K00382] [EC:1.8.1.4]
+Ot01g04160  
+fatty aldehyde dehydrogenase variant form (ISS); K00128 aldehyde dehydrogenase (NAD+) [EC:1.2.1.3] [KO:K00128] [EC:1.2.1.3]
+Ot10g02220  
+Alanine-glyoxylate aminotransferase AGT2 (ISS); K13524 4-aminobutyrate aminotransferase / (S)-3-amino-2-methylpropionate transaminase [EC:2.6.1.19 2.6.1.22] [KO:K13524] [EC:2.6.1.22 2.6.1.19]

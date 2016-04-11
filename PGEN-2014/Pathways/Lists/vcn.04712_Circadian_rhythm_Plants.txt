@@ -1,0 +1,8 @@
+VOLCADRAFT_84748  
+hypothetical protein; K03097 casein kinase II subunit alpha [EC:2.7.11.1] [KO:K03097] [EC:2.7.11.1]
+VOLCADRAFT_83608  
+hypothetical protein; K03097 casein kinase II subunit alpha [EC:2.7.11.1] [KO:K03097] [EC:2.7.11.1]
+VOLCADRAFT_109045  
+hypothetical protein; K03097 casein kinase II subunit alpha [EC:2.7.11.1] [KO:K03097] [EC:2.7.11.1]
+VOLCADRAFT_44236  
+hypothetical protein; K10143 E3 ubiquitin-protein ligase RFWD2 [EC:6.3.2.19] [KO:K10143] [EC:6.3.2.19]

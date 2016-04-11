@@ -1,0 +1,22 @@
+OSTLU_8182  
+CAH1; Zn carbonic anhydrase [KO:K01673] [EC:4.2.1.1]
+OSTLU_26241  
+hypothetical protein; K00605 aminomethyltransferase [EC:2.1.2.10] [KO:K00605] [EC:2.1.2.10]
+OSTLU_37938  
+hypothetical protein; K00360 nitrate reductase (NADH) [EC:1.7.1.1] [KO:K00360] [EC:1.7.1.1]
+OSTLU_50765  
+hypothetical protein; K00366 ferredoxin-nitrite reductase [EC:1.7.7.1] [KO:K00366] [EC:1.7.7.1]
+OSTLU_87975  
+hypothetical protein; K03839 flavodoxin I [KO:K03839]
+OSTLU_39960  
+hypothetical protein; K01915 glutamine synthetase [EC:6.3.1.2] [KO:K01915] [EC:6.3.1.2]
+OSTLU_45116  
+hypothetical protein; K01953 asparagine synthase (glutamine-hydrolysing) [EC:6.3.5.4] [KO:K01953] [EC:6.3.5.4]
+OSTLU_51965  
+hypothetical protein; K00284 glutamate synthase (ferredoxin) [EC:1.4.7.1] [KO:K00284] [EC:1.4.7.1]
+OSTLU_36665  
+hypothetical protein; K00411 ubiquinol-cytochrome c reductase iron-sulfur subunit [EC:1.10.2.2] [KO:K00411] [EC:1.10.2.2]
+OSTLU_41673  
+hypothetical protein; K00411 ubiquinol-cytochrome c reductase iron-sulfur subunit [EC:1.10.2.2] [KO:K00411] [EC:1.10.2.2]
+OSTLU_28125  
+hypothetical protein; K00413 ubiquinol-cytochrome c reductase cytochrome c1 subunit [KO:K00413]

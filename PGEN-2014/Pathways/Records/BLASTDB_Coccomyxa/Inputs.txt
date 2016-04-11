@@ -1,0 +1,5 @@
+Coccomyxa_C169_v2_all_proteins.fasta
+Coccomyxa_C169_v2_EST_cluster_consensi.fasta
+Coccomyxa_C169_v2_masked_genomic_scaffolds.fasta
+
+Data available on the JGI website.

@@ -1,0 +1,48 @@
+Ot06g02310  
+Oxoprolinase (ISS); K01469 5-oxoprolinase (ATP-hydrolysing) [EC:3.5.2.9] [KO:K01469] [EC:3.5.2.9]
+Ot06g01620  
+glutathione synthetase (ISS); K01920 glutathione synthase [EC:6.3.2.3] [KO:K01920] [EC:6.3.2.3]
+Ot05g01900  
+Leucyl aminopeptidase (ISS); K01255 leucyl aminopeptidase [EC:3.4.11.1] [KO:K01255] [EC:3.4.11.1]
+Ot13g02610  
+M1 aminopeptidase (ISS); K01256 aminopeptidase N [EC:3.4.11.2] [KO:K01256] [EC:3.4.11.2]
+Ot05g04450  
+glutathione S-transferase (ISS); K00799 glutathione S-transferase [EC:2.5.1.18] [KO:K00799] [EC:2.5.1.18]
+Ot01g00130  
+COG0625: Glutathione S-transferase (ISS); K00799 glutathione S-transferase [EC:2.5.1.18] [KO:K00799] [EC:2.5.1.18]
+Ot08g02420  
+Glutathione S-transferase (ISS); K00799 glutathione S-transferase [EC:2.5.1.18] [KO:K00799] [EC:2.5.1.18]
+Ot02g02800  
+hypothetical protein; K00799 glutathione S-transferase [EC:2.5.1.18] [KO:K00799] [EC:2.5.1.18]
+Ot12g02440  
+hypothetical protein; K00799 glutathione S-transferase [EC:2.5.1.18] [KO:K00799] [EC:2.5.1.18]
+Ot16g00420  
+Intracellular Cl-channel CLIC; K00799 glutathione S-transferase [EC:2.5.1.18] [KO:K00799] [EC:2.5.1.18]
+Ot04g03500  
+glutathione-S-transferase (ISS); K00799 glutathione S-transferase [EC:2.5.1.18] [KO:K00799] [EC:2.5.1.18]
+Ot02g00200  
+Gr; Gr glutathione reductase, probable (IC) [KO:K00383] [EC:1.8.1.7]
+Ot07g04130  
+6-phosphogluconate dehydrogenase (ISS); K00033 6-phosphogluconate dehydrogenase [EC:1.1.1.44] [KO:K00033] [EC:1.1.1.44]
+Ot05g04760  
+G6PDC_SOLTU Glucose-6-phosphate 1-dehydrogenase; K00036 glucose-6-phosphate 1-dehydrogenase [EC:1.1.1.49] [KO:K00036] [EC:1.1.1.49]
+Ot08g00440  
+Glutathione peroxidase; K00432 glutathione peroxidase [EC:1.11.1.9] [KO:K00432] [EC:1.11.1.9]
+Ot08g03350  
+glutathione peroxidase (ISS); K00432 glutathione peroxidase [EC:1.11.1.9] [KO:K00432] [EC:1.11.1.9]
+Ot04g04130  
+ornithine decarboxylase (ISS); K01581 ornithine decarboxylase [EC:4.1.1.17] [KO:K01581] [EC:4.1.1.17]
+Ot11g01200  
+spermidine synthase 1 (ISS); K00797 spermidine synthase [EC:2.5.1.16] [KO:K00797] [EC:2.5.1.16]
+Ot06g00700  
+putative spermine synthase (ISS); K00797 spermidine synthase [EC:2.5.1.16] [KO:K00797] [EC:2.5.1.16]
+Ot08g00200  
+putative L-ascorbate peroxidase (ISS); K00434 L-ascorbate peroxidase [EC:1.11.1.11] [KO:K00434] [EC:1.11.1.11]
+Ot09g00500  
+TL29_LYCES Putative L-ascorbate peroxidase; K00434 L-ascorbate peroxidase [EC:1.11.1.11] [KO:K00434] [EC:1.11.1.11]
+Ot01g03570  
+chloroplast ascorbate peroxidase (ISS); K00434 L-ascorbate peroxidase [EC:1.11.1.11] [KO:K00434] [EC:1.11.1.11]
+Ot01g00100  
+RIR1_BRARE Ribonucleoside-diphosphate reductase large subunit (ISS); K10807 ribonucleoside-diphosphate reductase subunit M1 [EC:1.17.4.1] [KO:K10807] [EC:1.17.4.1]
+Ot12g01290  
+putative ribonucleotide reductase small subunit (ISS); K10808 ribonucleoside-diphosphate reductase subunit M2 [EC:1.17.4.1] [KO:K10808] [EC:1.17.4.1]

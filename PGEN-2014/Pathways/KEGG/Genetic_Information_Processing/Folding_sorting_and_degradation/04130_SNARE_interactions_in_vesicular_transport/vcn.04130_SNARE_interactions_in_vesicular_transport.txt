@@ -1,0 +1,24 @@
+VOLCADRAFT_89085  
+syp1; Qa-SNARE, Sso1/Syntaxin1-type [KO:K08486]
+VOLCADRAFT_103767  
+syp4; Qa-SNARE, Tlg2/Syntaxin16-family [KO:K08489]
+VOLCADRAFT_81752  
+syp3; Qa-SNARE, Sed5/Syntaxin5-family [KO:K08490]
+VOLCADRAFT_80588  
+vti1; Qb-SNARE, VTI1-family [KO:K08493]
+VOLCADRAFT_108196  
+gos1; Qb-SNARE, Gos1/GS28-family [KO:K08495]
+VOLCADRAFT_104271  
+memb1; Qb-SNARE, Bos1/Membrin family [KO:K08496]
+VOLCADRAFT_91993  
+syp5; Qc-SNARE, Syn8/Syntaxin8-family [KO:K08503]
+VOLCADRAFT_120875  
+bet1; Qc-SNARE, Bet1/mBET1 family [KO:K08504]
+VOLCADRAFT_70298  
+vamp72; hypothetical protein [KO:K08515]
+VOLCADRAFT_54976  
+vamp75; hypothetical protein [KO:K08515]
+VOLCADRAFT_75062  
+ykt6; hypothetical protein [KO:K08516]
+VOLCADRAFT_80612  
+sec22; R-SNARE, Sec22-family [KO:K08517]

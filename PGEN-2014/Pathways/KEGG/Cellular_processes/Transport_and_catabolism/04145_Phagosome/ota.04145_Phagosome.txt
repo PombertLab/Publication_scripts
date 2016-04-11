@@ -1,0 +1,50 @@
+Ot12g01200  
+syntaxin (ISS); K08488 syntaxin 7 [KO:K08488]
+Ot09g02270  
+SY81_ARATH Syntaxin 81 (ISS); K08492 syntaxin 18 [KO:K08492]
+Ot14g03310  
+putative vesicle transport protein (ISS); K08517 vesicle transport protein SEC22 [KO:K08517]
+Ot03g01870  
+phosphatidylinositol 3-kinase (ISS); K00914 phosphatidylinositol 3-kinase [EC:2.7.1.137] [KO:K00914] [EC:2.7.1.137]
+Ot10g00840  
+putative vacuolar ATPase B subunit [Oryza sativa (ISS); K02147 V-type H+-transporting ATPase subunit B [EC:3.6.3.14] [KO:K02147] [EC:3.6.3.14]
+Ot07g04010  
+putative vacuolar ATP synthase subunit C (ISS); K02148 V-type H+-transporting ATPase subunit C [EC:3.6.3.14] [KO:K02148] [EC:3.6.3.14]
+Ot11g02940  
+Vacuolar H+-ATPase V1 sector; K02149 V-type H+-transporting ATPase subunit D [EC:3.6.3.14] [KO:K02149] [EC:3.6.3.14]
+Ot04g02910  
+putative Vacuolar ATP synthase subunit F (ISS); K02151 V-type H+-transporting ATPase subunit F [EC:3.6.3.14] [KO:K02151] [EC:3.6.3.14]
+Ot08g03920  
+putative vacuolar proton-ATPase subunit (ISS); K02154 V-type H+-transporting ATPase subunit I [EC:3.6.3.14] [KO:K02154] [EC:3.6.3.14]
+Ot02g04450  
+vaoD; VaoD vacuolar ATP synthase subunit D, probable (IC) [KO:K02146] [EC:3.6.3.14]
+Ot05g04010  
+putative vacuolar ATPase subunit H protein (ISS); K02144 V-type H+-transporting ATPase 54 kD subunit [EC:3.6.3.14] [KO:K02144] [EC:3.6.3.14]
+Ot02g03720  
+vatL; VatL vacuolar type H+-ATPase proteolipid subunit (IC) [KO:K02155] [EC:3.6.3.14]
+Ot07g02040  
+vacuolar ATPase subunit c (ISS); K02155 V-type H+-transporting ATPase 16kDa proteolipid subunit [EC:3.6.3.14] [KO:K02155] [EC:3.6.3.14]
+Ot01g02710  
+vacuolar H+-exporting ATPase chain c.PPA1-like (ISS); K03661 V-type H+-transporting ATPase 21kDa proteolipid subunit [EC:3.6.3.14] [KO:K03661] [EC:3.6.3.14]
+Ot04g01900  
+rab7; possible apospory-associated protein (ISS) [KO:K07897]
+Ot06g04800  
+DY1A; Dynein 1-alpha heavy chain, flagellar inner arm (IC) [KO:K10413]
+Ot08g03630  
+TBA_CHLVU Tubulin alpha chain (ISS); K07374 tubulin alpha [KO:K07374]
+Ot12g01390  
+TBA_CHLVU Tubulin alpha chain (ISS); K07374 tubulin alpha [KO:K07374]
+Ot01g02190  
+TBB1_VOLCA Tubulin beta chain (ISS); K07375 tubulin beta [KO:K07375]
+Ot01g04230  
+TBB1_VOLCA Tubulin beta chain (ISS); K07375 tubulin beta [KO:K07375]
+Ot19g00930  
+hypothetical protein; K01365 cathepsin L [EC:3.4.22.15] [KO:K01365] [EC:3.4.22.15]
+Ot12g01780  
+cysteine protease-1 (ISS); K01365 cathepsin L [EC:3.4.22.15] [KO:K01365] [EC:3.4.22.15]
+Ot15g02090  
+putative Sec61 alpha form 2 [Oryza sativa (ISS); K10956 protein transport protein SEC61 subunit alpha [KO:K10956]
+Ot01g04130  
+protein transport protein subunit-like (ISS); K09481 protein transport protein SEC61 subunit beta [KO:K09481]
+Ot06g03220  
+Rac3 (ISS); K04392 Ras-related C3 botulinum toxin substrate 1 [KO:K04392]

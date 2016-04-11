@@ -1,0 +1,30 @@
+OSTLU_19676  
+hypothetical protein; K00860 adenylylsulfate kinase [EC:2.7.1.25] [KO:K00860] [EC:2.7.1.25]
+OSTLU_37879  
+ATS1; ATP sulfurylase (sulfate adenylyltransferase) [KO:K00958] [EC:2.7.7.4]
+OSTLU_4650  
+hypothetical protein; K01082 3'(2'), 5'-bisphosphate nucleotidase [EC:3.1.3.7] [KO:K01082] [EC:3.1.3.7]
+OSTLU_4881  
+hypothetical protein; K01082 3'(2'), 5'-bisphosphate nucleotidase [EC:3.1.3.7] [KO:K01082] [EC:3.1.3.7]
+OSTLU_32551  
+hypothetical protein; K01014 aryl sulfotransferase [EC:2.8.2.1] [KO:K01014] [EC:2.8.2.1]
+OSTLU_3554  
+hypothetical protein; K00387 sulfite oxidase [EC:1.8.3.1] [KO:K00387] [EC:1.8.3.1]
+OSTLU_25282  
+SIR1; sulfite reductase [KO:K00392] [EC:1.8.7.1]
+OSTLU_88245  
+CBL1; cystathione beta lyase [KO:K01760] [EC:4.4.1.8]
+OSTLU_17120  
+CGS2; putative 2nd cystathione gamma synthase [KO:K01739] [EC:2.5.1.48]
+OSTLU_33390  
+CGS1; cystathione gamma synthase [KO:K01739] [EC:2.5.1.48]
+OSTLU_10204  
+hypothetical protein; K00641 homoserine O-acetyltransferase [EC:2.3.1.31] [KO:K00641] [EC:2.3.1.31]
+OSTLU_5580  
+hypothetical protein; K00640 serine O-acetyltransferase [EC:2.3.1.30] [KO:K00640] [EC:2.3.1.30]
+OSTLU_87889  
+SAT1; serine acetyl transferase [KO:K00640] [EC:2.3.1.30]
+OSTLU_41218  
+hypothetical protein; K01738 cysteine synthase A [EC:2.5.1.47] [KO:K01738] [EC:2.5.1.47]
+OSTLU_26961  
+OASTL1; O-acetylserinethiol lyase/cysteine synthase [KO:K01738] [EC:2.5.1.47]

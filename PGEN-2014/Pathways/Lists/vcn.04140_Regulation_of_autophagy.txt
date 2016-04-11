@@ -1,0 +1,16 @@
+VOLCADRAFT_98607  
+hypothetical protein; K07198 5'-AMP-activated protein kinase, catalytic alpha subunit [EC:2.7.11.11] [KO:K07198] [EC:2.7.11.11]
+VOLCADRAFT_58372  
+hypothetical protein; K08269 unc51-like kinase [EC:2.7.11.1] [KO:K08269] [EC:2.7.11.1]
+VOLCADRAFT_41528  
+hypothetical protein; K08332 vacuolar protein 8 [KO:K08332]
+VOLCADRAFT_62105  
+apg6; autophagy protein [KO:K08334]
+VOLCADRAFT_40672  
+hypothetical protein; K00914 phosphatidylinositol 3-kinase [EC:2.7.1.137] [KO:K00914] [EC:2.7.1.137]
+VOLCADRAFT_61702  
+apg7; ubiquitin activating E1 enzyme-like protein [KO:K08337]
+VOLCADRAFT_75248  
+apg8; autophagy protein [KO:K08341]
+VOLCADRAFT_93228  
+apg3; autophagy protein [KO:K08343]

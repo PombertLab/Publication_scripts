@@ -1,0 +1,10 @@
+VOLCADRAFT_84379  
+hypothetical protein; K01074 palmitoyl-protein thioesterase [EC:3.1.2.22] [KO:K01074] [EC:3.1.2.22]
+VOLCADRAFT_109539  
+hypothetical protein; K15397 3-ketoacyl-CoA synthase [EC:2.3.1.199] [KO:K15397] [EC:2.3.1.199]
+VOLCADRAFT_83422  
+hypothetical protein; K10703 very-long-chain (3R)-3-hydroxyacyl-[acyl-carrier protein] dehydratase [EC:4.2.1.134] [KO:K10703] [EC:4.2.1.134]
+VOLCADRAFT_61480  
+hypothetical protein; K10703 very-long-chain (3R)-3-hydroxyacyl-[acyl-carrier protein] dehydratase [EC:4.2.1.134] [KO:K10703] [EC:4.2.1.134]
+VOLCADRAFT_72272  
+hypothetical protein; K10258 very-long-chain enoyl-CoA reductase [EC:1.3.1.93] [KO:K10258] [EC:1.3.1.93]

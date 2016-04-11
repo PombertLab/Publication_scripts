@@ -1,0 +1,10 @@
+VOLCADRAFT_82929  
+ast1; aspartate aminotransferase [KO:K14454] [EC:2.6.1.1]
+VOLCADRAFT_81153  
+ast3; aspartate aminotransferase [KO:K00811] [EC:2.6.1.1]
+VOLCADRAFT_103084  
+hypothetical protein; K15849 bifunctional aspartate aminotransferase and glutamate/aspartate-prephenate aminotransferase [EC:2.6.1.1 2.6.1.78 2.6.1.79] [KO:K15849] [EC:2.6.1.79 2.6.1.78 2.6.1.1]
+VOLCADRAFT_60905  
+hypothetical protein; K00274 monoamine oxidase [EC:1.4.3.4] [KO:K00274] [EC:1.4.3.4]
+VOLCADRAFT_84774  
+amx1; copper amine oxidase [KO:K00276] [EC:1.4.3.21]

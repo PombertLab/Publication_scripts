@@ -1,0 +1,42 @@
+Ot07g04550  
+serine acetyl transferase (ISS); K00640 serine O-acetyltransferase [EC:2.3.1.30] [KO:K00640] [EC:2.3.1.30]
+Ot06g04880  
+Cystathionine beta-synthase and related enzymes (ISS); K01738 cysteine synthase A [EC:2.5.1.47] [KO:K01738] [EC:2.5.1.47]
+Ot12g03090  
+plastidic cysteine synthase 1 (ISS); K01738 cysteine synthase A [EC:2.5.1.47] [KO:K01738] [EC:2.5.1.47]
+Ot09g02610  
+putative cystathionine beta-lyase precursor CBL (ISS); K01760 cystathionine beta-lyase [EC:4.4.1.8] [KO:K01760] [EC:4.4.1.8]
+Ot03g04540  
+cobalamin-dependent methionine synthase (ISS); K00548 5-methyltetrahydrofolate--homocysteine methyltransferase [EC:2.1.1.13] [KO:K00548] [EC:2.1.1.13]
+Ot15g00960  
+S-adenosylmethionine synthetase (ISS); K00789 S-adenosylmethionine synthetase [EC:2.5.1.6] [KO:K00789] [EC:2.5.1.6]
+Ot13g00890  
+S-adenosylmethionine decarboxylase (ISS); K01611 S-adenosylmethionine decarboxylase [EC:4.1.1.50] [KO:K01611] [EC:4.1.1.50]
+Ot11g01200  
+spermidine synthase 1 (ISS); K00797 spermidine synthase [EC:2.5.1.16] [KO:K00797] [EC:2.5.1.16]
+Ot06g00700  
+putative spermine synthase (ISS); K00797 spermidine synthase [EC:2.5.1.16] [KO:K00797] [EC:2.5.1.16]
+Ot10g02700  
+putative protein (ISS); K01244 5'-methylthioadenosine nucleosidase [EC:3.2.2.16] [KO:K01244] [EC:3.2.2.16]
+Ot07g02130  
+methylthioribose kinase (ISS); K00899 5-methylthioribose kinase [EC:2.7.1.100] [KO:K00899] [EC:2.7.1.100]
+Ot01g04390  
+LOC443707 protein (ISS); K00815 tyrosine aminotransferase [EC:2.6.1.5] [KO:K00815] [EC:2.6.1.5]
+Ot09g02640  
+SAHH_PETCR Adenosylhomocysteinase (ISS); K01251 adenosylhomocysteinase [EC:3.3.1.1] [KO:K01251] [EC:3.3.1.1]
+Ot01g01590  
+putative precursor monofunctional aspartokina (ISS); K00928 aspartate kinase [EC:2.7.2.4] [KO:K00928] [EC:2.7.2.4]
+Ot09g03610  
+Identical to gb|X71364 gene for aspartate kinas (ISS); K12524 bifunctional aspartokinase / homoserine dehydrogenase 1 [EC:2.7.2.4 1.1.1.3] [KO:K12524] [EC:1.1.1.3 2.7.2.4]
+Ot01g02440  
+Mitochondrial FAD carrier protein (ISS); K00133 aspartate-semialdehyde dehydrogenase [EC:1.2.1.11] [KO:K00133] [EC:1.2.1.11]
+Ot09g01000  
+O-succinylhomoserine (ISS); K01739 cystathionine gamma-synthase [EC:2.5.1.48] [KO:K01739] [EC:2.5.1.48]
+Ot05g02360  
+Homoserine O-acetyltransferase (ISS); K00641 homoserine O-acetyltransferase [EC:2.3.1.31] [KO:K00641] [EC:2.3.1.31]
+Ot15g00800  
+Cystathionine beta-lyases/cystathionine gamma-synthases (ISS); K01740 O-acetylhomoserine (thiol)-lyase [EC:2.5.1.49] [KO:K01740] [EC:2.5.1.49]
+Ot05g01290  
+AAT; Aspartate aminotransferase, likely mitochondrial [Precursor] (IC) [KO:K14455] [EC:2.6.1.1]
+Ot15g00100  
+Mercaptopyruvate sulfurtransferase/thiosulfate sulfurtransferase (ISS); K01011 thiosulfate/3-mercaptopyruvate sulfurtransferase [EC:2.8.1.1 2.8.1.2] [KO:K01011] [EC:2.8.1.2 2.8.1.1]

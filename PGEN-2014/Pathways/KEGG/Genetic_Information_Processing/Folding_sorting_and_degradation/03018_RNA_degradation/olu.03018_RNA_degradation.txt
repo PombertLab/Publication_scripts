@@ -1,0 +1,100 @@
+OSTLU_34772  
+hypothetical protein; K12584 scavenger mRNA-decapping enzyme DcpS [EC:3.-.-.-] [KO:K12584] [EC:3.-.-.-]
+OSTLU_8172  
+hypothetical protein; K07573 exosome complex component CSL4 [KO:K07573]
+OSTLU_38656  
+hypothetical protein; K03679 exosome complex component RRP4 [KO:K03679]
+OSTLU_43971  
+hypothetical protein; K12585 exosome complex exonuclease DIS3/RRP44 [EC:3.1.13.-] [KO:K12585] [EC:3.1.13.-]
+OSTLU_30583  
+hypothetical protein; K12586 exosome complex component RRP43 [KO:K12586]
+OSTLU_92599  
+hypothetical protein; K11600 exosome complex component RRP41 [KO:K11600]
+OSTLU_14569  
+hypothetical protein; K12590 exosome complex component RRP46 [KO:K12590]
+OSTLU_5981  
+hypothetical protein; K03678 exosome complex component RRP45 [KO:K03678]
+OSTLU_39090  
+hypothetical protein; K12591 exosome complex exonuclease RRP6 [EC:3.1.13.-] [KO:K12591] [EC:3.1.13.-]
+OSTLU_14690  
+hypothetical protein; K12592 exosome complex protein LRP1 [KO:K12592]
+OSTLU_2530  
+hypothetical protein; K03514 DNA polymerase sigma [EC:2.7.7.7] [KO:K03514] [EC:2.7.7.7]
+OSTLU_49799  
+hypothetical protein; K12598 ATP-dependent RNA helicase DOB1 [EC:3.6.4.13] [KO:K12598] [EC:3.6.4.13]
+OSTLU_50379  
+hypothetical protein; K12598 ATP-dependent RNA helicase DOB1 [EC:3.6.4.13] [KO:K12598] [EC:3.6.4.13]
+OSTLU_805  
+hypothetical protein; K12599 antiviral helicase SKI2 [EC:3.6.4.-] [KO:K12599] [EC:3.6.4.-]
+OSTLU_27846  
+hypothetical protein; K12600 superkiller protein 3 [KO:K12600]
+OSTLU_26071  
+hypothetical protein; K12603 CCR4-NOT transcription complex subunit 6 [KO:K12603]
+OSTLU_37824  
+hypothetical protein; K12603 CCR4-NOT transcription complex subunit 6 [KO:K12603]
+OSTLU_32751  
+hypothetical protein; K12604 CCR4-NOT transcription complex subunit 1 [KO:K12604]
+OSTLU_8137  
+hypothetical protein; K12605 CCR4-NOT transcription complex subunit 2 [KO:K12605]
+OSTLU_43913  
+hypothetical protein; K10643 CCR4-NOT transcription complex subunit 4 [EC:6.3.2.19] [KO:K10643] [EC:6.3.2.19]
+OSTLU_119612  
+Caf1; polyA tail-shortening ribonuclease, probable [KO:K12581]
+OSTLU_31046  
+hypothetical protein; K12606 CCR4-NOT transcription complex subunit 9 [KO:K12606]
+OSTLU_40034  
+ABC(ATP-binding) family transporter; K12608 CCR4-NOT complex subunit CAF16 [KO:K12608]
+OSTLU_36765  
+ABC(ATP-binding) family transporter: iron compound; K12608 CCR4-NOT complex subunit CAF16 [KO:K12608]
+OSTLU_94637  
+ABC(ATP-binding) family transporter: iron compound; K12608 CCR4-NOT complex subunit CAF16 [KO:K12608]
+OSTLU_193  
+hypothetical protein; K14442 ATP-dependent RNA helicase DHX36 [EC:3.6.4.13] [KO:K14442] [EC:3.6.4.13]
+OSTLU_50098  
+hypothetical protein; K13126 polyadenylate-binding protein [KO:K13126]
+OSTLU_6791  
+hypothetical protein; K12571 PAB-dependent poly(A)-specific ribonuclease subunit 2 [EC:3.1.13.4] [KO:K12571] [EC:3.1.13.4]
+OSTLU_5662  
+hypothetical protein; K12613 mRNA-decapping enzyme subunit 2 [EC:3.6.1.62] [KO:K12613] [EC:3.6.1.62]
+OSTLU_49732  
+hypothetical protein; K12614 ATP-dependent RNA helicase DDX6/DHH1 [EC:3.6.4.13] [KO:K12614] [EC:3.6.4.13]
+OSTLU_119295  
+Tdc; transducin / WD-40 repeat protein, putative [KO:K12616]
+OSTLU_88475  
+hypothetical protein; K12617 DNA topoisomerase 2-associated protein PAT1 [KO:K12617]
+OSTLU_41082  
+hypothetical protein; K12618 5'-3' exoribonuclease 1 [EC:3.1.13.-] [KO:K12618] [EC:3.1.13.-]
+OSTLU_18607  
+hypothetical protein; K12618 5'-3' exoribonuclease 1 [EC:3.1.13.-] [KO:K12618] [EC:3.1.13.-]
+OSTLU_526  
+hypothetical protein; K12619 5'-3' exoribonuclease 2 [EC:3.1.13.-] [KO:K12619] [EC:3.1.13.-]
+OSTLU_39384  
+hypothetical protein; K12620 U6 snRNA-associated Sm-like protein LSm1 [KO:K12620]
+OSTLU_28777  
+hypothetical protein; K12621 U6 snRNA-associated Sm-like protein LSm2 [KO:K12621]
+OSTLU_43771  
+hypothetical protein; K12622 U6 snRNA-associated Sm-like protein LSm3 [KO:K12622]
+OSTLU_12601  
+hypothetical protein; K12623 U6 snRNA-associated Sm-like protein LSm4 [KO:K12623]
+OSTLU_32713  
+hypothetical protein; K12624 U6 snRNA-associated Sm-like protein LSm5 [KO:K12624]
+OSTLU_42488  
+hypothetical protein; K12626 U6 snRNA-associated Sm-like protein LSm7 [KO:K12626]
+OSTLU_32889  
+hypothetical protein; K12627 U6 snRNA-associated Sm-like protein LSm8 [KO:K12627]
+OSTLU_26314  
+hypothetical protein; K08311 putative (di)nucleoside polyphosphate hydrolase [EC:3.6.1.-] [KO:K08311] [EC:3.6.1.-]
+OSTLU_28765  
+hypothetical protein; K01689 enolase [EC:4.2.1.11] [KO:K01689] [EC:4.2.1.11]
+OSTLU_34347  
+hypothetical protein; K00962 polyribonucleotide nucleotidyltransferase [EC:2.7.7.8] [KO:K00962] [EC:2.7.7.8]
+OSTLU_12216  
+hypothetical protein; K00962 polyribonucleotide nucleotidyltransferase [EC:2.7.7.8] [KO:K00962] [EC:2.7.7.8]
+OSTLU_36797  
+hypothetical protein; K03654 ATP-dependent DNA helicase RecQ [EC:3.6.4.12] [KO:K03654] [EC:3.6.4.12]
+OSTLU_25997  
+CPN60C; chaperonin 60, mitochondrial [KO:K04077]
+OSTLU_32642  
+CPN60B; chaperonin 60 beta chain, chloroplast [KO:K04077]
+OSTLU_39859  
+hypothetical protein; K00937 polyphosphate kinase [EC:2.7.4.1] [KO:K00937] [EC:2.7.4.1]

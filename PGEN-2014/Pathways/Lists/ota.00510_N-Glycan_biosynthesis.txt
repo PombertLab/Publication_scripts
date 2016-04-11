@@ -1,0 +1,26 @@
+Ot13g00590  
+putative U (ISS); K01001 UDP-N-acetylglucosamine--dolichyl-phosphate N-acetylglucosaminephosphotransferase [EC:2.7.8.15] [KO:K01001] [EC:2.7.8.15]
+Ot10g00370  
+glycosyltransferase 28 domain containing 1 (ISS); K07432 beta-1,4-N-acetylglucosaminyltransferase [EC:2.4.1.141] [KO:K07432] [EC:2.4.1.141]
+Ot07g04460  
+Dolichol-phosphate mannosyltransferase (ISS); K00721 dolichol-phosphate mannosyltransferase [EC:2.4.1.83] [KO:K00721] [EC:2.4.1.83]
+Ot02g04140  
+hypothetical protein; K09658 dolichyl-phosphate mannosyltransferase polypeptide 2, regulatory subunit [KO:K09658]
+Ot16g02160  
+Beta-1; K03842 beta-1,4-mannosyltransferase [EC:2.4.1.142] [KO:K03842] [EC:2.4.1.142]
+Ot02g01680  
+glycosyl transferase family 1 protein (ISS); K03843 alpha-1,3/alpha-1,6-mannosyltransferase [EC:2.4.1.132 2.4.1.257] [KO:K03843] [EC:2.4.1.257 2.4.1.132]
+Ot04g01520  
+nuclear division RFT1-like protein (ISS); K06316 oligosaccharidyl-lipid flippase family [KO:K06316]
+Ot04g01190  
+disrupted in bipolar disorder 1 (ISS); K03846 alpha-1,2-mannosyltransferase [EC:2.4.1.259 2.4.1.261] [KO:K03846] [EC:2.4.1.261 2.4.1.259]
+Ot14g02910  
+GPI-alpha-mannosyltransferase III (GPI10/PIG-B) involved in glycosylphosphatidylinositol anchor biosynthesis (ISS); K03847 alpha-1,6-mannosyltransferase [EC:2.4.1.260] [KO:K03847] [EC:2.4.1.260]
+Ot05g02940  
+oligosaccharyl transferase subunit; K07151 dolichyl-diphosphooligosaccharide--protein glycosyltransferase [EC:2.4.99.18] [KO:K07151] [EC:2.4.99.18]
+Ot10g00830  
+putative protein (ISS); K07252 dolichyldiphosphatase [EC:3.6.1.43] [KO:K07252] [EC:3.6.1.43]
+Ot08g02780  
+alpha glucosidase II (ISS); K05546 alpha 1,3-glucosidase [EC:3.2.1.84] [KO:K05546] [EC:3.2.1.84]
+Ot16g01030  
+Glycosyl hydrolase; K01230 mannosyl-oligosaccharide alpha-1,2-mannosidase [EC:3.2.1.113] [KO:K01230] [EC:3.2.1.113]

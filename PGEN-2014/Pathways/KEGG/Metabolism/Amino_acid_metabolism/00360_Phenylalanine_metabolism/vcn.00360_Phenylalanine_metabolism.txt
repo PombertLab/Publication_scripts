@@ -1,0 +1,16 @@
+VOLCADRAFT_96350  
+hypothetical protein; K00500 phenylalanine-4-hydroxylase [EC:1.14.16.1] [KO:K00500] [EC:1.14.16.1]
+VOLCADRAFT_84774  
+amx1; copper amine oxidase [KO:K00276] [EC:1.4.3.21]
+VOLCADRAFT_60905  
+hypothetical protein; K00274 monoamine oxidase [EC:1.4.3.4] [KO:K00274] [EC:1.4.3.4]
+VOLCADRAFT_82929  
+ast1; aspartate aminotransferase [KO:K14454] [EC:2.6.1.1]
+VOLCADRAFT_81153  
+ast3; aspartate aminotransferase [KO:K00811] [EC:2.6.1.1]
+VOLCADRAFT_103084  
+hypothetical protein; K15849 bifunctional aspartate aminotransferase and glutamate/aspartate-prephenate aminotransferase [EC:2.6.1.1 2.6.1.78 2.6.1.79] [KO:K15849] [EC:2.6.1.79 2.6.1.78 2.6.1.1]
+VOLCADRAFT_109854  
+hypothetical protein; K00817 histidinol-phosphate aminotransferase [EC:2.6.1.9] [KO:K00817] [EC:2.6.1.9]
+VOLCADRAFT_62773  
+4-hydroxyphenylpyruvate dioxygenase; K00457 4-hydroxyphenylpyruvate dioxygenase [EC:1.13.11.27] [KO:K00457] [EC:1.13.11.27]

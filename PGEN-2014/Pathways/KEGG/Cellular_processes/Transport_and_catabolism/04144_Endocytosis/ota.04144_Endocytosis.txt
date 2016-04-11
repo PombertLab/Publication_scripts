@@ -1,0 +1,44 @@
+Ot01g03700  
+Vacuolar sorting protein VPS1; K01528 dynamin GTPase [EC:3.6.5.5] [KO:K01528] [EC:3.6.5.5]
+Ot07g03990  
+phosphatidylinositol-4-phosphate 5-kinase (ISS); K00889 1-phosphatidylinositol-4-phosphate 5-kinase [EC:2.7.1.68] [KO:K00889] [EC:2.7.1.68]
+Ot01g01830  
+clathrin heavy chain; K04646 clathrin heavy chain [KO:K04646]
+Ot13g02690  
+adaptin family protein (ISS); K11824 AP-2 complex subunit alpha [KO:K11824]
+Ot16g02460  
+clathrin adaptor complexes medium subunit family protein (ISS); K11826 AP-2 complex subunit mu-1 [KO:K11826]
+Ot17g02270  
+putative hsp70 (ISS); K03283 heat shock 70kDa protein 1/8 [KO:K03283]
+Ot06g00920  
+Hsp70 chaperone (ISS); K03283 heat shock 70kDa protein 1/8 [KO:K03283]
+Ot04g01900  
+rab7; possible apospory-associated protein (ISS) [KO:K07897]
+Ot03g00280  
+putative human tumor susceptibility gene-like protein (ISS); K12183 ESCRT-I complex subunit TSG101 [KO:K12183]
+Ot01g04350  
+Vacuolar sorting protein VPS28 (ISS); K12184 ESCRT-I complex subunit VPS28 [KO:K12184]
+Ot08g00600  
+SNF8 like protein (ISS); K12188 ESCRT-II complex subunit VPS22 [KO:K12188]
+Ot13g01640  
+Vacuolar sorting protein VPS36 (ISS); K12190 ESCRT-II complex subunit VPS36 [KO:K12190]
+Ot14g00540  
+hypothetical protein; K12189 ESCRT-II complex subunit VPS25 [KO:K12189]
+Ot17g02290  
+B1008E06.13 gene product (ISS); K12194 charged multivesicular body protein 4 [KO:K12194]
+Ot12g01995  
+CHM2A; charged multivesicular body protein 2a (IC) [KO:K12191]
+Ot10g00630  
+AAA+-type ATPase (ISS); K12196 vacuolar protein-sorting-associated protein 4 [KO:K12196]
+Ot15g01900  
+putative LYST-interacting protein LIP5 [Oryza sativa (ISS); K12199 vacuolar protein sorting-associated protein VTA1 [KO:K12199]
+Ot04g02700  
+Protein involved in vacuolar protein sorting (ISS); K12198 charged multivesicular body protein 5 [KO:K12198]
+Ot12g01120  
+ALG2-interacting protein X (ISS); K12200 programmed cell death 6-interacting protein [KO:K12200]
+Ot04g00850  
+putative vacuolar protein sorting homolog (ISS); K12479 vacuolar protein sorting-associated protein 45 [KO:K12479]
+Ot01g05310  
+putative zinc finger protein (ISS); K12486 stromal membrane-associated protein [KO:K12486]
+Ot05g00660  
+putative ADP ribosylation factor 1 GTPase activatin (ISS); K12492 ADP-ribosylation factor GTPase-activating protein 1 [KO:K12492]

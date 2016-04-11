@@ -1,0 +1,166 @@
+ChrepMp07  
+nad1; NADH dehydrogenase subunit 1 [KO:K03878] [EC:1.6.5.3]
+ChrepMp05  
+nad2; NADH dehydrogenase subunit 2 [KO:K03879] [EC:1.6.5.3]
+CHLREDRAFT_24195  
+NUO3; NADH:ubiquinone oxidoreductase ND3 subunit [KO:K03880] [EC:1.6.5.3]
+ChrepMp02  
+nad4; NADH dehydrogenase subunit 4 [KO:K03881] [EC:1.6.5.3]
+ChrepMp03  
+nad5; NADH dehydrogenase subunit 5 [KO:K03883] [EC:1.6.5.3]
+ChrepMp06  
+nad6; NADH dehydrogenase subunit 6 [KO:K03884] [EC:1.6.5.3]
+CHLREDRAFT_79362  
+NUOS1; NADH:ubiquinone oxidoreductase 76 kDa subunit [KO:K03934] [EC:1.6.99.3 1.6.5.3]
+CHLREDRAFT_185013  
+NUO7; NADH:ubiquinone oxidoreductase 49 kDa ND7 subunit [KO:K03935] [EC:1.6.99.3 1.6.5.3]
+CHLREDRAFT_182980  
+NUO9; NADH:ubiquinone oxidoreductase ND9 subunit [KO:K03936] [EC:1.6.99.3 1.6.5.3]
+CHLREDRAFT_184606  
+NUOS4; NADH:ubiquinone oxidoreductase 18 kDa subunit [KO:K03937] [EC:1.6.99.3 1.6.5.3]
+CHLREDRAFT_135635  
+NUOS5; NADH:ubiquinone oxidoreductase 10 kDa subunit [KO:K03938] [EC:1.6.99.3 1.6.5.3]
+CHLREDRAFT_139850  
+NUO10; NADH:ubiquinone oxidoreductase subunit 10 [KO:K03940] [EC:1.6.99.3 1.6.5.3]
+CHLREDRAFT_132909  
+NUO8; NADH:ubiquinone oxidoreductase subunit 8 [KO:K03941] [EC:1.6.99.3 1.6.5.3]
+CHLREDRAFT_186342  
+NUO6; NADH:ubiquinone oxidoreductase 51 kDa subunit [KO:K03942] [EC:1.6.99.3 1.6.5.3]
+CHLREDRAFT_127317  
+NUO5; NADH:ubiquinone oxidoreductase 24 kDa subunit [KO:K03943] [EC:1.6.99.3 1.6.5.3]
+CHLREDRAFT_149240  
+NUOB8; NADH:ubiquinone oxidoreductase 11 kDa subunit [KO:K03946] [EC:1.6.99.3 1.6.5.3]
+CHLREDRAFT_127639  
+NUOB13; NADH:ubiquinone oxidoreductase 18 kDa subunit [KO:K03949] [EC:1.6.99.3 1.6.5.3]
+CHLREDRAFT_57090  
+NUOB14; NADH:ubiquinone oxidoreductase B14 subunit [KO:K03950] [EC:1.6.99.3 1.6.5.3]
+CHLREDRAFT_59411  
+NUOA8; NADH:ubiquinone oxidoreductase 12.5 kDa subunit [KO:K03952] [EC:1.6.99.3 1.6.5.3]
+CHLREDRAFT_186185  
+NUOA9; NADH:ubiquinone oxidoreductase 39 kDa subunit [KO:K03953] [EC:1.6.99.3 1.6.5.3]
+CHLREDRAFT_132151  
+ACP1; acyl-carrier protein [KO:K03955] [EC:1.6.99.3 1.6.5.3]
+CHLREDRAFT_193762  
+NUO13; NADH:ubiquinone oxidoreductase 18 kDa subunit [KO:K11352] [EC:1.6.99.3 1.6.5.3]
+CHLREDRAFT_194458  
+NUOB16; NADH:ubiquinone oxidoreductase B16.6 subunit [KO:K11353] [EC:1.6.99.3 1.6.5.3]
+CHLREDRAFT_164272  
+NUOB18; NADH:ubiquinone oxidoreductase 10 kDa subunit [KO:K03963] [EC:1.6.99.3 1.6.5.3]
+CHLREDRAFT_164424  
+NUOB22; NADH:ubiquinone oxidoreductase 14 kDa subunit [KO:K03965] [EC:1.6.99.3 1.6.5.3]
+CHLREDRAFT_189359  
+NDA5; type-II NADH dehydrogenase [KO:K03885] [EC:1.6.99.3]
+CHLREDRAFT_195719  
+NDA1; mitochondrial type-II NADH dehydrogenase [KO:K03885] [EC:1.6.99.3]
+CHLREDRAFT_195711  
+NDA3; mitochondrial NADH dehydrogenase [KO:K03885] [EC:1.6.99.3]
+CHLREDRAFT_133334  
+NDA2; type-II calcium-dependent NADH dehydrogenase [KO:K03885] [EC:1.6.99.3]
+CHLREDRAFT_195641  
+SDH3; succinate dehydrogenase subunit b560 [KO:K00236]
+CHLREDRAFT_195972  
+SDH1; succinate dehydrogenase subunit A [KO:K00234] [EC:1.3.5.1]
+CHLREDRAFT_142231  
+SDH2; iron-sulfur subunit of mitochondrial succinate dehydrogenase [KO:K00235] [EC:1.3.5.1]
+CHLREDRAFT_129128  
+RIP1; rieske iron-sulfur protein of mitochondrial ubiquinol-cytochrome c reductase [KO:K00411] [EC:1.10.2.2]
+CHLREDRAFT_109194  
+hypothetical protein; K00411 ubiquinol-cytochrome c reductase iron-sulfur subunit [EC:1.10.2.2] [KO:K00411] [EC:1.10.2.2]
+ChrepMp01  
+cob; cytochrome b [KO:K00412]
+CHLREDRAFT_133395  
+CYC1; ubiquinol:cytochrome c oxidoreductase cytochrome c1 [KO:K00413]
+CHLREDRAFT_81617  
+QCR6; ubiquinol:cytochrome c oxidoreductase 8 kDa subunit [KO:K00416]
+CHLREDRAFT_77031  
+QCR7; ubiquinol:cytochrome c oxidoreductase 14 kDa subunit [KO:K00417]
+CHLREDRAFT_159566  
+QCR9; ubiquinol:cytochrome c oxidoreductase 7 kDa subunit [KO:K00419]
+CHLREDRAFT_123320  
+COX10; cytochrome c oxidase assembly protein [KO:K02257] [EC:2.5.1.-]
+ChrepMp04  
+cox1; cytochrome oxidase subunit 1 [KO:K02256] [EC:1.9.3.1]
+CHLREDRAFT_190125  
+COX2B; cytochrome c oxidase subunit II, protein IIb of split subunit [KO:K02261]
+CHLREDRAFT_195712  
+COX12; mitochondrial cytochrome c oxidase subunit [KO:K02267]
+CHLREDRAFT_195707  
+COX11; cytochrome c oxidase assembly protein [KO:K02258]
+CHLREDRAFT_111563  
+COX15; cytochrome c oxidase assembly factor [KO:K02259]
+CHLREDRAFT_154148  
+COX17; cytochrome c oxidase assembly protein [KO:K02260]
+ChreCp023  
+atpE; ATP synthase epsilon chain [KO:K02114] [EC:3.6.3.14]
+ChreCp058  
+atpB; ATPase beta chain [KO:K02112] [EC:3.6.3.14]
+CHLREDRAFT_134235  
+ATPC; chloroplast ATP synthase gamma chain [KO:K02115] [EC:3.6.3.14]
+ChreCp050  
+atpA; ATP synthase CF1 alpha chain [KO:K02111] [EC:3.6.3.14]
+CHLREDRAFT_132678  
+ATPD; chloroplast ATP synthase delta chain [KO:K02113] [EC:3.6.3.14]
+CHLREDRAFT_206190  
+ATPG; CF0 ATP synthase subunit II precursor [KO:K02109] [EC:3.6.3.14]
+ChreCp054  
+atpF; ATP synthase CF0 B subunit [KO:K02109] [EC:3.6.3.14]
+ChreCp053  
+atpH; ATPase III subunit [KO:K02110] [EC:3.6.3.14]
+ChreCp062  
+atpI; ATPase IV subunit [KO:K02108] [EC:3.6.3.14]
+CHLREDRAFT_133544  
+ATP15; F1F0 ATP synthase epsilon subunit [KO:K02135] [EC:3.6.3.14]
+CHLREDRAFT_185200  
+ATP4; mitochondrial F1F0 ATP synthase, delta subunit [KO:K02134] [EC:3.6.3.14]
+CHLREDRAFT_78348  
+ATP2; beta subunit of mitochondrial ATP synthase [KO:K02133] [EC:3.6.3.14]
+CHLREDRAFT_194183  
+ATP3; F1F0 ATP synthase gamma subunit [KO:K02136] [EC:3.6.3.14]
+CHLREDRAFT_76602  
+ATP1A; mitochondrial F1F0 ATP synthase, alpha subunit [KO:K02132] [EC:3.6.3.14]
+CHLREDRAFT_191596  
+ATP5; mitochondrial ATP synthase subunit 5, OSCP subunit [KO:K02137] [EC:3.6.3.14]
+CHLREDRAFT_195724  
+ATP9A; F1F0 ATP synthase subunit 9 [KO:K02128] [EC:3.6.3.14]
+CHLREDRAFT_195725  
+ATP9B; F1F0 ATP synthase subunit 9 [KO:K02128] [EC:3.6.3.14]
+CHLREDRAFT_135171  
+ATPvD1; vacuolar H+ ATPase V0 sector, subunit D [KO:K02146] [EC:3.6.3.14]
+CHLREDRAFT_182533  
+ATPvF; vacuolar ATP synthase subunit F [KO:K02151] [EC:3.6.3.14]
+CHLREDRAFT_187322  
+ATPvC; vacuolar H+ ATPase V1 sector, subunit C [KO:K02148] [EC:3.6.3.14]
+CHLREDRAFT_54608  
+ATPvA1; vacuolar ATP synthase, subunit A [KO:K02145] [EC:3.6.3.14]
+CHLREDRAFT_126382  
+ATPvB; vacuolar ATP synthase subunit B [KO:K02147] [EC:3.6.3.14]
+CHLREDRAFT_190371  
+ATPvE; vacuolar ATP synthase subunit E [KO:K02150] [EC:3.6.3.14]
+CHLREDRAFT_134189  
+ATPvL1; vacuolar H(+)-ATPase V0 sector, c/c' subunits [KO:K02155] [EC:3.6.3.14]
+CHLREDRAFT_192558  
+ATPvL2; vacuolar proton-ATPase subunit c'' proteolipid [KO:K03661] [EC:3.6.3.14]
+CHLREDRAFT_115936  
+ATPvA3; vacuolar proton ATPase subunit A [KO:K02154] [EC:3.6.3.14]
+CHLREDRAFT_131895  
+hypothetical protein; K02154 V-type H+-transporting ATPase subunit I [EC:3.6.3.14] [KO:K02154] [EC:3.6.3.14]
+CHLREDRAFT_438  
+ATPvA2; vacuolar proton translocating ATPase subunit A [KO:K02154] [EC:3.6.3.14]
+CHLREDRAFT_191863  
+ATPvD2; vacuolar ATP synthase subunit D [KO:K02149] [EC:3.6.3.14]
+CHLREDRAFT_59366  
+ATPvG; transmembrane ATPase [KO:K02152] [EC:3.6.3.14]
+CHLREDRAFT_129048  
+ATPvH; vacuolar ATP synthase subunit H [KO:K02144] [EC:3.6.3.14]
+CHLREDRAFT_182602  
+PMA2; plasma membrane-type proton ATPase [KO:K01535] [EC:3.6.3.6]
+CHLREDRAFT_38137  
+hypothetical protein; K01535 H+-transporting ATPase [EC:3.6.3.6] [KO:K01535] [EC:3.6.3.6]
+CHLREDRAFT_54949  
+PMH1; plasma membrane hydrogen ATPase [KO:K01535] [EC:3.6.3.6]
+CHLREDRAFT_137778  
+inorganic pyrophosphatase; K01507 inorganic pyrophosphatase [EC:3.6.1.1] [KO:K01507] [EC:3.6.1.1]
+CHLREDRAFT_133620  
+IPY1; inorganic pyrophosphatase [KO:K01507] [EC:3.6.1.1]
+CHLREDRAFT_174103  
+IPY3; soluble inorganic pyrophosphatase [KO:K01507] [EC:3.6.1.1]

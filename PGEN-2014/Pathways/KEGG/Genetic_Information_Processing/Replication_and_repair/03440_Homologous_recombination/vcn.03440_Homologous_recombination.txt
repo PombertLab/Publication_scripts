@@ -1,0 +1,32 @@
+VOLCADRAFT_119635  
+hypothetical protein; K10866 DNA repair protein RAD50 [EC:3.6.-.-] [KO:K10866] [EC:3.6.-.-]
+VOLCADRAFT_55838  
+hypothetical protein; K10865 double-strand break repair protein MRE11 [KO:K10865]
+VOLCADRAFT_104448  
+hypothetical protein; K07466 replication factor A1 [KO:K07466]
+VOLCADRAFT_74628  
+hypothetical protein; K07466 replication factor A1 [KO:K07466]
+VOLCADRAFT_105399  
+hypothetical protein; K07466 replication factor A1 [KO:K07466]
+VOLCADRAFT_121565  
+hypothetical protein; K10881 26 proteasome complex subunit DSS1 [KO:K10881]
+VOLCADRAFT_103167  
+hypothetical protein; K10871 RAD51-like protein 3 [KO:K10871]
+VOLCADRAFT_86044  
+DNA repair protein (X-ray repair); K10880 DNA-repair protein XRCC3 [KO:K10880]
+VOLCADRAFT_40456  
+hypothetical protein; K10875 DNA repair and recombination protein RAD54 and RAD54-like protein [EC:3.6.4.-] [KO:K10875] [EC:3.6.4.-]
+VOLCADRAFT_99672  
+hypothetical protein; K10877 DNA repair and recombination protein RAD54B [EC:3.6.4.-] [KO:K10877] [EC:3.6.4.-]
+VOLCADRAFT_67281  
+hypothetical protein; K02327 DNA polymerase delta subunit 1 [EC:2.7.7.7] [KO:K02327] [EC:2.7.7.7]
+VOLCADRAFT_81183  
+hypothetical protein; K02328 DNA polymerase delta subunit 2 [KO:K02328]
+VOLCADRAFT_68317  
+hypothetical protein; K10901 bloom syndrome protein [EC:3.6.4.12] [KO:K10901] [EC:3.6.4.12]
+VOLCADRAFT_103112  
+hypothetical protein; K10901 bloom syndrome protein [EC:3.6.4.12] [KO:K10901] [EC:3.6.4.12]
+VOLCADRAFT_79203  
+hypothetical protein; K03165 DNA topoisomerase III [EC:5.99.1.2] [KO:K03165] [EC:5.99.1.2]
+VOLCADRAFT_79791  
+hypothetical protein; K03165 DNA topoisomerase III [EC:5.99.1.2] [KO:K03165] [EC:5.99.1.2]

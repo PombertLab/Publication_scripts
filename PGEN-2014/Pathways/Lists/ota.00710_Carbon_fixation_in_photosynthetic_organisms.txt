@@ -1,0 +1,60 @@
+OstapCp59  
+rbcL; ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [KO:K01601] [EC:4.1.1.39]
+Ot07g01830  
+ribulose-bisphosphate carboxy (ISS); K01601 ribulose-bisphosphate carboxylase large chain [EC:4.1.1.39] [KO:K01601] [EC:4.1.1.39]
+Ot18g02030  
+rbcS2; Ribulose-1,5-bisphosphate carboxyase/oxygenase small subunit (IC) [KO:K01602] [EC:4.1.1.39]
+Ot02g05220  
+phosphoglycerate kinase; K00927 phosphoglycerate kinase [EC:2.7.2.3] [KO:K00927] [EC:2.7.2.3]
+Ot10g03520  
+gapA; NADP-glyceraldehyde-3-phosphate dehydrogenase (IC) [KO:K05298] [EC:1.2.1.13]
+Ot01g01490  
+gapB; NADP-glyceraldehyde-3-phosphate dehydrogenase (IC) [KO:K05298] [EC:1.2.1.13]
+Ot01g03020  
+fbaI; fructose-bisphosphate aldolase, class I (IC) [KO:K01623] [EC:4.1.2.13]
+Ot03g00610  
+fbaI; fructose-bisphosphate aldolase, class I (IC) [KO:K01623] [EC:4.1.2.13]
+Ot10g01490  
+fbaII; fructose-1,6-bisphosphate aldolase, class II (IC) [KO:K01624] [EC:4.1.2.13]
+Ot03g00330  
+fructose-bisphosphatase (ISS); K03841 fructose-1,6-bisphosphatase I [EC:3.1.3.11] [KO:K03841] [EC:3.1.3.11]
+Ot07g04240  
+Transketolase (ISS); K00615 transketolase [EC:2.2.1.1] [KO:K00615] [EC:2.2.1.1]
+Ot03g05460  
+sedoheptulose-1; K01100 sedoheptulose-bisphosphatase [EC:3.1.3.37] [KO:K01100] [EC:3.1.3.37]
+Ot05g04200  
+chloroplast ribose-5-phosphate isomerase (ISS); K01807 ribose 5-phosphate isomerase A [EC:5.3.1.6] [KO:K01807] [EC:5.3.1.6]
+Ot04g02900  
+KPPR_CHLRE Phosphoribulokinase; K00855 phosphoribulokinase [EC:2.7.1.19] [KO:K00855] [EC:2.7.1.19]
+Ot09g00080  
+triose-phosphate isomerase (ISS); K01803 triosephosphate isomerase (TIM) [EC:5.3.1.1] [KO:K01803] [EC:5.3.1.1]
+Ot06g01930  
+PPE; ribulose-phosphate 3-epimerase (IC) [KO:K01783] [EC:5.1.3.1]
+Ot12g02990  
+phosphoenolpyruvate carboxylase 2; LaPEPC2 (ISS) [KO:K01595] [EC:4.1.1.31]
+Ot16g00530  
+KPYC_SOLTU Pyruvate kinase; K00873 pyruvate kinase [EC:2.7.1.40] [KO:K00873] [EC:2.7.1.40]
+Ot16g00440  
+Pyruvate kinase (ISS); K00873 pyruvate kinase [EC:2.7.1.40] [KO:K00873] [EC:2.7.1.40]
+Ot03g02840  
+putative Alanine aminotransferase (IC); K00814 alanine transaminase [EC:2.6.1.2] [KO:K00814] [EC:2.6.1.2]
+Ot02g06800  
+PPDK; Pyruvate, phosphate dikinase, chloroplast [Precursor] (IC) [KO:K01006] [EC:2.7.9.1]
+Ot04g03750  
+NADP+-dependent malic enzyme (ISS); K00029 malate dehydrogenase (oxaloacetate-decarboxylating)(NADP+) [EC:1.1.1.40] [KO:K00029] [EC:1.1.1.40]
+Ot06g03980  
+NADP dependent malic enzyme (ISS); K00029 malate dehydrogenase (oxaloacetate-decarboxylating)(NADP+) [EC:1.1.1.40] [KO:K00029] [EC:1.1.1.40]
+Ot07g00930  
+cytosolic NADP malic enzyme (ISS); K00029 malate dehydrogenase (oxaloacetate-decarboxylating)(NADP+) [EC:1.1.1.40] [KO:K00029] [EC:1.1.1.40]
+Ot01g00040  
+malic enzyme (ISS); K00029 malate dehydrogenase (oxaloacetate-decarboxylating)(NADP+) [EC:1.1.1.40] [KO:K00029] [EC:1.1.1.40]
+Ot08g00890  
+NADP-MDH; malate dehydrogenase, NADP+dependent chloroplast precursor (IC) [KO:K00051] [EC:1.1.1.82]
+Ot05g01290  
+AAT; Aspartate aminotransferase, likely mitochondrial [Precursor] (IC) [KO:K14455] [EC:2.6.1.1]
+Ot06g00180  
+cytosolic malate dehydrogenase (ISS); K00025 malate dehydrogenase [EC:1.1.1.37] [KO:K00025] [EC:1.1.1.37]
+Ot03g00170  
+MDHG_ORYSA Malate dehydrogenase; K00026 malate dehydrogenase [EC:1.1.1.37] [KO:K00026] [EC:1.1.1.37]
+Ot12g02700  
+OJ1457_D07.117 gene product (ISS); K00028 malate dehydrogenase (decarboxylating) [EC:1.1.1.39] [KO:K00028] [EC:1.1.1.39]

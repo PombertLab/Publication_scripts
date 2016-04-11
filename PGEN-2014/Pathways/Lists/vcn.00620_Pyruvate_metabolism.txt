@@ -1,0 +1,80 @@
+VOLCADRAFT_103924  
+acs2; acetyl-coa synthetase [KO:K01895] [EC:6.2.1.1]
+VOLCADRAFT_58278  
+acs1; acetyl-coa synthetase [KO:K01895] [EC:6.2.1.1]
+VOLCADRAFT_68179  
+hypothetical protein; K00161 pyruvate dehydrogenase E1 component subunit alpha [EC:1.2.4.1] [KO:K00161] [EC:1.2.4.1]
+VOLCADRAFT_104783  
+hypothetical protein; K00161 pyruvate dehydrogenase E1 component subunit alpha [EC:1.2.4.1] [KO:K00161] [EC:1.2.4.1]
+VOLCADRAFT_108817  
+hypothetical protein; K00162 pyruvate dehydrogenase E1 component subunit beta [EC:1.2.4.1] [KO:K00162] [EC:1.2.4.1]
+VOLCADRAFT_77470  
+hypothetical protein; K00162 pyruvate dehydrogenase E1 component subunit beta [EC:1.2.4.1] [KO:K00162] [EC:1.2.4.1]
+VOLCADRAFT_79498  
+dihydrolipoamide acetyltransferase; K00627 pyruvate dehydrogenase E2 component (dihydrolipoamide acetyltransferase) [EC:2.3.1.12] [KO:K00627] [EC:2.3.1.12]
+VOLCADRAFT_80947  
+dihydrolipoamide acetyltransferase; K00627 pyruvate dehydrogenase E2 component (dihydrolipoamide acetyltransferase) [EC:2.3.1.12] [KO:K00627] [EC:2.3.1.12]
+VOLCADRAFT_95813  
+dld1; dihydrolipoamide dehydrogenase mitochondrial precursor [KO:K00382] [EC:1.8.1.4]
+VOLCADRAFT_83716  
+dld2; dihydrolipoamide dehydrogenase plastid precursor [KO:K00382] [EC:1.8.1.4]
+VOLCADRAFT_82954  
+pyk3; pyruvate kinase [KO:K00873] [EC:2.7.1.40]
+VOLCADRAFT_84504  
+pyk4; cytosolic pyruvate kinase [KO:K00873] [EC:2.7.1.40]
+VOLCADRAFT_68572  
+pyk1; cytosolic pyruvate kinase [KO:K00873] [EC:2.7.1.40]
+VOLCADRAFT_120546  
+hypothetical protein; K01962 acetyl-CoA carboxylase carboxyl transferase subunit alpha [EC:6.4.1.2] [KO:K01962] [EC:6.4.1.2]
+VOLCADRAFT_81953  
+hypothetical protein; K02160 acetyl-CoA carboxylase biotin carboxyl carrier protein [KO:K02160]
+VOLCADRAFT_77540  
+hypothetical protein; K01961 acetyl-CoA carboxylase, biotin carboxylase subunit [EC:6.4.1.2 6.3.4.14] [KO:K01961] [EC:6.3.4.14 6.4.1.2]
+VOLCADRAFT_82311  
+hypothetical protein; K01963 acetyl-CoA carboxylase carboxyl transferase subunit beta [EC:6.4.1.2] [KO:K01963] [EC:6.4.1.2]
+VOLCADRAFT_106840  
+hypothetical protein; K11262 acetyl-CoA carboxylase / biotin carboxylase [EC:6.4.1.2 6.3.4.14] [KO:K11262] [EC:6.3.4.14 6.4.1.2]
+VOLCADRAFT_66220  
+hypothetical protein; K01512 acylphosphatase [EC:3.6.1.7] [KO:K01512] [EC:3.6.1.7]
+VOLCADRAFT_73567  
+hypothetical protein; K00128 aldehyde dehydrogenase (NAD+) [EC:1.2.1.3] [KO:K00128] [EC:1.2.1.3]
+VOLCADRAFT_97568  
+hypothetical protein; K01759 lactoylglutathione lyase [EC:4.4.1.5] [KO:K01759] [EC:4.4.1.5]
+VOLCADRAFT_74188  
+hypothetical protein; K01069 hydroxyacylglutathione hydrolase [EC:3.1.2.6] [KO:K01069] [EC:3.1.2.6]
+VOLCADRAFT_77886  
+hypothetical protein; K00029 malate dehydrogenase (oxaloacetate-decarboxylating)(NADP+) [EC:1.1.1.40] [KO:K00029] [EC:1.1.1.40]
+VOLCADRAFT_78607  
+hypothetical protein; K00029 malate dehydrogenase (oxaloacetate-decarboxylating)(NADP+) [EC:1.1.1.40] [KO:K00029] [EC:1.1.1.40]
+VOLCADRAFT_102707  
+pyc1; pyruvate carboxylase [KO:K01958] [EC:6.4.1.1]
+VOLCADRAFT_109769  
+hypothetical protein; K00025 malate dehydrogenase [EC:1.1.1.37] [KO:K00025] [EC:1.1.1.37]
+VOLCADRAFT_75816  
+mdh3; malate dehydrogenase [KO:K00026] [EC:1.1.1.37]
+VOLCADRAFT_77493  
+mdh1; malate dehydrogenase [KO:K00026] [EC:1.1.1.37]
+VOLCADRAFT_82979  
+mdh2; malate dehydrogenase [KO:K00026] [EC:1.1.1.37]
+VOLCADRAFT_76573  
+hypothetical protein; K00051 malate dehydrogenase (NADP+) [EC:1.1.1.82] [KO:K00051] [EC:1.1.1.82]
+VOLCADRAFT_56464  
+hypothetical protein; K01595 phosphoenolpyruvate carboxylase [EC:4.1.1.31] [KO:K01595] [EC:4.1.1.31]
+VOLCADRAFT_59445  
+hypothetical protein; K01595 phosphoenolpyruvate carboxylase [EC:4.1.1.31] [KO:K01595] [EC:4.1.1.31]
+VOLCADRAFT_106350  
+pck4; phosphoenolpyruvate carboxykinase [KO:K01610] [EC:4.1.1.49]
+VOLCADRAFT_81482  
+pck3; phosphoenolpyruvate carboxykinase [KO:K01610] [EC:4.1.1.49]
+VOLCADRAFT_66258  
+pyruvate phosphate dikinase; K01006 pyruvate,orthophosphate dikinase [EC:2.7.9.1] [KO:K01006] [EC:2.7.9.1]
+VOLCADRAFT_74670  
+hypothetical protein; K01006 pyruvate,orthophosphate dikinase [EC:2.7.9.1] [KO:K01006] [EC:2.7.9.1]
+VOLCADRAFT_109454  
+hypothetical protein; K01638 malate synthase [EC:2.3.3.9] [KO:K01638] [EC:2.3.3.9]
+VOLCADRAFT_75176  
+hypothetical protein; K00626 acetyl-CoA C-acetyltransferase [EC:2.3.1.9] [KO:K00626] [EC:2.3.1.9]
+VOLCADRAFT_84837  
+hypothetical protein; K00626 acetyl-CoA C-acetyltransferase [EC:2.3.1.9] [KO:K00626] [EC:2.3.1.9]
+VOLCADRAFT_78720  
+2-isopropylmalate synthase; K01649 2-isopropylmalate synthase [EC:2.3.3.13] [KO:K01649] [EC:2.3.3.13]

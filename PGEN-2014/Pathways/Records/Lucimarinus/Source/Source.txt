@@ -1,0 +1,3 @@
+Ost9901_3_GeneModels_AllModels_20111212_aa.fasta.gz
+
+Available on the JGI website.

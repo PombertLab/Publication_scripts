@@ -1,0 +1,22 @@
+OSTLU_17120  
+CGS2; putative 2nd cystathione gamma synthase [KO:K01739] [EC:2.5.1.48]
+OSTLU_33390  
+CGS1; cystathione gamma synthase [KO:K01739] [EC:2.5.1.48]
+OSTLU_88245  
+CBL1; cystathione beta lyase [KO:K01760] [EC:4.4.1.8]
+OSTLU_45056  
+metH; B12 dependent methionine synthase [KO:K00548] [EC:2.1.1.13]
+OSTLU_19438  
+hypothetical protein; K11717 cysteine desulfurase / selenocysteine lyase [EC:2.8.1.7 4.4.1.16] [KO:K11717] [EC:4.4.1.16 2.8.1.7]
+OSTLU_28227  
+hypothetical protein; K00384 thioredoxin reductase (NADPH) [EC:1.8.1.9] [KO:K00384] [EC:1.8.1.9]
+OSTLU_29046  
+thioredoxin reductase; K00384 thioredoxin reductase (NADPH) [EC:1.8.1.9] [KO:K00384] [EC:1.8.1.9]
+OSTLU_37879  
+ATS1; ATP sulfurylase (sulfate adenylyltransferase) [KO:K00958] [EC:2.7.7.4]
+OSTLU_41986  
+hypothetical protein; K01008 selenide, water dikinase [EC:2.7.9.3] [KO:K01008] [EC:2.7.9.3]
+OSTLU_35440  
+hypothetical protein; K03341 O-phospho-L-seryl-tRNASec:L-selenocysteinyl-tRNA synthase [EC:2.9.1.2] [KO:K03341] [EC:2.9.1.2]
+OSTLU_36966  
+hypothetical protein; K01874 methionyl-tRNA synthetase [EC:6.1.1.10] [KO:K01874] [EC:6.1.1.10]

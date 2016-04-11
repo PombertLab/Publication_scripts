@@ -1,0 +1,20 @@
+OSTLU_36252  
+hypothetical protein; K00100 [EC:1.1.1.-] [KO:K00100] [EC:1.1.1.-]
+OSTLU_24600  
+hypothetical protein; K00100 [EC:1.1.1.-] [KO:K00100] [EC:1.1.1.-]
+OSTLU_38108  
+hypothetical protein; K13524 4-aminobutyrate aminotransferase / (S)-3-amino-2-methylpropionate transaminase [EC:2.6.1.19 2.6.1.22] [KO:K13524] [EC:2.6.1.22 2.6.1.19]
+OSTLU_36228  
+hypothetical protein; K01580 glutamate decarboxylase [EC:4.1.1.15] [KO:K01580] [EC:4.1.1.15]
+OSTLU_36056  
+hypothetical protein; K00656 formate C-acetyltransferase [EC:2.3.1.54] [KO:K00656] [EC:2.3.1.54]
+OSTLU_29179  
+hypothetical protein; K00161 pyruvate dehydrogenase E1 component subunit alpha [EC:1.2.4.1] [KO:K00161] [EC:1.2.4.1]
+OSTLU_12625  
+hypothetical protein; K00162 pyruvate dehydrogenase E1 component subunit beta [EC:1.2.4.1] [KO:K00162] [EC:1.2.4.1]
+OSTLU_51596  
+hypothetical protein; K01652 acetolactate synthase I/II/III large subunit [EC:2.2.1.6] [KO:K01652] [EC:2.2.1.6]
+OSTLU_89681  
+hypothetical protein; K01652 acetolactate synthase I/II/III large subunit [EC:2.2.1.6] [KO:K01652] [EC:2.2.1.6]
+OSTLU_44053  
+hypothetical protein; K01653 acetolactate synthase I/III small subunit [EC:2.2.1.6] [KO:K01653] [EC:2.2.1.6]

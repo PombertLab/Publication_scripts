@@ -1,0 +1,134 @@
+CHLREDRAFT_188207  
+SEC61A; SEC61-alpha subunit of ER-translocon [KO:K10956]
+CHLREDRAFT_1670  
+SEC61B; SEC61-beta subunit of ER-translocon [KO:K09481]
+CHLREDRAFT_185246  
+SEC61G; SEC61-gamma subunit or ER translocon [KO:K07342]
+CHLREDRAFT_186547  
+SEC62; SEC62-subunit of ER-translocon [KO:K12275]
+CHLREDRAFT_18187  
+SEC63; ER-targeted preprotein translocase subunit [KO:K09540]
+CHLREDRAFT_131340  
+GTR22; glycosyl transferase [KO:K12666]
+CHLREDRAFT_175668  
+hypothetical protein; K12667 oligosaccharyltransferase complex subunit delta (ribophorin II) [KO:K12667]
+CHLREDRAFT_141763  
+DAD1; hypothetical protein [KO:K12668]
+CHLREDRAFT_196082  
+OST3/OST6 family protein; K12669 oligosaccharyltransferase complex subunit gamma [KO:K12669]
+CHLREDRAFT_121156  
+GTR26; dolichyl-diphosphooligosaccharide-protein glycosyltransferase [KO:K12670]
+CHLREDRAFT_127991  
+GTR25; oligsaccharyl transferase STT3 subunit [KO:K07151] [EC:2.4.99.18]
+CHLREDRAFT_113687  
+hypothetical protein; K01228 mannosyl-oligosaccharide glucosidase [EC:3.2.1.106] [KO:K01228] [EC:3.2.1.106]
+CHLREDRAFT_142834  
+hypothetical protein; K14001 nucleotide exchange factor SIL1 [KO:K14001]
+CHLREDRAFT_205988  
+HSP70G; ER-located HSP110/SSE-like protein [KO:K09486]
+CHLREDRAFT_133859  
+BIP1; binding protein 1 [KO:K09490]
+CHLREDRAFT_133650  
+BIP2; binding protein 2 [KO:K09490]
+CHLREDRAFT_134606  
+ERJ1; ER DnaJ-like protein 1 [KO:K09517]
+CHLREDRAFT_146571  
+DNJ8; DnaJ-like protein [KO:K09523]
+CHLREDRAFT_97057  
+HSP90B; heat shock protein 90B [KO:K09487]
+CHLREDRAFT_154398  
+HSP90C; heat shock protein 90C [KO:K09487]
+CHLREDRAFT_128630  
+GLH1; glycoside-hydrolase-like protein [KO:K05546] [EC:3.2.1.84]
+CHLREDRAFT_105079  
+hypothetical protein; K08288 protein kinase C substrate 80K-H [KO:K08288]
+CHLREDRAFT_108711  
+hypothetical protein; K08054 calnexin [KO:K08054]
+CHLREDRAFT_78954  
+CRT2; calreticulin 2, calcium-binding protein [KO:K08057]
+CHLREDRAFT_178232  
+AMD1; alpha-1,2-mannosidase [KO:K01230] [EC:3.2.1.113]
+CHLREDRAFT_82091  
+SAR1; sar-type small GTPase [KO:K07953] [EC:3.6.5.-]
+CHLREDRAFT_139713  
+SEC13; COP-II coat subunit [KO:K14004]
+CHLREDRAFT_195444  
+SEC31; COP-II coat subunit [KO:K14005]
+CHLREDRAFT_133099  
+SEC23A; COP-II coat subunit [KO:K14006]
+CHLREDRAFT_195442  
+SEC24A; COP-II coat subunit [KO:K14007]
+CHLREDRAFT_195895  
+RB60; protein disulfide isomerase 1 [KO:K09580] [EC:5.3.4.1]
+CHLREDRAFT_189940  
+PDI2; protein disulfide isomerase [KO:K09584] [EC:5.3.4.1]
+CHLREDRAFT_182974  
+PDI4; protein disulfide isomerase [KO:K09584] [EC:5.3.4.1]
+CHLREDRAFT_195902  
+DNJ3; DnaJ-like protein [KO:K09584] [EC:5.3.4.1]
+CHLREDRAFT_188533  
+hypothetical protein; K09584 protein disulfide-isomerase A6 [EC:5.3.4.1] [KO:K09584] [EC:5.3.4.1]
+CHLREDRAFT_161043  
+hypothetical protein; K09586 endoplasmic reticulum protein 29 [KO:K09586]
+CHLREDRAFT_195663  
+ERO1; endoplasmic reticulum oxidoreductin 1 [KO:K10950] [EC:1.8.4.-]
+CHLREDRAFT_142357  
+hypothetical protein; K10088 protein OS-9 [KO:K10088]
+CHLREDRAFT_36756  
+translocon-associated protein alpha subunit; K13249 translocon-associated protein subunit alpha [KO:K13249]
+CHLREDRAFT_182433  
+translocon-associated protein beta; K13250 translocon-associated protein subunit beta [KO:K13250]
+CHLREDRAFT_59675  
+hypothetical protein; K13989 Derlin-2/3 [KO:K13989]
+CHLREDRAFT_184920  
+hypothetical protein; K13989 Derlin-2/3 [KO:K13989]
+CHLREDRAFT_134171  
+CDC48; flagellar associated protein [KO:K13525]
+CHLREDRAFT_106366  
+hypothetical protein; K14016 ubiquitin fusion degradation protein 1 [KO:K14016]
+CHLREDRAFT_185673  
+HSP70A; heat shock protein 70A [KO:K03283]
+CHLREDRAFT_170453  
+DNJ1; DnaJ-like protein [KO:K09503]
+CHLREDRAFT_138117  
+HSP90A; heat shock protein 90A [KO:K04079]
+CHLREDRAFT_134508  
+HSP22A; heat shock protein 22A [KO:K13993]
+CHLREDRAFT_119384  
+hypothetical protein; K13719 ubiquitin thioesterase OTU1 [EC:3.1.2.-] [KO:K13719] [EC:3.1.2.-]
+CHLREDRAFT_80907  
+hypothetical protein; K10839 UV excision repair protein RAD23 [KO:K10839]
+CHLREDRAFT_179183  
+hypothetical protein; K04523 ubiquilin [KO:K04523]
+CHLREDRAFT_160593  
+ataxin-3-like protein; K11863 Ataxin-3 [EC:3.4.22.-] [KO:K11863] [EC:3.4.22.-]
+CHLREDRAFT_148383  
+hypothetical protein; K10597 ubiquitin conjugation factor E4 B [EC:6.3.2.19] [KO:K10597] [EC:6.3.2.19]
+CHLREDRAFT_114912  
+EIF2Ab; eukaryotic initiation factor [KO:K03237]
+CHLREDRAFT_147743  
+hypothetical protein; K08653 membrane-bound transcription factor site-1 protease [EC:3.4.21.112] [KO:K08653] [EC:3.4.21.112]
+CHLREDRAFT_185318  
+hypothetical protein; K10578 ubiquitin-conjugating enzyme E2 J1 [EC:6.3.2.19] [KO:K10578] [EC:6.3.2.19]
+CHLREDRAFT_132639  
+hypothetical protein; K04554 ubiquitin-conjugating enzyme E2 J2 [EC:6.3.2.19] [KO:K04554] [EC:6.3.2.19]
+CHLREDRAFT_190824  
+hypothetical protein; K10575 ubiquitin-conjugating enzyme E2 G1 [EC:6.3.2.19] [KO:K10575] [EC:6.3.2.19]
+CHLREDRAFT_122373  
+hypothetical protein; K10601 E3 ubiquitin-protein ligase synoviolin [EC:6.3.2.19] [KO:K10601] [EC:6.3.2.19]
+CHLREDRAFT_100664  
+hypothetical protein; K10666 E3 ubiquitin-protein ligase RNF5 [EC:6.3.2.19] [KO:K10666] [EC:6.3.2.19]
+CHLREDRAFT_129691  
+SELL1; sel-1 like protein [KO:K14026]
+CHLREDRAFT_120414  
+hypothetical protein; K09561 STIP1 homology and U-box containing protein 1 [EC:6.3.2.19] [KO:K09561] [EC:6.3.2.19]
+CHLREDRAFT_152525  
+UBC9; ubiquitin conjugating enzyme [KO:K06689] [EC:6.3.2.19]
+CHLREDRAFT_160028  
+hypothetical protein; K06689 ubiquitin-conjugating enzyme E2 D/E [EC:6.3.2.19] [KO:K06689] [EC:6.3.2.19]
+CHLREDRAFT_79815  
+RBX1; ring-box protein [KO:K03868]
+CHLREDRAFT_116937  
+CUL3; cullin [KO:K03347]
+CHLREDRAFT_128004  
+SKP1; E3 ubiquitin ligase [KO:K03094]

@@ -1,0 +1,34 @@
+CHLREDRAFT_113185  
+PIK1; phosphatidylinositol 4-kinase [KO:K00888] [EC:2.7.1.67]
+CHLREDRAFT_196944  
+smilar to phosphatidylinositol 3- or 4-kinase; K00888 phosphatidylinositol 4-kinase [EC:2.7.1.67] [KO:K00888] [EC:2.7.1.67]
+CHLREDRAFT_195580  
+FAB-like protein; K00889 1-phosphatidylinositol-4-phosphate 5-kinase [EC:2.7.1.68] [KO:K00889] [EC:2.7.1.68]
+CHLREDRAFT_120269  
+hypothetical protein; K00889 1-phosphatidylinositol-4-phosphate 5-kinase [EC:2.7.1.68] [KO:K00889] [EC:2.7.1.68]
+CHLREDRAFT_189763  
+hypothetical protein; K00913 inositol-1,3,4-trisphosphate 5/6-kinase / inositol-tetrakisphosphate 1-kinase [EC:2.7.1.159 2.7.1.134] [KO:K00913] [EC:2.7.1.134 2.7.1.159]
+CHLREDRAFT_196943  
+VPS34; VPS34-like PI-3-kinase [KO:K00914] [EC:2.7.1.137]
+CHLREDRAFT_188754  
+PCT2; phosphatidate cytidylyltransferase [KO:K00981] [EC:2.7.7.41]
+CHLREDRAFT_128536  
+PCT1; CDP-DAG synthetase [KO:K00981] [EC:2.7.7.41]
+CHLREDRAFT_186369  
+PIS1; phosphatidylinositol synthase [KO:K00999] [EC:2.7.8.11]
+CHLREDRAFT_196939  
+INM1; inositol monophosphatase [KO:K01092] [EC:3.1.3.25]
+CHLREDRAFT_186574  
+inositol monophosphatase family protein; K01092 myo-inositol-1(or 4)-monophosphatase [EC:3.1.3.25] [KO:K01092] [EC:3.1.3.25]
+CHLREDRAFT_120462  
+L-galactose-1-phosphate phosphatase; K10047 inositol-phosphate phosphatase / L-galactose 1-phosphate phosphatase [EC:3.1.3.25 3.1.3.-] [KO:K10047] [EC:3.1.3.- 3.1.3.25]
+CHLREDRAFT_146533  
+3'(2'); K15422 3'(2'), 5'-bisphosphate nucleotidase / inositol polyphosphate 1-phosphatase [EC:3.1.3.7 3.1.3.57] [KO:K15422] [EC:3.1.3.57 3.1.3.7]
+CHLREDRAFT_142126  
+phospholipase C; K05857 phosphatidylinositol phospholipase C, delta [EC:3.1.4.11] [KO:K05857] [EC:3.1.4.11]
+CHLREDRAFT_153750  
+RYR1; ryanodine-inositol 1,4,5-triphosphate receptor Ca2+ channel [KO:K04958]
+CHLREDRAFT_190145  
+DLC4; flagellar outer dynein arm 18 kDa light chain LC4 [KO:K02183]
+CHLREDRAFT_188144  
+CAM1; calmodulin [KO:K02183]

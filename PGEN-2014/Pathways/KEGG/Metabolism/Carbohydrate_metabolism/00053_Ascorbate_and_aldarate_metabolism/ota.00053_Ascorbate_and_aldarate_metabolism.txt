@@ -1,0 +1,20 @@
+Ot13g01740  
+UDP-glucose dehydrogenase; K00012 UDPglucose 6-dehydrogenase [EC:1.1.1.22] [KO:K00012] [EC:1.1.1.22]
+Ot13g02120  
+UDP-sugar pyrophospharylase (ISS); K12447 UDP-sugar pyrophosphorylase [EC:2.7.7.64] [KO:K12447] [EC:2.7.7.64]
+Ot06g00050  
+Molybdopterin biosynthesis protein (ISS); K16190 glucuronokinase [EC:2.7.1.43] [KO:K16190] [EC:2.7.1.43]
+Ot05g04910  
+myo inositol monophosphatase isoform 2 (ISS); K10047 inositol-phosphate phosphatase / L-galactose 1-phosphate phosphatase [EC:3.1.3.25 3.1.3.-] [KO:K10047] [EC:3.1.3.- 3.1.3.25]
+Ot04g02840  
+mitochondrial L-galactono-1; K00225 L-galactono-1,4-lactone dehydrogenase [EC:1.3.2.3] [KO:K00225] [EC:1.3.2.3]
+Ot05g00850  
+monodehydroascorbate reductase (ISS); K08232 monodehydroascorbate reductase (NADH) [EC:1.6.5.4] [KO:K08232] [EC:1.6.5.4]
+Ot08g00200  
+putative L-ascorbate peroxidase (ISS); K00434 L-ascorbate peroxidase [EC:1.11.1.11] [KO:K00434] [EC:1.11.1.11]
+Ot09g00500  
+TL29_LYCES Putative L-ascorbate peroxidase; K00434 L-ascorbate peroxidase [EC:1.11.1.11] [KO:K00434] [EC:1.11.1.11]
+Ot01g03570  
+chloroplast ascorbate peroxidase (ISS); K00434 L-ascorbate peroxidase [EC:1.11.1.11] [KO:K00434] [EC:1.11.1.11]
+Ot01g04160  
+fatty aldehyde dehydrogenase variant form (ISS); K00128 aldehyde dehydrogenase (NAD+) [EC:1.2.1.3] [KO:K00128] [EC:1.2.1.3]

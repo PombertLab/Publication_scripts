@@ -1,0 +1,36 @@
+VOLCADRAFT_103185  
+hypothetical protein; K01810 glucose-6-phosphate isomerase [EC:5.3.1.9] [KO:K01810] [EC:5.3.1.9]
+VOLCADRAFT_82038  
+hypothetical protein; K00036 glucose-6-phosphate 1-dehydrogenase [EC:1.1.1.49] [KO:K00036] [EC:1.1.1.49]
+VOLCADRAFT_82562  
+hypothetical protein; K01057 6-phosphogluconolactonase [EC:3.1.1.31] [KO:K01057] [EC:3.1.1.31]
+VOLCADRAFT_109207  
+hypothetical protein; K00033 6-phosphogluconate dehydrogenase [EC:1.1.1.44] [KO:K00033] [EC:1.1.1.44]
+VOLCADRAFT_109319  
+hypothetical protein; K01783 ribulose-phosphate 3-epimerase [EC:5.1.3.1] [KO:K01783] [EC:5.1.3.1]
+VOLCADRAFT_75893  
+hypothetical protein; K00615 transketolase [EC:2.2.1.1] [KO:K00615] [EC:2.2.1.1]
+VOLCADRAFT_81816  
+hypothetical protein; K00616 transaldolase [EC:2.2.1.2] [KO:K00616] [EC:2.2.1.2]
+VOLCADRAFT_95072  
+hypothetical protein; K01807 ribose 5-phosphate isomerase A [EC:5.3.1.6] [KO:K01807] [EC:5.3.1.6]
+VOLCADRAFT_104693  
+hypothetical protein; K01807 ribose 5-phosphate isomerase A [EC:5.3.1.6] [KO:K01807] [EC:5.3.1.6]
+VOLCADRAFT_106272  
+hypothetical protein; K00852 ribokinase [EC:2.7.1.15] [KO:K00852] [EC:2.7.1.15]
+VOLCADRAFT_78928  
+hypothetical protein; K01835 phosphoglucomutase [EC:5.4.2.2] [KO:K01835] [EC:5.4.2.2]
+VOLCADRAFT_82029  
+hypothetical protein; K00948 ribose-phosphate pyrophosphokinase [EC:2.7.6.1] [KO:K00948] [EC:2.7.6.1]
+VOLCADRAFT_83313  
+hypothetical protein; K01623 fructose-bisphosphate aldolase, class I [EC:4.1.2.13] [KO:K01623] [EC:4.1.2.13]
+VOLCADRAFT_79447  
+hypothetical protein; K01623 fructose-bisphosphate aldolase, class I [EC:4.1.2.13] [KO:K01623] [EC:4.1.2.13]
+VOLCADRAFT_82483  
+hypothetical protein; K01623 fructose-bisphosphate aldolase, class I [EC:4.1.2.13] [KO:K01623] [EC:4.1.2.13]
+VOLCADRAFT_103791  
+fbp1; fructose-1,6-bisphosphatase [KO:K03841] [EC:3.1.3.11]
+VOLCADRAFT_74177  
+pfk2; phosphofructokinase family protein [KO:K00850] [EC:2.7.1.11]
+VOLCADRAFT_78805  
+pfk1; phosphofructokinase family protein [KO:K00850] [EC:2.7.1.11]

@@ -1,0 +1,2 @@
+OSTLU_13668  
+MFS family transporter: acetyl-CoA; K03372 MFS transporter, PAT family, solute carrier family 33 (acetyl-CoA transportor), member 1 [EC:2.3.1.-] [KO:K03372] [EC:2.3.1.-]

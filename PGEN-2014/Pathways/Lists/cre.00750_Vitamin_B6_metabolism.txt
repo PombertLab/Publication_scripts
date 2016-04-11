@@ -1,0 +1,10 @@
+CHLREDRAFT_205603  
+PDXK1; pyridoxal kinase [KO:K00868] [EC:2.7.1.35]
+CHLREDRAFT_117519  
+hypothetical protein; K13248 pyridoxal phosphate phosphatase PHOSPHO2 [EC:3.1.3.74] [KO:K13248] [EC:3.1.3.74]
+CHLREDRAFT_188476  
+PST1; phosphoserine aminotransferase [KO:K00831] [EC:2.6.1.52]
+CHLREDRAFT_127384  
+THS1; threonine synthase [KO:K01733] [EC:4.2.3.1]
+CHLREDRAFT_99391  
+glutaminase; K08681 glutamine amidotransferase [EC:2.6.-.-] [KO:K08681] [EC:2.6.-.-]

@@ -1,0 +1,2 @@
+OSTLU_36228  
+hypothetical protein; K01580 glutamate decarboxylase [EC:4.1.1.15] [KO:K01580] [EC:4.1.1.15]

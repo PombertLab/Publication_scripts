@@ -1,0 +1,20 @@
+OSTLU_12559  
+hypothetical protein; K02291 phytoene synthase [EC:2.5.1.32] [KO:K02291] [EC:2.5.1.32]
+OSTLU_5449  
+hypothetical protein; K02291 phytoene synthase [EC:2.5.1.32] [KO:K02291] [EC:2.5.1.32]
+OSTLU_38345  
+hypothetical protein; K02293 15-cis-phytoene desaturase [EC:1.3.5.5] [KO:K02293] [EC:1.3.5.5]
+OSTLU_47627  
+AOX5; Amine oxidase [KO:K02293] [EC:1.3.5.5]
+OSTLU_43800  
+hypothetical protein; K06443 lycopene beta-cyclase [EC:5.5.1.19] [KO:K06443] [EC:5.5.1.19]
+OSTLU_43511  
+hypothetical protein; K06444 lycopene epsilon-cyclase [EC:5.5.1.18] [KO:K06444] [EC:5.5.1.18]
+OSTLU_9013  
+hypothetical protein; K15746 beta-carotene 3-hydroxylase [EC:1.14.13.129] [KO:K15746] [EC:1.14.13.129]
+OSTLU_33533  
+hypothetical protein; K09837 carotene epsilon-monooxygenase [EC:1.14.99.45] [KO:K09837] [EC:1.14.99.45]
+OSTLU_1611  
+ZEP; zeaxanthin epoxidase (ABA1) (NPQ2) [KO:K09838] [EC:1.14.13.90]
+OSTLU_27727  
+VDE; violaxanthin de-epoxidase, chloroplast precursor [KO:K09839] [EC:1.10.99.3]

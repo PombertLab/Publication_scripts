@@ -1,0 +1,18 @@
+VOLCADRAFT_59102  
+hypothetical protein; K11755 phosphoribosyl-ATP pyrophosphohydrolase / phosphoribosyl-AMP cyclohydrolase [EC:3.6.1.31 3.5.4.19] [KO:K11755] [EC:3.5.4.19 3.6.1.31]
+VOLCADRAFT_107427  
+hypothetical protein; K01814 phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase [EC:5.3.1.16] [KO:K01814] [EC:5.3.1.16]
+VOLCADRAFT_67859  
+hypothetical protein; K01663 glutamine amidotransferase / cyclase [EC:2.4.2.- 4.1.3.-] [KO:K01663] [EC:4.1.3.- 2.4.2.-]
+VOLCADRAFT_82091  
+hypothetical protein; K01693 imidazoleglycerol-phosphate dehydratase [EC:4.2.1.19] [KO:K01693] [EC:4.2.1.19]
+VOLCADRAFT_109854  
+hypothetical protein; K00817 histidinol-phosphate aminotransferase [EC:2.6.1.9] [KO:K00817] [EC:2.6.1.9]
+VOLCADRAFT_81513  
+hypothetical protein; K00013 histidinol dehydrogenase [EC:1.1.1.23] [KO:K00013] [EC:1.1.1.23]
+VOLCADRAFT_82548  
+sdc1; serine decarboxylase [KO:K01590] [EC:4.1.1.22]
+VOLCADRAFT_73567  
+hypothetical protein; K00128 aldehyde dehydrogenase (NAD+) [EC:1.2.1.3] [KO:K00128] [EC:1.2.1.3]
+VOLCADRAFT_60905  
+hypothetical protein; K00274 monoamine oxidase [EC:1.4.3.4] [KO:K00274] [EC:1.4.3.4]

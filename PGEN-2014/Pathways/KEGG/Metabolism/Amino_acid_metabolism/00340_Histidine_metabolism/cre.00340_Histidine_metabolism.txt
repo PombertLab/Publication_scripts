@@ -1,0 +1,20 @@
+CHLREDRAFT_187988  
+HIS4; bifunctional phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP pyrophosphatase [KO:K11755] [EC:3.5.4.19 3.6.1.31]
+CHLREDRAFT_82364  
+HIS6; phosphoribosylformimino-5-aminoimidazole carboxamide ribonucleotide isomerase [KO:K01814] [EC:5.3.1.16]
+CHLREDRAFT_186880  
+HIS3; imidazoleglycerol-phosphate dehydratase [KO:K01693] [EC:4.2.1.19]
+CHLREDRAFT_103841  
+HIS5; histidinol phosphate aminotransferase [KO:K00817] [EC:2.6.1.9]
+CHLREDRAFT_126232  
+HDH1; histidinol dehydrogenase [KO:K00013] [EC:1.1.1.23]
+CHLREDRAFT_40158  
+SDC1; serine decarboxylase [KO:K01590] [EC:4.1.1.22]
+CHLREDRAFT_116869  
+DDC1; aromatic-aminoacid decarboxylase [KO:K01593] [EC:4.1.1.28]
+CHLREDRAFT_206147  
+AMX3; copper amine oxidase, amiloride-sensitive [KO:K11182] [EC:1.4.3.22]
+CHLREDRAFT_135609  
+aldehyde dehydrogenase; K00128 aldehyde dehydrogenase (NAD+) [EC:1.2.1.3] [KO:K00128] [EC:1.2.1.3]
+CHLREDRAFT_187700  
+hypothetical protein; K00274 monoamine oxidase [EC:1.4.3.4] [KO:K00274] [EC:1.4.3.4]

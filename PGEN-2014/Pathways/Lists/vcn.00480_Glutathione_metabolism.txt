@@ -1,0 +1,52 @@
+VOLCADRAFT_30482  
+hypothetical protein; K00681 gamma-glutamyltranspeptidase [EC:2.3.2.2] [KO:K00681] [EC:2.3.2.2]
+VOLCADRAFT_61291  
+hypothetical protein; K01469 5-oxoprolinase (ATP-hydrolysing) [EC:3.5.2.9] [KO:K01469] [EC:3.5.2.9]
+VOLCADRAFT_104352  
+hypothetical protein; K01919 glutamate--cysteine ligase [EC:6.3.2.2] [KO:K01919] [EC:6.3.2.2]
+VOLCADRAFT_76898  
+hypothetical protein; K01920 glutathione synthase [EC:6.3.2.3] [KO:K01920] [EC:6.3.2.3]
+VOLCADRAFT_106122  
+hypothetical protein; K01255 leucyl aminopeptidase [EC:3.4.11.1] [KO:K01255] [EC:3.4.11.1]
+VOLCADRAFT_81369  
+hypothetical protein; K01256 aminopeptidase N [EC:3.4.11.2] [KO:K01256] [EC:3.4.11.2]
+VOLCADRAFT_89757  
+hypothetical protein; K00799 glutathione S-transferase [EC:2.5.1.18] [KO:K00799] [EC:2.5.1.18]
+VOLCADRAFT_107623  
+hypothetical protein; K00799 glutathione S-transferase [EC:2.5.1.18] [KO:K00799] [EC:2.5.1.18]
+VOLCADRAFT_95137  
+hypothetical protein; K00799 glutathione S-transferase [EC:2.5.1.18] [KO:K00799] [EC:2.5.1.18]
+VOLCADRAFT_56687  
+hypothetical protein; K00799 glutathione S-transferase [EC:2.5.1.18] [KO:K00799] [EC:2.5.1.18]
+VOLCADRAFT_106582  
+hypothetical protein; K00383 glutathione reductase (NADPH) [EC:1.8.1.7] [KO:K00383] [EC:1.8.1.7]
+VOLCADRAFT_78818  
+hypothetical protein; K00383 glutathione reductase (NADPH) [EC:1.8.1.7] [KO:K00383] [EC:1.8.1.7]
+VOLCADRAFT_77629  
+idh3; isocitrate dehydrogenase, NADP-dependent, mitochondrial [KO:K00031] [EC:1.1.1.42]
+VOLCADRAFT_109207  
+hypothetical protein; K00033 6-phosphogluconate dehydrogenase [EC:1.1.1.44] [KO:K00033] [EC:1.1.1.44]
+VOLCADRAFT_82038  
+hypothetical protein; K00036 glucose-6-phosphate 1-dehydrogenase [EC:1.1.1.49] [KO:K00036] [EC:1.1.1.49]
+VOLCADRAFT_79644  
+gpx2; glutathione peroxidase [KO:K00432] [EC:1.11.1.9]
+VOLCADRAFT_109762  
+gpx1; glutathione peroxidase [KO:K00432] [EC:1.11.1.9]
+VOLCADRAFT_63034  
+hypothetical protein; K01581 ornithine decarboxylase [EC:4.1.1.17] [KO:K01581] [EC:4.1.1.17]
+VOLCADRAFT_55771  
+hypothetical protein; K00797 spermidine synthase [EC:2.5.1.16] [KO:K00797] [EC:2.5.1.16]
+VOLCADRAFT_76291  
+hypothetical protein; K00797 spermidine synthase [EC:2.5.1.16] [KO:K00797] [EC:2.5.1.16]
+VOLCADRAFT_82395  
+apx1; L-ascorbate peroxidase [KO:K00434] [EC:1.11.1.11]
+VOLCADRAFT_62034  
+apx2; L-ascorbate peroxidase [KO:K00434] [EC:1.11.1.11]
+VOLCADRAFT_105827  
+hypothetical protein; K00434 L-ascorbate peroxidase [EC:1.11.1.11] [KO:K00434] [EC:1.11.1.11]
+VOLCADRAFT_82353  
+hypothetical protein; K10807 ribonucleoside-diphosphate reductase subunit M1 [EC:1.17.4.1] [KO:K10807] [EC:1.17.4.1]
+VOLCADRAFT_101784  
+hypothetical protein; K10808 ribonucleoside-diphosphate reductase subunit M2 [EC:1.17.4.1] [KO:K10808] [EC:1.17.4.1]
+VOLCADRAFT_109884  
+hypothetical protein; K10808 ribonucleoside-diphosphate reductase subunit M2 [EC:1.17.4.1] [KO:K10808] [EC:1.17.4.1]

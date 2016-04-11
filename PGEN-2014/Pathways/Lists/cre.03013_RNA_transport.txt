@@ -1,0 +1,138 @@
+CHLREDRAFT_171674  
+hypothetical protein; K03537 ribonuclease P/MRP protein subunit POP5 [EC:3.1.26.5] [KO:K03537] [EC:3.1.26.5]
+CHLREDRAFT_166399  
+hypothetical protein; K03539 ribonuclease P/MRP protein subunit RPP1 [EC:3.1.26.5] [KO:K03539] [EC:3.1.26.5]
+CHLREDRAFT_171949  
+TRZ4; RNase Z-like protein [KO:K00784] [EC:3.1.26.11]
+CHLREDRAFT_153259  
+TRZ3; RNase Z-like protein [KO:K00784] [EC:3.1.26.11]
+CHLREDRAFT_128522  
+RAN1; ran-like small GTPase [KO:K07936]
+CHLREDRAFT_132905  
+EEF1; eukaryotic translation elongation factor 1 alpha 2 [KO:K03231]
+CHLREDRAFT_134382  
+eukaryotic translation elongation factor 1 alpha 1; K03231 elongation factor 1-alpha [KO:K03231]
+CHLREDRAFT_138199  
+XPO1; exportin [KO:K14290]
+CHLREDRAFT_17391  
+ABH1; mRNA cap-binding protein [KO:K12882]
+CHLREDRAFT_169371  
+hypothetical protein; K12883 nuclear cap-binding protein subunit 2 [KO:K12883]
+CHLREDRAFT_114319  
+protein arginine N-methyltransferase; K02516 protein arginine N-methyltransferase 5 [EC:2.1.1.125] [KO:K02516] [EC:2.1.1.125]
+CHLREDRAFT_128929  
+IPB1; importin beta [KO:K14293]
+CHLREDRAFT_153740  
+hypothetical protein; K13151 snurportin-1 [KO:K13151]
+CHLREDRAFT_194349  
+hypothetical protein; K07562 nonsense-mediated mRNA decay protein 3 [KO:K07562]
+CHLREDRAFT_184443  
+PYM1; exon junction complex protein [KO:K14294]
+CHLREDRAFT_138990  
+RAE1; mRNA export protein [KO:K14298]
+CHLREDRAFT_139713  
+SEC13; COP-II coat subunit [KO:K14004]
+CHLREDRAFT_173216  
+hypothetical protein; K14308 nuclear pore complex protein Nup54 [KO:K14308]
+CHLREDRAFT_180714  
+hypothetical protein; K14309 nuclear pore complex protein Nup93 [KO:K14309]
+CHLREDRAFT_168661  
+hypothetical protein; K14310 nuclear pore complex protein Nup205 [KO:K14310]
+CHLREDRAFT_191024  
+NUP155; nuclear pore protein [KO:K14312]
+CHLREDRAFT_148095  
+hypothetical protein; K14313 nuclear pore complex protein Nup53 [KO:K14313]
+CHLREDRAFT_151184  
+RAN GTPase activating protein; K14319 Ran GTPase-activating protein 1 [KO:K14319]
+CHLREDRAFT_57440  
+UBC4; E2 ubiquitin-conjugating-like enzyme [KO:K10577] [EC:6.3.2.19]
+CHLREDRAFT_107015  
+hypothetical protein; K12160 small ubiquitin-related modifier [KO:K12160]
+CHLREDRAFT_46787  
+hypothetical protein; K12160 small ubiquitin-related modifier [KO:K12160]
+CHLREDRAFT_174416  
+hypothetical protein; K12160 small ubiquitin-related modifier [KO:K12160]
+CHLREDRAFT_149066  
+ubiquitin-like protein; K12160 small ubiquitin-related modifier [KO:K12160]
+CHLREDRAFT_111578  
+hypothetical protein; K13131 ATP-dependent RNA helicase DDX20 [EC:3.6.4.13] [KO:K13131] [EC:3.6.4.13]
+CHLREDRAFT_128295  
+hypothetical protein; K13137 serine-threonine kinase receptor-associated protein [KO:K13137]
+CHLREDRAFT_170004  
+EIF3X; hypothetical translation initiation factor [KO:K03245]
+CHLREDRAFT_79571  
+EIF3I; eukaryotic initiation factor [KO:K03246]
+CHLREDRAFT_193677  
+EIF3H; eukaryotic initiation factor [KO:K03247]
+CHLREDRAFT_167137  
+EIF3G; eukaryotic translation initiation factor [KO:K03248]
+CHLREDRAFT_120842  
+EIF3F; eukaryotic initiation factor [KO:K03249]
+CHLREDRAFT_132936  
+EIF3E; eukaryotic initiation factor [KO:K03250]
+CHLREDRAFT_181144  
+EIF3D; eukaryotic initiation factor [KO:K03251]
+CHLREDRAFT_140639  
+EIF3C; eukaryotic initiation factor [KO:K03252]
+CHLREDRAFT_128636  
+EIF3B; eukaryotic initiation factor [KO:K03253]
+CHLREDRAFT_187852  
+EIF3A; eukaryotic initiation factor [KO:K03254]
+CHLREDRAFT_141865  
+EIF1A; eukaryotic initiation factor [KO:K03236]
+CHLREDRAFT_145043  
+SUI1A; translation initiation protein [KO:K03113]
+CHLREDRAFT_142465  
+EIF5Bb; eukaryotic initiation factor [KO:K03262]
+CHLREDRAFT_114912  
+EIF2Ab; eukaryotic initiation factor [KO:K03237]
+CHLREDRAFT_102338  
+EIF5Bd; eukaryotic initiation factor [KO:K03238]
+CHLREDRAFT_126673  
+EIF2G; eukaryotic initiation factor [KO:K03242]
+CHLREDRAFT_596  
+EIF2Ba; eukaryotic initiation factor [KO:K03239]
+CHLREDRAFT_177038  
+EIF2Bb; eukaryotic initiation factor [KO:K03754]
+CHLREDRAFT_108477  
+EIF2B; eukaryotic initiation factor [KO:K03680]
+CHLREDRAFT_193588  
+EIF2Bc; eukaryotic initiation factor [KO:K03241]
+CHLREDRAFT_141272  
+EIF5Ba; eukaryotic initiation factor [KO:K03243]
+CHLREDRAFT_147254  
+EIF4G; eukaryotic initiation factor [KO:K03260]
+CHLREDRAFT_100523  
+hypothetical protein; K03260 translation initiation factor 4G [KO:K03260]
+CHLREDRAFT_24172  
+EIF4E; eukaryotic initiation factor [KO:K03259]
+CHLREDRAFT_188942  
+eukaryotic initiation factor 4A-like protein; K03257 translation initiation factor 4A [KO:K03257]
+CHLREDRAFT_116226  
+RB47; polyadenylate-binding protein RB47 [KO:K13126]
+CHLREDRAFT_192599  
+RBM8A; RNA binding motif protein [KO:K12876]
+CHLREDRAFT_184322  
+MGO1; mago nashi-like protein [KO:K12877]
+CHLREDRAFT_608  
+EIF4A3; eukaryotic initiation factor [KO:K13025] [EC:3.6.4.13]
+CHLREDRAFT_104302  
+Sin3 complex component; K14324 histone deacetylase complex subunit SAP18 [KO:K14324]
+CHLREDRAFT_168261  
+REF1; RNA export factor [KO:K12881]
+CHLREDRAFT_83282  
+UAP56; subunit of exon junction complex [KO:K12812] [EC:3.6.4.13]
+CHLREDRAFT_170375  
+hypothetical protein; K13174 THO complex subunit 5 [KO:K13174]
+CHLREDRAFT_154336  
+hypothetical protein; K13176 THO complex subunit 7 [KO:K13176]
+CHLREDRAFT_195115  
+THO complex 3 G protein beta subunit; K12880 THO complex subunit 3 [KO:K12880]
+CHLREDRAFT_174571  
+hypothetical protein; K13171 serine/arginine repetitive matrix protein 1 [KO:K13171]
+CHLREDRAFT_96867  
+UPF1; UPF1 protein [KO:K14326] [EC:3.6.4.-]
+CHLREDRAFT_119808  
+hypothetical protein; K14327 regulator of nonsense transcripts 2 [KO:K14327]
+CHLREDRAFT_169865  
+UPF3; UPF3 protein [KO:K14328]

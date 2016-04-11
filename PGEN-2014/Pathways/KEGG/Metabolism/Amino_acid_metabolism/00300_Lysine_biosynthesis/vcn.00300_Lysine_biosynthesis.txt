@@ -1,0 +1,16 @@
+VOLCADRAFT_87637  
+hypothetical protein; K00928 aspartate kinase [EC:2.7.2.4] [KO:K00928] [EC:2.7.2.4]
+VOLCADRAFT_73076  
+ahd1; bifunctional aspartate kinase/homoserine dehydrogenase [KO:K12524] [EC:1.1.1.3 2.7.2.4]
+VOLCADRAFT_121504  
+hypothetical protein; K00133 aspartate-semialdehyde dehydrogenase [EC:1.2.1.11] [KO:K00133] [EC:1.2.1.11]
+VOLCADRAFT_56764  
+dihydrodipicolinate synthase; K01714 4-hydroxy-tetrahydrodipicolinate synthase [EC:4.3.3.7] [KO:K01714] [EC:4.3.3.7]
+VOLCADRAFT_109527  
+hypothetical protein; K00215 dihydrodipicolinate reductase [EC:1.3.1.26] [KO:K00215] [EC:1.3.1.26]
+VOLCADRAFT_108222  
+hypothetical protein; K01778 diaminopimelate epimerase [EC:5.1.1.7] [KO:K01778] [EC:5.1.1.7]
+VOLCADRAFT_81843  
+hypothetical protein; K10206 LL-diaminopimelate aminotransferase [EC:2.6.1.83] [KO:K10206] [EC:2.6.1.83]
+VOLCADRAFT_84373  
+dpd1; DAP decarboxylase [KO:K01586] [EC:4.1.1.20]

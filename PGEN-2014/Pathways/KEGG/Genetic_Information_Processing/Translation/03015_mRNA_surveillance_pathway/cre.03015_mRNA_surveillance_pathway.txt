@@ -1,0 +1,86 @@
+CHLREDRAFT_17391  
+ABH1; mRNA cap-binding protein [KO:K12882]
+CHLREDRAFT_169371  
+hypothetical protein; K12883 nuclear cap-binding protein subunit 2 [KO:K12883]
+CHLREDRAFT_169865  
+UPF3; UPF3 protein [KO:K14328]
+CHLREDRAFT_192599  
+RBM8A; RNA binding motif protein [KO:K12876]
+CHLREDRAFT_184322  
+MGO1; mago nashi-like protein [KO:K12877]
+CHLREDRAFT_608  
+EIF4A3; eukaryotic initiation factor [KO:K13025] [EC:3.6.4.13]
+CHLREDRAFT_104302  
+Sin3 complex component; K14324 histone deacetylase complex subunit SAP18 [KO:K14324]
+CHLREDRAFT_168261  
+REF1; RNA export factor [KO:K12881]
+CHLREDRAFT_83282  
+UAP56; subunit of exon junction complex [KO:K12812] [EC:3.6.4.13]
+CHLREDRAFT_184443  
+PYM1; exon junction complex protein [KO:K14294]
+CHLREDRAFT_174571  
+hypothetical protein; K13171 serine/arginine repetitive matrix protein 1 [KO:K13171]
+CHLREDRAFT_191164  
+MRCE1; mRNA capping enzyme with dual 5' triphosphatase and guanylyltransferase activities [KO:K13917] [EC:3.1.3.33 2.7.7.50]
+CHLREDRAFT_112590  
+poly(A) binding protein; K14396 polyadenylate-binding protein 2 [KO:K14396]
+CHLREDRAFT_77351  
+hypothetical protein; K14397 cleavage and polyadenylation specificity factor subunit 5 [KO:K14397]
+CHLREDRAFT_126151  
+PAP1; poly(a) polymerase [KO:K14376] [EC:2.7.7.19]
+CHLREDRAFT_117224  
+mRNA cleavage and polyadenylation factor complex II subunit; K14399 polyribonucleotide 5'-hydroxyl-kinase [EC:2.7.1.78] [KO:K14399] [EC:2.7.1.78]
+CHLREDRAFT_182706  
+hypothetical protein; K14401 cleavage and polyadenylation specificity factor subunit 1 [KO:K14401]
+CHLREDRAFT_168575  
+hypothetical protein; K14401 cleavage and polyadenylation specificity factor subunit 1 [KO:K14401]
+CHLREDRAFT_128192  
+hypothetical protein; K14402 cleavage and polyadenylation specificity factor subunit 2 [KO:K14402]
+CHLREDRAFT_122831  
+subunit of mRNA cleavage and polyadenylation specificity factor; K14403 cleavage and polyadenylation specificity factor subunit 3 [EC:3.1.27.-] [KO:K14403] [EC:3.1.27.-]
+CHLREDRAFT_167492  
+hypothetical protein; K15542 polyadenylation factor subunit 2 [KO:K15542]
+CHLREDRAFT_160030  
+PP1A; protein phosphatase 1 [KO:K06269] [EC:3.1.3.16]
+CHLREDRAFT_130182  
+hypothetical protein; K15544 RNA polymerase II subunit A C-terminal domain phosphatase SSU72 [EC:3.1.3.16] [KO:K15544] [EC:3.1.3.16]
+CHLREDRAFT_116831  
+hypothetical protein; K14407 cleavage stimulation factor subunit 2 [KO:K14407]
+CHLREDRAFT_144563  
+RNA processing protein; K14408 cleavage stimulation factor subunit 3 [KO:K14408]
+CHLREDRAFT_105806  
+RNA binding protein; K14411 RNA-binding protein Musashi [KO:K14411]
+CHLREDRAFT_99772  
+hypothetical protein; K14411 RNA-binding protein Musashi [KO:K14411]
+CHLREDRAFT_116226  
+RB47; polyadenylate-binding protein RB47 [KO:K13126]
+CHLREDRAFT_182764  
+ERF1; eukaryotic release factor 1 [KO:K03265]
+CHLREDRAFT_118974  
+EFG3; elongation factor-like protein [KO:K03267]
+CHLREDRAFT_96867  
+UPF1; UPF1 protein [KO:K14326] [EC:3.6.4.-]
+CHLREDRAFT_119808  
+hypothetical protein; K14327 regulator of nonsense transcripts 2 [KO:K14327]
+CHLREDRAFT_9121  
+SMG1; phosphatidylinositol 3-kinase-related protein kinase [KO:K08873]
+CHLREDRAFT_807  
+PP2A3; protein phosphatase 2A catalytic subunit [KO:K04382] [EC:3.1.3.16]
+CHLREDRAFT_399  
+serine/threonine-protein phosphatase PP2A-3 catalytic subunit; K04382 protein phosphatase 2 (formerly 2A), catalytic subunit [EC:3.1.3.16] [KO:K04382] [EC:3.1.3.16]
+CHLREDRAFT_193562  
+protein phosphatase 2A catalytic subunit; K04382 protein phosphatase 2 (formerly 2A), catalytic subunit [EC:3.1.3.16] [KO:K04382] [EC:3.1.3.16]
+CHLREDRAFT_131550  
+protein phosphatase 2A regulatory subunit; K03456 protein phosphatase 2 (formerly 2A), regulatory subunit A [KO:K03456]
+CHLREDRAFT_185509  
+PP2A1; PP2A-twin subunit [KO:K04354]
+CHLREDRAFT_116578  
+hypothetical protein; K11583 protein phosphatase 2 (formerly 2A), regulatory subunit B'' [KO:K11583]
+CHLREDRAFT_112343  
+protein phosphatase 2A regulatory subunit; K11583 protein phosphatase 2 (formerly 2A), regulatory subunit B'' [KO:K11583]
+CHLREDRAFT_127638  
+PP2A2; PP2A-widerborst subunit [KO:K11584]
+CHLREDRAFT_99082  
+EFG4; GTP-binding elongation factor [KO:K14416]
+CHLREDRAFT_118297  
+Dom34 protein; K06965 protein pelota [KO:K06965]

@@ -1,0 +1,28 @@
+CHLREDRAFT_118204  
+acetyl-CoA C-acetyltransferase; K00626 acetyl-CoA C-acetyltransferase [EC:2.3.1.9] [KO:K00626] [EC:2.3.1.9]
+CHLREDRAFT_139750  
+ACS2; acetyl CoA synthetase [KO:K01895] [EC:6.2.1.1]
+CHLREDRAFT_194063  
+ACS1; acetyl CoA synthetase [KO:K01895] [EC:6.2.1.1]
+CHLREDRAFT_118751  
+acyl-CoA dehydrogenase; K00249 acyl-CoA dehydrogenase [EC:1.3.8.7] [KO:K00249] [EC:1.3.8.7]
+CHLREDRAFT_184945  
+acetyl-CoA carboxylase; K01962 acetyl-CoA carboxylase carboxyl transferase subunit alpha [EC:6.4.1.2] [KO:K01962] [EC:6.4.1.2]
+CHLREDRAFT_185478  
+BCC1; acetyl-coa biotin carboxyl carrier [KO:K02160]
+CHLREDRAFT_122970  
+biotin carboxylase; K01961 acetyl-CoA carboxylase, biotin carboxylase subunit [EC:6.4.1.2 6.3.4.14] [KO:K01961] [EC:6.3.4.14 6.4.1.2]
+CHLREDRAFT_133238  
+acetyl-coa carboxylase beta-carboxyltransferase subunit of plastidic multimeric ACCase; K01963 acetyl-CoA carboxylase carboxyl transferase subunit beta [EC:6.4.1.2] [KO:K01963] [EC:6.4.1.2]
+CHLREDRAFT_122441  
+hypothetical protein; K11262 acetyl-CoA carboxylase / biotin carboxylase [EC:6.4.1.2 6.3.4.14] [KO:K11262] [EC:6.3.4.14 6.4.1.2]
+CHLREDRAFT_206199  
+malonyl-CoA decarboxylase; K01578 malonyl-CoA decarboxylase [EC:4.1.1.9] [KO:K01578] [EC:4.1.1.9]
+CHLREDRAFT_196570  
+SCLA1; succinyl-CoA ligase [KO:K01899] [EC:6.2.1.5 6.2.1.4]
+CHLREDRAFT_24101  
+SCLB1a; succinate-coa ligase beta chain [KO:K01900] [EC:6.2.1.5 6.2.1.4]
+CHLREDRAFT_130434  
+methylmalonate semi-aldehyde dehydrogenase; K00140 malonate-semialdehyde dehydrogenase (acetylating) / methylmalonate-semialdehyde dehydrogenase [EC:1.2.1.18 1.2.1.27] [KO:K00140] [EC:1.2.1.27 1.2.1.18]
+CHLREDRAFT_135609  
+aldehyde dehydrogenase; K00128 aldehyde dehydrogenase (NAD+) [EC:1.2.1.3] [KO:K00128] [EC:1.2.1.3]

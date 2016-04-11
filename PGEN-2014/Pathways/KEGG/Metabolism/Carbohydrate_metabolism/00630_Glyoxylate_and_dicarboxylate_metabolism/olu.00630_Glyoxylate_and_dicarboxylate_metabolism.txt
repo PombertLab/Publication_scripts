@@ -1,0 +1,38 @@
+OSTLU_87414  
+hypothetical protein; K00025 malate dehydrogenase [EC:1.1.1.37] [KO:K00025] [EC:1.1.1.37]
+OSTLU_32875  
+hypothetical protein; K00026 malate dehydrogenase [EC:1.1.1.37] [KO:K00026] [EC:1.1.1.37]
+OSTLU_24671  
+hypothetical protein; K00026 malate dehydrogenase [EC:1.1.1.37] [KO:K00026] [EC:1.1.1.37]
+OSTLU_12282  
+hypothetical protein; K00026 malate dehydrogenase [EC:1.1.1.37] [KO:K00026] [EC:1.1.1.37]
+OSTLU_24535  
+hypothetical protein; K01647 citrate synthase [EC:2.3.3.1] [KO:K01647] [EC:2.3.3.1]
+OSTLU_37633  
+hypothetical protein; K01647 citrate synthase [EC:2.3.3.1] [KO:K01647] [EC:2.3.3.1]
+OSTLU_119573  
+AcnB; aconitate hydratase [KO:K01682] [EC:4.2.1.99 4.2.1.3]
+OSTLU_37603  
+hypothetical protein; K00104 glycolate oxidase [EC:1.1.3.15] [KO:K00104] [EC:1.1.3.15]
+OSTLU_32608  
+rbcL; hypothetical protein [KO:K01601] [EC:4.1.1.39]
+OSTLU_28400  
+hypothetical protein; K01602 ribulose-bisphosphate carboxylase small chain [EC:4.1.1.39] [KO:K01602] [EC:4.1.1.39]
+OSTLU_89572  
+hypothetical protein; K01602 ribulose-bisphosphate carboxylase small chain [EC:4.1.1.39] [KO:K01602] [EC:4.1.1.39]
+OSTLU_42060  
+hypothetical protein; K01602 ribulose-bisphosphate carboxylase small chain [EC:4.1.1.39] [KO:K01602] [EC:4.1.1.39]
+OSTLU_51965  
+hypothetical protein; K00284 glutamate synthase (ferredoxin) [EC:1.4.7.1] [KO:K00284] [EC:1.4.7.1]
+OSTLU_39960  
+hypothetical protein; K01915 glutamine synthetase [EC:6.3.1.2] [KO:K01915] [EC:6.3.1.2]
+OSTLU_30421  
+hypothetical protein; K00600 glycine hydroxymethyltransferase [EC:2.1.2.1] [KO:K00600] [EC:2.1.2.1]
+OSTLU_29554  
+hypothetical protein; K00600 glycine hydroxymethyltransferase [EC:2.1.2.1] [KO:K00600] [EC:2.1.2.1]
+OSTLU_37794  
+hypothetical protein; K00600 glycine hydroxymethyltransferase [EC:2.1.2.1] [KO:K00600] [EC:2.1.2.1]
+OSTLU_27674  
+hypothetical protein; K02437 glycine cleavage system H protein [KO:K02437]
+OSTLU_41282  
+hypothetical protein; K15918 D-glycerate 3-kinase [EC:2.7.1.31] [KO:K15918] [EC:2.7.1.31]

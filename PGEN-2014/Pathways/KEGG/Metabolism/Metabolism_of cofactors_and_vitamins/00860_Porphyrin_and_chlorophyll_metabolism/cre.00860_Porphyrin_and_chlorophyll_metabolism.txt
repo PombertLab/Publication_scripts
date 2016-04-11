@@ -1,0 +1,68 @@
+CHLREDRAFT_195543  
+GTS1; gln-glu non-discriminatory tRNA synthetase [KO:K01885] [EC:6.1.1.17]
+CHLREDRAFT_195574  
+GTS2; non-discriminatory gln-glu-trna synthetase [KO:K01885] [EC:6.1.1.17]
+CHLREDRAFT_183460  
+HEMA; glutamyl-trna reductase [KO:K02492] [EC:1.2.1.70]
+CHLREDRAFT_138524  
+GSA; glutamate-1-semialdehyde aminotransferase [KO:K01845] [EC:5.4.3.8]
+CHLREDRAFT_186639  
+ALAD; delta-aminolevulinic acid dehydratase [KO:K01698] [EC:4.2.1.24]
+CHLREDRAFT_194475  
+PBGD1; porphobilinogen deaminase [KO:K01749] [EC:2.5.1.61]
+CHLREDRAFT_195943  
+UROS; uroporphyrinogen-iii synthase [KO:K01719] [EC:4.2.1.75]
+CHLREDRAFT_132194  
+UROD1; uroporphyrinogen-iii decarboxylase [KO:K01599] [EC:4.1.1.37]
+CHLREDRAFT_186446  
+UROD2; uroporphyrinogen decarboxylase [KO:K01599] [EC:4.1.1.37]
+CHLREDRAFT_205686  
+CPX2; coproporphyrinogen III oxidase [KO:K00228] [EC:1.3.3.3]
+CHLREDRAFT_53583  
+CPX1; coproporphyrinogen III oxidase [KO:K00228] [EC:1.3.3.3]
+CHLREDRAFT_99520  
+hypothetical protein; K02495 oxygen-independent coproporphyrinogen III oxidase [EC:1.3.99.22] [KO:K02495] [EC:1.3.99.22]
+CHLREDRAFT_191043  
+PPX1; protoporphyrinogen oxidase [KO:K00231] [EC:1.3.3.4]
+CHLREDRAFT_183446  
+HEM15; ferrochelatase [KO:K01772] [EC:4.99.1.1]
+CHLREDRAFT_123320  
+COX10; cytochrome c oxidase assembly protein [KO:K02257] [EC:2.5.1.-]
+CHLREDRAFT_111563  
+COX15; cytochrome c oxidase assembly factor [KO:K02259]
+CHLREDRAFT_122771  
+FAP23; flagellar associated protein, cobalamin adenosyltransferase-like protein [KO:K00798] [EC:2.5.1.17]
+CHLREDRAFT_105632  
+CHLH2; magnesium chelatase subunit H [KO:K03403] [EC:6.6.1.1]
+CHLREDRAFT_195524  
+CHLH1; magnesium chelatase subunit H [KO:K03403] [EC:6.6.1.1]
+CHLREDRAFT_134594  
+CHLD; magnesium chelatase subunit D [KO:K03404] [EC:6.6.1.1]
+CHLREDRAFT_195575  
+CHLM; Mg protoporphyrin IX S-adenosyl methionine O-methyl transferase [KO:K03428] [EC:2.1.1.11]
+CHLREDRAFT_205856  
+CTH1; copper target 1 protein [KO:K04035] [EC:1.14.13.81]
+CHLREDRAFT_136589  
+POR; light-dependent protochlorophyllide reductase [KO:K00218] [EC:1.3.1.33]
+ChreCp009  
+chlL; light-independent protochlorophyllide reductase iron-sulfer ATP-binding protein [KO:K04037] [EC:1.3.7.7]
+ChreCp056  
+chlN; light-independent protochlorophyllide reductase subunit N [KO:K04038] [EC:1.3.7.7]
+CHLREDRAFT_5437  
+CHLG; chlorophyll synthetase [KO:K04040] [EC:2.5.1.62]
+CHLREDRAFT_195951  
+CAO; chlorophyll a oxygenase [KO:K13600] [EC:1.14.13.122]
+CHLREDRAFT_205572  
+NYC1; chlorophyll b reductase [KO:K13606] [EC:1.1.1.294]
+CHLREDRAFT_136810  
+geranylgeranyl reductase; K10960 geranylgeranyl reductase [EC:1.3.1.83] [KO:K10960] [EC:1.3.1.83]
+CHLREDRAFT_152591  
+HMOX2; heme oxygenase [KO:K00510] [EC:1.14.99.3]
+CHLREDRAFT_121344  
+HCS2; cytochrome c heme lyase [KO:K01764] [EC:4.4.1.17]
+CHLREDRAFT_184910  
+HCS1; cytochrome c heme lyase [KO:K01764] [EC:4.4.1.17]
+CHLREDRAFT_192603  
+hypothetical protein; K01764 cytochrome c heme-lyase [EC:4.4.1.17] [KO:K01764] [EC:4.4.1.17]
+CHLREDRAFT_206372  
+FER1; pre-apoferritin [KO:K00522] [EC:1.16.3.1]

@@ -1,0 +1,18 @@
+OSTLU_40909  
+hypothetical protein; K07513 acetyl-CoA acyltransferase 1 [EC:2.3.1.16] [KO:K07513] [EC:2.3.1.16]
+OSTLU_49128  
+hypothetical protein; K10527 enoyl-CoA hydratase/3-hydroxyacyl-CoA dehydrogenase [EC:4.2.1.17 1.1.1.35 1.1.1.211] [KO:K10527] [EC:1.1.1.211 1.1.1.35 4.2.1.17]
+OSTLU_13743  
+hypothetical protein; K00232 acyl-CoA oxidase [EC:1.3.3.6] [KO:K00232] [EC:1.3.3.6]
+OSTLU_26758  
+hypothetical protein; K01897 long-chain acyl-CoA synthetase [EC:6.2.1.3] [KO:K01897] [EC:6.2.1.3]
+OSTLU_24496  
+hypothetical protein; K01897 long-chain acyl-CoA synthetase [EC:6.2.1.3] [KO:K01897] [EC:6.2.1.3]
+OSTLU_40730  
+hypothetical protein; K15013 long-chain-fatty-acid--CoA ligase ACSBG [EC:6.2.1.3] [KO:K15013] [EC:6.2.1.3]
+OSTLU_28941  
+hypothetical protein; K13238 3,2-trans-enoyl-CoA isomerase, mitochondrial [EC:5.3.3.8] [KO:K13238] [EC:5.3.3.8]
+OSTLU_27414  
+ADHX; Zn-containing alcohol dehydrogenase [KO:K00121] [EC:1.1.1.1 1.1.1.284]
+OSTLU_13873  
+hypothetical protein; K00128 aldehyde dehydrogenase (NAD+) [EC:1.2.1.3] [KO:K00128] [EC:1.2.1.3]

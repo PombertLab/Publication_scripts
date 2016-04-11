@@ -1,0 +1,2 @@
+OSTLU_119488  
+LacZ; Beta-galactosidase, putative [KO:K01190] [EC:3.2.1.23]

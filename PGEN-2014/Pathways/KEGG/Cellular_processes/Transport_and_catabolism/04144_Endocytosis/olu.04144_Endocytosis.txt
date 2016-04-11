@@ -1,0 +1,56 @@
+OSTLU_29011  
+hypothetical protein; K01528 dynamin GTPase [EC:3.6.5.5] [KO:K01528] [EC:3.6.5.5]
+OSTLU_850  
+hypothetical protein; K00889 1-phosphatidylinositol-4-phosphate 5-kinase [EC:2.7.1.68] [KO:K00889] [EC:2.7.1.68]
+OSTLU_28794  
+hypothetical protein; K04646 clathrin heavy chain [KO:K04646]
+OSTLU_278  
+hypothetical protein; K11824 AP-2 complex subunit alpha [KO:K11824]
+OSTLU_48152  
+hypothetical protein; K11824 AP-2 complex subunit alpha [KO:K11824]
+OSTLU_40743  
+hypothetical protein; K11826 AP-2 complex subunit mu-1 [KO:K11826]
+OSTLU_40610  
+hypothetical protein; K11827 AP-2 complex subunit sigma-1 [KO:K11827]
+OSTLU_31330  
+HSP70D; Heat Shock Protein 70 [KO:K03283]
+OSTLU_48839  
+HSP70B; Heat Shock Protein 70, chloroplast [KO:K03283]
+OSTLU_28169  
+HSP70A; Heat Shock Protein 70, cytosolic [KO:K03283]
+OSTLU_32019  
+HSP70G; Heat Shock Protein 70, cytosolic [KO:K03283]
+OSTLU_14983  
+hypothetical protein; K07897 Ras-related protein Rab-7A [KO:K07897]
+OSTLU_86599  
+hypothetical protein; K12183 ESCRT-I complex subunit TSG101 [KO:K12183]
+OSTLU_29067  
+hypothetical protein; K12184 ESCRT-I complex subunit VPS28 [KO:K12184]
+OSTLU_42622  
+hypothetical protein; K12188 ESCRT-II complex subunit VPS22 [KO:K12188]
+OSTLU_4531  
+hypothetical protein; K12190 ESCRT-II complex subunit VPS36 [KO:K12190]
+OSTLU_4459  
+hypothetical protein; K12190 ESCRT-II complex subunit VPS36 [KO:K12190]
+OSTLU_28171  
+hypothetical protein; K12194 charged multivesicular body protein 4 [KO:K12194]
+OSTLU_8048  
+hypothetical protein; K12193 charged multivesicular body protein 3 [KO:K12193]
+OSTLU_26031  
+hypothetical protein; K12196 vacuolar protein-sorting-associated protein 4 [KO:K12196]
+OSTLU_27567  
+hypothetical protein; K12199 vacuolar protein sorting-associated protein VTA1 [KO:K12199]
+OSTLU_29213  
+hypothetical protein; K12197 charged multivesicular body protein 1 [KO:K12197]
+OSTLU_87009  
+hypothetical protein; K12198 charged multivesicular body protein 5 [KO:K12198]
+OSTLU_39182  
+hypothetical protein; K12200 programmed cell death 6-interacting protein [KO:K12200]
+OSTLU_23957  
+hypothetical protein; K12486 stromal membrane-associated protein [KO:K12486]
+OSTLU_27255  
+hypothetical protein; K12489 Arf-GAP with coiled-coil, ANK repeat and PH domain-containing protein [KO:K12489]
+OSTLU_29655  
+hypothetical protein; K12489 Arf-GAP with coiled-coil, ANK repeat and PH domain-containing protein [KO:K12489]
+OSTLU_3230  
+hypothetical protein; K12492 ADP-ribosylation factor GTPase-activating protein 1 [KO:K12492]

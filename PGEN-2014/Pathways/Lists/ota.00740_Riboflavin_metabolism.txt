@@ -1,0 +1,8 @@
+Ot08g01580  
+putative riboflavin biosynthesis protein RibA (ISS); K14652 3,4-dihydroxy 2-butanone 4-phosphate synthase / GTP cyclohydrolase II [EC:4.1.99.12 3.5.4.25] [KO:K14652] [EC:3.5.4.25 4.1.99.12]
+Ot07g03230  
+RibE (ISS); K00793 riboflavin synthase [EC:2.5.1.9] [KO:K00793] [EC:2.5.1.9]
+Ot01g05730  
+putative glutamine synthetase (ISS); K00861 riboflavin kinase [EC:2.7.1.26] [KO:K00861] [EC:2.7.1.26]
+Ot01g06150  
+Riboflavin kinase (ISS); K00861 riboflavin kinase [EC:2.7.1.26] [KO:K00861] [EC:2.7.1.26]

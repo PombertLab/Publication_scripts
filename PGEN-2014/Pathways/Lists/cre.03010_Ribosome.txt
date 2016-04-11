@@ -1,0 +1,240 @@
+ChreCp034  
+rps2; ribosomal protein S2 [KO:K02967]
+CHLREDRAFT_194972  
+MRPS6; mitochondrial ribosomal protein S6 [KO:K02990]
+ChreCp024  
+rps7; 30S ribosomal protein S7 [KO:K02992]
+CHLREDRAFT_195637  
+PRPS10; plastid ribosomal protein S10 [KO:K02946]
+CHLREDRAFT_130212  
+MRPS12; mitochondrial ribosomal protein S12 [KO:K02950]
+CHLREDRAFT_195627  
+PRPS13; plastid ribosomal protein S13 [KO:K02952]
+CHLREDRAFT_81150  
+MRPS14; mitochondrial ribosomal protein S14 [KO:K02954]
+ChreCp025  
+rps14; 30S ribosomal protein S14 [KO:K02954]
+ChreCp013  
+rps19; 30S ribosomal protein S19 [KO:K02965]
+CHLREDRAFT_195630  
+PRPS20; plastid ribosomal protein S20 [KO:K02968]
+CHLREDRAFT_195602  
+RPS2; ribosomal protein S2, component of cytosolic 80S ribosome and 40S small subunit [KO:K02981]
+CHLREDRAFT_134051  
+RPS3; ribosomal protein S3, component of cytosolic 80S ribosome and 40S small subunit [KO:K02985]
+CHLREDRAFT_168484  
+RPS3a; ribosomal protein S3a, component of cytosolic 80S ribosome and 40S small subunit [KO:K02984]
+CHLREDRAFT_188837  
+RPS4; ribosomal protein S4, component of cytosolic 80S ribosome and 40S small subunit [KO:K02987]
+CHLREDRAFT_191776  
+RPS5; ribosomal protein S5, component of cytosolic 80S ribosome and 40S small subunit [KO:K02989]
+CHLREDRAFT_104348  
+RPS6; ribosomal protein S6, component of cytosolic 80S ribosome and 40S small subunit [KO:K02991]
+CHLREDRAFT_179706  
+RPS7; ribosomal protein S7, component of cytosolic 80S ribosome and 40S small subunit [KO:K02993]
+CHLREDRAFT_195605  
+RPS8; ribosomal protein S8, component of cytosolic 80S ribosome and 40S small subunit [KO:K02995]
+CHLREDRAFT_195593  
+RPS9; ribosomal protein S9, component of cytosolic 80S ribosome and 40S small subunit [KO:K02997]
+CHLREDRAFT_149993  
+RPS10; ribosomal protein S10, component of cytosolic 80S ribosome and 40S small subunit [KO:K02947]
+CHLREDRAFT_180130  
+RPS11; ribosomal protein S11, component of cytosolic 80S ribosome and 40S small subunit [KO:K02949]
+CHLREDRAFT_159272  
+RPS12; ribosomal protein S12, component of cytosolic 80S ribosome and 40S small subunit [KO:K02951]
+CHLREDRAFT_169450  
+RPS13; ribosomal protein S13, component of cytosolic 80S ribosome and 40S small subunit [KO:K02953]
+CHLREDRAFT_24344  
+RPS14; ribosomal protein S14, component of cytosolic 80S ribosome and 40S small subunit [KO:K02955]
+CHLREDRAFT_24289  
+RPS15; ribosomal protein S15, component of cytosolic 80S ribosome and 40S small subunit [KO:K02958]
+CHLREDRAFT_59755  
+RPS15a; ribosomal protein S15a, component of cytosolic 80S ribosome and 40S small subunit [KO:K02957]
+CHLREDRAFT_195606  
+RPS16; ribosomal protein S16, component of cytosolic 80S ribosome and 40S small subunit [KO:K02960]
+CHLREDRAFT_195601  
+RPS17; ribosomal protein S17, component of cytosolic 80S ribosome and 40S small subunit [KO:K02962]
+CHLREDRAFT_155649  
+RPS18; ribosomal protein S18, component of cytosolic 80S ribosome and 40S small subunit [KO:K02964]
+CHLREDRAFT_141798  
+RPS19; ribosomal protein S19, component of cytosolic 80S ribosome and 40S small subunit [KO:K02966]
+CHLREDRAFT_195592  
+RPS20; ribosomal protein S20, component of cytosolic 80S ribosome and 40S small subunit [KO:K02969]
+CHLREDRAFT_129742  
+RPS21; ribosomal protein S21, component of cytosolic 80S ribosome and 40S small subunit [KO:K02971]
+CHLREDRAFT_205854  
+RPS23; ribosomal protein S23, component of cytosolic 80S ribosome and 40S small subunit [KO:K02973]
+CHLREDRAFT_143072  
+RPS24; ribosomal protein S24, component of cytosolic 80S ribosome and 40S small subunit [KO:K02974]
+CHLREDRAFT_57302  
+RPS25; ribosomal protein S25, component of cytosolic 80S ribosome and 40S small subunit [KO:K02975]
+CHLREDRAFT_46276  
+RPS26; ribosomal protein S26, component of cytosolic 80S ribosome and 40S small subunit [KO:K02976]
+CHLREDRAFT_150644  
+RPS27-A; ribosomal protein S27 isoform A, component of 80S ribosome and 40S small subunit [KO:K02978]
+CHLREDRAFT_386  
+RPS27-B; ribosomal protein S27 isoform B, component of 80S ribosome and 40S small subunit [KO:K02978]
+CHLREDRAFT_142065  
+RPS27a; ribosomal protein S27a, component of cytosolic 80S ribosome and 40S small subunit [KO:K02977]
+CHLREDRAFT_144646  
+RPS28; ribosomal protein S28, component of cytosolic 80S ribosome and 40S small subunit [KO:K02979]
+CHLREDRAFT_195607  
+RPS29; ribosomal protein S29, component of cytosolic 80S ribosome and 40S small subunit [KO:K02980]
+CHLREDRAFT_132716  
+RPS30; ribosomal protein S30, component of cytosolic 80S ribosome and 40S small subunit [KO:K02983]
+CHLREDRAFT_126059  
+RPSa; ribosomal protein Sa, component of cytosolic 80S ribosome and 40S small subunit [KO:K02998]
+CHLREDRAFT_171607  
+MRPL3; mitochondrial ribosomal protein L3 [KO:K02906]
+CHLREDRAFT_195623  
+PRPL3; plastid ribosomal protein L3 [KO:K02906]
+CHLREDRAFT_185040  
+PRPL4; plastid ribosomal protein L4 [KO:K02926]
+CHLREDRAFT_120057  
+MRPL4; mitochondrial ribosomal protein L4 [KO:K02926]
+CHLREDRAFT_184687  
+PRPL6; plastid ribosomal protein L6 [KO:K02933]
+CHLREDRAFT_194556  
+MRPL7/L12; mitochondrial ribosomal protein L7/L12 [KO:K02935]
+CHLREDRAFT_184123  
+PRPL9; plastid ribosomal protein L9 [KO:K02939]
+CHLREDRAFT_126960  
+PRPL10; plastid ribosomal protein L10 [KO:K02864]
+CHLREDRAFT_184822  
+MRPL11; mitochondrial ribosomal protein L11 [KO:K02867]
+CHLREDRAFT_195619  
+PRPL13; plastid ribosomal protein L13 [KO:K02871]
+CHLREDRAFT_185004  
+MRPL13; mitochondrial ribosomal protein L13 [KO:K02871]
+CHLREDRAFT_195635  
+PRPL15; plastid ribosomal protein L15 [KO:K02876]
+CHLREDRAFT_192847  
+hypothetical protein; K02876 large subunit ribosomal protein L15 [KO:K02876]
+CHLREDRAFT_108312  
+MRPL17; mitochondrial ribosomal protein L17 [KO:K02879]
+CHLREDRAFT_195620  
+PRPL17; plastid ribosomal protein L17 [KO:K02879]
+CHLREDRAFT_196265  
+PRPL18; plastid ribosomal protein L18 [KO:K02881]
+CHLREDRAFT_101876  
+MRPL20; mitochondrial ribosomal protein L20 [KO:K02887]
+CHLREDRAFT_148198  
+MRPL21; mitochondrial ribosomal protein L21 [KO:K02888]
+CHLREDRAFT_195622  
+PRPL24; plastid ribosomal protein L24 [KO:K02895]
+CHLREDRAFT_99818  
+hypothetical protein; K02895 large subunit ribosomal protein L24 [KO:K02895]
+CHLREDRAFT_101404  
+hypothetical protein; K02899 large subunit ribosomal protein L27 [KO:K02899]
+CHLREDRAFT_195636  
+PRPL27; plastid ribosomal protein L27 [KO:K02899]
+CHLREDRAFT_122263  
+MRPL30; mitochondrial ribosomal protein L30 [KO:K02907]
+CHLREDRAFT_151596  
+MRPL33; mitochondrial ribosomal protein L33 [KO:K02913]
+CHLREDRAFT_194331  
+PRPL35; plastid ribosomal protein L35 [KO:K02916]
+CHLREDRAFT_126189  
+RPL3; ribosomal protein L3, component of cytosolic 80S ribosome and 60S large subunit [KO:K02925]
+CHLREDRAFT_195598  
+RPL4; ribosomal protein L4, component of cytosolic 80S ribosome and 60S large subunit [KO:K02930]
+CHLREDRAFT_183782  
+RPL5; ribosomal protein L5, component of cytosolic 80S ribosome and 60S large subunit [KO:K02932]
+CHLREDRAFT_183518  
+RPL6; ribosomal protein L6, component of cytosolic 80S ribosome and 60S large subunit [KO:K02934]
+CHLREDRAFT_206194  
+RPL7; ribosomal protein L7, component of cytosolic 80S ribosome and 60S large subunit [KO:K02937]
+CHLREDRAFT_195599  
+RPL7a; ribosomal protein L7a, component of cytosolic 80S ribosome and 60S large subunit [KO:K02936]
+CHLREDRAFT_172406  
+RPL8; ribosomal protein L8, component of cytosolic 80S ribosome and 60S large subunit [KO:K02938]
+CHLREDRAFT_139831  
+RPL9; ribosomal protein L9, component of cytosolic 80S ribosome and 60S large subunit [KO:K02940]
+CHLREDRAFT_195584  
+RPL10; ribosomal protein L10, component of cytosolic 80S ribosome and 60S large subunit [KO:K02866]
+CHLREDRAFT_195585  
+RPL10a; ribosomal protein L10a, component of cytosolic 80S ribosome and 60S large subunit [KO:K02865]
+CHLREDRAFT_195587  
+RPL11; ribosomal protein L11, component of cytosolic 80S ribosome and 60S large subunit [KO:K02868]
+CHLREDRAFT_138697  
+RPL12; ribosomal protein L12, component of cytosolic 80S ribosome and 60S large subunit [KO:K02870]
+CHLREDRAFT_129809  
+RPL13; ribosomal protein L13, component of cytosolic 80S ribosome and 60S large subunit [KO:K02873]
+CHLREDRAFT_162845  
+RPL13a; ribosomal protein L13a, component of cytosolic 80S ribosome and 60S large subunit [KO:K02872]
+CHLREDRAFT_145271  
+RPL14; ribosomal protein L14, component of cytosolic 80S ribosome and 60S large subunit [KO:K02875]
+CHLREDRAFT_76376  
+RPL15; ribosomal protein L15, component of cytosolic 80S ribosome and 60S large subunit [KO:K02877]
+CHLREDRAFT_77517  
+RPL17; ribosomal protein L17, component of cytosolic 80S ribosome and 60S large subunit [KO:K02880]
+CHLREDRAFT_195589  
+RPL18; ribosomal protein L18, component of cytosolic 80S ribosome and 60S large subunit [KO:K02883]
+CHLREDRAFT_146844  
+RPL18a; ribosomal protein L18a, component of cytosolic 80S ribosome and 60S large subunit [KO:K02882]
+CHLREDRAFT_195590  
+RPL19; ribosomal protein L19, component of cytosolic 80S ribosome and 60S large subunit [KO:K02885]
+CHLREDRAFT_24354  
+RPL21; ribosomal protein L21, component of cytosolic 80S ribosome and 60S large subunit [KO:K02889]
+CHLREDRAFT_195131  
+RPL22; ribosomal protein L22, component of cytosolic 80S ribosome and 60S large subunit [KO:K02891]
+CHLREDRAFT_159282  
+RPL23; ribosomal protein L23, component of cytosolic 80S ribosome and 60S large subunit [KO:K02894]
+CHLREDRAFT_174711  
+RPL23a; ribosomal protein L23a, component of cytosolic 80S ribosome and 60S large subunit [KO:K02893]
+CHLREDRAFT_195608  
+RPL24; ribosomal protein L24, component of cytosolic 80S ribosome and 60S large subunit [KO:K02896]
+CHLREDRAFT_83083  
+hypothetical protein; K02896 large subunit ribosomal protein L24e [KO:K02896]
+CHLREDRAFT_136811  
+RPL26; ribosomal protein L26, component of cytosolic 80S ribosome and 60S large subunit [KO:K02898]
+CHLREDRAFT_260  
+RPL27; ribosomal protein L27, component of cytosolic 80S ribosome and 60S large subunit [KO:K02901]
+CHLREDRAFT_155455  
+RPL27a; ribosomal protein L27a, component of cytosolic 80S ribosome and 60S large subunit [KO:K02900]
+CHLREDRAFT_153674  
+RPL28; ribosomal protein L28, component of cytosolic 80S ribosome and 60S large subunit [KO:K02903]
+CHLREDRAFT_147472  
+RPL29; ribosomal protein L29, component of cytosolic 80S ribosome and 60S large subunit [KO:K02905]
+CHLREDRAFT_166012  
+RPL30; ribosomal protein L30, component of cytosolic 80S ribosome and 60S large subunit [KO:K02908]
+CHLREDRAFT_78109  
+RPL31; ribosomal protein L31, component of cytosolic 80S ribosome and 60S large subunit [KO:K02910]
+CHLREDRAFT_191758  
+RPL32; ribosomal protein L32, component of cytosolic 80S ribosome and 60S large subunit [KO:K02912]
+CHLREDRAFT_195595  
+RPL34; ribosomal protein L34, component of cytosolic 80S ribosome and 60S large subunit [KO:K02915]
+CHLREDRAFT_147004  
+RPL35; ribosomal protein L35, component of cytosolic 80S ribosome and 60S large subunit [KO:K02918]
+CHLREDRAFT_127247  
+RPL35a; ribosomal protein L35a, component of cytosolic 80S ribosome and 60S large subunit [KO:K02917]
+CHLREDRAFT_195597  
+RPL36; ribosomal protein L36, component of cytosolic 80S ribosome and 60S large subunit [KO:K02920]
+CHLREDRAFT_126163  
+RPL37; ribosomal protein L37, component of cytosolic 80S ribosome and 60S large subunit [KO:K02922]
+CHLREDRAFT_126853  
+RPL37a; ribosomal protein L37a, component of cytosolic 80S ribosome and 60S large subunit [KO:K02921]
+CHLREDRAFT_194928  
+RPL38; ribosomal protein L38, component of cytosolic 80S ribosome and 60S large subunit [KO:K02923]
+CHLREDRAFT_130723  
+RPL39; ribosomal protein L39, component of cytosolic 80S ribosome and 60S large subunit [KO:K02924]
+CHLREDRAFT_195594  
+RPL40; ribosomal protein L40, component of cytosolic 80S ribosome and 60S large subunit [KO:K02927]
+CHLREDRAFT_195610  
+RPL41; ribosomal protein L41, component of cytosolic 80S ribosome and 60S large subunit [KO:K02928]
+CHLREDRAFT_128309  
+RPL36a; ribosomal protein L36a, component of cytosolic 80S ribosome and 60S large subunit [KO:K02929]
+CHLREDRAFT_164097  
+RPP0; acidic ribosomal protein P0 [KO:K02941]
+CHLREDRAFT_82172  
+RPP1; acidic ribosomal protein P1 [KO:K02942]
+CHLREDRAFT_195600  
+RPP2; acidic ribosomal protein P2 [KO:K02943]
+ChreCr001  
+rrnS; 16S ribosomal RNA [KO:K01979]
+ChreCr010  
+rrnS; 16S ribosomal RNA [KO:K01979]
+ChreCr004  
+rrnL; 23S ribosomal RNA [KO:K01982]
+ChreCr007  
+rrnL; 23S ribosomal RNA [KO:K01982]

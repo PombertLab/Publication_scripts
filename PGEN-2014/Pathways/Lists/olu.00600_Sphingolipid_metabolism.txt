@@ -1,0 +1,10 @@
+OSTLU_40144  
+hypothetical protein; K00654 serine palmitoyltransferase [EC:2.3.1.50] [KO:K00654] [EC:2.3.1.50]
+OSTLU_40179  
+hypothetical protein; K00654 serine palmitoyltransferase [EC:2.3.1.50] [KO:K00654] [EC:2.3.1.50]
+OSTLU_17414  
+hypothetical protein; K04718 sphingosine kinase [EC:2.7.1.91] [KO:K04718] [EC:2.7.1.91]
+OSTLU_119543  
+SgpL; Sphingosine-1-phosphate lyase [KO:K01634] [EC:4.1.2.27]
+OSTLU_119488  
+LacZ; Beta-galactosidase, putative [KO:K01190] [EC:3.2.1.23]

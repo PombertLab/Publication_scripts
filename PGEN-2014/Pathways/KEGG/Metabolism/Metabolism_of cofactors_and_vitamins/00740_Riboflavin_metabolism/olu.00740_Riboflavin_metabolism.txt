@@ -1,0 +1,10 @@
+OSTLU_15668  
+hypothetical protein; K01497 GTP cyclohydrolase II [EC:3.5.4.25] [KO:K01497] [EC:3.5.4.25]
+OSTLU_87976  
+hypothetical protein; K14652 3,4-dihydroxy 2-butanone 4-phosphate synthase / GTP cyclohydrolase II [EC:4.1.99.12 3.5.4.25] [KO:K14652] [EC:3.5.4.25 4.1.99.12]
+OSTLU_8942  
+hypothetical protein; K00794 6,7-dimethyl-8-ribityllumazine synthase [EC:2.5.1.78] [KO:K00794] [EC:2.5.1.78]
+OSTLU_8148  
+hypothetical protein; K00793 riboflavin synthase [EC:2.5.1.9] [KO:K00793] [EC:2.5.1.9]
+OSTLU_29210  
+hypothetical protein; K00861 riboflavin kinase [EC:2.7.1.26] [KO:K00861] [EC:2.7.1.26]

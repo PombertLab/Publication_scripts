@@ -1,0 +1,4 @@
+Ot02g05910  
+glutamate decarboxylase (ISS); K01580 glutamate decarboxylase [EC:4.1.1.15] [KO:K01580] [EC:4.1.1.15]
+Ot07g01620  
+hypothetical protein; K10712 cysteamine dioxygenase [EC:1.13.11.19] [KO:K10712] [EC:1.13.11.19]

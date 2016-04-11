@@ -1,0 +1,18 @@
+VOLCADRAFT_69909  
+hypothetical protein; K14490 histidine-containing phosphotransfer peotein [KO:K14490]
+VOLCADRAFT_68910  
+ARR-B family transcription factor; K14491 two-component response regulator ARR-B family [KO:K14491]
+VOLCADRAFT_121292  
+hypothetical protein; K14497 protein phosphatase 2C [EC:3.1.3.16] [KO:K14497] [EC:3.1.3.16]
+VOLCADRAFT_61058  
+hypothetical protein; K14497 protein phosphatase 2C [EC:3.1.3.16] [KO:K14497] [EC:3.1.3.16]
+VOLCADRAFT_59940  
+okl1; hypothetical protein [KO:K14498] [EC:2.7.11.1]
+VOLCADRAFT_64086  
+hypothetical protein; K14498 serine/threonine-protein kinase SRK2 [EC:2.7.11.1] [KO:K14498] [EC:2.7.11.1]
+VOLCADRAFT_67888  
+hypothetical protein; K14498 serine/threonine-protein kinase SRK2 [EC:2.7.11.1] [KO:K14498] [EC:2.7.11.1]
+VOLCADRAFT_79910  
+sac3; Snf1-like protein kinase [KO:K14498] [EC:2.7.11.1]
+VOLCADRAFT_91421  
+hypothetical protein; K14498 serine/threonine-protein kinase SRK2 [EC:2.7.11.1] [KO:K14498] [EC:2.7.11.1]

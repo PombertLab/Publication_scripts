@@ -1,0 +1,10 @@
+VOLCADRAFT_105807  
+hypothetical protein; K03147 thiamine biosynthesis protein ThiC [KO:K03147]
+VOLCADRAFT_109150  
+hypothetical protein; K04487 cysteine desulfurase [EC:2.8.1.7] [KO:K04487] [EC:2.8.1.7]
+VOLCADRAFT_95927  
+hypothetical protein; K04487 cysteine desulfurase [EC:2.8.1.7] [KO:K04487] [EC:2.8.1.7]
+VOLCADRAFT_63817  
+hypothetical protein; K11717 cysteine desulfurase / selenocysteine lyase [EC:2.8.1.7 4.4.1.16] [KO:K11717] [EC:4.4.1.16 2.8.1.7]
+VOLCADRAFT_80686  
+hypothetical protein; K06928 nucleoside-triphosphatase THEP1 [EC:3.6.1.15] [KO:K06928] [EC:3.6.1.15]

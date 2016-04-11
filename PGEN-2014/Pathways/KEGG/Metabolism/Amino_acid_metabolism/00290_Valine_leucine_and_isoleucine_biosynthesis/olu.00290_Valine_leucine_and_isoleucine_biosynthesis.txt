@@ -1,0 +1,24 @@
+OSTLU_39224  
+hypothetical protein; K01754 threonine dehydratase [EC:4.3.1.19] [KO:K01754] [EC:4.3.1.19]
+OSTLU_28677  
+hypothetical protein; K01702 3-isopropylmalate dehydratase [EC:4.2.1.33] [KO:K01702] [EC:4.2.1.33]
+OSTLU_29616  
+hypothetical protein; K00052 3-isopropylmalate dehydrogenase [EC:1.1.1.85] [KO:K00052] [EC:1.1.1.85]
+OSTLU_51596  
+hypothetical protein; K01652 acetolactate synthase I/II/III large subunit [EC:2.2.1.6] [KO:K01652] [EC:2.2.1.6]
+OSTLU_89681  
+hypothetical protein; K01652 acetolactate synthase I/II/III large subunit [EC:2.2.1.6] [KO:K01652] [EC:2.2.1.6]
+OSTLU_44053  
+hypothetical protein; K01653 acetolactate synthase I/III small subunit [EC:2.2.1.6] [KO:K01653] [EC:2.2.1.6]
+OSTLU_30575  
+hypothetical protein; K00053 ketol-acid reductoisomerase [EC:1.1.1.86] [KO:K00053] [EC:1.1.1.86]
+OSTLU_34354  
+hypothetical protein; K01687 dihydroxy-acid dehydratase [EC:4.2.1.9] [KO:K01687] [EC:4.2.1.9]
+OSTLU_31397  
+hypothetical protein; K00826 branched-chain amino acid aminotransferase [EC:2.6.1.42] [KO:K00826] [EC:2.6.1.42]
+OSTLU_43558  
+hypothetical protein; K00826 branched-chain amino acid aminotransferase [EC:2.6.1.42] [KO:K00826] [EC:2.6.1.42]
+OSTLU_33086  
+hypothetical protein; K00826 branched-chain amino acid aminotransferase [EC:2.6.1.42] [KO:K00826] [EC:2.6.1.42]
+OSTLU_29150  
+hypothetical protein; K01649 2-isopropylmalate synthase [EC:2.3.3.13] [KO:K01649] [EC:2.3.3.13]

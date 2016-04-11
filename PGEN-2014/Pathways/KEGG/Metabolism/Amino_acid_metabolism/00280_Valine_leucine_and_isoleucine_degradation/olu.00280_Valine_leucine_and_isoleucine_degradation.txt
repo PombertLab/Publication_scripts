@@ -1,0 +1,18 @@
+OSTLU_31397  
+hypothetical protein; K00826 branched-chain amino acid aminotransferase [EC:2.6.1.42] [KO:K00826] [EC:2.6.1.42]
+OSTLU_43558  
+hypothetical protein; K00826 branched-chain amino acid aminotransferase [EC:2.6.1.42] [KO:K00826] [EC:2.6.1.42]
+OSTLU_33086  
+hypothetical protein; K00826 branched-chain amino acid aminotransferase [EC:2.6.1.42] [KO:K00826] [EC:2.6.1.42]
+OSTLU_26614  
+hypothetical protein; K00382 dihydrolipoamide dehydrogenase [EC:1.8.1.4] [KO:K00382] [EC:1.8.1.4]
+OSTLU_15203  
+hypothetical protein; K00382 dihydrolipoamide dehydrogenase [EC:1.8.1.4] [KO:K00382] [EC:1.8.1.4]
+OSTLU_40909  
+hypothetical protein; K07513 acetyl-CoA acyltransferase 1 [EC:2.3.1.16] [KO:K07513] [EC:2.3.1.16]
+OSTLU_45774  
+hypothetical protein; K00020 3-hydroxyisobutyrate dehydrogenase [EC:1.1.1.31] [KO:K00020] [EC:1.1.1.31]
+OSTLU_13873  
+hypothetical protein; K00128 aldehyde dehydrogenase (NAD+) [EC:1.2.1.3] [KO:K00128] [EC:1.2.1.3]
+OSTLU_38108  
+hypothetical protein; K13524 4-aminobutyrate aminotransferase / (S)-3-amino-2-methylpropionate transaminase [EC:2.6.1.19 2.6.1.22] [KO:K13524] [EC:2.6.1.22 2.6.1.19]

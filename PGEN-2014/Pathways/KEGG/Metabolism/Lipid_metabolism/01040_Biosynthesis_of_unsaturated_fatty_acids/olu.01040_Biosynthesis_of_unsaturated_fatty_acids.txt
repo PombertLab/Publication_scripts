@@ -1,0 +1,16 @@
+OSTLU_13214  
+hypothetical protein; K10703 very-long-chain (3R)-3-hydroxyacyl-[acyl-carrier protein] dehydratase [EC:4.2.1.134] [KO:K10703] [EC:4.2.1.134]
+OSTLU_29682  
+hypothetical protein; K10703 very-long-chain (3R)-3-hydroxyacyl-[acyl-carrier protein] dehydratase [EC:4.2.1.134] [KO:K10703] [EC:4.2.1.134]
+OSTLU_49170  
+hypothetical protein; K10258 very-long-chain enoyl-CoA reductase [EC:1.3.1.93] [KO:K10258] [EC:1.3.1.93]
+OSTLU_12103  
+hypothetical protein; K00059 3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100] [KO:K00059] [EC:1.1.1.100]
+OSTLU_51664  
+hypothetical protein; K00507 stearoyl-CoA desaturase (delta-9 desaturase) [EC:1.14.19.1] [KO:K00507] [EC:1.14.19.1]
+OSTLU_15111  
+hypothetical protein; K03921 acyl-[acyl-carrier-protein] desaturase [EC:1.14.19.2] [KO:K03921] [EC:1.14.19.2]
+OSTLU_13743  
+hypothetical protein; K00232 acyl-CoA oxidase [EC:1.3.3.6] [KO:K00232] [EC:1.3.3.6]
+OSTLU_40909  
+hypothetical protein; K07513 acetyl-CoA acyltransferase 1 [EC:2.3.1.16] [KO:K07513] [EC:2.3.1.16]

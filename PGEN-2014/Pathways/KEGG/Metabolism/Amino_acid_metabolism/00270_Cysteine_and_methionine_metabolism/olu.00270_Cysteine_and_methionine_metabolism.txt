@@ -1,0 +1,50 @@
+OSTLU_5580  
+hypothetical protein; K00640 serine O-acetyltransferase [EC:2.3.1.30] [KO:K00640] [EC:2.3.1.30]
+OSTLU_87889  
+SAT1; serine acetyl transferase [KO:K00640] [EC:2.3.1.30]
+OSTLU_41218  
+hypothetical protein; K01738 cysteine synthase A [EC:2.5.1.47] [KO:K01738] [EC:2.5.1.47]
+OSTLU_26961  
+OASTL1; O-acetylserinethiol lyase/cysteine synthase [KO:K01738] [EC:2.5.1.47]
+OSTLU_88245  
+CBL1; cystathione beta lyase [KO:K01760] [EC:4.4.1.8]
+OSTLU_45056  
+metH; B12 dependent methionine synthase [KO:K00548] [EC:2.1.1.13]
+OSTLU_27381  
+hypothetical protein; K00789 S-adenosylmethionine synthetase [EC:2.5.1.6] [KO:K00789] [EC:2.5.1.6]
+OSTLU_47517  
+hypothetical protein; K00789 S-adenosylmethionine synthetase [EC:2.5.1.6] [KO:K00789] [EC:2.5.1.6]
+OSTLU_40897  
+SPD2; Spermidine synthase [KO:K00797] [EC:2.5.1.16]
+OSTLU_26437  
+SPD1; Spermidine synthase [KO:K00797] [EC:2.5.1.16]
+OSTLU_26221  
+hypothetical protein; K01244 5'-methylthioadenosine nucleosidase [EC:3.2.2.16] [KO:K01244] [EC:3.2.2.16]
+OSTLU_3520  
+hypothetical protein; K00899 5-methylthioribose kinase [EC:2.7.1.100] [KO:K00899] [EC:2.7.1.100]
+OSTLU_35743  
+hypothetical protein; K08963 methylthioribose-1-phosphate isomerase [EC:5.3.1.23] [KO:K08963] [EC:5.3.1.23]
+OSTLU_3820  
+hypothetical protein; K00815 tyrosine aminotransferase [EC:2.6.1.5] [KO:K00815] [EC:2.6.1.5]
+OSTLU_34856  
+hypothetical protein; K01251 adenosylhomocysteinase [EC:3.3.1.1] [KO:K01251] [EC:3.3.1.1]
+OSTLU_42674  
+hypothetical protein; K01762 1-aminocyclopropane-1-carboxylate synthase [EC:4.4.1.14] [KO:K01762] [EC:4.4.1.14]
+OSTLU_44504  
+hypothetical protein; K00928 aspartate kinase [EC:2.7.2.4] [KO:K00928] [EC:2.7.2.4]
+OSTLU_16870  
+hypothetical protein; K12524 bifunctional aspartokinase / homoserine dehydrogenase 1 [EC:2.7.2.4 1.1.1.3] [KO:K12524] [EC:1.1.1.3 2.7.2.4]
+OSTLU_28856  
+hypothetical protein; K00133 aspartate-semialdehyde dehydrogenase [EC:1.2.1.11] [KO:K00133] [EC:1.2.1.11]
+OSTLU_17120  
+CGS2; putative 2nd cystathione gamma synthase [KO:K01739] [EC:2.5.1.48]
+OSTLU_33390  
+CGS1; cystathione gamma synthase [KO:K01739] [EC:2.5.1.48]
+OSTLU_10204  
+hypothetical protein; K00641 homoserine O-acetyltransferase [EC:2.3.1.31] [KO:K00641] [EC:2.3.1.31]
+OSTLU_27367  
+CYSD; O-acetylserine sulfhydrylase/homocysteine synthase [KO:K01740] [EC:2.5.1.49]
+OSTLU_31597  
+hypothetical protein; K14455 aspartate aminotransferase, mitochondrial [EC:2.6.1.1] [KO:K14455] [EC:2.6.1.1]
+OSTLU_13229  
+hypothetical protein; K01011 thiosulfate/3-mercaptopyruvate sulfurtransferase [EC:2.8.1.1 2.8.1.2] [KO:K01011] [EC:2.8.1.2 2.8.1.1]

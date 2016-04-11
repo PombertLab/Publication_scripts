@@ -1,0 +1,28 @@
+CHLREDRAFT_174097  
+AST1; aspartate aminotransferase [KO:K14454] [EC:2.6.1.1]
+CHLREDRAFT_126943  
+AST4; aspartate aminotransferase [KO:K14455] [EC:2.6.1.1]
+CHLREDRAFT_186959  
+AST3; aspartate aminotransferase [KO:K00811] [EC:2.6.1.1]
+CHLREDRAFT_118364  
+hypothetical protein; K15849 bifunctional aspartate aminotransferase and glutamate/aspartate-prephenate aminotransferase [EC:2.6.1.1 2.6.1.78 2.6.1.79] [KO:K15849] [EC:2.6.1.79 2.6.1.78 2.6.1.1]
+CHLREDRAFT_103841  
+HIS5; histidinol phosphate aminotransferase [KO:K00817] [EC:2.6.1.9]
+CHLREDRAFT_149028  
+HPD1; 4-hydroxyphenylpyruvate dioxygenase [KO:K00457] [EC:1.13.11.27]
+CHLREDRAFT_137761  
+HPD2; 4-hydroxyphenylpyruvate dioxygenase [KO:K00457] [EC:1.13.11.27]
+CHLREDRAFT_76437  
+homogentisate 1; K00451 homogentisate 1,2-dioxygenase [EC:1.13.11.5] [KO:K00451] [EC:1.13.11.5]
+CHLREDRAFT_122609  
+fumarylacetoacetase; K01555 fumarylacetoacetase [EC:3.7.1.2] [KO:K01555] [EC:3.7.1.2]
+CHLREDRAFT_116869  
+DDC1; aromatic-aminoacid decarboxylase [KO:K01593] [EC:4.1.1.28]
+CHLREDRAFT_187700  
+hypothetical protein; K00274 monoamine oxidase [EC:1.4.3.4] [KO:K00274] [EC:1.4.3.4]
+CHLREDRAFT_176519  
+AMX1; copper amine oxidase [KO:K00276] [EC:1.4.3.21]
+CHLREDRAFT_178662  
+AMX2; copper amine oxidase [KO:K00276] [EC:1.4.3.21]
+CHLREDRAFT_129874  
+FDH1; formaldehyde dehydrogenase [KO:K00121] [EC:1.1.1.1 1.1.1.284]

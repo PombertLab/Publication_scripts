@@ -1,0 +1,8 @@
+VOLCADRAFT_59473  
+hypothetical protein; K01641 hydroxymethylglutaryl-CoA synthase [EC:2.3.3.10] [KO:K01641] [EC:2.3.3.10]
+VOLCADRAFT_91759  
+hypothetical protein; K01640 hydroxymethylglutaryl-CoA lyase [EC:4.1.3.4] [KO:K01640] [EC:4.1.3.4]
+VOLCADRAFT_75176  
+hypothetical protein; K00626 acetyl-CoA C-acetyltransferase [EC:2.3.1.9] [KO:K00626] [EC:2.3.1.9]
+VOLCADRAFT_84837  
+hypothetical protein; K00626 acetyl-CoA C-acetyltransferase [EC:2.3.1.9] [KO:K00626] [EC:2.3.1.9]

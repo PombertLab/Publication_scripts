@@ -1,0 +1,28 @@
+CHLREDRAFT_133829  
+COQ5C; ubiquinone/menaquinone biosynthesis methyltransferase [KO:K03183] [EC:2.1.1.201 2.1.1.163]
+CHLREDRAFT_104114  
+COQ2; para-hydroxybenzoate-polyprenyltransferase [KO:K06125] [EC:2.5.1.-]
+CHLREDRAFT_141676  
+COQ6; flavin-dependent monoxygenase [KO:K06126] [EC:1.14.13.-]
+CHLREDRAFT_113023  
+COQ5A; ubiquinone/menaquinone biosynthesis methyltransferase [KO:K06127] [EC:2.1.1.201]
+CHLREDRAFT_120595  
+hypothetical protein; K02552 menaquinone-specific isochorismate synthase [EC:5.4.4.2] [KO:K02552] [EC:5.4.4.2]
+CHLREDRAFT_146546  
+hypothetical protein; K14760 acyl-activating enzyme 14 [EC:6.2.1.26] [KO:K14760] [EC:6.2.1.26]
+CHLREDRAFT_112040  
+MEN2; naphthoate synthase [KO:K01661] [EC:4.1.3.36]
+CHLREDRAFT_149028  
+HPD1; 4-hydroxyphenylpyruvate dioxygenase [KO:K00457] [EC:1.13.11.27]
+CHLREDRAFT_137761  
+HPD2; 4-hydroxyphenylpyruvate dioxygenase [KO:K00457] [EC:1.13.11.27]
+CHLREDRAFT_118917  
+HST1; homogentisate solanesyltransferase [KO:K12501]
+CHLREDRAFT_129760  
+VTE3; MPBQ/MSBQ methyltransferase [KO:K12502]
+CHLREDRAFT_104647  
+hypothetical protein; K09833 homogenitisate phytyltransferase [KO:K09833]
+CHLREDRAFT_101649  
+tocopherol cyclase; K09834 tocopherol cyclase [KO:K09834]
+CHLREDRAFT_129990  
+VTE4; gamma-tocopherol methyltransferase [KO:K05928] [EC:2.1.1.95]

@@ -1,0 +1,10 @@
+Ot03g03290  
+Putative phosphoserine aminotransferase (ISS); K00831 phosphoserine aminotransferase [EC:2.6.1.52] [KO:K00831] [EC:2.6.1.52]
+Ot04g01610  
+THRC_SOLTU Threonine synthase; K01733 threonine synthase [EC:4.2.3.1] [KO:K01733] [EC:4.2.3.1]
+Ot06g04190  
+probable ThrC2 threonine synthase (ISS); K01733 threonine synthase [EC:4.2.3.1] [KO:K01733] [EC:4.2.3.1]
+Ot03g00210  
+Sor-like protein (ISS); K06215 pyridoxine biosynthesis protein [EC:4.-.-.-] [KO:K06215] [EC:4.-.-.-]
+Ot17g02660  
+putative amidotransferase (ISS); K08681 glutamine amidotransferase [EC:2.6.-.-] [KO:K08681] [EC:2.6.-.-]

@@ -1,0 +1,4 @@
+Ot04g02220  
+FDFT_NICBE Farnesyl-diphosphate farnesyltransferase (ISS); K00801 farnesyl-diphosphate farnesyltransferase [EC:2.5.1.21] [KO:K00801] [EC:2.5.1.21]
+Ot08g03100  
+squalene monooxygenase (ISS); K00511 squalene monooxygenase [EC:1.14.13.132] [KO:K00511] [EC:1.14.13.132]

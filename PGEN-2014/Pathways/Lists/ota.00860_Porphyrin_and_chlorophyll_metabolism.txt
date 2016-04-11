@@ -1,0 +1,60 @@
+Ot01g04250  
+putative glutamyl-tRNA synthetase (ISS); K01885 glutamyl-tRNA synthetase [EC:6.1.1.17] [KO:K01885] [EC:6.1.1.17]
+Ot01g04070  
+putative glutamate-tRNA ligase (ISS); K01885 glutamyl-tRNA synthetase [EC:6.1.1.17] [KO:K01885] [EC:6.1.1.17]
+Ot11g00720  
+glutamyl-tRNA reductase precursor (ISS); K02492 glutamyl-tRNA reductase [EC:1.2.1.70] [KO:K02492] [EC:1.2.1.70]
+Ot20g00090  
+GSA_CHLRE Glutamate-1-semialdehyde 2; K01845 glutamate-1-semialdehyde 2,1-aminomutase [EC:5.4.3.8] [KO:K01845] [EC:5.4.3.8]
+Ot01g02360  
+porphobilinogen synthase (ISS); K01698 porphobilinogen synthase [EC:4.2.1.24] [KO:K01698] [EC:4.2.1.24]
+Ot05g01220  
+putative porphobilinogen deaminase (ISS); K01749 hydroxymethylbilane synthase [EC:2.5.1.61] [KO:K01749] [EC:2.5.1.61]
+Ot17g00180  
+putative uroporphyrinogen decarboxylase (ISS); K01599 uroporphyrinogen decarboxylase [EC:4.1.1.37] [KO:K01599] [EC:4.1.1.37]
+Ot05g01080  
+Uroporphyrinogen decarboxylase (ISS); K01599 uroporphyrinogen decarboxylase [EC:4.1.1.37] [KO:K01599] [EC:4.1.1.37]
+Ot12g02500  
+putative uroporphyrinogen decarboxylase (ISS); K01599 uroporphyrinogen decarboxylase [EC:4.1.1.37] [KO:K01599] [EC:4.1.1.37]
+Ot03g03170  
+Bamy1; beta amylase 1 (IC) [KO:K00228] [EC:1.3.3.3]
+Ot01g01180  
+coproporphyrinogen III oxidase (ISS); K02495 oxygen-independent coproporphyrinogen III oxidase [EC:1.3.99.22] [KO:K02495] [EC:1.3.99.22]
+Ot06g03600  
+protoporphyrinogen IX oxidase (ISS); K00231 oxygen-dependent protoporphyrinogen oxidase [EC:1.3.3.4] [KO:K00231] [EC:1.3.3.4]
+Ot11g02860  
+putative ferrochelatase precusor (ISS); K01772 ferrochelatase [EC:4.99.1.1] [KO:K01772] [EC:4.99.1.1]
+Ot04g05160  
+putative heme A:farnesyltransferase (ISS); K02257 protoheme IX farnesyltransferase [EC:2.5.1.-] [KO:K02257] [EC:2.5.1.-]
+Ot14g02350  
+Cytochrome oxidase assembly factor COX15 (ISS); K02259 cytochrome c oxidase assembly protein subunit 15 [KO:K02259]
+Ot05g01030  
+protoporphyrin IX magnesium chelatase (ISS); K03403 magnesium chelatase subunit H [EC:6.6.1.1] [KO:K03403] [EC:6.6.1.1]
+Ot04g02230  
+Magnesium chelatase H subunit (ISS); K03403 magnesium chelatase subunit H [EC:6.6.1.1] [KO:K03403] [EC:6.6.1.1]
+Ot05g05120  
+Mg-chelatase subunit (ISS); K03404 magnesium chelatase subunit D [EC:6.6.1.1] [KO:K03404] [EC:6.6.1.1]
+Ot15g01280  
+hypothetical protein; K03404 magnesium chelatase subunit D [EC:6.6.1.1] [KO:K03404] [EC:6.6.1.1]
+Ot02g04440  
+CHLI_CHLVU Magnesium-chelatase subunit ChlI (ISS); K03405 magnesium chelatase subunit I [EC:6.6.1.1] [KO:K03405] [EC:6.6.1.1]
+Ot07g02420  
+S-adenosyl-L-methionine Mg-protoporphyrin IX methyltranserase (ISS); K03428 magnesium-protoporphyrin O-methyltransferase [EC:2.1.1.11] [KO:K03428] [EC:2.1.1.11]
+Ot15g02810  
+copper target homolog 1 protein (ISS); K04035 magnesium-protoporphyrin IX monomethyl ester (oxidative) cyclase [EC:1.14.13.81] [KO:K04035] [EC:1.14.13.81]
+Ot07g01640  
+POR_DAUCA Protochlorophyllide reductase; K00218 protochlorophyllide reductase [EC:1.3.1.33] [KO:K00218] [EC:1.3.1.33]
+Ot12g01450  
+chlorophyll a oxygenase (ISS); K13600 chlorophyllide a oxygenase [EC:1.14.13.122] [KO:K13600] [EC:1.14.13.122]
+Ot01g02900  
+putative short chain dehydrogenase (ISS); K13606 chlorophyll(ide) b reductase [EC:1.1.1.294] [KO:K13606] [EC:1.1.1.294]
+Ot02g04630  
+ggh; Ggh geranylgeranyl reductase (IC) [KO:K10960] [EC:1.3.1.83]
+Ot18g01720  
+putative heme oxygenase HO1 (ISS); K00510 heme oxygenase [EC:1.14.99.3] [KO:K00510] [EC:1.14.99.3]
+Ot17g01570  
+Holocytochrome c synthase/heme-lyase (ISS); K01764 cytochrome c heme-lyase [EC:4.4.1.17] [KO:K01764] [EC:4.4.1.17]
+Ot17g01080  
+Holocytochrome c synthase/heme-lyase (ISS); K01764 cytochrome c heme-lyase [EC:4.4.1.17] [KO:K01764] [EC:4.4.1.17]
+Ot02g05790  
+Ferritin (ISS); K00522 ferritin heavy chain [EC:1.16.3.1] [KO:K00522] [EC:1.16.3.1]

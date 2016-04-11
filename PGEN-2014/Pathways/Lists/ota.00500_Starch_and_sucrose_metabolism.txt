@@ -1,0 +1,48 @@
+Ot14g00340  
+putative trehalose-phosphatase (ISS); K01087 trehalose 6-phosphate phosphatase [EC:3.1.3.12] [KO:K01087] [EC:3.1.3.12]
+Ot12g02420  
+trehalose-6-phosphate synthase (ISS); K16055 trehalose 6-phosphate synthase/phosphatase [EC:2.4.1.15 3.1.3.12] [KO:K16055] [EC:3.1.3.12 2.4.1.15]
+Ot01g02410  
+SL-TPS/P (ISS); K16055 trehalose 6-phosphate synthase/phosphatase [EC:2.4.1.15 3.1.3.12] [KO:K16055] [EC:3.1.3.12 2.4.1.15]
+Ot05g04440  
+putative trehalase (ISS); K01194 alpha,alpha-trehalase [EC:3.2.1.28] [KO:K01194] [EC:3.2.1.28]
+Ot12g00310  
+DBEII (ISS); K02438 glycogen operon protein [EC:3.2.1.-] [KO:K02438] [EC:3.2.1.-]
+Ot14g02550  
+DBE_2; isoamylase (IC) [KO:K02438] [EC:3.2.1.-]
+Ot13g01740  
+UDP-glucose dehydrogenase; K00012 UDPglucose 6-dehydrogenase [EC:1.1.1.22] [KO:K00012] [EC:1.1.1.22]
+Ot02g07320  
+putative nucleotide sugar epimerase (ISS); K08679 UDP-glucuronate 4-epimerase [EC:5.1.3.6] [KO:K08679] [EC:5.1.3.6]
+Ot15g02630  
+phosphoglucomutase (ISS); K01835 phosphoglucomutase [EC:5.4.2.2] [KO:K01835] [EC:5.4.2.2]
+Ot11g02980  
+cytosolic phosphoglucose isomerase (ISS); K01810 glucose-6-phosphate isomerase [EC:5.3.1.9] [KO:K01810] [EC:5.3.1.9]
+Ot07g04040  
+hypothetical protein; K00847 fructokinase [EC:2.7.1.4] [KO:K00847] [EC:2.7.1.4]
+Ot20g00490  
+AGPLU2 (ISS); K00975 glucose-1-phosphate adenylyltransferase [EC:2.7.7.27] [KO:K00975] [EC:2.7.7.27]
+Ot07g02930  
+AGPSU1 (ISS); K00975 glucose-1-phosphate adenylyltransferase [EC:2.7.7.27] [KO:K00975] [EC:2.7.7.27]
+Ot13g01230  
+SSI (ISS); K00703 starch synthase [EC:2.4.1.21] [KO:K00703] [EC:2.4.1.21]
+Ot13g01250  
+SSIII-B; Soluble Starch synthase III-B (IC) [KO:K00703] [EC:2.4.1.21]
+Ot16g02790  
+SSII; soluble starch synthase II (IC) [KO:K00703] [EC:2.4.1.21]
+Ot04g04110  
+SBEI; Branching Enzyme I (IC) [KO:K00700] [EC:2.4.1.18]
+Ot03g00840  
+1; K00700 1,4-alpha-glucan branching enzyme [EC:2.4.1.18] [KO:K00700] [EC:2.4.1.18]
+Ot04g02110  
+SPho3; starch phosphorylase 3 (IC) [KO:K00688] [EC:2.4.1.1]
+Ot11g00280  
+starch phosphorylase (ISS); K00688 starch phosphorylase [EC:2.4.1.1] [KO:K00688] [EC:2.4.1.1]
+Ot11g01020  
+SPho1; starch phosphorylase 1 (IC) [KO:K00688] [EC:2.4.1.1]
+Ot02g05750  
+DPE1 (ISS); K00705 4-alpha-glucanotransferase [EC:2.4.1.25] [KO:K00705] [EC:2.4.1.25]
+Ot11g02290  
+4-alpha-glucanotransferase; disproportionating enzyme (ISS) [KO:K00705] [EC:2.4.1.25]
+Ot11g02300  
+putative 4-alpha-glucanotransferase (ISS); K00705 4-alpha-glucanotransferase [EC:2.4.1.25] [KO:K00705] [EC:2.4.1.25]

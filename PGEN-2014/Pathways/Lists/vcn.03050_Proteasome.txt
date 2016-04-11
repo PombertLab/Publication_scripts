@@ -1,0 +1,68 @@
+VOLCADRAFT_72476  
+rpn3; 26S proteasome regulatory complex [KO:K03033]
+VOLCADRAFT_105455  
+hypothetical protein; K03035 26S proteasome regulatory subunit N5 [KO:K03035]
+VOLCADRAFT_81165  
+rpn6; 26S proteasome regulatory complex [KO:K03036]
+VOLCADRAFT_80386  
+rpn7; 26S proteasome regulatory complex [KO:K03037]
+VOLCADRAFT_109976  
+rpn8; 26S proteasome regulatory complex [KO:K03038]
+VOLCADRAFT_109166  
+rpn9; 26S proteasome regulatory complex [KO:K03039]
+VOLCADRAFT_106741  
+rpn11; 26S proteasome regulatory complex [KO:K03030]
+VOLCADRAFT_83405  
+rpn12; 26S proteasome regulatory complex [KO:K03031]
+VOLCADRAFT_121565  
+hypothetical protein; K10881 26 proteasome complex subunit DSS1 [KO:K10881]
+VOLCADRAFT_104845  
+rpn10; 26S proteasome regulatory complex [KO:K03029]
+VOLCADRAFT_84713  
+rpn1; 26S proteasome regulatory complex [KO:K03028]
+VOLCADRAFT_81526  
+rpn2; 26S proteasome regulatory complex [KO:K03032]
+VOLCADRAFT_75335  
+rpt1; 26S proteasome regulatory complex [KO:K03061]
+VOLCADRAFT_78283  
+rpt2; 26S proteasome regulatory complex [KO:K03062]
+VOLCADRAFT_104963  
+rpt6; 26S proteasome regulatory complex [KO:K03066]
+VOLCADRAFT_105106  
+rpt4; 26S proteasome regulatory complex [KO:K03064]
+VOLCADRAFT_79139  
+rpt5; 26S proteasome regulatory complex [KO:K03065]
+VOLCADRAFT_79465  
+rpt3; 26S proteasome regulatory complex [KO:K03063]
+VOLCADRAFT_74301  
+poa1; 20S proteasome alpha subunit A [KO:K02730] [EC:3.4.25.1]
+VOLCADRAFT_83282  
+poa2; 20S proteasome alpha subunit B [KO:K02726] [EC:3.4.25.1]
+VOLCADRAFT_73749  
+poa3; 20S proteasome alpha subunit C [KO:K02728] [EC:3.4.25.1]
+VOLCADRAFT_106789  
+poa4; 20S proteasome alpha subunit D [KO:K02731] [EC:3.4.25.1]
+VOLCADRAFT_102676  
+poa5; 20S proteasome alpha subunit E [KO:K02729] [EC:3.4.25.1]
+VOLCADRAFT_79637  
+poa6; 20S proteasome alpha subunit F [KO:K02725] [EC:3.4.25.1]
+VOLCADRAFT_109847  
+poa7; 20S proteasome alpha subunit G [KO:K02727] [EC:3.4.25.1]
+VOLCADRAFT_102928  
+hypothetical protein; K02738 20S proteasome subunit beta 1 [EC:3.4.25.1] [KO:K02738] [EC:3.4.25.1]
+VOLCADRAFT_57026  
+hypothetical protein; K02738 20S proteasome subunit beta 1 [EC:3.4.25.1] [KO:K02738] [EC:3.4.25.1]
+VOLCADRAFT_109919  
+hypothetical protein; K02739 20S proteasome subunit beta 2 [EC:3.4.25.1] [KO:K02739] [EC:3.4.25.1]
+VOLCADRAFT_78969  
+hypothetical protein; K02735 20S proteasome subunit beta 3 [EC:3.4.25.1] [KO:K02735] [EC:3.4.25.1]
+VOLCADRAFT_110015  
+hypothetical protein; K02734 20S proteasome subunit beta 4 [EC:3.4.25.1] [KO:K02734] [EC:3.4.25.1]
+VOLCADRAFT_74437  
+hypothetical protein; K02737 20S proteasome subunit beta 5 [EC:3.4.25.1] [KO:K02737] [EC:3.4.25.1]
+VOLCADRAFT_62543  
+hypothetical protein; K02732 20S proteasome subunit beta 6 [EC:3.4.25.1] [KO:K02732] [EC:3.4.25.1]
+VOLCADRAFT_108195  
+hypothetical protein; K02736 20S proteasome subunit beta 7 [EC:3.4.25.1] [KO:K02736] [EC:3.4.25.1]
+VOLCADRAFT_84810  
+hypothetical protein; K11599 proteasome maturation protein [KO:K11599]

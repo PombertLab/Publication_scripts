@@ -1,0 +1,66 @@
+CHLREDRAFT_127039  
+RPN3; 26S proteasome regulatory subunit [KO:K03033]
+CHLREDRAFT_172949  
+hypothetical protein; K03035 26S proteasome regulatory subunit N5 [KO:K03035]
+CHLREDRAFT_23975  
+RPN6; 26S proteasome regulatory subunit [KO:K03036]
+CHLREDRAFT_182738  
+RPN7; 26S proteasome regulatory subunit [KO:K03037]
+CHLREDRAFT_192933  
+RPN8; 26S proteasome regulatory subunit [KO:K03038]
+CHLREDRAFT_56672  
+RPN9; 26S proteasome regulatory subunit [KO:K03039]
+CHLREDRAFT_24132  
+RPN11; 26S proteasome regulatory subunit [KO:K03030]
+CHLREDRAFT_115411  
+RPN12; 26S proteasome regulatory subunit [KO:K03031]
+CHLREDRAFT_194265  
+hypothetical protein; K10881 26 proteasome complex subunit DSS1 [KO:K10881]
+CHLREDRAFT_81593  
+RPN10; 26S proteasome regulatory subunit [KO:K03029]
+CHLREDRAFT_137945  
+RPN1; 26S proteasome regulatory subunit [KO:K03028]
+CHLREDRAFT_192526  
+RPN2; 26S proteasome regulatory subunit [KO:K03032]
+CHLREDRAFT_184001  
+RPT1; 26S proteasome regulatory subunit [KO:K03061]
+CHLREDRAFT_55138  
+RPT2; 26S proteasome regulatory subunit [KO:K03062]
+CHLREDRAFT_24536  
+RPT6; 26S proteasome regulatory subunit [KO:K03066]
+CHLREDRAFT_24096  
+RPT4; 26S proteasome regulatory subunit [KO:K03064]
+CHLREDRAFT_188404  
+RPT5; 26S proteasome regulatory subunit [KO:K03065]
+CHLREDRAFT_128384  
+POA1; 20S proteasome alpha subunit A [KO:K02730] [EC:3.4.25.1]
+CHLREDRAFT_194387  
+POA2; 20S proteasome alpha subunit B [KO:K02726] [EC:3.4.25.1]
+CHLREDRAFT_133457  
+POA3; 20S proteasome alpha subunit C [KO:K02728] [EC:3.4.25.1]
+CHLREDRAFT_183620  
+POA4; 20S proteasome alpha subunit D [KO:K02731] [EC:3.4.25.1]
+CHLREDRAFT_184847  
+POA5; 20S proteasome alpha subunit E [KO:K02729] [EC:3.4.25.1]
+CHLREDRAFT_115213  
+POA6; 20S proteasome alpha subunit F [KO:K02725] [EC:3.4.25.1]
+CHLREDRAFT_183771  
+POA7; 20S proteasome alpha subunit G [KO:K02727] [EC:3.4.25.1]
+CHLREDRAFT_129474  
+PBA2; 20S proteasome beta subunit A2 [KO:K02738] [EC:3.4.25.1]
+CHLREDRAFT_415  
+PBA1; 20S proteasome beta subunit A1 [KO:K02738] [EC:3.4.25.1]
+CHLREDRAFT_186317  
+PBB1; 20S proteasome beta subunit B, type beta 2 [KO:K02739] [EC:3.4.25.1]
+CHLREDRAFT_187099  
+hypothetical protein; K02735 20S proteasome subunit beta 3 [EC:3.4.25.1] [KO:K02735] [EC:3.4.25.1]
+CHLREDRAFT_193424  
+PBD1; 20S proteasome beta subunit D, type 2 [KO:K02734] [EC:3.4.25.1]
+CHLREDRAFT_127297  
+PBE1; 20S proteasome beta subunit E, type beta 5 [KO:K02737] [EC:3.4.25.1]
+CHLREDRAFT_133001  
+hypothetical protein; K02732 20S proteasome subunit beta 6 [EC:3.4.25.1] [KO:K02732] [EC:3.4.25.1]
+CHLREDRAFT_137981  
+PBG1; 20S proteasome beta subunit, type 4 [KO:K02736] [EC:3.4.25.1]
+CHLREDRAFT_165050  
+hypothetical protein; K11599 proteasome maturation protein [KO:K11599]

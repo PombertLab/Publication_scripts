@@ -1,0 +1,18 @@
+OSTLU_49676  
+hypothetical protein; K13998 dihydrofolate reductase / thymidylate synthase [EC:1.5.1.3 2.1.1.45] [KO:K13998] [EC:2.1.1.45 1.5.1.3]
+OSTLU_30421  
+hypothetical protein; K00600 glycine hydroxymethyltransferase [EC:2.1.2.1] [KO:K00600] [EC:2.1.2.1]
+OSTLU_29554  
+hypothetical protein; K00600 glycine hydroxymethyltransferase [EC:2.1.2.1] [KO:K00600] [EC:2.1.2.1]
+OSTLU_37794  
+hypothetical protein; K00600 glycine hydroxymethyltransferase [EC:2.1.2.1] [KO:K00600] [EC:2.1.2.1]
+OSTLU_6266  
+hypothetical protein; K00601 phosphoribosylglycinamide formyltransferase [EC:2.1.2.2] [KO:K00601] [EC:2.1.2.2]
+OSTLU_14033  
+hypothetical protein; K00602 phosphoribosylaminoimidazolecarboxamide formyltransferase / IMP cyclohydrolase [EC:2.1.2.3 3.5.4.10] [KO:K00602] [EC:3.5.4.10 2.1.2.3]
+OSTLU_43843  
+hypothetical protein; K00604 methionyl-tRNA formyltransferase [EC:2.1.2.9] [KO:K00604] [EC:2.1.2.9]
+OSTLU_26241  
+hypothetical protein; K00605 aminomethyltransferase [EC:2.1.2.10] [KO:K00605] [EC:2.1.2.10]
+OSTLU_45056  
+metH; B12 dependent methionine synthase [KO:K00548] [EC:2.1.1.13]

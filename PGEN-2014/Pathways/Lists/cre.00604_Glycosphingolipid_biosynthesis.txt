@@ -1,0 +1,2 @@
+CHLREDRAFT_145923  
+FBB13; flagellar/basal body protein [KO:K03372] [EC:2.3.1.-]

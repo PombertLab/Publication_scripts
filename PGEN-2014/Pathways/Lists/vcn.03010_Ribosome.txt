@@ -1,0 +1,222 @@
+VOLCADRAFT_99580  
+hypothetical protein; K02988 small subunit ribosomal protein S5 [KO:K02988]
+VOLCADRAFT_59573  
+mrpS7; mitochondrial ribosomal protein S7 [KO:K02992]
+VOLCADRAFT_77457  
+prpS10; plastid/chloroplast ribosomal protein S10 [KO:K02946]
+VOLCADRAFT_104738  
+mrpS12; mitochondrial ribosomal protein S12 [KO:K02950]
+VOLCADRAFT_121576  
+prpS13; plastid/chloroplast ribosomal protein S13 [KO:K02952]
+VOLCADRAFT_55863  
+mrpS14; mitochondrial ribosomal protein S14 [KO:K02954]
+VOLCADRAFT_106320  
+prpS20; plastid/chloroplast ribosomal protein S20 [KO:K02968]
+VOLCADRAFT_109242  
+rps2; component of cytosolic 80S ribosome and 40S small subunit [KO:K02981]
+VOLCADRAFT_109707  
+rps3A; component of cytosolic 80S ribosome and 40S small subunit [KO:K02984]
+VOLCADRAFT_82986  
+rps4; component of cytosolic 80S ribosome and 40S small subunit [KO:K02987]
+VOLCADRAFT_120316  
+rps5; component of cytosolic 80S ribosome and 40S small subunit [KO:K02989]
+VOLCADRAFT_127296  
+ribosomal protein S6 component of cytosolic 80S ribosome and 40S small subunit; K02991 small subunit ribosomal protein S6e [KO:K02991]
+VOLCADRAFT_73479  
+rps7; component of cytosolic 80S ribosome and 40S small subunit [KO:K02993]
+VOLCADRAFT_72506  
+rps8; component of cytosolic 80S ribosome and 40S small subunit [KO:K02995]
+VOLCADRAFT_110081  
+rps9; component of cytosolic 80S ribosome and 40S small subunit [KO:K02997]
+VOLCADRAFT_121388  
+rps10; component of cytosolic 80S ribosome and 40S small subunit [KO:K02947]
+VOLCADRAFT_108961  
+rps11; component of cytosolic 80S ribosome and 40S small subunit [KO:K02949]
+VOLCADRAFT_107705  
+rps12; component of cytosolic 80S ribosome and 40S small subunit [KO:K02951]
+VOLCADRAFT_77352  
+rps13; component of cytosolic 80S ribosome and 40S small subunit [KO:K02953]
+VOLCADRAFT_77431  
+rps14; component of cytosolic 80S ribosome and 40S small subunit [KO:K02955]
+VOLCADRAFT_120952  
+rps15; component of cytosolic 80S ribosome and 40S small subunit [KO:K02958]
+VOLCADRAFT_56570  
+rps15A; component of cytosolic 80S ribosome and 40S small subunit [KO:K02957]
+VOLCADRAFT_109027  
+rps16; component of cytosolic 80S ribosome and 40S small subunit [KO:K02960]
+VOLCADRAFT_73466  
+rps17; component of cytosolic 80S ribosome and 40S small subunit [KO:K02962]
+VOLCADRAFT_78888  
+rps18; component of cytosolic 80S ribosome and 40S small subunit [KO:K02964]
+VOLCADRAFT_61524  
+hypothetical protein; K02964 small subunit ribosomal protein S18e [KO:K02964]
+VOLCADRAFT_75391  
+rps19; component of cytosolic 80S ribosome and 40S small subunit [KO:K02966]
+VOLCADRAFT_109739  
+hypothetical protein; K02969 small subunit ribosomal protein S20e [KO:K02969]
+VOLCADRAFT_74395  
+rps20; component of cytosolic 80S ribosome and 40S small subunit [KO:K02969]
+VOLCADRAFT_74597  
+rps21; component of cytosolic 80S ribosome and 40S small subunit [KO:K02971]
+VOLCADRAFT_79846  
+hypothetical protein; K02973 small subunit ribosomal protein S23e [KO:K02973]
+VOLCADRAFT_81535  
+rps24; component of cytosolic 80S ribosome and 40S small subunit [KO:K02974]
+VOLCADRAFT_82071  
+rps25; component of cytosolic 80S ribosome and 40S small subunit [KO:K02975]
+VOLCADRAFT_74244  
+rps26; component of cytosolic 80S ribosome and 40S small subunit [KO:K02976]
+VOLCADRAFT_85510  
+rps27; component of 80S ribosome and 40S small subunit [KO:K02978]
+VOLCADRAFT_72486  
+rps27A; ribosomal protein S27A component of cytosolic 80S ribosome and 40S small subunit [KO:K02977]
+VOLCADRAFT_57913  
+rps28; component of cytosolic 80S ribosome and 40S small subunit [KO:K02979]
+VOLCADRAFT_74966  
+rps29; component of cytosolic 80S ribosome and 40S small subunit [KO:K02980]
+VOLCADRAFT_78308  
+rps30; component of cytosolic 80S ribosome and 40S small subunit [KO:K02983]
+VOLCADRAFT_73024  
+rpsA; component of cytosolic 80S ribosome and 40S small subunit [KO:K02998]
+VOLCADRAFT_75415  
+prpL3; plastid/chloroplast ribosomal protein L3 [KO:K02906]
+VOLCADRAFT_83619  
+mrpL3; mitochondrial ribosomal protein L3 [KO:K02906]
+VOLCADRAFT_99312  
+mrpL4; mitochondrial ribosomal protein L4 [KO:K02926]
+VOLCADRAFT_77420  
+prpL4; plastid/chloroplast ribosomal protein L4 [KO:K02926]
+VOLCADRAFT_74643  
+prpL6; plastid/chloroplast ribosomal protein L6 [KO:K02933]
+VOLCADRAFT_79164  
+mrpL12; mitochondrial ribosomal protein L7/L12 [KO:K02935]
+VOLCADRAFT_72629  
+prpL9; plastid/chloroplast ribosomal protein L9 [KO:K02939]
+VOLCADRAFT_102827  
+prpL10; plastid/chloroplast ribosomal protein L10 [KO:K02864]
+VOLCADRAFT_72309  
+mrpL11; mitochondrial ribosomal protein L11 [KO:K02867]
+VOLCADRAFT_121737  
+mrpL13; mitochondrial ribosomal protein L13 [KO:K02871]
+VOLCADRAFT_78780  
+prpl13; plastid/chloroplast ribosomal protein L13 [KO:K02871]
+VOLCADRAFT_109530  
+prpL15; plastid/chloroplast ribosomal protein L15 [KO:K02876]
+VOLCADRAFT_95820  
+hypothetical protein; K02876 large subunit ribosomal protein L15 [KO:K02876]
+VOLCADRAFT_106362  
+prpL17; plastid/chloroplast ribosomal protein L17 [KO:K02879]
+VOLCADRAFT_72886  
+mrpL17; mitochondrial ribosomal protein L17 [KO:K02879]
+VOLCADRAFT_103908  
+prpL18; plastid/chloroplast ribosomal protein L18 [KO:K02881]
+VOLCADRAFT_80200  
+mrpL20; mitochondrial ribosomal protein L20 [KO:K02887]
+VOLCADRAFT_107158  
+mrpL21; mitochondrial ribosomal protein L21 [KO:K02888]
+VOLCADRAFT_75290  
+prpL24; plastid/chloroplast ribosomal protein L24 [KO:K02895]
+VOLCADRAFT_106036  
+hypothetical protein; K02897 large subunit ribosomal protein L25 [KO:K02897]
+VOLCADRAFT_74086  
+prpL27; plastid/chloroplast ribosomal protein L27 [KO:K02899]
+VOLCADRAFT_120673  
+hypothetical protein; K02902 large subunit ribosomal protein L28 [KO:K02902]
+VOLCADRAFT_79459  
+mrpL30; mitochondrial ribosomal protein L30 [KO:K02907]
+VOLCADRAFT_75287  
+mrpL33; mitochondrial ribosomal protein L33 [KO:K02913]
+VOLCADRAFT_120932  
+prpL35; plastid/chloroplast ribosomal protein L35 [KO:K02916]
+VOLCADRAFT_103864  
+rpl3; component of cytosolic 80S ribosome and 60S large subunit [KO:K02925]
+VOLCADRAFT_103563  
+rpl4; component of cytosolic 80S ribosome and 60S large subunit [KO:K02930]
+VOLCADRAFT_109737  
+rpl5; component of cytosolic 80S ribosome and 60S large subunit [KO:K02932]
+VOLCADRAFT_83175  
+rpl6; component of cytosolic 80S ribosome and 60S large subunit [KO:K02934]
+VOLCADRAFT_81255  
+rpl7; component of cytosolic 80S ribosome and 60S large subunit [KO:K02937]
+VOLCADRAFT_75780  
+rpl7A; component of cytosolic 80S ribosome and 60S large subunit [KO:K02936]
+VOLCADRAFT_74803  
+rpl8; component of cytosolic 80S ribosome and 60S large subunit [KO:K02938]
+VOLCADRAFT_77293  
+rpl9; component of cytosolic 80S ribosome and 60S large subunit [KO:K02940]
+VOLCADRAFT_76448  
+rpl10E; component of cytosolic 80S ribosome and 60S large subunit [KO:K02866]
+VOLCADRAFT_109777  
+rpl10A; component of cytosolic 80S ribosome and 60S large subunit [KO:K02865]
+VOLCADRAFT_106793  
+rpl11; component of cytosolic 80S ribosome and 60S large subunit [KO:K02868]
+VOLCADRAFT_82216  
+rpl12; component of cytosolic 80S ribosome and 60S large subunit [KO:K02870]
+VOLCADRAFT_105571  
+rpl13; ribosomal protein L13 component of cytosolic 80S ribosome and 60S large subunit [KO:K02873]
+VOLCADRAFT_75696  
+rpl13A; component of cytosolic 80S ribosome and 60S large subunit [KO:K02872]
+VOLCADRAFT_59625  
+rpl14; ribosomal protein L14 component of cytosolic 80S ribosome and 60S large subunit [KO:K02875]
+VOLCADRAFT_108876  
+rpl15; component of cytosolic 80S ribosome and 60S large subunit [KO:K02877]
+VOLCADRAFT_85333  
+rpl17; component of cytosolic 80S ribosome and 60S large subunit [KO:K02880]
+VOLCADRAFT_80103  
+rpl18; component of cytosolic 80S ribosome and 60S large subunit [KO:K02883]
+VOLCADRAFT_80281  
+rpl18A; ribosomal protein L18A component of cytosolic 80S ribosome and 60S large subunit [KO:K02882]
+VOLCADRAFT_81642  
+rpl19; component of cytosolic 80S ribosome and 60S large subunit [KO:K02885]
+VOLCADRAFT_72356  
+rpl21; component of cytosolic 80S ribosome and 60S large subunit [KO:K02889]
+VOLCADRAFT_67685  
+rpl22; component of cytosolic 80S ribosome and 60S large subunit [KO:K02891]
+VOLCADRAFT_77611  
+rpl23; component of cytosolic 80S ribosome and 60S large subunit [KO:K02894]
+VOLCADRAFT_78075  
+rpl23A; component of cytosolic 80S ribosome and 60S large subunit [KO:K02893]
+VOLCADRAFT_103897  
+rpl24; component of cytosolic 80S ribosome and 60S large subunit [KO:K02896]
+VOLCADRAFT_85581  
+hypothetical protein; K02896 large subunit ribosomal protein L24e [KO:K02896]
+VOLCADRAFT_76074  
+rpl26; component of cytosolic 80S ribosome and 60S large subunit [KO:K02898]
+VOLCADRAFT_74313  
+rpl27; component of cytosolic 80S ribosome and 60S large subunit [KO:K02901]
+VOLCADRAFT_77145  
+rpl27A; component of cytosolic 80S ribosome and 60S large subunit [KO:K02900]
+VOLCADRAFT_110075  
+rpl28; component of cytosolic 80S ribosome and 60S large subunit [KO:K02903]
+VOLCADRAFT_85396  
+rpl29; component of cytosolic 80S ribosome and 60S large subunit [KO:K02905]
+VOLCADRAFT_73734  
+rpl30; component of cytosolic 80S ribosome and 60S large subunit [KO:K02908]
+VOLCADRAFT_103828  
+rpl31; component of cytosolic 80S ribosome and 60S large subunit [KO:K02910]
+VOLCADRAFT_72833  
+rpl32; component of cytosolic 80S ribosome and 60S large subunit [KO:K02912]
+VOLCADRAFT_109734  
+rpl34; component of cytosolic 80S ribosome and 60S large subunit [KO:K02915]
+VOLCADRAFT_79206  
+rpl35; component of cytosolic 80S ribosome and 60S large subunit [KO:K02918]
+VOLCADRAFT_103447  
+rpl35A; component of cytosolic 80S ribosome and 60S large subunit [KO:K02917]
+VOLCADRAFT_109213  
+rpl36; component of cytosolic 80S ribosome and 60S large subunit [KO:K02920]
+VOLCADRAFT_76128  
+rpl37; component of cytosolic 80S ribosome and 60S large subunit [KO:K02922]
+VOLCADRAFT_85711  
+rpl37A; component of cytosolic 80S ribosome and 60S large subunit [KO:K02921]
+VOLCADRAFT_109950  
+rpl38; component of cytosolic 80S ribosome and 60S large subunit [KO:K02923]
+VOLCADRAFT_56741  
+rpl39; component of cytosolic 80S ribosome and 60S large subunit [KO:K02924]
+VOLCADRAFT_79404  
+rpl36A; component of cytosolic 80S ribosome and 60S large subunit [KO:K02929]
+VOLCADRAFT_84328  
+hypothetical protein; K02941 large subunit ribosomal protein LP0 [KO:K02941]
+VOLCADRAFT_103521  
+hypothetical protein; K02942 large subunit ribosomal protein LP1 [KO:K02942]
+VOLCADRAFT_120883  
+hypothetical protein; K02943 large subunit ribosomal protein LP2 [KO:K02943]

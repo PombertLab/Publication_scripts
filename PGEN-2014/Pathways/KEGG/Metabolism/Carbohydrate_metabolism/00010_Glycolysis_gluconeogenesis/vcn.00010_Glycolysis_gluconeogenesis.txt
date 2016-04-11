@@ -1,0 +1,82 @@
+VOLCADRAFT_67129  
+hxk1; hexokinase [KO:K00844] [EC:2.7.1.1]
+VOLCADRAFT_103185  
+hypothetical protein; K01810 glucose-6-phosphate isomerase [EC:5.3.1.9] [KO:K01810] [EC:5.3.1.9]
+VOLCADRAFT_74177  
+pfk2; phosphofructokinase family protein [KO:K00850] [EC:2.7.1.11]
+VOLCADRAFT_78805  
+pfk1; phosphofructokinase family protein [KO:K00850] [EC:2.7.1.11]
+VOLCADRAFT_103791  
+fbp1; fructose-1,6-bisphosphatase [KO:K03841] [EC:3.1.3.11]
+VOLCADRAFT_83313  
+hypothetical protein; K01623 fructose-bisphosphate aldolase, class I [EC:4.1.2.13] [KO:K01623] [EC:4.1.2.13]
+VOLCADRAFT_79447  
+hypothetical protein; K01623 fructose-bisphosphate aldolase, class I [EC:4.1.2.13] [KO:K01623] [EC:4.1.2.13]
+VOLCADRAFT_82483  
+hypothetical protein; K01623 fructose-bisphosphate aldolase, class I [EC:4.1.2.13] [KO:K01623] [EC:4.1.2.13]
+VOLCADRAFT_109969  
+hypothetical protein; K01803 triosephosphate isomerase (TIM) [EC:5.3.1.1] [KO:K01803] [EC:5.3.1.1]
+VOLCADRAFT_83827  
+upf6; glyceraldehyde 3-phosphate dehydrogenase [KO:K00134] [EC:1.2.1.12]
+VOLCADRAFT_105878  
+hypothetical protein; K00134 glyceraldehyde 3-phosphate dehydrogenase [EC:1.2.1.12] [KO:K00134] [EC:1.2.1.12]
+VOLCADRAFT_81546  
+pgk1; phosphoglycerate kinase [KO:K00927] [EC:2.7.2.3]
+VOLCADRAFT_96867  
+pgm5; phosphoglycerate mutase [KO:K01834] [EC:5.4.2.1]
+VOLCADRAFT_108845  
+pgm1; phosphoglycerate mutase [KO:K15633] [EC:5.4.2.1]
+VOLCADRAFT_71079  
+hypothetical protein; K15633 2,3-bisphosphoglycerate-independent phosphoglycerate mutase [EC:5.4.2.1] [KO:K15633] [EC:5.4.2.1]
+VOLCADRAFT_108568  
+pgm2; phosphoglycerate mutase [KO:K15634] [EC:5.4.2.1]
+VOLCADRAFT_93926  
+pgm4; phosphoglycerate mutase [KO:K15634] [EC:5.4.2.1]
+VOLCADRAFT_79991  
+hypothetical protein; K01689 enolase [EC:4.2.1.11] [KO:K01689] [EC:4.2.1.11]
+VOLCADRAFT_82954  
+pyk3; pyruvate kinase [KO:K00873] [EC:2.7.1.40]
+VOLCADRAFT_84504  
+pyk4; cytosolic pyruvate kinase [KO:K00873] [EC:2.7.1.40]
+VOLCADRAFT_68572  
+pyk1; cytosolic pyruvate kinase [KO:K00873] [EC:2.7.1.40]
+VOLCADRAFT_68179  
+hypothetical protein; K00161 pyruvate dehydrogenase E1 component subunit alpha [EC:1.2.4.1] [KO:K00161] [EC:1.2.4.1]
+VOLCADRAFT_104783  
+hypothetical protein; K00161 pyruvate dehydrogenase E1 component subunit alpha [EC:1.2.4.1] [KO:K00161] [EC:1.2.4.1]
+VOLCADRAFT_108817  
+hypothetical protein; K00162 pyruvate dehydrogenase E1 component subunit beta [EC:1.2.4.1] [KO:K00162] [EC:1.2.4.1]
+VOLCADRAFT_77470  
+hypothetical protein; K00162 pyruvate dehydrogenase E1 component subunit beta [EC:1.2.4.1] [KO:K00162] [EC:1.2.4.1]
+VOLCADRAFT_79498  
+dihydrolipoamide acetyltransferase; K00627 pyruvate dehydrogenase E2 component (dihydrolipoamide acetyltransferase) [EC:2.3.1.12] [KO:K00627] [EC:2.3.1.12]
+VOLCADRAFT_80947  
+dihydrolipoamide acetyltransferase; K00627 pyruvate dehydrogenase E2 component (dihydrolipoamide acetyltransferase) [EC:2.3.1.12] [KO:K00627] [EC:2.3.1.12]
+VOLCADRAFT_95813  
+dld1; dihydrolipoamide dehydrogenase mitochondrial precursor [KO:K00382] [EC:1.8.1.4]
+VOLCADRAFT_83716  
+dld2; dihydrolipoamide dehydrogenase plastid precursor [KO:K00382] [EC:1.8.1.4]
+VOLCADRAFT_105183  
+hypothetical protein; K01568 pyruvate decarboxylase [EC:4.1.1.1] [KO:K01568] [EC:4.1.1.1]
+VOLCADRAFT_82410  
+hypothetical protein; K00121 S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase [EC:1.1.1.284 1.1.1.1] [KO:K00121] [EC:1.1.1.1 1.1.1.284]
+VOLCADRAFT_73567  
+hypothetical protein; K00128 aldehyde dehydrogenase (NAD+) [EC:1.2.1.3] [KO:K00128] [EC:1.2.1.3]
+VOLCADRAFT_103924  
+acs2; acetyl-coa synthetase [KO:K01895] [EC:6.2.1.1]
+VOLCADRAFT_58278  
+acs1; acetyl-coa synthetase [KO:K01895] [EC:6.2.1.1]
+VOLCADRAFT_108842  
+aep1; hypothetical protein [KO:K01785] [EC:5.1.3.3]
+VOLCADRAFT_78928  
+hypothetical protein; K01835 phosphoglucomutase [EC:5.4.2.2] [KO:K01835] [EC:5.4.2.2]
+VOLCADRAFT_81580  
+hypothetical protein; K01792 glucose-6-phosphate 1-epimerase [EC:5.1.3.15] [KO:K01792] [EC:5.1.3.15]
+VOLCADRAFT_109718  
+hypothetical protein; K01792 glucose-6-phosphate 1-epimerase [EC:5.1.3.15] [KO:K01792] [EC:5.1.3.15]
+VOLCADRAFT_56054  
+hypothetical protein; K00131 glyceraldehyde-3-phosphate dehydrogenase (NADP) [EC:1.2.1.9] [KO:K00131] [EC:1.2.1.9]
+VOLCADRAFT_106350  
+pck4; phosphoenolpyruvate carboxykinase [KO:K01610] [EC:4.1.1.49]
+VOLCADRAFT_81482  
+pck3; phosphoenolpyruvate carboxykinase [KO:K01610] [EC:4.1.1.49]

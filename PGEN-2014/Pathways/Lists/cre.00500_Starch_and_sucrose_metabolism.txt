@@ -1,0 +1,60 @@
+CHLREDRAFT_94247  
+hypothetical protein; K01193 beta-fructofuranosidase [EC:3.2.1.26] [KO:K01193] [EC:3.2.1.26]
+CHLREDRAFT_105328  
+GTR7; glycosyl transferase [KO:K00696] [EC:2.4.1.14]
+CHLREDRAFT_143511  
+FAP228; flagellar associated protein, callose synthase-like protein [KO:K00706] [EC:2.4.1.34]
+CHLREDRAFT_144973  
+GTR12; glycosyl transferase [KO:K00706] [EC:2.4.1.34]
+CHLREDRAFT_147446  
+GTR11; glycosyl transferase [KO:K00706] [EC:2.4.1.34]
+CHLREDRAFT_60124  
+TPS2; trehalose 6-phosphate phosphatase [KO:K01087] [EC:3.1.3.12]
+CHLREDRAFT_131610  
+TPS1; trehalose-6-phosphate synthase/phosphatase [KO:K16055] [EC:3.1.3.12 2.4.1.15]
+CHLREDRAFT_195672  
+trehalase-like protein; K01194 alpha,alpha-trehalase [EC:3.2.1.28] [KO:K01194] [EC:3.2.1.28]
+CHLREDRAFT_496  
+ISA1; isoamylase, starch debranching enzyme [KO:K02438] [EC:3.2.1.-]
+CHLREDRAFT_132067  
+ISA3; isoamylase, starch debranching enzyme [KO:K02438] [EC:3.2.1.-]
+CHLREDRAFT_185081  
+UGD2; UDP-glucose dehydrogenase [KO:K00012] [EC:1.1.1.22]
+CHLREDRAFT_205498  
+UGD1; UDP-glucose dehydrogenase [KO:K00012] [EC:1.1.1.22]
+CHLREDRAFT_151368  
+SNE4; NAD-dependent epimerase/dehydratase [KO:K08679] [EC:5.1.3.6]
+CHLREDRAFT_157049  
+UGP1; UDP-glucose pyrophosphorylase [KO:K00963] [EC:2.7.7.9]
+CHLREDRAFT_146213  
+GPM2; phosphoglucomutase [KO:K01835] [EC:5.4.2.2]
+CHLREDRAFT_81483  
+GPM1a; phosphoglucomutase [KO:K01835] [EC:5.4.2.2]
+CHLREDRAFT_21582  
+HXK1; hexokinase [KO:K00844] [EC:2.7.1.1]
+CHLREDRAFT_135220  
+PGI1; phosphoglucose isomerase [KO:K01810] [EC:5.3.1.9]
+CHLREDRAFT_136037  
+STA6; ADP-glucose pyrophosphorylase small subunit [KO:K00975] [EC:2.7.7.27]
+CHLREDRAFT_205913  
+STA1; ADP-glucose pyrophosphorylase large subunit [KO:K00975] [EC:2.7.7.27]
+CHLREDRAFT_183277  
+SSS2; soluble starch synthase II [KO:K00703] [EC:2.4.1.21]
+CHLREDRAFT_205622  
+SSS1; soluble starch synthase [KO:K00703] [EC:2.4.1.21]
+CHLREDRAFT_191662  
+STA3; soluble starch synthase III [KO:K00703] [EC:2.4.1.21]
+CHLREDRAFT_185710  
+SSS4; soluble starch synthase [KO:K00703] [EC:2.4.1.21]
+CHLREDRAFT_94079  
+SBE3; starch branching enzyme [KO:K00700] [EC:2.4.1.18]
+CHLREDRAFT_118976  
+SBE1; starch branching enzyme [KO:K00700] [EC:2.4.1.18]
+CHLREDRAFT_137300  
+PHOB; starch phosphorylase [KO:K00688] [EC:2.4.1.1]
+CHLREDRAFT_183141  
+AMYB1; beta-amylase [KO:K01177] [EC:3.2.1.2]
+CHLREDRAFT_140452  
+STA11; 4-alpha-glucanotransferase [KO:K00705] [EC:2.4.1.25]
+CHLREDRAFT_122203  
+DPE1; 4-alpha-glucanotransferase [KO:K00705] [EC:2.4.1.25]

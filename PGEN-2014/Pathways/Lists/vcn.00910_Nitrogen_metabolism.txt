@@ -1,0 +1,26 @@
+VOLCADRAFT_61240  
+hypothetical protein; K01673 carbonic anhydrase [EC:4.2.1.1] [KO:K01673] [EC:4.2.1.1]
+VOLCADRAFT_107582  
+hypothetical protein; K00605 aminomethyltransferase [EC:2.1.2.10] [KO:K00605] [EC:2.1.2.10]
+VOLCADRAFT_83067  
+hypothetical protein; K00366 ferredoxin-nitrite reductase [EC:1.7.7.1] [KO:K00366] [EC:1.7.7.1]
+VOLCADRAFT_63307  
+hypothetical protein; K00261 glutamate dehydrogenase (NAD(P)+) [EC:1.4.1.3] [KO:K00261] [EC:1.4.1.3]
+VOLCADRAFT_77041  
+hypothetical protein; K01915 glutamine synthetase [EC:6.3.1.2] [KO:K01915] [EC:6.3.1.2]
+VOLCADRAFT_103492  
+hypothetical protein; K01915 glutamine synthetase [EC:6.3.1.2] [KO:K01915] [EC:6.3.1.2]
+VOLCADRAFT_108038  
+hypothetical protein; K00264 glutamate synthase (NADPH/NADH) [EC:1.4.1.13 1.4.1.14] [KO:K00264] [EC:1.4.1.14 1.4.1.13]
+VOLCADRAFT_65699  
+hypothetical protein; K01953 asparagine synthase (glutamine-hydrolysing) [EC:6.3.5.4] [KO:K01953] [EC:6.3.5.4]
+VOLCADRAFT_127156  
+glu1; glutamate synthase [KO:K00284] [EC:1.4.7.1]
+VOLCADRAFT_77835  
+hypothetical protein; K00411 ubiquinol-cytochrome c reductase iron-sulfur subunit [EC:1.10.2.2] [KO:K00411] [EC:1.10.2.2]
+VOLCADRAFT_76796  
+cyt1; ubiquinol:cytochrome c oxidoreductase cytochrome c1, mitochondrial [KO:K00413]
+VOLCADRAFT_96652  
+hypothetical protein; K03521 electron transfer flavoprotein beta subunit [KO:K03521]
+VOLCADRAFT_120852  
+hypothetical protein; K03522 electron transfer flavoprotein alpha subunit [KO:K03522]

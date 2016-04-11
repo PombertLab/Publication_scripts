@@ -1,0 +1,172 @@
+OSTLU_34710  
+hypothetical protein; K12811 ATP-dependent RNA helicase DDX46/PRP5 [EC:3.6.4.13] [KO:K12811] [EC:3.6.4.13]
+OSTLU_89708  
+hypothetical protein; K12812 ATP-dependent RNA helicase UAP56/SUB2 [EC:3.6.4.13] [KO:K12812] [EC:3.6.4.13]
+OSTLU_18937  
+hypothetical protein; K12813 pre-mRNA-splicing factor ATP-dependent RNA helicase DHX16 [EC:3.6.4.13] [KO:K12813] [EC:3.6.4.13]
+OSTLU_42421  
+hypothetical protein; K12815 pre-mRNA-splicing factor ATP-dependent RNA helicase PRP16 [EC:3.6.4.13] [KO:K12815] [EC:3.6.4.13]
+OSTLU_17027  
+hypothetical protein; K12816 pre-mRNA-processing factor 17 [KO:K12816]
+OSTLU_4052  
+hypothetical protein; K12817 pre-mRNA-splicing factor 18 [KO:K12817]
+OSTLU_31151  
+hypothetical protein; K12818 ATP-dependent RNA helicase DHX8/PRP22 [EC:3.6.4.13] [KO:K12818] [EC:3.6.4.13]
+OSTLU_28903  
+hypothetical protein; K12818 ATP-dependent RNA helicase DHX8/PRP22 [EC:3.6.4.13] [KO:K12818] [EC:3.6.4.13]
+OSTLU_19906  
+hypothetical protein; K12819 pre-mRNA-processing factor SLU7 [KO:K12819]
+OSTLU_12120  
+hypothetical protein; K12820 pre-mRNA-splicing factor ATP-dependent RNA helicase DHX15/PRP43 [EC:3.6.4.13] [KO:K12820] [EC:3.6.4.13]
+OSTLU_14893  
+hypothetical protein; K11086 small nuclear ribonucleoprotein B and B' [KO:K11086]
+OSTLU_12445  
+hypothetical protein; K11087 small nuclear ribonucleoprotein D1 [KO:K11087]
+OSTLU_35794  
+hypothetical protein; K11096 small nuclear ribonucleoprotein D2 [KO:K11096]
+OSTLU_9203  
+hypothetical protein; K11088 small nuclear ribonucleoprotein D3 [KO:K11088]
+OSTLU_29422  
+hypothetical protein; K11097 small nuclear ribonucleoprotein E [KO:K11097]
+OSTLU_34727  
+hypothetical protein; K11098 small nuclear ribonucleoprotein F [KO:K11098]
+OSTLU_27053  
+hypothetical protein; K11099 small nuclear ribonucleoprotein G [KO:K11099]
+OSTLU_27364  
+hypothetical protein; K12821 pre-mRNA-processing factor 40 [KO:K12821]
+OSTLU_27227  
+hypothetical protein; K12823 ATP-dependent RNA helicase DDX5/DBP2 [EC:3.6.4.13] [KO:K12823] [EC:3.6.4.13]
+OSTLU_36611  
+hypothetical protein; K12823 ATP-dependent RNA helicase DDX5/DBP2 [EC:3.6.4.13] [KO:K12823] [EC:3.6.4.13]
+OSTLU_35071  
+hypothetical protein; K11092 U2 small nuclear ribonucleoprotein A' [KO:K11092]
+OSTLU_86131  
+hypothetical protein; K12825 splicing factor 3A subunit 1 [KO:K12825]
+OSTLU_13495  
+hypothetical protein; K12826 splicing factor 3A subunit 2 [KO:K12826]
+OSTLU_40716  
+hypothetical protein; K12827 splicing factor 3A subunit 3 [KO:K12827]
+OSTLU_14418  
+hypothetical protein; K12828 splicing factor 3B subunit 1 [KO:K12828]
+OSTLU_119367  
+Sf3b2; splicing factor 3B subunit2, probable [KO:K12829]
+OSTLU_24669  
+hypothetical protein; K12830 splicing factor 3B subunit 3 [KO:K12830]
+OSTLU_38809  
+hypothetical protein; K12831 splicing factor 3B subunit 4 [KO:K12831]
+OSTLU_12621  
+hypothetical protein; K12832 splicing factor 3B subunit 5 [KO:K12832]
+OSTLU_27744  
+hypothetical protein; K12833 pre-mRNA branch site protein p14 [KO:K12833]
+OSTLU_39608  
+hypothetical protein; K12834 PHD finger-like domain-containing protein 5A [KO:K12834]
+OSTLU_13306  
+hypothetical protein; K12836 splicing factor U2AF 35 kDa subunit [KO:K12836]
+OSTLU_5724  
+hypothetical protein; K12837 splicing factor U2AF 65 kDa subunit [KO:K12837]
+OSTLU_29366  
+hypothetical protein; K12839 survival of motor neuron-related-splicing factor 30 [KO:K12839]
+OSTLU_29530  
+hypothetical protein; K12840 splicing factor 45 [KO:K12840]
+OSTLU_26450  
+hypothetical protein; K12842 U2-associated protein SR140 [KO:K12842]
+OSTLU_28777  
+hypothetical protein; K12621 U6 snRNA-associated Sm-like protein LSm2 [KO:K12621]
+OSTLU_43771  
+hypothetical protein; K12622 U6 snRNA-associated Sm-like protein LSm3 [KO:K12622]
+OSTLU_12601  
+hypothetical protein; K12623 U6 snRNA-associated Sm-like protein LSm4 [KO:K12623]
+OSTLU_32713  
+hypothetical protein; K12624 U6 snRNA-associated Sm-like protein LSm5 [KO:K12624]
+OSTLU_42488  
+hypothetical protein; K12626 U6 snRNA-associated Sm-like protein LSm7 [KO:K12626]
+OSTLU_32889  
+hypothetical protein; K12627 U6 snRNA-associated Sm-like protein LSm8 [KO:K12627]
+OSTLU_2670  
+hypothetical protein; K12843 U4/U6 small nuclear ribonucleoprotein PRP3 [KO:K12843]
+OSTLU_43856  
+hypothetical protein; K12662 U4/U6 small nuclear ribonucleoprotein PRP4 [KO:K12662]
+OSTLU_28138  
+CYN22; Peptidyl-prolyl cis-trans isomerase, cyclophilin-type [KO:K09567] [EC:5.2.1.8]
+OSTLU_94220  
+hypothetical protein; K12844 U4/U6 small nuclear ribonucleoprotein PRP31 [KO:K12844]
+OSTLU_41236  
+hypothetical protein; K12845 U4/U6 small nuclear ribonucleoprotein SNU13 [KO:K12845]
+OSTLU_2491  
+hypothetical protein; K12847 U4/U6.U5 tri-snRNP-associated protein 2 [KO:K12847]
+OSTLU_18354  
+hypothetical protein; K11984 U4/U6.U5 tri-snRNP-associated protein 1 [KO:K11984]
+OSTLU_15042  
+hypothetical protein; K12848 U4/U6.U5 tri-snRNP component SNU23 [KO:K12848]
+OSTLU_39976  
+hypothetical protein; K12849 pre-mRNA-splicing factor 38A [KO:K12849]
+OSTLU_35547  
+hypothetical protein; K12852 116 kDa U5 small nuclear ribonucleoprotein component [KO:K12852]
+OSTLU_44002  
+hypothetical protein; K12854 pre-mRNA-splicing helicase BRR2 [EC:3.6.4.13] [KO:K12854] [EC:3.6.4.13]
+OSTLU_43635  
+hypothetical protein; K12855 pre-mRNA-processing factor 6 [KO:K12855]
+OSTLU_50795  
+hypothetical protein; K12856 pre-mRNA-processing factor 8 [KO:K12856]
+OSTLU_12918  
+hypothetical protein; K12857 Prp8 binding protein [KO:K12857]
+OSTLU_94867  
+hypothetical protein; K12858 ATP-dependent RNA helicase DDX23/PRP28 [EC:3.6.4.13] [KO:K12858] [EC:3.6.4.13]
+OSTLU_26866  
+hypothetical protein; K12859 U5 snRNP protein, DIM1 family [KO:K12859]
+OSTLU_30495  
+hypothetical protein; K10599 pre-mRNA-processing factor 19 [EC:6.3.2.19] [KO:K10599] [EC:6.3.2.19]
+OSTLU_31513  
+hypothetical protein; K12860 pre-mRNA-splicing factor CDC5/CEF1 [KO:K12860]
+OSTLU_16047  
+hypothetical protein; K12861 pre-mRNA-splicing factor SPF27 [KO:K12861]
+OSTLU_50173  
+hypothetical protein; K12862 pleiotropic regulator 1 [KO:K12862]
+OSTLU_33271  
+hypothetical protein; K12863 protein CWC15 [KO:K12863]
+OSTLU_37801  
+hypothetical protein; K12864 beta-catenin-like protein 1 [KO:K12864]
+OSTLU_31330  
+HSP70D; Heat Shock Protein 70 [KO:K03283]
+OSTLU_48839  
+HSP70B; Heat Shock Protein 70, chloroplast [KO:K03283]
+OSTLU_28169  
+HSP70A; Heat Shock Protein 70, cytosolic [KO:K03283]
+OSTLU_32019  
+HSP70G; Heat Shock Protein 70, cytosolic [KO:K03283]
+OSTLU_119541  
+Prp45; Pre-mRNA splicing factor prp45 [KO:K06063]
+OSTLU_42299  
+hypothetical protein; K12867 pre-mRNA-splicing factor SYF1 [KO:K12867]
+OSTLU_41360  
+hypothetical protein; K12868 pre-mRNA-splicing factor SYF2 [KO:K12868]
+OSTLU_36244  
+hypothetical protein; K12869 crooked neck [KO:K12869]
+OSTLU_12466  
+hypothetical protein; K12870 pre-mRNA-splicing factor ISY1 [KO:K12870]
+OSTLU_14660  
+hypothetical protein; K12733 peptidyl-prolyl cis-trans isomerase-like 1 [EC:5.2.1.8] [KO:K12733] [EC:5.2.1.8]
+OSTLU_29456  
+hypothetical protein; K12871 coiled-coil domain-containing protein 12 [KO:K12871]
+OSTLU_41266  
+hypothetical protein; K12872 pre-mRNA-splicing factor RBM22/SLT11 [KO:K12872]
+OSTLU_10590  
+hypothetical protein; K12873 bud site selection protein 31 [KO:K12873]
+OSTLU_38450  
+hypothetical protein; K12874 intron-binding protein aquarius [KO:K12874]
+OSTLU_26958  
+hypothetical protein; K13025 ATP-dependent RNA helicase [EC:3.6.4.13] [KO:K13025] [EC:3.6.4.13]
+OSTLU_9485  
+hypothetical protein; K12876 RNA-binding protein 8A [KO:K12876]
+OSTLU_13748  
+hypothetical protein; K12877 protein mago nashi [KO:K12877]
+OSTLU_14373  
+hypothetical protein; K12878 THO complex subunit 1 [KO:K12878]
+OSTLU_119527  
+Tho2; transcription & nuclear export THO-TREX component protein Tho2-like protein [KO:K12879]
+OSTLU_30768  
+hypothetical protein; K12880 THO complex subunit 3 [KO:K12880]
+OSTLU_87731  
+hypothetical protein; K12882 nuclear cap-binding protein subunit 1 [KO:K12882]
+OSTLU_43898  
+hypothetical protein; K12883 nuclear cap-binding protein subunit 2 [KO:K12883]

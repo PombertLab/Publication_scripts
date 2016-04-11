@@ -1,0 +1,6 @@
+VOLCADRAFT_103087  
+cysteine dioxygenase; K00456 cysteine dioxygenase [EC:1.13.11.20] [KO:K00456] [EC:1.13.11.20]
+VOLCADRAFT_86577  
+hypothetical protein; K10712 cysteamine dioxygenase [EC:1.13.11.19] [KO:K10712] [EC:1.13.11.19]
+VOLCADRAFT_30482  
+hypothetical protein; K00681 gamma-glutamyltranspeptidase [EC:2.3.2.2] [KO:K00681] [EC:2.3.2.2]

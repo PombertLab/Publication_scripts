@@ -1,0 +1,10 @@
+CHLREDRAFT_101411  
+hypothetical protein; K07512 mitochondrial trans-2-enoyl-CoA reductase [EC:1.3.1.38] [KO:K07512] [EC:1.3.1.38]
+CHLREDRAFT_131913  
+hypothetical protein; K01074 palmitoyl-protein thioesterase [EC:3.1.2.22] [KO:K01074] [EC:3.1.2.22]
+CHLREDRAFT_138664  
+hypothetical protein; K15397 3-ketoacyl-CoA synthase [EC:2.3.1.199] [KO:K15397] [EC:2.3.1.199]
+CHLREDRAFT_95439  
+hypothetical protein; K10703 very-long-chain (3R)-3-hydroxyacyl-[acyl-carrier protein] dehydratase [EC:4.2.1.134] [KO:K10703] [EC:4.2.1.134]
+CHLREDRAFT_602  
+enoyl-CoA reductase; K10258 very-long-chain enoyl-CoA reductase [EC:1.3.1.93] [KO:K10258] [EC:1.3.1.93]

@@ -1,0 +1,16 @@
+VOLCADRAFT_94566  
+hypothetical protein; K03857 phosphatidylinositol glycan, class A [EC:2.4.1.198] [KO:K03857] [EC:2.4.1.198]
+VOLCADRAFT_87448  
+hypothetical protein; K03859 phosphatidylinositol glycan, class C [KO:K03859]
+VOLCADRAFT_48549  
+hypothetical protein; K03861 phosphatidylinositol glycan, class P [KO:K03861]
+VOLCADRAFT_104217  
+hypothetical protein; K03434 N-acetylglucosaminylphosphatidylinositol deacetylase [EC:3.5.1.89] [KO:K03434] [EC:3.5.1.89]
+VOLCADRAFT_31586  
+hypothetical protein; K05284 phosphatidylinositol glycan, class M [EC:2.4.1.-] [KO:K05284] [EC:2.4.1.-]
+VOLCADRAFT_60020  
+hypothetical protein; K05290 phosphatidylinositol glycan, class K [EC:2.6.-.-] [KO:K05290] [EC:2.6.-.-]
+VOLCADRAFT_102993  
+hypothetical protein; K05292 phosphatidylinositol glycan, class T [KO:K05292]
+VOLCADRAFT_87261  
+hypothetical protein; K05293 phosphatidylinositol glycan, class U [KO:K05293]

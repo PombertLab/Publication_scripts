@@ -1,0 +1,114 @@
+Ot02g03010  
+Ck2b; Ck2b protein kinase CK2, B regulatory subunit, probable (IC) [KO:K03115]
+Ot12g02620  
+putative casein kinase II catalytic (ISS); K03097 casein kinase II subunit alpha [EC:2.7.11.1] [KO:K03097] [EC:2.7.11.1]
+Ot07g03900  
+nucleolar RNA-associated family protein / Nrap family protein (ISS); K14544 U3 small nucleolar RNA-associated protein 22 [KO:K14544]
+Ot16g00090  
+rRNA processing protein RRP7 (ISS); K14545 ribosomal RNA-processing protein 7 [KO:K14545]
+Ot08g03020  
+WD40 repeat-containing protein (ISS); K14546 U3 small nucleolar RNA-associated protein 5 [KO:K14546]
+Ot04g04180  
+WD40 repeat protein (ISS); K14548 U3 small nucleolar RNA-associated protein 4 [KO:K14548]
+Ot15g01310  
+WD40 repeat-containing protein (ISS); K14549 U3 small nucleolar RNA-associated protein 15 [KO:K14549]
+Ot08g00770  
+BAP28-related (ISS); K14550 U3 small nucleolar RNA-associated protein 10 [KO:K14550]
+Ot02g07590  
+transducin family protein / WD-40 repeat family protein (ISS); K14552 NET1-associated nuclear protein 1 (U3 small nucleolar RNA-associated protein 17) [KO:K14552]
+Ot02g00550  
+wdr50; Wdr50 WD-repeat protein (IC) [KO:K14553]
+Ot17g00310  
+putative WD-repeat membrane protein (ISS); K14554 U3 small nucleolar RNA-associated protein 21 [KO:K14554]
+Ot08g01390  
+Beta-transducin family (WD-40 repeat) protein (ISS); K14555 U3 small nucleolar RNA-associated protein 13 [KO:K14555]
+Ot14g00880  
+transducin family protein / WD-40 repeat family protein (ISS); K14556 U3 small nucleolar RNA-associated protein 12 [KO:K14556]
+Ot02g02010  
+utp6; Utp6 U3 small nucleolar RNA-associated protein 6, putative (IC) [KO:K14557]
+Ot02g04600  
+pwp2; Pwp2 U3 snoRNA-associated protein 1 Pwp2, putative (IC) [KO:K14558]
+Ot05g01460  
+Component of the SSU processome; K14559 U3 small nucleolar RNA-associated protein MPP10 [KO:K14559]
+Ot14g00710  
+ribosomal protein-like (ISS); K14560 U3 small nucleolar ribonucleoprotein protein IMP3 [KO:K14560]
+Ot14g00180  
+putative U3 snoRNP protein IMP4 (ISS); K14561 U3 small nucleolar ribonucleoprotein protein IMP4 [KO:K14561]
+Ot07g01070  
+Fibrillarin and related nucleolar RNA-binding proteins (ISS); K14563 rRNA 2'-O-methyltransferase fibrillarin [EC:2.1.1.-] [KO:K14563] [EC:2.1.1.-]
+Ot08g00460  
+SAR DNA binding protein; K14564 nucleolar protein 56 [KO:K14564]
+Ot08g00450  
+nucleolar protein Nop56; K14564 nucleolar protein 56 [KO:K14564]
+Ot03g00640  
+SAR DNA-binding protein-1-garden pea (ISS); K14565 nucleolar protein 58 [KO:K14565]
+Ot02g00870  
+cbf5; Cbf5 H/ACA ribonucleoprotein complex subunit, nucleolar pseudour (IC) [KO:K11131] [EC:5.4.99.-]
+Ot13g00680  
+putative high mobility group-like nuclear (ISS); K11129 H/ACA ribonucleoprotein complex subunit 2 [KO:K11129]
+Ot02g03000  
+gar1; Gar1 Small nucleolar RNP protein GAR1, probable (IC) [KO:K11128]
+Ot05g00680  
+H/ACA snoRNP complex; K11130 H/ACA ribonucleoprotein complex subunit 3 [KO:K11130]
+Ot06g02330  
+Predicted nucleic-acid-binding protein; K14566 U3 small nucleolar RNA-associated protein 24 [KO:K14566]
+Ot04g00890  
+hypothetical protein; K14567 U3 small nucleolar RNA-associated protein 14 [KO:K14567]
+Ot18g01810  
+putative nucleolar essential protein (ISS); K14568 essential for mitotic growth 1 [KO:K14568]
+Ot12g02110  
+hypothetical protein; K14569 ribosome biogenesis protein BMS1 [KO:K14569]
+Ot05g03530  
+Predicted P-loop ATPase fused to an acetyltransferase (ISS); K14521 N-acetyltransferase 10 [EC:2.3.1.-] [KO:K14521] [EC:2.3.1.-]
+Ot03g02860  
+hypothetical protein; K01164 ribonuclease P/MRP protein subunit POP1 [EC:3.1.26.5] [KO:K01164] [EC:3.1.26.5]
+Ot04g03980  
+RNase P/RNase MRP subunit POP5 (ISS); K03537 ribonuclease P/MRP protein subunit POP5 [EC:3.1.26.5] [KO:K03537] [EC:3.1.26.5]
+Ot11g00520  
+Ribonuclease P/MRP 30kDa subunit (ISS); K03539 ribonuclease P/MRP protein subunit RPP1 [EC:3.1.26.5] [KO:K03539] [EC:3.1.26.5]
+Ot06g02100  
+exonuclease family protein (ISS); K14570 RNA exonuclease 1 [EC:3.1.-.-] [KO:K14570] [EC:3.1.-.-]
+Ot08g01800  
+exonuclease family protein (ISS); K14570 RNA exonuclease 1 [EC:3.1.-.-] [KO:K14570] [EC:3.1.-.-]
+Ot06g03610  
+5'-3' exoribonuclease 1 (ISS); K12618 5'-3' exoribonuclease 1 [EC:3.1.13.-] [KO:K12618] [EC:3.1.13.-]
+Ot17g02470  
+hypothetical protein; K12618 5'-3' exoribonuclease 1 [EC:3.1.13.-] [KO:K12618] [EC:3.1.13.-]
+Ot06g04160  
+putative 5-3 exoribonuclease (ISS); K12619 5'-3' exoribonuclease 2 [EC:3.1.13.-] [KO:K12619] [EC:3.1.13.-]
+Ot02g06440  
+NOG1_ARATH Probable nucleolar GTP-binding protein 1 gb|AAG50935.1| GTP-binding protein; K06943 nucleolar GTP-binding protein [KO:K06943]
+Ot08g02140  
+putative GTP-binding protein; 106556-109264 (ISS) [KO:K14537]
+Ot06g02000  
+putative nucleostemin (ISS); K14538 nuclear GTP-binding protein [KO:K14538]
+Ot17g01960  
+26S proteasome regulatory complex; K14571 ribosome biogenesis ATPase [KO:K14571]
+Ot01g04040  
+MDN1; K14572 midasin [KO:K14572]
+Ot10g03005  
+RBM28; rna-binding protein 28 (rna-binding motif protein 28) (IC) [KO:K14573]
+Ot06g04250  
+putative nin one binding protein (ISS); K11883 RNA-binding protein NOB1 [KO:K11883]
+Ot13g01210  
+GTP-binding protein (ISS); K07936 GTP-binding nuclear protein Ran [KO:K07936]
+Ot02g05880  
+putative exportin1 protein XPO1 (ISS); K14290 exportin-1 [KO:K14290]
+Ot16g00990  
+NMD protein affecting ribosome stability and mRNA decay (ISS); K07562 nonsense-mediated mRNA decay protein 3 [KO:K07562]
+Ot02g00780  
+eif6; Eif6 undefined product (IC) [KO:K03264]
+Ot20g00710  
+elongation factor Tu family protein (ISS); K14536 ribosome assembly protein 1 [EC:3.6.5.-] [KO:K14536] [EC:3.6.5.-]
+Ot14g01290  
+Predicted GTP-binding protein MMR1 (ISS); K14539 large subunit GTPase 1 [EC:3.6.1.-] [KO:K14539] [EC:3.6.1.-]
+Ot03g05440  
+Predicted nucleotide kinase/nuclear protein involved oxidative stress response (ISS); K14535 transcription initiation factor TFIID subunit 9 / adenylate kinase [EC:2.7.4.3] [KO:K14535] [EC:2.7.4.3]
+Ot14g00390  
+RIO kinase (ISS); K07178 RIO kinase 1 [EC:2.7.11.1] [KO:K07178] [EC:2.7.11.1]
+Ot06g01790  
+putative RIO kinase 2 (ISS); K07179 RIO kinase 2 [EC:2.7.11.1] [KO:K07179] [EC:2.7.11.1]
+OstapCr01  
+rrs; small subunit ribosomal RNA [KO:K01979]
+OstapCr06  
+rrs; small subunit ribosomal RNA [KO:K01979]

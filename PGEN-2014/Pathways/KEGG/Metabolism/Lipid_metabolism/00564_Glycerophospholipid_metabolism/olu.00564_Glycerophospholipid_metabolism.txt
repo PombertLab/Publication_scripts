@@ -1,0 +1,38 @@
+OSTLU_30486  
+hypothetical protein; K00111 glycerol-3-phosphate dehydrogenase [EC:1.1.5.3] [KO:K00111] [EC:1.1.5.3]
+OSTLU_51690  
+hypothetical protein; K13506 glycerol-3-phosphate O-acyltransferase 3/4 [EC:2.3.1.15] [KO:K13506] [EC:2.3.1.15]
+OSTLU_119500  
+GpaT; Glycerol-3-phosphate acyltransferase, probable [KO:K00630] [EC:2.3.1.15]
+OSTLU_28292  
+hypothetical protein; K13519 lysophospholipid acyltransferase [EC:2.3.1.51 2.3.1.23 2.3.1.-] [KO:K13519] [EC:2.3.1.- 2.3.1.23 2.3.1.51]
+OSTLU_32744  
+hypothetical protein; K00655 1-acyl-sn-glycerol-3-phosphate acyltransferase [EC:2.3.1.51] [KO:K00655] [EC:2.3.1.51]
+OSTLU_19583  
+hypothetical protein; K15728 phosphatidate phosphatase LPIN [EC:3.1.3.4] [KO:K15728] [EC:3.1.3.4]
+OSTLU_35343  
+hypothetical protein; K00901 diacylglycerol kinase (ATP dependent) [EC:2.7.1.107] [KO:K00901] [EC:2.7.1.107]
+OSTLU_4077  
+hypothetical protein; K14674 TAG lipase / steryl ester hydrolase / phospholipase A2 / LPA acyltransferase [EC:3.1.1.3 3.1.1.13 3.1.1.4 2.3.1.51] [KO:K14674] [EC:2.3.1.51 3.1.1.4 3.1.1.13 3.1.1.3]
+OSTLU_41292  
+hypothetical protein; K14674 TAG lipase / steryl ester hydrolase / phospholipase A2 / LPA acyltransferase [EC:3.1.1.3 3.1.1.13 3.1.1.4 2.3.1.51] [KO:K14674] [EC:2.3.1.51 3.1.1.4 3.1.1.13 3.1.1.3]
+OSTLU_32853  
+hypothetical protein; K06130 lysophospholipase II [EC:3.1.1.5] [KO:K06130] [EC:3.1.1.5]
+OSTLU_30628  
+hypothetical protein; K14676 lysophospholipid hydrolase [EC:3.1.1.5] [KO:K14676] [EC:3.1.1.5]
+OSTLU_33520  
+hypothetical protein; K00967 ethanolamine-phosphate cytidylyltransferase [EC:2.7.7.14] [KO:K00967] [EC:2.7.7.14]
+OSTLU_32481  
+hypothetical protein; K00981 phosphatidate cytidylyltransferase [EC:2.7.7.41] [KO:K00981] [EC:2.7.7.41]
+OSTLU_37424  
+hypothetical protein; K00981 phosphatidate cytidylyltransferase [EC:2.7.7.41] [KO:K00981] [EC:2.7.7.41]
+OSTLU_3295  
+hypothetical protein; K08730 phosphatidylserine synthase 2 [EC:2.7.8.29] [KO:K08730] [EC:2.7.8.29]
+OSTLU_39077  
+hypothetical protein; K00995 CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase [EC:2.7.8.5] [KO:K00995] [EC:2.7.8.5]
+OSTLU_7284  
+hypothetical protein; K13511 monolysocardiolipin acyltransferase [EC:2.3.1.-] [KO:K13511] [EC:2.3.1.-]
+OSTLU_7370  
+hypothetical protein; K13511 monolysocardiolipin acyltransferase [EC:2.3.1.-] [KO:K13511] [EC:2.3.1.-]
+OSTLU_7533  
+hypothetical protein; K00999 CDP-diacylglycerol--inositol 3-phosphatidyltransferase [EC:2.7.8.11] [KO:K00999] [EC:2.7.8.11]

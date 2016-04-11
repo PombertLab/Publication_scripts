@@ -1,0 +1,72 @@
+OSTLU_39738  
+hypothetical protein; K01885 glutamyl-tRNA synthetase [EC:6.1.1.17] [KO:K01885] [EC:6.1.1.17]
+OSTLU_49888  
+hypothetical protein; K01885 glutamyl-tRNA synthetase [EC:6.1.1.17] [KO:K01885] [EC:6.1.1.17]
+OSTLU_26395  
+hypothetical protein; K02492 glutamyl-tRNA reductase [EC:1.2.1.70] [KO:K02492] [EC:1.2.1.70]
+OSTLU_28523  
+hypothetical protein; K01845 glutamate-1-semialdehyde 2,1-aminomutase [EC:5.4.3.8] [KO:K01845] [EC:5.4.3.8]
+OSTLU_28845  
+hypothetical protein; K01698 porphobilinogen synthase [EC:4.2.1.24] [KO:K01698] [EC:4.2.1.24]
+OSTLU_31592  
+hypothetical protein; K01749 hydroxymethylbilane synthase [EC:2.5.1.61] [KO:K01749] [EC:2.5.1.61]
+OSTLU_5668  
+hypothetical protein; K01719 uroporphyrinogen-III synthase [EC:4.2.1.75] [KO:K01719] [EC:4.2.1.75]
+OSTLU_18446  
+hypothetical protein; K01599 uroporphyrinogen decarboxylase [EC:4.1.1.37] [KO:K01599] [EC:4.1.1.37]
+OSTLU_17656  
+hypothetical protein; K01599 uroporphyrinogen decarboxylase [EC:4.1.1.37] [KO:K01599] [EC:4.1.1.37]
+OSTLU_31578  
+hypothetical protein; K01599 uroporphyrinogen decarboxylase [EC:4.1.1.37] [KO:K01599] [EC:4.1.1.37]
+OSTLU_30642  
+hypothetical protein; K00228 coproporphyrinogen III oxidase [EC:1.3.3.3] [KO:K00228] [EC:1.3.3.3]
+OSTLU_4238  
+hypothetical protein; K00228 coproporphyrinogen III oxidase [EC:1.3.3.3] [KO:K00228] [EC:1.3.3.3]
+OSTLU_10143  
+hypothetical protein; K02495 oxygen-independent coproporphyrinogen III oxidase [EC:1.3.99.22] [KO:K02495] [EC:1.3.99.22]
+OSTLU_32279  
+hypothetical protein; K00231 oxygen-dependent protoporphyrinogen oxidase [EC:1.3.3.4] [KO:K00231] [EC:1.3.3.4]
+OSTLU_2831  
+hypothetical protein; K01772 ferrochelatase [EC:4.99.1.1] [KO:K01772] [EC:4.99.1.1]
+OSTLU_87130  
+hypothetical protein; K02257 protoheme IX farnesyltransferase [EC:2.5.1.-] [KO:K02257] [EC:2.5.1.-]
+OSTLU_43606  
+hypothetical protein; K02259 cytochrome c oxidase assembly protein subunit 15 [KO:K02259]
+OSTLU_43645  
+hypothetical protein; K00798 cob(I)alamin adenosyltransferase [EC:2.5.1.17] [KO:K00798] [EC:2.5.1.17]
+OSTLU_45384  
+hypothetical protein; K03403 magnesium chelatase subunit H [EC:6.6.1.1] [KO:K03403] [EC:6.6.1.1]
+OSTLU_49527  
+hypothetical protein; K03403 magnesium chelatase subunit H [EC:6.6.1.1] [KO:K03403] [EC:6.6.1.1]
+OSTLU_776  
+hypothetical protein; K03404 magnesium chelatase subunit D [EC:6.6.1.1] [KO:K03404] [EC:6.6.1.1]
+OSTLU_38488  
+hypothetical protein; K03404 magnesium chelatase subunit D [EC:6.6.1.1] [KO:K03404] [EC:6.6.1.1]
+OSTLU_119495  
+ChlI; Magnesium-protoporyphyrin IX chelatase subunit chlI [KO:K03405] [EC:6.6.1.1]
+OSTLU_35500  
+hypothetical protein; K03428 magnesium-protoporphyrin O-methyltransferase [EC:2.1.1.11] [KO:K03428] [EC:2.1.1.11]
+OSTLU_47501  
+hypothetical protein; K04035 magnesium-protoporphyrin IX monomethyl ester (oxidative) cyclase [EC:1.14.13.81] [KO:K04035] [EC:1.14.13.81]
+OSTLU_4520  
+hypothetical protein; K00218 protochlorophyllide reductase [EC:1.3.1.33] [KO:K00218] [EC:1.3.1.33]
+OSTLU_4180  
+hypothetical protein; K00218 protochlorophyllide reductase [EC:1.3.1.33] [KO:K00218] [EC:1.3.1.33]
+OSTLU_16384  
+hypothetical protein; K04040 chlorophyll synthase [EC:2.5.1.62] [KO:K04040] [EC:2.5.1.62]
+OSTLU_5015  
+hypothetical protein; K13600 chlorophyllide a oxygenase [EC:1.14.13.122] [KO:K13600] [EC:1.14.13.122]
+OSTLU_39837  
+hypothetical protein; K13606 chlorophyll(ide) b reductase [EC:1.1.1.294] [KO:K13606] [EC:1.1.1.294]
+OSTLU_119498  
+Ggh; geranylgeranyl reductase [KO:K10960] [EC:1.3.1.83]
+OSTLU_89558  
+hypothetical protein; K00510 heme oxygenase [EC:1.14.99.3] [KO:K00510] [EC:1.14.99.3]
+OSTLU_10461  
+hypothetical protein; K01764 cytochrome c heme-lyase [EC:4.4.1.17] [KO:K01764] [EC:4.4.1.17]
+OSTLU_13359  
+hypothetical protein; K01764 cytochrome c heme-lyase [EC:4.4.1.17] [KO:K01764] [EC:4.4.1.17]
+OSTLU_6922  
+hypothetical protein; K00522 ferritin heavy chain [EC:1.16.3.1] [KO:K00522] [EC:1.16.3.1]
+OSTLU_7252  
+hypothetical protein; K00522 ferritin heavy chain [EC:1.16.3.1] [KO:K00522] [EC:1.16.3.1]

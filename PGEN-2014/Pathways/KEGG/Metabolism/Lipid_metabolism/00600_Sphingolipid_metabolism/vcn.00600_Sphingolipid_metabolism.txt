@@ -1,0 +1,18 @@
+VOLCADRAFT_82885  
+hypothetical protein; K00654 serine palmitoyltransferase [EC:2.3.1.50] [KO:K00654] [EC:2.3.1.50]
+VOLCADRAFT_90131  
+hypothetical protein; K04708 3-dehydrosphinganine reductase [EC:1.1.1.102] [KO:K04708] [EC:1.1.1.102]
+VOLCADRAFT_55921  
+hypothetical protein; K04710 ceramide synthetase [EC:2.3.1.24] [KO:K04710] [EC:2.3.1.24]
+VOLCADRAFT_63318  
+hypothetical protein; K12349 neutral ceramidase [EC:3.5.1.23] [KO:K12349] [EC:3.5.1.23]
+VOLCADRAFT_57952  
+hypothetical protein; K04713 C4-hydroxylase [EC:1.14.-.-] [KO:K04713] [EC:1.14.-.-]
+VOLCADRAFT_106613  
+hypothetical protein; K12351 sphingomyelin phosphodiesterase 2 [EC:3.1.4.12] [KO:K12351] [EC:3.1.4.12]
+VOLCADRAFT_118104  
+kdg4; diacylglycerol kinase [KO:K04715] [EC:2.7.1.138]
+VOLCADRAFT_87791  
+kdg2; diacylglycerol kinase [KO:K04718] [EC:2.7.1.91]
+VOLCADRAFT_60125  
+hypothetical protein; K01634 sphinganine-1-phosphate aldolase [EC:4.1.2.27] [KO:K01634] [EC:4.1.2.27]

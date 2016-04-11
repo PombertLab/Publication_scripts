@@ -1,0 +1,14 @@
+CHLREDRAFT_196900  
+THICb; hydroxymethylpyrimidine phosphate synthase [KO:K03147]
+CHLREDRAFT_191269  
+NIFS1; cysteine desulfurase [KO:K04487] [EC:2.8.1.7]
+CHLREDRAFT_167884  
+NIFS2; cysteine desulfurase [KO:K04487] [EC:2.8.1.7]
+CHLREDRAFT_196776  
+SUFS1; cysteine desulfurase [KO:K11717] [EC:4.4.1.16 2.8.1.7]
+CHLREDRAFT_126905  
+THI10; hydroxyethylthiazole kinase [KO:K00878] [EC:2.7.1.50]
+CHLREDRAFT_100906  
+hypothetical protein; K06928 nucleoside-triphosphatase THEP1 [EC:3.6.1.15] [KO:K06928] [EC:3.6.1.15]
+CHLREDRAFT_72868  
+TPK1; thiamine pyrophosphokinase [KO:K00949] [EC:2.7.6.2]

@@ -1,0 +1,12 @@
+VOLCADRAFT_84774  
+amx1; copper amine oxidase [KO:K00276] [EC:1.4.3.21]
+VOLCADRAFT_85348  
+hypothetical protein; K08081 tropine dehydrogenase [EC:1.1.1.206] [KO:K08081] [EC:1.1.1.206]
+VOLCADRAFT_82929  
+ast1; aspartate aminotransferase [KO:K14454] [EC:2.6.1.1]
+VOLCADRAFT_81153  
+ast3; aspartate aminotransferase [KO:K00811] [EC:2.6.1.1]
+VOLCADRAFT_103084  
+hypothetical protein; K15849 bifunctional aspartate aminotransferase and glutamate/aspartate-prephenate aminotransferase [EC:2.6.1.1 2.6.1.78 2.6.1.79] [KO:K15849] [EC:2.6.1.79 2.6.1.78 2.6.1.1]
+VOLCADRAFT_109854  
+hypothetical protein; K00817 histidinol-phosphate aminotransferase [EC:2.6.1.9] [KO:K00817] [EC:2.6.1.9]

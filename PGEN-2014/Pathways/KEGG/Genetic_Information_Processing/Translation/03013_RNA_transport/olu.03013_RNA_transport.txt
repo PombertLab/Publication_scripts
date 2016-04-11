@@ -1,0 +1,164 @@
+OSTLU_30614  
+hypothetical protein; K01164 ribonuclease P/MRP protein subunit POP1 [EC:3.1.26.5] [KO:K01164] [EC:3.1.26.5]
+OSTLU_93614  
+hypothetical protein; K03538 ribonuclease P protein subunit POP4 [EC:3.1.26.5] [KO:K03538] [EC:3.1.26.5]
+OSTLU_94165  
+hypothetical protein; K03538 ribonuclease P protein subunit POP4 [EC:3.1.26.5] [KO:K03538] [EC:3.1.26.5]
+OSTLU_31306  
+hypothetical protein; K03537 ribonuclease P/MRP protein subunit POP5 [EC:3.1.26.5] [KO:K03537] [EC:3.1.26.5]
+OSTLU_31338  
+hypothetical protein; K14529 ribonuclease P protein subunit RPP14 [EC:3.1.26.5] [KO:K14529] [EC:3.1.26.5]
+OSTLU_26376  
+hypothetical protein; K03539 ribonuclease P/MRP protein subunit RPP1 [EC:3.1.26.5] [KO:K03539] [EC:3.1.26.5]
+OSTLU_12268  
+hypothetical protein; K00784 ribonuclease Z [EC:3.1.26.11] [KO:K00784] [EC:3.1.26.11]
+OSTLU_37507  
+hypothetical protein; K00784 ribonuclease Z [EC:3.1.26.11] [KO:K00784] [EC:3.1.26.11]
+OSTLU_86123  
+hypothetical protein; K00784 ribonuclease Z [EC:3.1.26.11] [KO:K00784] [EC:3.1.26.11]
+OSTLU_34467  
+hypothetical protein; K00974 tRNA nucleotidyltransferase (CCA-adding enzyme) [EC:2.7.7.72 3.1.3.- 3.1.4.-] [KO:K00974] [EC:3.1.4.- 3.1.3.- 2.7.7.72]
+OSTLU_41856  
+hypothetical protein; K07936 GTP-binding nuclear protein Ran [KO:K07936]
+OSTLU_25190  
+hypothetical protein; K14288 exportin-T [KO:K14288]
+OSTLU_31015  
+hypothetical protein; K14289 exportin-5 [KO:K14289]
+OSTLU_27198  
+EF1A3; Eukaryotic translation elongation factor 1 alpha [KO:K03231]
+OSTLU_27060  
+EF1A1; Eukaryotic elongation factor 1 alpha [KO:K03231]
+OSTLU_29711  
+EF1A2; Eukaryotic translation elongation factor 1 alpha [KO:K03231]
+OSTLU_29941  
+hypothetical protein; K14290 exportin-1 [KO:K14290]
+OSTLU_87731  
+hypothetical protein; K12882 nuclear cap-binding protein subunit 1 [KO:K12882]
+OSTLU_43898  
+hypothetical protein; K12883 nuclear cap-binding protein subunit 2 [KO:K12883]
+OSTLU_93353  
+ICln family transporter: chloride ion current inducer protein I(Cln); K05019 chloride channel, nucleotide-sensitive, 1A [KO:K05019]
+OSTLU_34972  
+hypothetical protein; K02516 protein arginine N-methyltransferase 5 [EC:2.1.1.125] [KO:K02516] [EC:2.1.1.125]
+OSTLU_36086  
+hypothetical protein; K14293 importin subunit beta-1 [KO:K14293]
+OSTLU_33010  
+hypothetical protein; K13151 snurportin-1 [KO:K13151]
+OSTLU_3943  
+hypothetical protein; K07562 nonsense-mediated mRNA decay protein 3 [KO:K07562]
+OSTLU_12608  
+hypothetical protein; K14298 mRNA export factor [KO:K14298]
+OSTLU_17465  
+hypothetical protein; K14004 protein transport protein SEC13 [KO:K14004]
+OSTLU_94099  
+hypothetical protein; K14300 nuclear pore complex protein Nup133 [KO:K14300]
+OSTLU_86314  
+hypothetical protein; K14301 nuclear pore complex protein Nup107 [KO:K14301]
+OSTLU_27350  
+hypothetical protein; K14303 nuclear pore complex protein Nup160 [KO:K14303]
+OSTLU_29239  
+hypothetical protein; K14304 nuclear pore complex protein Nup85 [KO:K14304]
+OSTLU_32235  
+hypothetical protein; K14310 nuclear pore complex protein Nup205 [KO:K14310]
+OSTLU_31217  
+hypothetical protein; K14311 nuclear pore complex protein Nup188 [KO:K14311]
+OSTLU_17095  
+hypothetical protein; K14312 nuclear pore complex protein Nup155 [KO:K14312]
+OSTLU_15396  
+hypothetical protein; K14317 nuclear pore complex protein Nup214 [KO:K14317]
+OSTLU_24618  
+hypothetical protein; K14318 nuclear pore complex protein Nup88 [KO:K14318]
+OSTLU_33350  
+hypothetical protein; K10577 ubiquitin-conjugating enzyme E2 I [EC:6.3.2.19] [KO:K10577] [EC:6.3.2.19]
+OSTLU_24651  
+hypothetical protein; K10577 ubiquitin-conjugating enzyme E2 I [EC:6.3.2.19] [KO:K10577] [EC:6.3.2.19]
+OSTLU_42569  
+hypothetical protein; K12160 small ubiquitin-related modifier [KO:K12160]
+OSTLU_33696  
+hypothetical protein; K13130 survival of motor neuron protein-interacting protein 1 [KO:K13130]
+OSTLU_40865  
+hypothetical protein; K13131 ATP-dependent RNA helicase DDX20 [EC:3.6.4.13] [KO:K13131] [EC:3.6.4.13]
+OSTLU_30722  
+hypothetical protein; K13133 gem associated protein 5 [KO:K13133]
+OSTLU_26050  
+hypothetical protein; K13137 serine-threonine kinase receptor-associated protein [KO:K13137]
+OSTLU_26180  
+hypothetical protein; K03245 translation initiation factor 3 subunit J [KO:K03245]
+OSTLU_49739  
+hypothetical protein; K03246 translation initiation factor 3 subunit I [KO:K03246]
+OSTLU_19171  
+hypothetical protein; K03247 translation initiation factor 3 subunit H [KO:K03247]
+OSTLU_41604  
+hypothetical protein; K03247 translation initiation factor 3 subunit H [KO:K03247]
+OSTLU_6420  
+hypothetical protein; K03248 translation initiation factor 3 subunit G [KO:K03248]
+OSTLU_86356  
+hypothetical protein; K03249 translation initiation factor 3 subunit F [KO:K03249]
+OSTLU_27220  
+hypothetical protein; K03250 translation initiation factor 3 subunit E [KO:K03250]
+OSTLU_29689  
+hypothetical protein; K03250 translation initiation factor 3 subunit E [KO:K03250]
+OSTLU_46324  
+hypothetical protein; K03251 translation initiation factor 3 subunit D [KO:K03251]
+OSTLU_119599  
+Eif38; Eukaryotic translation initiation factor 3 subunit 8 [KO:K03252]
+OSTLU_51414  
+hypothetical protein; K03253 translation initiation factor 3 subunit B [KO:K03253]
+OSTLU_12762  
+hypothetical protein; K03254 translation initiation factor 3 subunit A [KO:K03254]
+OSTLU_13193  
+hypothetical protein; K03236 translation initiation factor 1A [KO:K03236]
+OSTLU_89884  
+hypothetical protein; K03236 translation initiation factor 1A [KO:K03236]
+OSTLU_37721  
+hypothetical protein; K03113 translation initiation factor 1 [KO:K03113]
+OSTLU_46171  
+hypothetical protein; K03262 translation initiation factor 5 [KO:K03262]
+OSTLU_119592  
+Eif2a; Eukaryotic translation initiation factor 2, alpha subunit [KO:K03237]
+OSTLU_88846  
+hypothetical protein; K03238 translation initiation factor 2 subunit 2 [KO:K03238]
+OSTLU_32338  
+hypothetical protein; K03242 translation initiation factor 2 subunit 3 [KO:K03242]
+OSTLU_5458  
+hypothetical protein; K03754 translation initiation factor eIF-2B subunit beta [KO:K03754]
+OSTLU_42770  
+hypothetical protein; K03680 translation initiation factor eIF-2B subunit delta [KO:K03680]
+OSTLU_31337  
+hypothetical protein; K03241 translation initiation factor eIF-2B subunit gamma [KO:K03241]
+OSTLU_969  
+hypothetical protein; K03240 translation initiation factor eIF-2B subunit epsilon [KO:K03240]
+OSTLU_48964  
+hypothetical protein; K03243 translation initiation factor 5B [KO:K03243]
+OSTLU_7162  
+hypothetical protein; K03260 translation initiation factor 4G [KO:K03260]
+OSTLU_119552  
+If4E; eukaryotic translation initiation factor 4E [KO:K03259]
+OSTLU_32748  
+hypothetical protein; K03257 translation initiation factor 4A [KO:K03257]
+OSTLU_50098  
+hypothetical protein; K13126 polyadenylate-binding protein [KO:K13126]
+OSTLU_9485  
+hypothetical protein; K12876 RNA-binding protein 8A [KO:K12876]
+OSTLU_13748  
+hypothetical protein; K12877 protein mago nashi [KO:K12877]
+OSTLU_26958  
+hypothetical protein; K13025 ATP-dependent RNA helicase [EC:3.6.4.13] [KO:K13025] [EC:3.6.4.13]
+OSTLU_89708  
+hypothetical protein; K12812 ATP-dependent RNA helicase UAP56/SUB2 [EC:3.6.4.13] [KO:K12812] [EC:3.6.4.13]
+OSTLU_14373  
+hypothetical protein; K12878 THO complex subunit 1 [KO:K12878]
+OSTLU_119527  
+Tho2; transcription & nuclear export THO-TREX component protein Tho2-like protein [KO:K12879]
+OSTLU_16977  
+hypothetical protein; K13174 THO complex subunit 5 [KO:K13174]
+OSTLU_92073  
+hypothetical protein; K13176 THO complex subunit 7 [KO:K13176]
+OSTLU_30768  
+hypothetical protein; K12880 THO complex subunit 3 [KO:K12880]
+OSTLU_443  
+hypothetical protein; K14326 regulator of nonsense transcripts 1 [EC:3.6.4.-] [KO:K14326] [EC:3.6.4.-]
+OSTLU_31092  
+hypothetical protein; K14327 regulator of nonsense transcripts 2 [KO:K14327]
+OSTLU_32910  
+hypothetical protein; K14328 regulator of nonsense transcripts 3 [KO:K14328]

@@ -1,0 +1,16 @@
+CHLREDRAFT_170294  
+hypothetical protein; K00463 indoleamine 2,3-dioxygenase [EC:1.13.11.52] [KO:K00463] [EC:1.13.11.52]
+CHLREDRAFT_79471  
+OGD1; 2-oxoglutarate dehydrogenase, E1 subunit [KO:K00164] [EC:1.2.4.2]
+CHLREDRAFT_118204  
+acetyl-CoA C-acetyltransferase; K00626 acetyl-CoA C-acetyltransferase [EC:2.3.1.9] [KO:K00626] [EC:2.3.1.9]
+CHLREDRAFT_116869  
+DDC1; aromatic-aminoacid decarboxylase [KO:K01593] [EC:4.1.1.28]
+CHLREDRAFT_187700  
+hypothetical protein; K00274 monoamine oxidase [EC:1.4.3.4] [KO:K00274] [EC:1.4.3.4]
+CHLREDRAFT_135609  
+aldehyde dehydrogenase; K00128 aldehyde dehydrogenase (NAD+) [EC:1.2.1.3] [KO:K00128] [EC:1.2.1.3]
+CHLREDRAFT_206147  
+AMX3; copper amine oxidase, amiloride-sensitive [KO:K11182] [EC:1.4.3.22]
+CHLREDRAFT_150104  
+CAT1; catalase/peroxidase [KO:K03781] [EC:1.11.1.6]

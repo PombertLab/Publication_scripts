@@ -1,0 +1,14 @@
+OSTLU_24969  
+hypothetical protein; K10884 ATP-dependent DNA helicase 2 subunit 1 [KO:K10884]
+OSTLU_16311  
+hypothetical protein; K10885 ATP-dependent DNA helicase 2 subunit 2 [KO:K10885]
+OSTLU_39103  
+hypothetical protein; K06642 DNA-dependent protein kinase catalytic subunit [EC:2.7.11.1] [KO:K06642] [EC:2.7.11.1]
+OSTLU_26493  
+hypothetical protein; K10777 DNA ligase 4 [EC:6.5.1.1] [KO:K10777] [EC:6.5.1.1]
+OSTLU_28736  
+hypothetical protein; K10866 DNA repair protein RAD50 [EC:3.6.-.-] [KO:K10866] [EC:3.6.-.-]
+OSTLU_43144  
+hypothetical protein; K10865 double-strand break repair protein MRE11 [KO:K10865]
+OSTLU_42373  
+hypothetical protein; K04799 flap endonuclease-1 [EC:3.-.-.-] [KO:K04799] [EC:3.-.-.-]

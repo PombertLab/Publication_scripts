@@ -1,0 +1,24 @@
+CHLREDRAFT_206050  
+SPD1; spermidine synthase [KO:K00797] [EC:2.5.1.16]
+CHLREDRAFT_206069  
+SPS1; spermine synthase [KO:K00797] [EC:2.5.1.16]
+CHLREDRAFT_176519  
+AMX1; copper amine oxidase [KO:K00276] [EC:1.4.3.21]
+CHLREDRAFT_178662  
+AMX2; copper amine oxidase [KO:K00276] [EC:1.4.3.21]
+CHLREDRAFT_135609  
+aldehyde dehydrogenase; K00128 aldehyde dehydrogenase (NAD+) [EC:1.2.1.3] [KO:K00128] [EC:1.2.1.3]
+CHLREDRAFT_97116  
+PANC; pantothenate synthetase [KO:K01918] [EC:6.3.2.1]
+CHLREDRAFT_134846  
+TBA1; psbA translation factor [KO:K00207] [EC:1.3.1.2]
+CHLREDRAFT_97227  
+hypothetical protein; K01464 dihydropyrimidinase [EC:3.5.2.2] [KO:K01464] [EC:3.5.2.2]
+CHLREDRAFT_157234  
+beta-ureidopropionase; K01431 beta-ureidopropionase [EC:3.5.1.6] [KO:K01431] [EC:3.5.1.6]
+CHLREDRAFT_118751  
+acyl-CoA dehydrogenase; K00249 acyl-CoA dehydrogenase [EC:1.3.8.7] [KO:K00249] [EC:1.3.8.7]
+CHLREDRAFT_206199  
+malonyl-CoA decarboxylase; K01578 malonyl-CoA decarboxylase [EC:4.1.1.9] [KO:K01578] [EC:4.1.1.9]
+CHLREDRAFT_130434  
+methylmalonate semi-aldehyde dehydrogenase; K00140 malonate-semialdehyde dehydrogenase (acetylating) / methylmalonate-semialdehyde dehydrogenase [EC:1.2.1.18 1.2.1.27] [KO:K00140] [EC:1.2.1.27 1.2.1.18]

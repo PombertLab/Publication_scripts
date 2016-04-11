@@ -1,0 +1,66 @@
+OSTLU_17428  
+hypothetical protein; K01810 glucose-6-phosphate isomerase [EC:5.3.1.9] [KO:K01810] [EC:5.3.1.9]
+OSTLU_29493  
+hypothetical protein; K00850 6-phosphofructokinase 1 [EC:2.7.1.11] [KO:K00850] [EC:2.7.1.11]
+OSTLU_37009  
+hypothetical protein; K00850 6-phosphofructokinase 1 [EC:2.7.1.11] [KO:K00850] [EC:2.7.1.11]
+OSTLU_30353  
+hypothetical protein; K03841 fructose-1,6-bisphosphatase I [EC:3.1.3.11] [KO:K03841] [EC:3.1.3.11]
+OSTLU_25840  
+hypothetical protein; K03841 fructose-1,6-bisphosphatase I [EC:3.1.3.11] [KO:K03841] [EC:3.1.3.11]
+OSTLU_15350  
+hypothetical protein; K03841 fructose-1,6-bisphosphatase I [EC:3.1.3.11] [KO:K03841] [EC:3.1.3.11]
+OSTLU_13796  
+hypothetical protein; K01623 fructose-bisphosphate aldolase, class I [EC:4.1.2.13] [KO:K01623] [EC:4.1.2.13]
+OSTLU_33820  
+hypothetical protein; K01623 fructose-bisphosphate aldolase, class I [EC:4.1.2.13] [KO:K01623] [EC:4.1.2.13]
+OSTLU_94831  
+hypothetical protein; K01624 fructose-bisphosphate aldolase, class II [EC:4.1.2.13] [KO:K01624] [EC:4.1.2.13]
+OSTLU_24989  
+hypothetical protein; K01803 triosephosphate isomerase (TIM) [EC:5.3.1.1] [KO:K01803] [EC:5.3.1.1]
+OSTLU_43602  
+hypothetical protein; K01803 triosephosphate isomerase (TIM) [EC:5.3.1.1] [KO:K01803] [EC:5.3.1.1]
+OSTLU_36521  
+hypothetical protein; K01803 triosephosphate isomerase (TIM) [EC:5.3.1.1] [KO:K01803] [EC:5.3.1.1]
+OSTLU_35855  
+hypothetical protein; K00134 glyceraldehyde 3-phosphate dehydrogenase [EC:1.2.1.12] [KO:K00134] [EC:1.2.1.12]
+OSTLU_46028  
+hypothetical protein; K00927 phosphoglycerate kinase [EC:2.7.2.3] [KO:K00927] [EC:2.7.2.3]
+OSTLU_30288  
+hypothetical protein; K00927 phosphoglycerate kinase [EC:2.7.2.3] [KO:K00927] [EC:2.7.2.3]
+OSTLU_33106  
+hypothetical protein; K15633 2,3-bisphosphoglycerate-independent phosphoglycerate mutase [EC:5.4.2.1] [KO:K15633] [EC:5.4.2.1]
+OSTLU_35517  
+hypothetical protein; K15634 probable phosphoglycerate mutase [EC:5.4.2.1] [KO:K15634] [EC:5.4.2.1]
+OSTLU_28765  
+hypothetical protein; K01689 enolase [EC:4.2.1.11] [KO:K01689] [EC:4.2.1.11]
+OSTLU_40662  
+hypothetical protein; K00873 pyruvate kinase [EC:2.7.1.40] [KO:K00873] [EC:2.7.1.40]
+OSTLU_27708  
+hypothetical protein; K00873 pyruvate kinase [EC:2.7.1.40] [KO:K00873] [EC:2.7.1.40]
+OSTLU_29179  
+hypothetical protein; K00161 pyruvate dehydrogenase E1 component subunit alpha [EC:1.2.4.1] [KO:K00161] [EC:1.2.4.1]
+OSTLU_12625  
+hypothetical protein; K00162 pyruvate dehydrogenase E1 component subunit beta [EC:1.2.4.1] [KO:K00162] [EC:1.2.4.1]
+OSTLU_31760  
+hypothetical protein; K00627 pyruvate dehydrogenase E2 component (dihydrolipoamide acetyltransferase) [EC:2.3.1.12] [KO:K00627] [EC:2.3.1.12]
+OSTLU_2905  
+hypothetical protein; K00627 pyruvate dehydrogenase E2 component (dihydrolipoamide acetyltransferase) [EC:2.3.1.12] [KO:K00627] [EC:2.3.1.12]
+OSTLU_26614  
+hypothetical protein; K00382 dihydrolipoamide dehydrogenase [EC:1.8.1.4] [KO:K00382] [EC:1.8.1.4]
+OSTLU_15203  
+hypothetical protein; K00382 dihydrolipoamide dehydrogenase [EC:1.8.1.4] [KO:K00382] [EC:1.8.1.4]
+OSTLU_27414  
+ADHX; Zn-containing alcohol dehydrogenase [KO:K00121] [EC:1.1.1.1 1.1.1.284]
+OSTLU_13873  
+hypothetical protein; K00128 aldehyde dehydrogenase (NAD+) [EC:1.2.1.3] [KO:K00128] [EC:1.2.1.3]
+OSTLU_44757  
+hypothetical protein; K01895 acetyl-CoA synthetase [EC:6.2.1.1] [KO:K01895] [EC:6.2.1.1]
+OSTLU_51907  
+hypothetical protein; K01785 aldose 1-epimerase [EC:5.1.3.3] [KO:K01785] [EC:5.1.3.3]
+OSTLU_42958  
+hypothetical protein; K01835 phosphoglucomutase [EC:5.4.2.2] [KO:K01835] [EC:5.4.2.2]
+OSTLU_34850  
+hypothetical protein; K01792 glucose-6-phosphate 1-epimerase [EC:5.1.3.15] [KO:K01792] [EC:5.1.3.15]
+OSTLU_12614  
+hypothetical protein; K00131 glyceraldehyde-3-phosphate dehydrogenase (NADP) [EC:1.2.1.9] [KO:K00131] [EC:1.2.1.9]

@@ -1,0 +1,1899 @@
+ECU01_0190	serine hydroxymethyltransferase
+ECU01_0200	mitochondrial ABC transporter
+ECU01_0210	hypothetical protein
+ECU01_0220	hypothetical protein
+ECU01_0230	hypothetical protein
+ECU01_0240	fructose-1,6-bisphosphate aldolase
+ECU01_0250	hypothetical protein
+ECU01_0260i	dynein light chain-like protein
+ECU01_0280	hypothetical protein
+ECU01_0290	hypothetical protein
+ECU01_0305	hypothetical protein
+ECU01_0310	60S ribosomal protein L2P
+ECU01_0320	hypothetical protein
+ECU01_0330	U3 small nucleolar ribonucleoprotein component
+ECU01_0340	hypothetical protein
+ECU01_0350	DEAD-like helicase
+ECU01_0360	60S ribosomal subunit biogenesis RNA-binding
+ECU01_0370	zuotin-like protein
+ECU01_0380	cell differentiation protein rcd1
+ECU01_0390	hypothetical protein
+ECU01_0400	hypothetical protein
+ECU01_0405	tRNA-Gly
+ECU01_0410	hypothetical protein
+ECU01_0420	hypothetical protein
+ECU01_0430	cleavage and polyadenylation specificity factor
+ECU01_0440	hypothetical protein
+ECU01_0450	DNA repair protein RAD4
+ECU01_0460	actin
+ECU01_0470	forkhead/HNF3 transcription factor
+ECU01_0480	40S ribosomal biogenesis protein
+ECU01_0490	hypothetical protein
+ECU01_0500	RNA polymerase II transcriptional regulation
+ECU01_0510	Fe-S cluster assembly protein IscU
+ECU01_0520	hypothetical protein
+ECU01_0530	peripheral Golgi membrane protein
+ECU01_0540	putative RNA-binding protein
+ECU01_0545	small nuclear ribonucleoprotein
+ECU01_0550	hypothetical protein
+ECU01_0560	hypothetical protein
+ECU01_0570	hypothetical protein
+ECU01_0580	hypothetical protein
+ECU01_0590	hypothetical protein
+ECU01_0600	DNA-directed RNA polymerase I
+ECU01_0610	hypothetical protein
+ECU01_0620	hypothetical protein
+ECU01_0630	serine/threonine protein kinase
+ECU01_0640	hypothetical protein
+ECU01_0650	phosphoacetylglucosamine mutase
+ECU01_0670	RNA polymerase II transcription
+ECU01_0680	thioredoxin reductase-like protein
+ECU01_0690	hypothetical protein
+ECU01_0700	eukaryotic translation initiation factor 2
+ECU01_0710	hypothetical protein
+ECU01_0720	thioredoxin
+ECU01_0730	hypothetical protein
+ECU01_0740i	thymidine kinase
+ECU01_0750	HRD ubiquitin ligase complex protein
+ECU01_0760	hypothetical protein
+ECU01_0770	hypothetical protein
+ECU01_0775	tRNA-Ser
+ECU01_0780	RING Zn-finger domain-containing protein
+ECU01_0790	hypothetical protein
+ECU01_0800	trehalose-6-phosphate synthase
+ECU01_0810	hypothetical protein
+ECU01_0820	hypothetical protein
+ECU01_0830	CCCH-type Zn-finger protein
+ECU01_0840	putative ribonucleoprotein
+ECU01_0850	hypothetical protein
+ECU01_0860	hypothetical protein
+ECU01_0870	trehalose 6-phosphate phosphatase
+ECU01_0880	hypothetical protein
+ECU01_0890	hypothetical protein
+ECU01_0900	hypothetical protein
+ECU01_0910	hypothetical protein
+ECU01_0920	40S ribosomal protein S12
+ECU01_0930i	thioredoxin-like protein
+ECU01_0940	ubiquitin conjugating enzyme E2
+ECU01_0950	hypothetical protein
+ECU01_0955	hypothetical protein
+ECU01_0960	Tat binding protein 1-interacting protein
+ECU01_0970	aldo-keto reductase
+ECU01_0980	WD domain-containing protein
+ECU01_0990	hypothetical protein
+ECU01_1000	CDP-diacylglycerol
+ECU01_1010	ubiquitin-conjugating enzyme E2
+ECU01_1020	hypothetical protein
+ECU01_1030	cell cycle control microtubule-binding protein
+ECU01_1040	general negative regulator of transcription
+ECU01_1050	hypothetical protein
+ECU01_1060	Rad25-like DNA repair helicase
+ECU01_1070	hypothetical protein
+ECU01_1080	tRNA/rRNA cytosine-C5-methylase
+ECU01_1090	hypothetical protein
+ECU01_1095	SCF ubiquitin ligase and anaphase-promoting
+ECU01_1100	hypothetical protein
+ECU01_1110	hypothetical protein
+ECU01_1115	cytochrome B5
+ECU01_1120	hypothetical protein
+ECU01_1130	S8 serine protease
+ECU01_1140	hypothetical protein
+ECU01_1150	cyclin K-like protein
+ECU01_1160	chromosome segregation ATPase
+ECU01_1170	hypothetical protein
+ECU01_1180	replication factor C large subunit
+ECU01_1190	hypothetical protein
+ECU01_1200	hypothetical protein
+ECU01_1210	dynamin
+ECU01_1220	guanylate kinase
+ECU01_1230	AAA+ ATPase
+ECU01_1240	hypothetical protein
+ECU01_1250	hypothetical protein
+ECU01_1260	hypothetical protein
+ECU01_1270	hypothetical protein
+ECU01_1280	nuclear distribution C-like protein
+ECU01_1290	WD40 domain-containing protein
+ECU01_1300	WD40 domain-containing protein
+ECU01_1310	frataxin
+ECU01_1320	Rho-associated coiled-coil domain-containing
+ECU01_1330	transcription initiation factor TFIID subunit
+ECU01_1340	hypothetical protein
+ECU01_1350	hypothetical protein
+ECU01_1360	putative RNA-binding protein
+ECU01_1370	septin
+ECU01_1380	glycerophosphoryl diester phosphodiesterase
+ECU01_1390	chitin synthase
+ECU01_1400	hypothetical protein
+ECU01_1410	ATM1 mitochondrial ABC transporter
+ECU01_1420	serine-glycine hydroxymethyltransferase
+ECU02_0060	hypothetical protein
+ECU02_0070	hypothetical protein
+ECU02_0080	hypothetical protein
+ECU02_0090	hypothetical protein
+ECU02_0100	hsp70-like protein
+ECU02_0110	hypothetical protein
+ECU02_0120	hypothetical protein
+ECU02_0130	hypothetical protein
+ECU02_0140	putative Ran GTPase binding protein
+ECU02_0150	hypothetical protein
+ECU02_0160	hypothetical protein
+ECU02_0170	hypothetical protein
+ECU02_0180	hypothetical protein
+ECU02_0190	hypothetical protein
+ECU02_0200	Smp2-like plasmid maintenance protein
+ECU02_0210	hypothetical protein
+ECU02_0220	hypothetical protein
+ECU02_0230	hypothetical protein
+ECU02_0240	Sof1 domain-containing U3 snoRNP protein
+ECU02_0250	putative RNA-binding protein
+ECU02_0260	GATA zinc finger domain-containing protein
+ECU02_0270	hypothetical protein
+ECU02_0280	hypothetical protein
+ECU02_0290	replication factor C small subunit
+ECU02_0300	hypothetical protein
+ECU02_0310	zinc finger domain-containing protein
+ECU02_0320	hypothetical protein
+ECU02_0330	putative E1-E2 ATPase
+ECU02_0340	proteasome beta type-3 subunit
+ECU02_0350	hypothetical protein
+ECU02_0355	hypothetical protein
+ECU02_0360	hypothetical protein
+ECU02_0370	hypothetical protein
+ECU02_0380	hypothetical protein
+ECU02_0390	hypothetical protein
+ECU02_0400	hypothetical protein
+ECU02_0410	Ras-like GTP binding protein
+ECU02_0420	hypothetical protein
+ECU02_0430	Sec1-like intracellular trafficking protein
+ECU02_0440	glutathione peroxidase
+ECU02_0450	transcription initiation factor IIA subunit
+ECU02_0460	nucleoporin autopeptidase domain-containing
+ECU02_0470	hypothetical protein
+ECU02_0480	26S proteasome regulatory complex protein
+ECU02_0490	hypothetical protein
+ECU02_0500	hypothetical protein
+ECU02_0510	mitogen-activated protein kinase
+ECU02_0520	TCP-1 chaperonin subunit delta
+ECU02_0525	tRNA-Ser
+ECU02_0530	hypothetical protein
+ECU02_0535	tRNA-Thr
+ECU02_0540	hypothetical protein
+ECU02_0550	catalytic protein kinase
+ECU02_0560	hypothetical protein
+ECU02_0570	hypothetical protein
+ECU02_0580	hydroxyacylglutathione hydrolase
+ECU02_0590	hypothetical protein
+ECU02_0600	hypothetical protein
+ECU02_0610	ribosomal protein L5
+ECU02_0630	hypothetical protein
+ECU02_0640	hypothetical protein
+ECU02_0650	hypothetical protein
+ECU02_0660	hypothetical protein
+ECU02_0670	dead box helicase
+ECU02_0680	hypothetical protein
+ECU02_0690	HscB-like chaperone
+ECU02_0700	hypothetical protein
+ECU02_0710	hypothetical protein
+ECU02_0720	putative histone-like transcription factor
+ECU02_0730	poly(A) polymerase
+ECU02_0740i	ubiquitin
+ECU02_0750i	60S ribosomal protein L7a
+ECU02_0760	S26 type I signal peptidase
+ECU02_0770	ribosomal protein S17
+ECU02_0780	transcription initiation factor IIF small
+ECU02_0800	ribosomal protein L6
+ECU02_0810	ribosomal protein L24
+ECU02_0820	hypothetical protein
+ECU02_0830	hypothetical protein
+ECU02_0840	hypothetical protein
+ECU02_0850	thioredoxin domain-containing protein
+ECU02_0860	aminotransferase
+ECU02_0870	hypothetical protein
+ECU02_0875	tRNA-Pro
+ECU02_0880	40S ribosomal protein S8
+ECU02_0890	hypothetical protein
+ECU02_0900	ribosomal protein L35Ae
+ECU02_0910	hypothetical protein
+ECU02_0920	hypothetical protein
+ECU02_0930	Suf domain-containing protein
+ECU02_0940	thioredoxin reductase
+ECU02_0950	hypothetical protein
+ECU02_0960	emp24/gp25L domain-containing protein
+ECU02_0970	transport protein particle component
+ECU02_0980	hypothetical protein
+ECU02_0990	hypothetical protein
+ECU02_1000	hypothetical protein
+ECU02_1010	hypothetical protein
+ECU02_1020	LSM domain-containing protein
+ECU02_1030	hypothetical protein
+ECU02_1040	hypothetical protein
+ECU02_1045	tRNA-Ala
+ECU02_1050	nascent polypeptide-associated complex
+ECU02_1060	protein prenyltransferase subunit alpha
+ECU02_1070	hypothetical protein
+ECU02_1080	ubiquitin domain-containing protein
+ECU02_1090	RAD3-like DNA-binding helicase
+ECU02_1100	heat shock protein 90
+ECU02_1110	hypothetical protein
+ECU02_1120	hypothetical protein
+ECU02_1130	protein kinase domain-containing protein
+ECU02_1140	microsomal signal peptidase 25 kDa subunit
+ECU02_1150	DNA replication licensing factor
+ECU02_1160	hypothetical protein
+ECU02_1170	nuclear transport factor 2 domain-containing
+ECU02_1180	hypothetical protein
+ECU02_1190	hypothetical protein
+ECU02_1200	homeobox domain-containing protein
+ECU02_1210	tRNA synthetase class I
+ECU02_1220	DNA ligase
+ECU02_1230	Sec23/Sec24-like protein
+ECU02_1240	chromosome condensation complex Condensin
+ECU02_1250	transcription initiation factor TFIID
+ECU02_1260	hypothetical protein
+ECU02_1270	mitosis protein DIM1
+ECU02_1280	hypothetical protein
+ECU02_1290	hypothetical protein
+ECU02_1300	dolichyl-phosphate-mannose-protein
+ECU02_1310	hypothetical protein
+ECU02_1320	hypothetical protein
+ECU02_1330	hypothetical protein
+ECU02_1340	hypothetical protein
+ECU02_1350	transcription factor E2F
+ECU02_1360	prolyl-tRNA synthetase
+ECU02_1370	trehalase
+ECU02_1380	peptidase M48 domain-containing protein
+ECU02_1390	hypothetical protein
+ECU02_1400	hypothetical protein
+ECU02_1410	RAB protein geranylgeranyltransferase subunit A
+ECU02_1420	hypothetical protein
+ECU02_1430	hypothetical protein
+ECU02_1440	hypothetical protein
+ECU02_1450	serine/threonine kinase
+ECU02_1460	Sec23 domain-containing protein
+ECU02_1470	prenylated RAB acceptor 1
+ECU02_1480	hypothetical protein
+ECU02_1485	tRNA-Leu
+ECU02_1490	alanyl-tRNA synthetase
+ECU02_1500	transcription initiation factor TFIID subunit A
+ECU02_1510	hypothetical protein
+ECU02_1520	putative DEAD-box helicase
+ECU02_1530	hypothetical protein
+ECU02_1540	hypothetical protein
+ECU03_0090	hypothetical protein
+ECU03_0100	hypothetical protein
+ECU03_0110	hypothetical protein
+ECU03_0120	hypothetical protein
+ECU03_0130	hypothetical protein
+ECU03_0150	nucleotide sugar transporter
+ECU03_0160	hypothetical protein
+ECU03_0170	hypothetical protein
+ECU03_0180	chromatin organization modifier
+ECU03_0190	hypothetical protein
+ECU03_0200	Mg-dependent DNase
+ECU03_0210	Psp1-like protein
+ECU03_0220	T-complex protein 1 subunit alpha
+ECU03_0230	60S ribosomal protein L31e
+ECU03_0240	MdlB-like ABC transporter
+ECU03_0250	hypothetical protein
+ECU03_0260	hypothetical protein
+ECU03_0270	vesicle coat complex subunit gamma
+ECU03_0280	UTP-glucose-1-phosphate uridylyltransferase
+ECU03_0290	RNA polymerase II large subunit Rpb1
+ECU03_0300	SCF ubiquitin ligase Skp1-like protein
+ECU03_0305	V-type ATPase subunit F
+ECU03_0310	40S ribosomal protein S16
+ECU03_0320	60S ribosomal protein L13
+ECU03_0325	tRNA-Ser
+ECU03_0330	phosphatidylinositol-4-phosphate 5-kinase
+ECU03_0340	phosphoglucomutase
+ECU03_0350	hypothetical protein
+ECU03_0355	tRNA-Asp
+ECU03_0360	U6 snRNA associated Sm-like protein
+ECU03_0370	hypothetical protein
+ECU03_0380	hypothetical protein
+ECU03_0390	ABCG-like transporter
+ECU03_0400	hypothetical protein
+ECU03_0410	hypothetical protein
+ECU03_0420	Spt16/Cdc68-like protein
+ECU03_0430	WD40 domain-containing protein
+ECU03_0440	DNA-directed RNA polymerase subunit B
+ECU03_0450	hypothetical protein
+ECU03_0460	sirtuin-like protein
+ECU03_0470	ADP-ribosylation factor-like GTPase
+ECU03_0480	splicing factor 3a subunit 2
+ECU03_0490	DNA-directed RNA polymerase subunit M
+ECU03_0500	vacuolar H+-ATPase V1 sector subunit C
+ECU03_0510	hypothetical protein
+ECU03_0520	heat shock protein 70
+ECU03_0530	synaptobrevin/VAMP-like protein
+ECU03_0540	MutS-like mismatch repair ATPase
+ECU03_0550	Rho/Rac/Cdc42-like GTPase guanine nucleotide
+ECU03_0560	putative GTPase-activating protein
+ECU03_0570	vacuolar import and degradation protein
+ECU03_0580	ubiquitin carboxyl-terminal hydrolase
+ECU03_0590	Rab GTPase-interacting Golgi membrane protein
+ECU03_0600	homeodomain-containing transcription factor
+ECU03_0610	homeodomain-containing transcription factor
+ECU03_0620	serine/threonine-specific kinase
+ECU03_0630	protein kinase
+ECU03_0640	hypothetical protein
+ECU03_0650	40S ribosomal protein S14
+ECU03_0660	isopeptidase T
+ECU03_0670	ribonuclease HII
+ECU03_0680	ATP-dependent 6-phosphofructokinase
+ECU03_0690	hypothetical protein
+ECU03_0700	exoribonuclease R
+ECU03_0710	60S ribosomal protein L34
+ECU03_0730	RNA binding domain-containing protein
+ECU03_0750	RNA-binding protein
+ECU03_0760	RNA-binding protein
+ECU03_0770	hypothetical protein
+ECU03_0780	hypothetical protein
+ECU03_0790	hypothetical protein
+ECU03_0800	ubiquitin-related modifier-like protein
+ECU03_0810	putative TRAPP subunit
+ECU03_0820i	beta-tubulin
+ECU03_0830	hypothetical protein
+ECU03_0840	small nuclear ribonucleoprotein
+ECU03_0850	hypothetical protein
+ECU03_0860	hypothetical protein
+ECU03_0870	hypothetical protein
+ECU03_0880	hypothetical protein
+ECU03_0890	haspin serine/threonine kinase
+ECU03_0900	Sec1-like intracellular trafficking and
+ECU03_0910	protein kinase
+ECU03_0920	putative tRNA-intron endonuclease
+ECU03_0930	ubiquitin-activating enzyme E1
+ECU03_0940	putative G2/M transition transcriptional
+ECU03_0950	60S ribosomal protein L7
+ECU03_0960	hypothetical protein
+ECU03_0970	hypothetical protein
+ECU03_0980	serine/threonine protein kinase
+ECU03_0990	SCP/PR1 domain-containing protein
+ECU03_1000	hypothetical protein
+ECU03_1010	14-3-3-like signal transduction protein
+ECU03_1020	hypothetical protein
+ECU03_1030	Cdc6-like protein
+ECU03_1040	transcription initiation factor TFIIIB subunit
+ECU03_1050	hypothetical protein
+ECU03_1060	hypothetical protein
+ECU03_1070	transcription initiation factor IIA large chain
+ECU03_1080	flap endonuclease-1
+ECU03_1090	hypothetical protein
+ECU03_1095	tRNA-Phe
+ECU03_1100	phosphatidylinositol 4-kinase beta
+ECU03_1110	hypothetical protein
+ECU03_1115	hypothetical protein
+ECU03_1120	putative V-type ATP synthase subunit
+ECU03_1130	DNA repair Rad51-like protein
+ECU03_1140	hypothetical protein
+ECU03_1150	calponin
+ECU03_1160	Sac-like phosphoinositide polyphosphatase
+ECU03_1170	homeodomain-containing transcription factor
+ECU03_1180	peptidase S8-like protein
+ECU03_1190	peroxiredoxin
+ECU03_1200	hypothetical protein
+ECU03_1220	60S ribosomal protein L3
+ECU03_1230	hypothetical protein
+ECU03_1240	adenine nucleotide alpha hydrolase
+ECU03_1250	hypothetical protein
+ECU03_1260	hypothetical protein
+ECU03_1270	cytidylate kinase
+ECU03_1280	hypothetical protein
+ECU03_1290	molybdopterin biosynthesis protein MoeB
+ECU03_1300	hypothetical protein
+ECU03_1305	tRNA-Val
+ECU03_1310	hypothetical protein
+ECU03_1320	hypothetical protein
+ECU03_1330	ATP-dependent 26S proteasome regulatory subunit
+ECU03_1340	hypothetical protein
+ECU03_1350	N-myristoyl transferase
+ECU03_1360	Myg1-like protein
+ECU03_1370	histone deacetylase
+ECU03_1380	PelA-like RNA-binding protein
+ECU03_1390	putative sugar kinase
+ECU03_1395	homeobox domain-containing protein
+ECU03_1400	hypothetical protein
+ECU03_1410	Cdc48-like ATPase
+ECU03_1420	hypothetical protein
+ECU03_1430	Rab GTPase
+ECU03_1440	tRNA nucleotidyltransferase/poly(A) polymerase
+ECU03_1450	hypothetical protein
+ECU03_1460	histone H3
+ECU03_1470	hypothetical protein
+ECU03_1480	hypothetical protein
+ECU03_1490	60S ribosomal protein L18
+ECU03_1500	hypothetical protein
+ECU03_1505	hypothetical protein
+ECU03_1510	CCAAT-binding factor subunit B
+ECU03_1520	WD40 domain-containing protein
+ECU03_1530	Snf2-like DNA/RNA helicase
+ECU03_1540	hypothetical protein
+ECU03_1550	hypothetical protein
+ECU03_1560	Rho-like GTPase
+ECU03_1570	Ca2+-binding protein
+ECU03_1580	hypothetical protein
+ECU03_1590	ankyrin-like protein
+ECU03_1600	transcription initiation factor IIF auxiliary
+ECU03_1610	hypothetical protein
+ECU04_0110	hypothetical protein
+ECU04_0120	hypothetical protein
+ECU04_0125i	40S ribosomal protein S29
+ECU04_0130	hypothetical protein
+ECU04_0140	40S ribosomal protein S5
+ECU04_0150	hypothetical protein
+ECU04_0160	hypothetical protein
+ECU04_0165	tRNA-Lys
+ECU04_0170	hypothetical protein
+ECU04_0180	transcription elongation factor S-II
+ECU04_0190	hypothetical protein
+ECU04_0195	tRNA-Ile
+ECU04_0200	protein phosphatase 2A
+ECU04_0210	putative glucose transporter
+ECU04_0230	histone acetyltransferase complex SAGA/ADA
+ECU04_0240	hypothetical protein
+ECU04_0250	HrpA-like helicase
+ECU04_0260	DHHC-type Zn finger domain-containing protein
+ECU04_0270	hypothetical protein
+ECU04_0280	RNA polymerase II transcription
+ECU04_0290	hypothetical protein
+ECU04_0300	protein tyrosine phosphatase
+ECU04_0310	26S proteasome regulatory complex protein
+ECU04_0320	hypothetical protein
+ECU04_0330	60S ribosomal protein L27
+ECU04_0340	hypothetical protein
+ECU04_0350	DNA topoisomerase II
+ECU04_0360	hypothetical protein
+ECU04_0370	hypothetical protein
+ECU04_0380	hypothetical protein
+ECU04_0400	heat shock transcription factor
+ECU04_0410	hypothetical protein
+ECU04_0420	proteasome 26S non-ATPase subunit 7
+ECU04_0430	hypothetical protein
+ECU04_0440	hypothetical protein
+ECU04_0450	40S ribosomal protein SA
+ECU04_0455	tRNA-Ile
+ECU04_0460	dimethyladenosine transferase
+ECU04_0470	hypothetical protein
+ECU04_0480	MdlB-type ABC transporter
+ECU04_0485	hypothetical protein
+ECU04_0490	E3 ubiquitin-protein ligase
+ECU04_0500	hypothetical protein
+ECU04_0510	putative RNA-binding protein
+ECU04_0520	hypothetical protein
+ECU04_0530	putative heat shock transcription factor
+ECU04_0540	hypothetical protein
+ECU04_0550	hypothetical protein
+ECU04_0560	hypothetical protein
+ECU04_0570	uridine diphosphate-N-acetylglucosamine
+ECU04_0590	hypothetical protein
+ECU04_0580	lysyl-tRNA synthetase
+ECU04_0600	X-prolyl aminopeptidase
+ECU04_0610	hypothetical protein
+ECU04_0620	putative methyltransferase
+ECU04_0630	ubiquitin-conjugating enzyme E2
+ECU04_0640	40S ribosomal protein S11
+ECU04_0650	hypothetical protein
+ECU04_0660	putative lipase
+ECU04_0670	putative dolichol kinase
+ECU04_0680	Rab11-like GTPase
+ECU04_0690	vacuolar protein sorting-associated protein
+ECU04_0700	PP2A-like phosphoprotein phosphatase
+ECU04_0710	mitotic phase inducer phosphatase
+ECU04_0720	peptidyl-tRNA hydrolase
+ECU04_0725	hypothetical protein
+ECU04_0730	putative 6-phosphogluconolactonase
+ECU04_0740	60S ribosomal protein L22
+ECU04_0750	seryl-tRNA synthetase
+ECU04_0760	U5 snRNP spliceosome subunit
+ECU04_0770	hypothetical protein
+ECU04_0780	translation initiation factor 6
+ECU04_0790	Sm-like ribonucleoprotein
+ECU04_0800	hypothetical protein
+ECU04_0810	Ca2+-binding protein
+ECU04_0820	Nop56p-like protein
+ECU04_0830	hypothetical protein
+ECU04_0840	asparagine synthase
+ECU04_0850	minichromosome maintenance protein
+ECU04_0860	hypothetical protein
+ECU04_0870	cohesin
+ECU04_0880	hypothetical protein
+ECU04_0890	pseudouridine synthase
+ECU04_0900	phenylalanyl-tRNA synthetase subunit beta
+ECU04_0910	superfamily II RNA helicase
+ECU04_0915	tRNA-Leu
+ECU04_0920	hypothetical protein
+ECU04_0930	chromosome segregation ATPase
+ECU04_0940	endoplasmic reticulum translocation complex
+ECU04_0950	transcription initiation factor TFIID subunit
+ECU04_0960	hypothetical protein
+ECU04_0970	homeodomain-containing protein
+ECU04_0980	signal recognition particle GTPase
+ECU04_0990	hypothetical protein
+ECU04_1000	myosin heavy chain
+ECU04_1010	hypothetical protein
+ECU04_1015	40S ribosomal protein S27
+ECU04_1020	T-complex protein 1 subunit theta
+ECU04_1030	homeodomain-containing protein
+ECU04_1040	hypothetical protein
+ECU04_1050	hypothetical protein
+ECU04_1060	dolichol-phosphate mannosyltransferase
+ECU04_1070	topoisomerase IA
+ECU04_1080	hypothetical protein
+ECU04_1090	actin-like protein
+ECU04_1100	translation elongation factor EF-1 alpha
+ECU04_1110	DNA topoisomerase VI subunit A
+ECU04_1120	hypothetical protein
+ECU04_1130	alpha-1,2 mannosyl-transferase
+ECU04_1140	valyl-tRNA synthetase
+ECU04_1150	hypothetical protein
+ECU04_1160	pyruvate dehydrogenase subunit beta
+ECU04_1170	translation initiation factor IF1A
+ECU04_1180	putative Ham1 deoxyribonucleotide triphosphate
+ECU04_1190	amino acid permease
+ECU04_1200	SWIB domain-containing protein
+ECU04_1210	ubiquitin fusion degradation protein 2
+ECU04_1220	thymidylate kinase
+ECU04_1230	hypothetical protein
+ECU04_1240	hypothetical protein
+ECU04_1250	WD40 domain-containing protein
+ECU04_1260	nuclear protein export factor
+ECU04_1270	hypothetical protein
+ECU04_1280	lysophospholipid acyltransferase
+ECU04_1290	superfamily II RNA helicase
+ECU04_1300	putative RNA-binding protein
+ECU04_1310	60S ribosomal protein L32
+ECU04_1320	hypothetical protein
+ECU04_1330	hypothetical protein
+ECU04_1340	hypothetical protein
+ECU04_1350	hypothetical protein
+ECU04_1355	40S ribosomal protein S10
+ECU04_1357	hypothetical protein
+ECU04_1360	CutA-like divalent cation tolerance protein
+ECU04_1370	hypothetical protein
+ECU04_1380	60S ribosomal protein L13a
+ECU04_1390	hypothetical protein
+ECU04_1400	DNA-directed RNA polymerase subunit beta'
+ECU04_1405	tRNA-Met
+ECU04_1410	hypothetical protein
+ECU04_1415	tRNA-Pro
+ECU04_1420	hypothetical protein
+ECU04_1430	hypothetical protein
+ECU04_1440	TATA-box binding protein
+ECU04_1450	hypothetical protein
+ECU04_1460	hypothetical protein
+ECU04_1470	Na+/H+ antiporter
+ECU04_1480	Zn-finger protein
+ECU04_1490	hypothetical protein
+ECU04_1500	regulator of chromosome condensation
+ECU04_1510	tRNA-binding domain-containing CsaA-like
+ECU04_1520	hypothetical protein
+ECU04_1530	GTPase activating protein
+ECU04_1540	hypothetical protein
+ECU04_1550	mRNA capping enzyme subunit beta
+ECU04_1560	GTP-binding nuclear protein
+ECU04_1570	hypothetical protein
+ECU04_1580	hypothetical protein
+ECU04_1590	hypothetical protein
+ECU04_1600	hypothetical protein
+ECU04_1610	hypothetical protein
+ECU04_1620	hypothetical protein
+ECU04_1625	hypothetical protein
+ECU04_1630	hypothetical protein
+ECU04_1640	hypothetical protein
+ECU04_1650	hypothetical protein
+ECU04_1660	hypothetical protein
+ECU05_0060	kinesin motor domain-containing protein
+ECU05_0070	patatin-like phospholipase domain-containing
+ECU05_0080	hypothetical protein
+ECU05_0090	putative sar1
+ECU05_0100	hypothetical protein
+ECU05_0110	hypothetical protein
+ECU05_0120	hypothetical protein
+ECU05_0140	hypothetical protein
+ECU05_0150	hypothetical protein
+ECU05_0160	putative amino acid permease
+ECU05_0180	hypothetical protein
+ECU05_0190	hypothetical protein
+ECU05_0200	hypothetical protein
+ECU05_0210	hypothetical protein
+ECU05_0220	WD40 domain-containing protein
+ECU05_0230	hypothetical protein
+ECU05_0240	putative nitric-oxide synthase
+ECU05_0250	40S ribosomal protein S3AE
+ECU05_0260	phosphomannomutase
+ECU05_0270	glycerol 3 phosphate dehydrogenase
+ECU05_0275	RNA polymerase II subunit Rpb11
+ECU05_0280	hypothetical protein
+ECU05_0290	proteasome beta type-4 subunit
+ECU05_0300	putative DNA mismatch repair protein
+ECU05_0310	acetyl-CoA synthetase
+ECU05_0320	phosphoglycerate kinase
+ECU05_0330	DNA polymerase alpha/epsilon-like protein
+ECU05_0340	hypothetical protein
+ECU05_0350	RSC chromatin remodeling complex subunit RSC8
+ECU05_0360	eukaryotic peptide chain release factor subunit
+ECU05_0370	hypothetical protein
+ECU05_0380	hypothetical protein
+ECU05_0390	beta-CASP domain-containing protein
+ECU05_0400	hypothetical protein
+ECU05_0405	vacuolar ATP synthase subunit E-like protein
+ECU05_0410i	putative GTPase
+ECU05_0420	hypothetical protein
+ECU05_0430	hypothetical protein
+ECU05_0435	hypothetical protein
+ECU05_0440	calcineurin-like phosphoesterase
+ECU05_0450	CCAAT-binding factor subunit C
+ECU05_0460	putative phosphoesterase
+ECU05_0470	ribosomal protein L10-like protein
+ECU05_0480	hypothetical protein
+ECU05_0490	hypothetical protein
+ECU05_0495	hypothetical protein
+ECU05_0500	putative transcription initiation factor TFIIIB
+ECU05_0510	hypothetical protein
+ECU05_0520	hypothetical protein
+ECU05_0530	hypothetical protein
+ECU05_0540	FAT domain-containing protein
+ECU05_0550	hypothetical protein
+ECU05_0560	Fcf1 domain-containing protein
+ECU05_0570	hypothetical protein
+ECU05_0580	putative amino acid transporter
+ECU05_0590	hypothetical protein
+ECU05_0595	tRNA-Leu
+ECU05_0600	putative ribosomal protein L1
+ECU05_0610	hypothetical protein
+ECU05_0620	Ran GTPase-activating protein
+ECU05_0630	putative serine/threonine kinase
+ECU05_0640	hypothetical protein
+ECU05_0650	glucose-6-phosphate isomerase
+ECU05_0660	hypothetical protein
+ECU05_0670	ribosomal protein S6e
+ECU05_0680	putative pseudouridine synthase
+ECU05_0690	putative membrane protein
+ECU05_0700	hypothetical protein
+ECU05_0710	RhoGAP domain-containing protein
+ECU05_0720	hypothetical protein
+ECU05_0730	serine palmitoyltransferase
+ECU05_0740	hypothetical protein
+ECU05_0750	hypothetical protein
+ECU05_0760	peptidase C48 domain-containing protein
+ECU05_0770	hypothetical protein
+ECU05_0780	minichromosome maintenance protein
+ECU05_0790	hypothetical protein
+ECU05_0800	putative GTPase
+ECU05_0810	serine/threonine protein phosphatase 2A-like
+ECU05_0820	hypothetical protein
+ECU05_0830	hypothetical protein
+ECU05_0840	PX domain-containing protein
+ECU05_0850	hypothetical protein
+ECU05_0860	6-phosphogluconate dehydrogenase
+ECU05_0870	HAM1 domain-containing protein
+ECU05_0880	hypothetical protein
+ECU05_0883	tRNA-Thr
+ECU05_0885	hypothetical protein
+ECU05_0890	hypothetical protein
+ECU05_0900	ribosomal protein L21
+ECU05_0910i	small nuclear ribonucleoprotein
+ECU05_0920	40S ribosomal protein S9
+ECU05_0930	phosphatidylinositol transfer protein
+ECU05_0940	putative superfamily II RNA helicase
+ECU05_0950	putative SAM dependent methyltransferase
+ECU05_0960	hypothetical protein
+ECU05_0970	hypothetical protein
+ECU05_0980	anaphase-promoting complex subunit 10
+ECU05_0990	DNA polymerase type-B alpha subfamily catalytic
+ECU05_1000	ADP-ribosylation factor family domain-containing
+ECU05_1010	WD G-beta repeat domain-containing protein
+ECU05_1020	putative centromere/microtubule binding protein
+ECU05_1030	putative proliferating cell nuclear antigen
+ECU05_1040	hypothetical protein
+ECU05_1050	hypothetical protein
+ECU05_1060	RNA pol Rpb4 domain-containing protein
+ECU05_1070	putative RIO kinase
+ECU05_1080	putative proteasome regulatory complex
+ECU05_1090	hypothetical protein
+ECU05_1100	hypothetical protein
+ECU05_1110	putative DNA helicase
+ECU05_1120i	tyrosinyl-tRNA synthetase catalytic core
+ECU05_1130	pre-mRNA cleavage GTPase subunit
+ECU05_1140	putative Cdc48 ATPase
+ECU05_1150	hypothetical protein
+ECU05_1160	hypothetical protein
+ECU05_1170	hypothetical protein
+ECU05_1180	hypothetical protein
+ECU05_1190	elongation factor 3
+ECU05_1200	hypothetical protein
+ECU05_1210	putative DNA primase
+ECU05_1220	putative t-SNARE complex subunit
+ECU05_1230	putative G10 protein
+ECU05_1240	putative gamma-glutamyltransferase
+ECU05_1250	putative phosphatidate cytidylyltransferase
+ECU05_1260	hypothetical protein
+ECU05_1270	putative ATP-dependent RNA helicase
+ECU05_1280	putative Mre11 subunit
+ECU05_1290	hypothetical protein
+ECU05_1300	hypothetical protein
+ECU05_1310	LSM domain-containing protein
+ECU05_1320	ribosomal protein S4-like protein
+ECU05_1330	putative DNA replication protein kinase
+ECU05_1340	proteasome alpha subunit
+ECU05_1350	PUA domain-containing protein
+ECU05_1355	5S ribosomal RNA
+ECU05_1360	putative nucleotidyl transferase
+ECU05_1370	putative Zn-dependent protease
+ECU05_1380	glutaredoxin domain-containing protein
+ECU05_1390	peptidase M48 domain-containing protein
+ECU05_1400	putative proteasome alpha subunit
+ECU05_1410	hypothetical protein
+ECU05_1420	hypothetical protein
+ECU05_1430	hypothetical protein
+ECU05_1440	hypothetical protein
+ECU05_1450	hypothetical protein
+ECU05_1460	hypothetical protein
+ECU05_1470	hypothetical protein
+ECU05_1480	hypothetical protein
+ECU05_1490	ribosomal protein L30E
+ECU05_1500	hypothetical protein
+ECU05_1510	protein kinase domain-containing protein
+ECU05_1520	Acyl-CoA thioesterase domain-containing protein
+ECU05_1530	putative DNA replication factor C complex large
+ECU05_1540	PCI domain-containing protein
+ECU05_1550	hypothetical protein
+ECU06_0070	hypothetical protein
+ECU06_0080	hypothetical protein
+ECU06_0090	hypothetical protein
+ECU06_0100	hypothetical protein
+ECU06_0110	hypothetical protein
+ECU06_0120	transketolase
+ECU06_0130	hypothetical protein
+ECU06_0140	hypothetical protein
+ECU06_0150	hypothetical protein
+ECU06_0160	hypothetical protein
+ECU06_0170	hypothetical protein
+ECU06_0180	hypothetical protein
+ECU06_0190	putative ATPase
+ECU06_0200	Rad3-like DNA repair helicase
+ECU06_0210	translation initiation factor 2 subunit beta
+ECU06_0220	beta-tubulin folding cofactor D
+ECU06_0230i	hypothetical protein
+ECU06_0240	polar tube protein 2
+ECU06_0250	polar tube protein 1
+ECU06_0260	putative E2F transcription factor
+ECU06_0270	transport protein particle complex subunit
+ECU06_0280	leucyl-tRNA synthetase
+ECU06_0290	hypothetical protein
+ECU06_0300	hypothetical protein
+ECU06_0310	queuine tRNA-ribosyltransferase
+ECU06_0320	DNA-directed RNA polymerase II subunit Rpb10
+ECU06_0330	PPIase/rotamase
+ECU06_0340	minichromosome maintenance protein
+ECU06_0350	transcription initiation factor IIE subunit
+ECU06_0360	single-stranded DNA-binding replication protein
+ECU06_0370i	hypothetical protein
+ECU06_0380	hypothetical protein
+ECU06_0390	RNase PH-like exoribonuclease
+ECU06_0400	Mn2+-dependent serine/threonine protein kinase
+ECU06_0405	tRNA-Gly
+ECU06_0410	dynactin complex subunit
+ECU06_0420	40S ribosome biogenesis GTP-binding protein
+ECU06_0430	dUTPase
+ECU06_0440	hypothetical protein
+ECU06_0450	hypothetical protein
+ECU06_0460	N-acetyltransferase
+ECU06_0470	nuclear pore complex subunit Nup170
+ECU06_0480	Tom40-like porin
+ECU06_0490	mevalonate pyrophosphate decarboxylase
+ECU06_0500	homeobox domain-containing protein
+ECU06_0510	T-complex protein 1 subunit zeta
+ECU06_0520	hypothetical protein
+ECU06_0530	Tub-like protein
+ECU06_0540	TPR repeat-containing protein
+ECU06_0550	hypothetical protein
+ECU06_0560	hypothetical protein
+ECU06_0570	hypothetical protein
+ECU06_0580	hypothetical protein
+ECU06_0590	hypothetical protein
+ECU06_0600	DNA-directed RNA polymerase II subunit RPB3
+ECU06_0610	putative HemK-like methylase
+ECU06_0620	histidyl-tRNA synthetase
+ECU06_0630	hypothetical protein
+ECU06_0640	hypothetical protein
+ECU06_0650	adenylate kinase
+ECU06_0660	hypothetical protein
+ECU06_0670	hypothetical protein
+ECU06_0680	hypothetical protein
+ECU06_0690	hypothetical protein
+ECU06_0700	hypothetical protein
+ECU06_0710	hypothetical protein
+ECU06_0720	phosphotyrosyl phosphatase activator
+ECU06_0730	ribonucleoside-diphosphate reductase
+ECU06_0740	hypothetical protein
+ECU06_0750	insulinase-like Zn-dependent peptidase
+ECU06_0760	hypothetical protein
+ECU06_0770	vesicle coat complex subunit
+ECU06_0780	symplekin domain-containing protein
+ECU06_0790	aspartyl-tRNA synthetase
+ECU06_0800	hypothetical protein
+ECU06_0810	hypothetical protein
+ECU06_0820	Snf2/Rad54-like helicase
+ECU06_0830	mRNA turnover and stability protein
+ECU06_0840	Ssu72-like RNA polymerase II-interacting
+ECU06_0850	hypothetical protein
+ECU06_0860	hypothetical protein
+ECU06_0870	preprotein translocase subunit Sec63
+ECU06_0880	hypothetical protein
+ECU06_0890	hypothetical protein
+ECU06_0900i	60S ribosomal protein L5
+ECU06_0905	tRNA-Trp
+ECU06_0910	ubiquitin C-terminal hydrolase
+ECU06_0920	pre-mRNA splicing helicase
+ECU06_0930	P-type ATPase
+ECU06_0940	acetyl-CoA C-acyltransferase
+ECU06_0950	hypothetical protein
+ECU06_0960	hypothetical protein
+ECU06_0970	hypothetical protein
+ECU06_0980	hypothetical protein
+ECU06_0990	t-complex protein 1 subunit epsilon
+ECU06_1000	putative zinc finger protein
+ECU06_1010	hypothetical protein
+ECU06_1020	Myb-like transcription factor
+ECU06_1030	RNA 3'-terminal phosphate cyclase
+ECU06_1040	ribulose-5-phosphate 3-epimerase
+ECU06_1050	hypothetical protein
+ECU06_1060	zinc finger domain-containing protein
+ECU06_1070	hypothetical protein
+ECU06_1080i	60S ribosomal protein L19
+ECU06_1090	mitochondrial sulfhydryl oxidase
+ECU06_1100i	transcription initiation factor TFIIIB subunit
+ECU06_1110	40S ribosomal protein S18
+ECU06_1120	60S ribosomal protein L36
+ECU06_1130	hypothetical protein
+ECU06_1140	small nuclear ribonucleoprotein
+ECU06_1150	hypothetical protein
+ECU06_1160	hypothetical protein
+ECU06_1170	hypothetical protein
+ECU06_1180	hypothetical protein
+ECU06_1190	GTP-dependent nucleic acid-binding protein EngD
+ECU06_1200	hypothetical protein
+ECU06_1210	hypothetical protein
+ECU06_1213	hypothetical protein
+ECU06_1215	hypothetical protein
+ECU06_1220	hypothetical protein
+ECU06_1230	TruD-like pseudouridine synthase
+ECU06_1240	hypothetical protein
+ECU06_1250	ATP-dependent RNA helicase
+ECU06_1255	tRNA-Arg
+ECU06_1260	hypothetical protein
+ECU06_1270	HMG domain-containing chromatin-associated
+ECU06_1280	hypothetical protein
+ECU06_1290	hypothetical protein
+ECU06_1295	U2 snRNA
+ECU06_1300	ATP-binding protein
+ECU06_1310	ATP-binding protein
+ECU06_1320	ATP-binding protein
+ECU06_1330	diphthamide synthase subunit DPH2
+ECU06_1340	hypothetical protein
+ECU06_1350	hypothetical protein
+ECU06_1360	exonuclease III
+ECU06_1370	hypothetical protein
+ECU06_1380	ferritin
+ECU06_1390	hypothetical protein
+ECU06_1400	hypothetical protein
+ECU06_1410	hypothetical protein
+ECU06_1420i	SPX domain-containing vacuolar polyphosphate
+ECU06_1430	hypothetical protein
+ECU06_1440	translation elongation factor EF-1 alpha
+ECU06_1445	40S ribosomal protein S26
+ECU06_1450	Cdc50-like protein
+ECU06_1460	Sec1-like vacuolar protein sorting-associated
+ECU06_1470	hypothetical protein
+ECU06_1480	L-type amino acid transporter
+ECU06_1490	hypothetical protein
+ECU06_1500	hemolysin III-like putative integral membrane
+ECU06_1510	CCR4-NOT transcriptional regulation complex
+ECU06_1520	DNA polymerase sigma
+ECU06_1530	nucleoside diphosphate kinase
+ECU06_1540	hypothetical protein
+ECU06_1550	hypothetical protein
+ECU06_1560	hypothetical protein
+ECU06_1570	ER lumen protein retaining receptor
+ECU06_1575	tRNA-Gln
+ECU06_1580	Psp1-like protein
+ECU06_1590	hypothetical protein
+ECU06_1600	hypothetical protein
+ECU06_1610	hypothetical protein
+ECU06_1620	hypothetical protein
+ECU07_0070	hypothetical protein
+ECU07_0080	hypothetical protein
+ECU07_0090	DNA-directed RNA polymerase subunit beta'
+ECU07_0100	NGG1p interacting factor 3-like protein
+ECU07_0110	60S acidic ribosomal protein P2
+ECU07_0120	hypothetical protein
+ECU07_0130	gene silencing histone chaperone
+ECU07_0140	hypothetical protein
+ECU07_0150	hypothetical protein
+ECU07_0160	DNA-3'-phosphatase
+ECU07_0170	hypothetical protein
+ECU07_0180	histidine acid phosphatase
+ECU07_0190	ATP-dependent 26S proteasome regulatory subunit
+ECU07_0200	hypothetical protein
+ECU07_0210	hypothetical protein
+ECU07_0220	transcription initiation factor IIE subunit
+ECU07_0230	hypothetical protein
+ECU07_0235	tRNA-Gln
+ECU07_0240	mitochondrial import inner membrane translocase
+ECU07_0250	hypothetical protein
+ECU07_0260	hypothetical protein
+ECU07_0270	hypothetical protein
+ECU07_0280	hypothetical protein
+ECU07_0290	hypothetical protein
+ECU07_0300	hypothetical protein
+ECU07_0310	hypothetical protein
+ECU07_0320	tRNA/rRNA cytosine-C5-methylase
+ECU07_0330	RING-finger domain-containing ubiquitin ligase
+ECU07_0340	U2 snRNP/pre-mRNA association factor
+ECU07_0350	separase
+ECU07_0355	hypothetical protein
+ECU07_0360	serine/threonine protein kinase
+ECU07_0370	hypothetical protein
+ECU07_0380	RNA exonuclease
+ECU07_0390	chromosome segregation ATPase
+ECU07_0400	hypothetical protein
+ECU07_0410	ubiquitin carboxyl-terminal hydrolase
+ECU07_0420	hypothetical protein
+ECU07_0430	hypothetical protein
+ECU07_0440	hypothetical protein
+ECU07_0450	hypothetical protein
+ECU07_0460	50S ribosomal protein L7Ae
+ECU07_0470	hypothetical protein
+ECU07_0480	hypothetical protein
+ECU07_0490	Cdc46/Mcm ATPase
+ECU07_0500	hypothetical protein
+ECU07_0510	hypothetical protein
+ECU07_0520	serine/threonine kinase
+ECU07_0530	hypothetical protein
+ECU07_0540	putative ATP binding protein
+ECU07_0550	hypothetical protein
+ECU07_0560	EPP-like transporter
+ECU07_0570	hypothetical protein
+ECU07_0580	hypothetical protein
+ECU07_0590	26S proteasome regulatory complex protein
+ECU07_0600	adrenodoxin-like ferredoxin
+ECU07_0610i	Rad50-like protein
+ECU07_0620	hypothetical protein
+ECU07_0630	hypothetical protein
+ECU07_0640	hypothetical protein
+ECU07_0650	hypothetical protein
+ECU07_0660	small ubiquitin-related modifier protein
+ECU07_0670	hypothetical protein
+ECU07_0680	chromosome segregation ATPase
+ECU07_0690	hypothetical protein
+ECU07_0700	preprotein translocase subunit Sec62
+ECU07_0710	hypothetical protein
+ECU07_0720	hypothetical protein
+ECU07_0730	hypothetical protein
+ECU07_0740	aquaporin
+ECU07_0750	hypothetical protein
+ECU07_0760	DnaJ-class molecular chaperone
+ECU07_0770	nuclear pore protein
+ECU07_0780	DnaJ domain-containing protein
+ECU07_0790	hypothetical protein
+ECU07_0800	glyceraldehyde-3-phosphate dehydrogenase
+ECU07_0810	hypothetical protein
+ECU07_0820	60S acidic ribosomal protein P0
+ECU07_0830	ski2-like helicase
+ECU07_0840	RNA polymerase subunit Rpb8
+ECU07_0850	hypothetical protein
+ECU07_0860	E3 ubiquitin ligase subunit Cullin
+ECU07_0870	hypothetical protein
+ECU07_0880	RNA polymerase II transcription
+ECU07_0885	tRNA-Leu
+ECU07_0890	TFIIF-interacting CTD phosphatase
+ECU07_0900	alpha/beta hydrolase domain-containing protein
+ECU07_0910	hypothetical protein
+ECU07_0920	hypothetical protein
+ECU07_0930	60S ribosomal protein L24
+ECU07_0940	oxidation resistance protein
+ECU07_0950	replication protein A subunit RPA3-like protein
+ECU07_0960	DNA-directed RNA polymerase subunit Rpb5
+ECU07_0970	hypothetical protein
+ECU07_0980	diphthamide synthase subunit DPH2
+ECU07_0990	hypothetical protein
+ECU07_1000	hypothetical protein
+ECU07_1005	60S ribosomal protein L37a
+ECU07_1010	nucleosome-binding factor SPN subunit POB3
+ECU07_1020	WD40 domain-containing protein
+ECU07_1030	hypothetical protein
+ECU07_1040	proteasome subunit alpha
+ECU07_1050	NAD kinase
+ECU07_1060	ATP-dependent RNA helicase
+ECU07_1070	hypothetical protein
+ECU07_1080	hypothetical protein
+ECU07_1090	hypothetical protein
+ECU07_1100	hypothetical protein
+ECU07_1110	hypothetical protein
+ECU07_1120	hypothetical protein
+ECU07_1130	ATP-dependent DNA helicase RecQ
+ECU07_1140	splicing factor 3a subunit 3
+ECU07_1150	hypothetical protein
+ECU07_1160	hypothetical protein
+ECU07_1170	tRNA-dihydrouridine synthase
+ECU07_1180	hypothetical protein
+ECU07_1190	alpha tubulin
+ECU07_1200	hypothetical protein
+ECU07_1210	hypothetical protein
+ECU07_1220	formin homology 2 domain-containing protein
+ECU07_1230	hypothetical protein
+ECU07_1240	hypothetical protein
+ECU07_1250	hypothetical protein
+ECU07_1260	Golgi nucleoside diphosphatase
+ECU07_1270	serine/threonine kinase
+ECU07_1280	glucosamine-fructose-6-phosphate
+ECU07_1290	hypothetical protein
+ECU07_1300	Hsp90 ATPase activator
+ECU07_1310	hypothetical protein
+ECU07_1320	hypothetical protein
+ECU07_1330	translation initiation factor IF-2 subunit beta
+ECU07_1340	rRNA methylase
+ECU07_1350	putative V-type ATP synthase
+ECU07_1360	hypothetical protein
+ECU07_1370	hypothetical protein
+ECU07_1380	ubiquitin/L40 ribosomal protein fusion
+ECU07_1390	hypothetical protein
+ECU07_1410	60S ribosomal protein L22/L17e
+ECU07_1420	proteasome subunit beta type-1
+ECU07_1430	hypothetical protein
+ECU07_1440	Dopey-like leucine zipper transcription factor
+ECU07_1450	hypothetical protein
+ECU07_1460	60S ribosomal protein L37
+ECU07_1470	hypothetical protein
+ECU07_1475	tRNA-Arg
+ECU07_1480	hypothetical protein
+ECU07_1485	tRNA-Lys
+ECU07_1490	hypothetical protein
+ECU07_1495	5S ribosomal RNA
+ECU07_1500	type V P-ATPase
+ECU07_1523	hypothetical protein
+ECU07_1525	tRNA-Ala
+ECU07_1530	hypothetical protein
+ECU07_1550	hypothetical protein
+ECU07_1560	hypothetical protein
+ECU07_1570	threonyl-tRNA synthetase
+ECU07_1580	hypothetical protein
+ECU07_1590	hypothetical protein
+ECU07_1600	hypothetical protein
+ECU07_1610	tRNA-dihydrouridine synthase
+ECU07_1620	hypothetical protein
+ECU07_1630	mRNA decapping enzyme 2
+ECU07_1640	26 proteosome regulatory subunit 4
+ECU07_1650	hypothetical protein
+ECU07_1660	phenylalanyl-tRNA synthetase subunit alpha
+ECU07_1670	hypothetical protein
+ECU07_1680	putative acetyltransferase
+ECU07_1690	transcriptional accessory-like protein
+ECU07_1700	40S ribosomal protein S2
+ECU07_1710	hypothetical protein
+ECU07_1720	hypothetical protein
+ECU07_1730	hypothetical protein
+ECU07_1740	MADS domain-containing protein
+ECU07_1750	RNA polymerase II subunit 7
+ECU07_1760	glucosamine 6-phosphate N-acetyltransferase
+ECU07_1770	hypothetical protein
+ECU07_1780	hypothetical protein
+ECU07_1790	Myg1-like metal binding protein
+ECU07_1800	hypothetical protein
+ECU08_0100	hypothetical protein
+ECU08_0110	ABCG White-like ABC transporter
+ECU08_0120	hypothetical protein
+ECU08_0130	hypothetical protein
+ECU08_0135	putative small nuclear ribonucleoprotein
+ECU08_0140	hypothetical protein
+ECU08_0150	clathrin adaptor complex small subunit
+ECU08_0160	EF-Hand Ca2+-binding protein
+ECU08_0170	hypothetical protein
+ECU08_0180	hypothetical protein
+ECU08_0190	hypothetical protein
+ECU08_0200	hypothetical protein
+ECU08_0210	hypothetical protein
+ECU08_0215	tRNA-Glu
+ECU08_0230	cyclin-dependent protein kinase
+ECU08_0240	GTP-binding protein
+ECU08_0250	vacuolar H+-ATPase V1 sector subunit H
+ECU08_0260	cyclin
+ECU08_0270	hypothetical protein
+ECU08_0280	proteasome subunit beta type-2
+ECU08_0290	minichromosome maintenance protein
+ECU08_0300	hypothetical protein
+ECU08_0310	hypothetical protein
+ECU08_0320	DNA-directed RNA polymerase
+ECU08_0330	putative GTPase
+ECU08_0340	hypothetical protein
+ECU08_0350i	40S ribosomal protein S15
+ECU08_0360	hypothetical protein
+ECU08_0370	60S ribosomal protein L26
+ECU08_0380	RNA binding protein
+ECU08_0390	histidine triad nucleotide-binding protein
+ECU08_0400	tRNA/rRNA cytosine-C5-methylase
+ECU08_0410	histone H2B-like protein
+ECU08_0420	hypothetical protein
+ECU08_0430	hypothetical protein
+ECU08_0440	hypothetical protein
+ECU08_0450	hypothetical protein
+ECU08_0460	E1 ubiquitin activating enzyme-like protein
+ECU08_0470	peptidyl-prolyl cis-trans isomerase
+ECU08_0480	hypothetical protein
+ECU08_0490	cysteinyl-tRNA-synthetase
+ECU08_0500	hypothetical protein
+ECU08_0510	hypothetical protein
+ECU08_0520	RNA binding domain-containing protein
+ECU08_0530	sulfate permease-like protein
+ECU08_0540	hypothetical protein
+ECU08_0545	Sm-like protein
+ECU08_0550	arginyl-tRNA synthetase
+ECU08_0555	U6 snRNA
+ECU08_0560	Zn-finger domain-containing protein
+ECU08_0570	hypothetical protein
+ECU08_0575	tRNA-Cys
+ECU08_0580	hypothetical protein
+ECU08_0590	hypothetical protein
+ECU08_0600i	60S ribosomal protein L18
+ECU08_0610	chromosome condensation complex Condensin
+ECU08_0620	hypothetical protein
+ECU08_0630	DNA primase catalytic subunit
+ECU08_0640	hypothetical protein
+ECU08_0650	DNA-directed RNA polymerase subunit E'
+ECU08_0660	hypothetical protein
+ECU08_0665	tRNA-Arg
+ECU08_0670	gamma-tubulin
+ECU08_0680	vesicle coat complex COPI subunit zeta
+ECU08_0690	hypothetical protein
+ECU08_0700	Golgi-to-ER retrieval protein
+ECU08_0710	hypothetical protein
+ECU08_0720	hypothetical protein
+ECU08_0730	Rab5-like GTPase
+ECU08_0740	MRP-like protein
+ECU08_0750	hypothetical protein
+ECU08_0760	ERCC4-type nuclease
+ECU08_0765	RNA polymerase II subunit Rpb4
+ECU08_0770	8-oxoguanine DNA glycosylase
+ECU08_0780	hypothetical protein
+ECU08_0790	hypothetical protein
+ECU08_0800	signal recognition particle protein Srp19
+ECU08_0810	hypothetical protein
+ECU08_0830	60S ribosomal protein L4
+ECU08_0840	hypothetical protein
+ECU08_0850	mRNA deadenylase subunit
+ECU08_0860	Ubiquitin-conjugating enzyme E2
+ECU08_0870	40S ribosomal protein S4
+ECU08_0880	endonuclease III
+ECU08_0890	kinesin-like protein
+ECU08_0900	translation initiation factor 4E
+ECU08_0910	hypothetical protein
+ECU08_0920	hypothetical protein
+ECU08_0930	cyclic nucleotide-binding domain-containing
+ECU08_0935	tRNA-Val
+ECU08_0937	tRNA-Tyr
+ECU08_0940	hypothetical protein
+ECU08_0950	hypothetical protein
+ECU08_0960	hypothetical protein
+ECU08_0970	heat shock transcription factor
+ECU08_0980	hypothetical protein
+ECU08_0985	hypothetical protein
+ECU08_0990	hypothetical protein
+ECU08_1000	hypothetical protein
+ECU08_1010	hypothetical protein
+ECU08_1020	hypothetical protein
+ECU08_1030	hypothetical protein
+ECU08_1040	40S ribosomal protein S25
+ECU08_1050	hypothetical protein
+ECU08_1060	40S ribosomal protein S13
+ECU08_1070	40S ribosomal protein S25
+ECU08_1080	ATP-dependent RNA helicase
+ECU08_1090	histone acetyltransferase
+ECU08_1100	coatomer subunit beta
+ECU08_1110	WD40 domain-containing protein
+ECU08_1120	Rad3-like DNA helicase
+ECU08_1130	hypothetical protein
+ECU08_1140	hypothetical protein
+ECU08_1150	putative short-chain alcohol dehydrogenase
+ECU08_1160i	60S ribosomal protein L23
+ECU08_1170	hypothetical protein
+ECU08_1180	hypothetical protein
+ECU08_1190	RNase P/RNase MRP subunit p30-like protein
+ECU08_1200	RNase P/RNase MRP subunit p30-like protein
+ECU08_1210	hypothetical protein
+ECU08_1220	hypothetical protein
+ECU08_1225	hypothetical protein
+ECU08_1230	hypothetical protein
+ECU08_1240	hypothetical protein
+ECU08_1250	WD40 domain-containing protein
+ECU08_1260	hypothetical protein
+ECU08_1270i	developmentally regulated GTP-binding protein
+ECU08_1280	hypothetical protein
+ECU08_1290	prenyltransferase subunit beta
+ECU08_1300	ATP/ADP translocase
+ECU08_1320	hypothetical protein
+ECU08_1330	DNA-directed RNA polymerase subunit M
+ECU08_1340	hypothetical protein
+ECU08_1350	TRAM protein transporter
+ECU08_1370	hypothetical protein
+ECU08_1380	glutaredoxin
+ECU08_1390	hypothetical protein
+ECU08_1400	GATA Zn-finger-containing transcription
+ECU08_1410	hypothetical protein
+ECU08_1420	phosphoinositide polyphosphatase
+ECU08_1430	hypothetical protein
+ECU08_1440	hypothetical protein
+ECU08_1450	N2,N2-dimethylguanosine tRNA methyltransferase
+ECU08_1470	hypothetical protein
+ECU08_1480	serine/threonine kinase
+ECU08_1490	hypothetical protein
+ECU08_1500	hypothetical protein
+ECU08_1510	ribosome biogenesis regulatory protein
+ECU08_1520	vacuolar-type H+-ATPase
+ECU08_1530	putative pseudouridylate synthase
+ECU08_1540	hypothetical protein
+ECU08_1550	hypothetical protein
+ECU08_1560	hypothetical protein
+ECU08_1570	60S ribosomal protein L10
+ECU08_1580	type-2 proteasome subunit alpha
+ECU08_1590	hypothetical protein
+ECU08_1600	hypothetical protein
+ECU08_1610	putative exosome subunit
+ECU08_1620	serine/threonine kinase
+ECU08_1630	cleavage and polyadenylation specificity factor
+ECU08_1640	chromatin remodeling bromodomain-containing
+ECU08_1650	hypothetical protein
+ECU08_1660	transcription elongation factor SPT4
+ECU08_1670	hypothetical protein
+ECU08_1680	hypothetical protein
+ECU08_1690	GTPase-activating protein
+ECU08_1700	hypothetical protein
+ECU08_1710	hypothetical protein
+ECU08_1720	hypothetical protein
+ECU08_1730	hypothetical protein
+ECU08_1740	hypothetical protein
+ECU08_1750	hypothetical protein
+ECU08_1760	hypothetical protein
+ECU08_1770	DNA binding factor subunit TFIIIC1-like protein
+ECU08_1780	ribosomal protein L14E/L6E/L27E
+ECU08_1790	cyclin-dependent protein kinase
+ECU08_1810	hypothetical protein
+ECU08_1820	hypothetical protein
+ECU08_1830	hypothetical protein
+ECU08_1840	putative PP-loop ATPase
+ECU08_1850	glucose-6-phosphate 1-dehydrogenase
+ECU08_1860	putative RNA methylase
+ECU08_1865	tRNA-Thr
+ECU08_1870	type-5 proteasome subunit beta
+ECU08_1880	hypothetical protein
+ECU08_1890	hypothetical protein
+ECU08_1900	AAA ATPase
+ECU08_1910	ribosomal protein L23
+ECU08_1915	tRNA-Asn
+ECU08_1920	cyclin-dependent protein kinase
+ECU08_1930	ADP-ribosylation factor 1
+ECU08_1950	hypothetical protein
+ECU08_1960	cyclin-dependent protein kinase
+ECU08_1970	ATP-dependent 26S proteasome regulatory subunit
+ECU08_1980	hypothetical protein
+ECU08_1990	hypothetical protein
+ECU08_2000	hypothetical protein
+ECU08_2010	60S ribosomal protein L12
+ECU08_2020	hypothetical protein
+ECU08_2030	hypothetical protein
+ECU08_2040	hypothetical protein
+ECU08_2050	hypothetical protein
+ECU08_2060	hypothetical protein
+ECU08_2070	hypothetical protein
+ECU09_0010	hypothetical protein
+ECU09_0020	hypothetical protein
+ECU09_0030	hypothetical protein
+ECU09_0040	hypothetical protein
+ECU09_0050	hypothetical protein
+ECU09_0060	hypothetical protein
+ECU09_0070	translation initiation factor IF-2
+ECU09_0080	hypothetical protein
+ECU09_0090	hypothetical protein
+ECU09_0100	hypothetical protein
+ECU09_0110	hypothetical protein
+ECU09_0120	hypothetical protein
+ECU09_0130	ER translocation protein Sec61
+ECU09_0140	O-sialoglycoprotein endopeptidase
+ECU09_0150	HrpA-like helicase
+ECU09_0160	hypothetical protein
+ECU09_0170	Rab GTPase
+ECU09_0180	hypothetical protein
+ECU09_0190	hypothetical protein
+ECU09_0200	hypothetical protein
+ECU09_0210	hypothetical protein
+ECU09_0220	hypothetical protein
+ECU09_0230	hypothetical protein
+ECU09_0240	hypothetical protein
+ECU09_0250	hypothetical protein
+ECU09_0260	hypothetical protein
+ECU09_0270	TATA binding protein associated factor 4-like
+ECU09_0280	hypothetical protein
+ECU09_0290	Ca2+-binding actin-bundling fimbrin/plastin
+ECU09_0300	hypothetical protein
+ECU09_0310	telomerase reverse transcriptase
+ECU09_0320	hypothetical protein
+ECU09_0330	proteasome subunit alpha
+ECU09_0340	DWNN ubiquitin-like domain-containing protein
+ECU09_0350	pre-ribosome nuclear export protein
+ECU09_0360	hypothetical protein
+ECU09_0370	hypothetical protein
+ECU09_0380	hypothetical protein
+ECU09_0390	hypothetical protein
+ECU09_0395	60S ribosomal protein L39
+ECU09_0400	mRNA capping enzyme subunit alpha
+ECU09_0405	5S ribosomal RNA
+ECU09_0410	superfamily II DNA/RNA helicase
+ECU09_0420	hypothetical protein
+ECU09_0430	DNA polymerase type-B delta catalytic subunit
+ECU09_0440	histone H4
+ECU09_0450	histone H3
+ECU09_0460	hypothetical protein
+ECU09_0470	hypothetical protein
+ECU09_0480	T complex protein 1 subunit beta
+ECU09_0490	hypothetical protein
+ECU09_0500	hypothetical protein
+ECU09_0510	hypothetical protein
+ECU09_0520	hypothetical protein
+ECU09_0530	hypothetical protein
+ECU09_0540	hypothetical protein
+ECU09_0550	hypothetical protein
+ECU09_0560	hypothetical protein
+ECU09_0570	hypothetical protein
+ECU09_0580	hypothetical protein
+ECU09_0590	hypothetical protein
+ECU09_0600	hypothetical protein
+ECU09_0610	hypothetical protein
+ECU09_0620	hypothetical protein
+ECU09_0625	RING-finger-containing E3 ubiquitin ligase
+ECU09_0630	hypothetical protein
+ECU09_0640	pyruvate kinase
+ECU09_0650	hypothetical protein
+ECU09_0660	hypothetical protein
+ECU09_0670	histone deacetylase
+ECU09_0680	hypothetical protein
+ECU09_0690	hypothetical protein
+ECU09_0700	Prp40-like splicing factor
+ECU09_0710	hypothetical protein
+ECU09_0720	proteasome subunit beta type-7
+ECU09_0730	hypothetical protein
+ECU09_0740	hypothetical protein
+ECU09_0750	hypothetical protein
+ECU09_0760	5'-3' exonuclease
+ECU09_0770	DNA polymerase delta subunit B
+ECU09_0780	hypothetical protein
+ECU09_0790	hypothetical protein
+ECU09_0800	hypothetical protein
+ECU09_0810	hypothetical protein
+ECU09_0820	septin
+ECU09_0830	ribonuclease
+ECU09_0840	hypothetical protein
+ECU09_0850	hypothetical protein
+ECU09_0860	hypothetical protein
+ECU09_0870	hypothetical protein
+ECU09_0880	hypothetical protein
+ECU09_0890	hypothetical protein
+ECU09_0900	hypothetical protein
+ECU09_0910	deoxyhypusine synthase
+ECU09_0920	23S rRNA methylase
+ECU09_0930	Rad52 recombination DNA repair protein
+ECU09_0940	ER to Golgi transport membrane protein
+ECU09_0945	hypothetical protein
+ECU09_0950	hypothetical protein
+ECU09_0960	hypothetical protein
+ECU09_0970	homeodomain-containing transcription factor
+ECU09_0980	PP2A-like phosphoprotein phosphatase
+ECU09_0990	hypothetical protein
+ECU09_1000	60S ribosomal protein L3
+ECU09_1005	hypothetical protein
+ECU09_1010	hypothetical protein
+ECU09_1020	hypothetical protein
+ECU09_1030	cyclin
+ECU09_1040	pyruvate dehydrogenase E1 component subunit
+ECU09_1050	hypothetical protein
+ECU09_1060	hypothetical protein
+ECU09_1070	glycosylphosphatidylinositol transamidase
+ECU09_1080	hypothetical protein
+ECU09_1100	hypothetical protein
+ECU09_1110	hypothetical protein
+ECU09_1120	hypothetical protein
+ECU09_1160	hypothetical protein
+ECU09_1170	Per1-like putative membrane protein
+ECU09_1180	hypothetical protein
+ECU09_1190	amino acid permease
+ECU09_1200	ATP-dependent RNA helicase
+ECU09_1210	glycosyltransferase
+ECU09_1220	Ca2+-binding protein
+ECU09_1230	hypothetical protein
+ECU09_1240	RNA-binding protein
+ECU09_1250	40S ribosomal protein S3
+ECU09_1260	RIO protein kinase
+ECU09_1270	hypothetical protein
+ECU09_1275	40S ribosomal protein S28
+ECU09_1280	hypothetical protein
+ECU09_1290	hypothetical protein
+ECU09_1300	DNA repair protein Mms21
+ECU09_1310	histone acetyltransferase
+ECU09_1320	endochitinase
+ECU09_1330	replication factor C small subunit
+ECU09_1340	hypothetical protein
+ECU09_1350	ribosomal protein S15A
+ECU09_1360	minichromosome maintenance protein
+ECU09_1370	hypothetical protein
+ECU09_1375	glutaredoxin
+ECU09_1380	ribosome stability and mRNA decay protein
+ECU09_1390	DNA helicase TIP49
+ECU09_1395	tRNA-Arg
+ECU09_1400	hypothetical protein
+ECU09_1410	hypothetical protein
+ECU09_1420	hypothetical protein
+ECU09_1430	hypothetical protein
+ECU09_1440	P-type ATPase
+ECU09_1450	Rab GTPase
+ECU09_1460	hypothetical protein
+ECU09_1470	hypothetical protein
+ECU09_1480	hypothetical protein
+ECU09_1490	hypothetical protein
+ECU09_1500	hypothetical protein
+ECU09_1510	hypothetical protein
+ECU09_1520	hypothetical protein
+ECU09_1530	hypothetical protein
+ECU09_1540	hypothetical protein
+ECU09_1550	hypothetical protein
+ECU09_1560	protein disulfide isomerase
+ECU09_1570	hypothetical protein
+ECU09_1580	hypothetical protein
+ECU09_1590	Yip1 interacting factor
+ECU09_1600	ribosomal biogenesis protein
+ECU09_1610	translation factor
+ECU09_1620	DNA repair flap endonuclease
+ECU09_1630	hypothetical protein
+ECU09_1640	ATP-dependent RNA helicase
+ECU09_1650	autoantigen NGP-1
+ECU09_1660	hypothetical protein
+ECU09_1670	hypothetical protein
+ECU09_1680	asparaginyl-tRNA synthetase
+ECU09_1690	Ndc80p-complex mitotic spindle protein
+ECU09_1695	hypothetical protein
+ECU09_1700	vacuole import and degradation protein
+ECU09_1710	NADPH cytochrome p450 reductase
+ECU09_1720	hypothetical protein
+ECU09_1730	Cdc73-like RNA polymerase II assessory factor
+ECU09_1740	hypothetical protein
+ECU09_1750	putative methyl transferase
+ECU09_1760	hypothetical protein
+ECU09_1770	hypothetical protein
+ECU09_1780	mevalonate kinase
+ECU09_1785	tRNA-Glu
+ECU09_1790	vacuolar-type H+-ATPase subunit I
+ECU09_1800	DNA helicase
+ECU09_1805	small nuclear ribonucleoprotein
+ECU09_1810	hypothetical protein
+ECU09_1820	hypothetical protein
+ECU09_1830	hypothetical protein
+ECU09_1840	ATP-dependent 26S proteasome regulatory subunit
+ECU09_1845	tRNA-His
+ECU09_1850	PHD zinc finger domain-containing protein
+ECU09_1860	IkappaB kinase complex subunit IKAP
+ECU09_1870	undecaprenyl pyrophosphate synthase
+ECU09_1880	hypothetical protein
+ECU09_1890	DNA/RNA helicase
+ECU09_1900	hypothetical protein
+ECU09_1910	structural maintenance of chromosomes protein
+ECU09_1920	hypothetical protein
+ECU09_1930	hypothetical protein
+ECU09_1940	hypothetical protein
+ECU09_1950	membrane traffic protein
+ECU09_1960	deoxycytidylate deaminase
+ECU09_1970	myosin heavy chain
+ECU09_1980	hypothetical protein
+ECU09_1990	hypothetical protein
+ECU09_2000	hypothetical protein
+ECU09_2010	hypothetical protein
+ECU10_0140	vacuolar-type H+-ATPase subunit D
+ECU10_0150	hypothetical protein
+ECU10_0155	tRNA-Asn
+ECU10_0160	60S ribosomal protein L23a
+ECU10_0170	signal recognition particle GTPase
+ECU10_0180	ribose 5-phosphate isomerase
+ECU10_0190	26S proteasome regulatory complex subunit Rpn7
+ECU10_0195	tRNA-Val
+ECU10_0200	hypothetical protein
+ECU10_0210	DNA-directed RNA polymerase III subunit C34
+ECU10_0220	hypothetical protein
+ECU10_0230	hypothetical protein
+ECU10_0240	T-complex protein 1 subunit gamma
+ECU10_0250	DNA-directed RNA polymerase subunit B
+ECU10_0260	histone H3/H4-like protein
+ECU10_0270	RNase PH-like protein
+ECU10_0280	putative P-loop ATPase/acetyltransferase fusion
+ECU10_0290	U1 snRNP-specific protein C
+ECU10_0295	tRNA-Ser
+ECU10_0300	acyl-CoA cholesterol acyltransferase
+ECU10_0310	1-acyl-SN-glycerol-3-phosphate acyltransferase
+ECU10_0320	kinesin-like protein
+ECU10_0330	hypothetical protein
+ECU10_0340	inorganic pyrophosphatase
+ECU10_0350	Rho GTPase
+ECU10_0360	putative actin depolymerisation factor
+ECU10_0370	hypothetical protein
+ECU10_0380	mRNA capping enzyme
+ECU10_0390	hypothetical protein
+ECU10_0400	40S ribosomal protein S23
+ECU10_0410	26S proteasome regulatory complex subunit
+ECU10_0420	ATP/ADP translocase
+ECU10_0430	hypothetical protein
+ECU10_0440	ATP-dependent rRNA helicase
+ECU10_0450	hypothetical protein
+ECU10_0460	hypothetical protein
+ECU10_0470	hypothetical protein
+ECU10_0475	tRNA-Pro
+ECU10_0480	fragile histidine family hydrolase
+ECU10_0490	hypothetical protein
+ECU10_0500	hypothetical protein
+ECU10_0510	3-hydroxy-3-methylglutaryl CoA synthase
+ECU10_0520	ATP/ADP translocase
+ECU10_0530	uracil-DNA glycosylase
+ECU10_0540	ATP/ADP translocase
+ECU10_0550	20S proteasome subunit alpha
+ECU10_0560	putative short chain dehydrogenase
+ECU10_0570	AGC serine/threonine kinase
+ECU10_0580	putative TFIIF-interacting CTD phosphatase
+ECU10_0590	phosphoinositide 3-kinase
+ECU10_0600	replication factor A protein 1
+ECU10_0610	hypothetical protein
+ECU10_0620	importin
+ECU10_0630	T-complex protein 1 subunit eta
+ECU10_0640	dynein heavy chain
+ECU10_0650	hypothetical protein
+ECU10_0660	MYST histone acetyltransferase
+ECU10_0670	ribosomal biogenesis protein
+ECU10_0680	HrpA-like helicase
+ECU10_0690	ATP-dependent RNA helicase
+ECU10_0700	translation initiation factor 2B subunit
+ECU10_0710	MutS-like mismatch repair ATPase
+ECU10_0720	ankyrin repeat domain-containing protein
+ECU10_0730	hypothetical protein
+ECU10_0740	hypothetical protein
+ECU10_0750	methionine aminopeptidase 2
+ECU10_0760	transcription initiation factor TFIID subunit
+ECU10_0770	hypothetical protein
+ECU10_0780i	replication factor C small subunit
+ECU10_0790	hypothetical protein
+ECU10_0800	putative methyltransferase
+ECU10_0805	hypothetical protein
+ECU10_0810	chromosome segregation protein
+ECU10_0820	fibrillarin
+ECU10_0830	HMG-like nuclear protein
+ECU10_0840	U1 snRNP subunit
+ECU10_0850	hypothetical protein
+ECU10_0860	hypothetical protein
+ECU10_0870	glycerol-3-phosphate dehydrogenase
+ECU10_0880	hypothetical protein
+ECU10_0890	long-chain acyl-CoA synthetase
+ECU10_0900	putative RNA-processing beta-lactamase-fold
+ECU10_0910	long-chain acyl-CoA synthetase
+ECU10_0920	ribonucleoside-diphosphate reductase
+ECU10_0930	transcription initiation factor TFIID subunit
+ECU10_0940	ubiquitin-conjugating enzyme
+ECU10_0950	hypothetical protein
+ECU10_0960	putative kinase
+ECU10_0970	hypothetical protein
+ECU10_0980	hypothetical protein
+ECU10_0990	60S ribosomal protein L27
+ECU10_1000	kinesin-like protein
+ECU10_1010	hypothetical protein
+ECU10_1020	hypothetical protein
+ECU10_1030	hypothetical protein
+ECU10_1040	V-type ATP synthase subunit B
+ECU10_1050	hypothetical protein
+ECU10_1060	phosphoglyceromutase
+ECU10_1070	hypothetical protein
+ECU10_1080	DNA polymerase alpha subunit B
+ECU10_1090	chromatin remodeling protein
+ECU10_1100	DnaJ-like protein
+ECU10_1110	polyadenylate-binding protein
+ECU10_1115	tRNA-Ala
+ECU10_1120	transcription initiation factor TFIID subunit
+ECU10_1130	origin recognition complex subunit 2
+ECU10_1140	guanine nucleotide exchange factor
+ECU10_1150	hypothetical protein
+ECU10_1160	hypothetical protein
+ECU10_1170	Rad14-like DNA excision repair protein
+ECU10_1180	ubiquitin fusion-degradation protein
+ECU10_1190	hypothetical protein
+ECU10_1200i	casein kinase II subunit beta
+ECU10_1210	DNA polymerase epsilon
+ECU10_1220	hypothetical protein
+ECU10_1230	mitochondrial ABC transporter
+ECU10_1240	importin beta
+ECU10_1250	hypothetical protein
+ECU10_1260	lysophospholipid acyltransferase
+ECU10_1270	Dullard-like phosphatase domain-containing
+ECU10_1280	PP2A-like protein phosphatase
+ECU10_1290	hypothetical protein
+ECU10_1300	60S ribosomal protein L44
+ECU10_1310i	ubiquitin-conjugating enzyme E2
+ECU10_1320	SNF2-like helicase
+ECU10_1330	nucleotide excision repair endonuclease NEF1
+ECU10_1340	Rrp4-like RNA-binding protein
+ECU10_1350	putative RNA-processing beta-lactamase-fold
+ECU10_1360	hypothetical protein
+ECU10_1370	phosphatidylinositol 5-phosphate phosphatase
+ECU10_1380	ubiquitin-protein ligase
+ECU10_1390	hypothetical protein
+ECU10_1400	hypothetical protein
+ECU10_1410	hypothetical protein
+ECU10_1420	ATP-dependent 26S proteasome regulatory subunit
+ECU10_1430	chromatin remodeling transcription factor
+ECU10_1440	PAP2-like phosphatidic acid phosphatase
+ECU10_1450	proteasome beta type-6 subunit
+ECU10_1460	glutaminyl-tRNA synthetase
+ECU10_1470	putative homeodomain-containing transcription
+ECU10_1480	hypothetical protein
+ECU10_1490	hypothetical protein
+ECU10_1500	hypothetical protein
+ECU10_1505	putative zinc finger protein
+ECU10_1510	mevalonate-like kinase
+ECU10_1520	White-like ABC transporter
+ECU10_1530	hypothetical protein
+ECU10_1540	ubiquitin-protein ligase
+ECU10_1550	hypothetical protein
+ECU10_1560	hypothetical protein
+ECU10_1570i	40S ribosomal protein S24
+ECU10_1575	40S ribosomal protein S30
+ECU10_1580	Sm-like ribonucleoprotein subunit D2
+ECU10_1590	choline-phosphate cytidylyltransferase
+ECU10_1600	Mnd1-like meiotic recombination protein
+ECU10_1610	hypothetical protein
+ECU10_1620	hypothetical protein
+ECU10_1630	hypothetical protein
+ECU10_1640	superfamily I DNA/RNA helicase
+ECU10_1650	hypothetical protein
+ECU10_1660	spore wall protein Swp1b
+ECU10_1680	ATP-dependent RNA helicase
+ECU10_1690	enolase
+ECU10_1695	hypothetical protein
+ECU10_1700i	dynamin-like vacuolar protein-sorting protein
+ECU10_1710	hypothetical protein
+ECU10_1720	hydroxymethylglutaryl-coenzyme A reductase
+ECU10_1730	hypothetical protein
+ECU10_1740	cellular morphogenesis/cytokinesis regulation
+ECU10_1750	Spc97/Spc98-like spindle pole body protein
+ECU10_1760	cyclophilin-type peptidylprolyl cis-trans
+ECU10_1770i	leucyl aminopeptidase
+ECU10_1780	hypothetical protein
+ECU10_1790	glycyl-tRNA synthetase
+ECU10_1800	hypothetical protein
+ECU10_1810	hypothetical protein
+ECU11_0060	hypothetical protein
+ECU11_0070	hypothetical protein
+ECU11_0080	hypothetical protein
+ECU11_0090	hypothetical protein
+ECU11_0100	hypothetical protein
+ECU11_0110	hypothetical protein
+ECU11_0120	hypothetical protein
+ECU11_0130	hypothetical protein
+ECU11_0140	3-methyladenine DNA glycosylase
+ECU11_0150	hypothetical protein
+ECU11_0170	leucine rich repeat domain-containing protein
+ECU11_0180	protein kinase domain-containing protein
+ECU11_0190	putative transcription regulator protein
+ECU11_0200	hypothetical protein
+ECU11_0210	ubiquitin-like domain containing protein
+ECU11_0220	putative CDK-activating kinase assembly factor
+ECU11_0230	triosephosphate isomerase
+ECU11_0240	putative exportin 1
+ECU11_0250	hypothetical protein
+ECU11_0260	hypothetical protein
+ECU11_0270	hypothetical protein
+ECU11_0280	hypothetical protein
+ECU11_0290	hypothetical protein
+ECU11_0300	dephospho-CoA kinase
+ECU11_0310	hypothetical protein
+ECU11_0320	hypothetical protein
+ECU11_0330	hypothetical protein
+ECU11_0340	zinc finger domain-containing protein
+ECU11_0350	putative RAB escort protein
+ECU11_0360	putative Rad5p-binding protein
+ECU11_0370	RNA polymerase subunit beta
+ECU11_0373	hypothetical protein
+ECU11_0375	tRNA-Leu
+ECU11_0380	hypothetical protein
+ECU11_0390	exocyst complex subunit SEC6
+ECU11_0400	putative transmembrane adaptor Erv26
+ECU11_0410	hypothetical protein
+ECU11_0415	tRNA-Met
+ECU11_0420	hypothetical protein
+ECU11_0430	Sel1 repeat domain-containing protein
+ECU11_0440	RNP domain-containing protein
+ECU11_0450	phosphoinositide 4-kinase
+ECU11_0460	60S ribosomal subunit biogenesis protein
+ECU11_0470	kinesin motor domain-containing protein
+ECU11_0480	GATase1 CTP synthase
+ECU11_0490	hypothetical protein
+ECU11_0500	RNP domain-containing protein
+ECU11_0505	BolA-like protein
+ECU11_0510	polysaccharide deacetylase domain-containing
+ECU11_0520	hypothetical protein
+ECU11_0530	aminoacyl-tRNA ligase
+ECU11_0540	HSP70-like protein
+ECU11_0550	putative GTPase activating protein for Arf
+ECU11_0560	hypothetical protein
+ECU11_0570	proteasome regulatory subunit
+ECU11_0580	hypothetical protein
+ECU11_0590	RNA polymerase subunit AC19
+ECU11_0600	hypothetical protein
+ECU11_0610	pre-mRNA cleavage and polyadenylation
+ECU11_0620	CDP-alcohol phosphatidyltransferase
+ECU11_0630	hypothetical protein
+ECU11_0635	hypothetical protein
+ECU11_0640	inositol metabolism VAMP-associated protein
+ECU11_0650	zinc knuckle domain-containing protein
+ECU11_0660	PP1 serine/threonine phosphatase
+ECU11_0670	eukaryotic translation initiation factor eIF2A
+ECU11_0680	hypothetical protein
+ECU11_0690	GDP-mannose pyrophosphorylase
+ECU11_0700	hypothetical protein
+ECU11_0710	hypothetical protein
+ECU11_0720	ribosomal protein S10
+ECU11_0730	class 2 transcription repressor NC2 beta
+ECU11_0740	hypothetical protein
+ECU11_0750	putative RNA-binding protein
+ECU11_0760	putative exonuclease
+ECU11_0770	putative mRNA deadenylase
+ECU11_0780	hypothetical protein
+ECU11_0790	Sec23-like protein transport protein
+ECU11_0800	minichromosome maintenance protein
+ECU11_0810	putative 40S ribosomal protein S8
+ECU11_0820	DNA repair protein Rad51
+ECU11_0830	transcription initiation factor TFIID subunit
+ECU11_0840	AAA family ATPase
+ECU11_0850	hypothetical protein
+ECU11_0860	HrpA-like helicase
+ECU11_0870	putative ethanolamine-phosphate
+ECU11_0880	CTP synthetase
+ECU11_0890	methionyl-tRNA synthetase
+ECU11_0900	U2 snRNP spliceosome subunit
+ECU11_0910	hypothetical protein
+ECU11_0920	hypothetical protein
+ECU11_0930i	translation initiation factor 2 subunit alpha
+ECU11_0940	HS6-type ribosomal protein
+ECU11_0950	hypothetical protein
+ECU11_0960	serine/threonine kinase
+ECU11_0970	hypothetical protein
+ECU11_0980	putative synaptobrevin/VAMP-like protein
+ECU11_0990	hypothetical protein
+ECU11_1000	hypothetical protein
+ECU11_1010	hypothetical protein
+ECU11_1020	hypothetical protein
+ECU11_1030	putative AAA+ class ATPase
+ECU11_1040	hypothetical protein
+ECU11_1050	putative proton-dependent oligopeptide transport
+ECU11_1060	hypothetical protein
+ECU11_1070	hypothetical protein
+ECU11_1080	superoxide dismutase
+ECU11_1090	hypothetical protein
+ECU11_1100	isoleucyl-tRNA synthetase
+ECU11_1110	hypothetical protein
+ECU11_1120	translation elongation factor 2
+ECU11_1130	hypothetical protein
+ECU11_1140	hypothetical protein
+ECU11_1150	putative membrane protein
+ECU11_1160	hypothetical protein
+ECU11_1170	hypothetical protein
+ECU11_1180	phospholipase D
+ECU11_1190	putative nucleotide binding protein
+ECU11_1200	putative mitochondrial ABC transporter
+ECU11_1210	hypothetical protein
+ECU11_1220	hypothetical protein
+ECU11_1230	hypothetical protein
+ECU11_1240	hypothetical protein
+ECU11_1250	hypothetical protein
+ECU11_1255	tRNA-Gly
+ECU11_1260	putative DNA mismatch repair enzyme
+ECU11_1270	DNA helicase
+ECU11_1280i	V/A-type ATP synthase catalytic subunit A
+ECU11_1290	cyclin-dependent protein kinase
+ECU11_1300	hypothetical protein
+ECU11_1310	hypothetical protein
+ECU11_1320	transport protein particle
+ECU11_1330	putative transcription factor
+ECU11_1340	putative ABC-like lipid transport protein
+ECU11_1350	translation initiation factor
+ECU11_1360	hypothetical protein
+ECU11_1370	negative regulator of transcription cell
+ECU11_1380i	60S ribosomal protein L15
+ECU11_1390	polyadenylation factor I complex subunit
+ECU11_1400	putative DNA-directed RNA polymerase
+ECU11_1410	hypothetical protein
+ECU11_1420	chaperone protease ATP binding subunit
+ECU11_1430	diphthamide biosynthesis methyltransferase
+ECU11_1440	hypothetical protein
+ECU11_1450	hypothetical protein
+ECU11_1460	translation elongation factor
+ECU11_1470	class 2 transcription repressor NC2 subunit
+ECU11_1480	hypothetical protein
+ECU11_1490	hypothetical protein
+ECU11_1500	NIMA-like serine/threonine kinase
+ECU11_1510	putative inorganic ion transport protein
+ECU11_1520	putative S-adenosylmethionine-dependent
+ECU11_1530	hypothetical protein
+ECU11_1540	hexokinase
+ECU11_1550i	putative endonuclease
+ECU11_1560	t-SNARE complex subunit
+ECU11_1570	hypothetical protein
+ECU11_1580	ATPase domain 1 of RNase L inhibitor
+ECU11_1590	putative spindle pole body associated protein
+ECU11_1600	hypothetical protein
+ECU11_1610	tRNA pseudouridine synthase domain-containing
+ECU11_1620i	40S ribosomal protein S19
+ECU11_1630	hypothetical protein
+ECU11_1640	inorganic phosphate transport protein
+ECU11_1650	hypothetical protein
+ECU11_1660	transcriptional repressor
+ECU11_1670	putative proteasome
+ECU11_1680	hypothetical protein
+ECU11_1690	hypothetical protein
+ECU11_1700	putative GTPase-activating protein
+ECU11_1710	hypothetical protein
+ECU11_1720	hypothetical protein
+ECU11_1730	RNA binding repeat domain-containing protein
+ECU11_1740	putative amino acid permease
+ECU11_1750	hypothetical protein
+ECU11_1760	importin beta binding domain-containing protein
+ECU11_1770	cysteine desulfurase/transaminase
+ECU11_1780	UDP-N-acetylglucosamine pyrophosphorylase
+ECU11_1790	Man1-Src1p-C-terminal domain-containing protein
+ECU11_1800	hypothetical protein
+ECU11_1810	polyprenyl synthetase domain-containing protein
+ECU11_1820	hypothetical protein
+ECU11_1830	putative heat shock protein
+ECU11_1840	hypothetical protein
+ECU11_1850	hypothetical protein
+ECU11_1860	hypothetical protein
+ECU11_1870	putative major facilitator superfamily protein
+ECU11_1880	putative major facilitator superfamily permease
+ECU11_1890	hypothetical protein
+ECU11_1900	hypothetical protein
+ECU11_1910	brix domain-containing protein
+ECU11_1920	putative membrane protein
+ECU11_1930	SPT5-like transcription initiation protein
+ECU11_1940	brix domain-containing protein
+ECU11_1950	septin-like protein
+ECU11_1960	hypothetical protein
+ECU11_1970	hypothetical protein
+ECU11_1980	protein kinase
+ECU11_1990	putative ubiquitin-protein ligase
+ECU11_2000	SMC N-terminal domain-containing protein
+ECU11_2010	hypothetical protein
+ECU11_2020	kinesin motor domain-containing protein
+ECU11_2030	STE-like transcription factor
+ECU11_2033	hypothetical protein
+ECU11_2037	hypothetical protein
+ECU11_2040	hypothetical protein

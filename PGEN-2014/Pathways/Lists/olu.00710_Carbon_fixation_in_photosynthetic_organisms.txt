@@ -1,0 +1,76 @@
+OSTLU_32608  
+rbcL; hypothetical protein [KO:K01601] [EC:4.1.1.39]
+OSTLU_28400  
+hypothetical protein; K01602 ribulose-bisphosphate carboxylase small chain [EC:4.1.1.39] [KO:K01602] [EC:4.1.1.39]
+OSTLU_89572  
+hypothetical protein; K01602 ribulose-bisphosphate carboxylase small chain [EC:4.1.1.39] [KO:K01602] [EC:4.1.1.39]
+OSTLU_42060  
+hypothetical protein; K01602 ribulose-bisphosphate carboxylase small chain [EC:4.1.1.39] [KO:K01602] [EC:4.1.1.39]
+OSTLU_46028  
+hypothetical protein; K00927 phosphoglycerate kinase [EC:2.7.2.3] [KO:K00927] [EC:2.7.2.3]
+OSTLU_30288  
+hypothetical protein; K00927 phosphoglycerate kinase [EC:2.7.2.3] [KO:K00927] [EC:2.7.2.3]
+OSTLU_37993  
+hypothetical protein; K05298 glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating) [EC:1.2.1.13] [KO:K05298] [EC:1.2.1.13]
+OSTLU_28757  
+hypothetical protein; K05298 glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating) [EC:1.2.1.13] [KO:K05298] [EC:1.2.1.13]
+OSTLU_13796  
+hypothetical protein; K01623 fructose-bisphosphate aldolase, class I [EC:4.1.2.13] [KO:K01623] [EC:4.1.2.13]
+OSTLU_33820  
+hypothetical protein; K01623 fructose-bisphosphate aldolase, class I [EC:4.1.2.13] [KO:K01623] [EC:4.1.2.13]
+OSTLU_94831  
+hypothetical protein; K01624 fructose-bisphosphate aldolase, class II [EC:4.1.2.13] [KO:K01624] [EC:4.1.2.13]
+OSTLU_30353  
+hypothetical protein; K03841 fructose-1,6-bisphosphatase I [EC:3.1.3.11] [KO:K03841] [EC:3.1.3.11]
+OSTLU_25840  
+hypothetical protein; K03841 fructose-1,6-bisphosphatase I [EC:3.1.3.11] [KO:K03841] [EC:3.1.3.11]
+OSTLU_15350  
+hypothetical protein; K03841 fructose-1,6-bisphosphatase I [EC:3.1.3.11] [KO:K03841] [EC:3.1.3.11]
+OSTLU_16284  
+hypothetical protein; K00615 transketolase [EC:2.2.1.1] [KO:K00615] [EC:2.2.1.1]
+OSTLU_4189  
+hypothetical protein; K01100 sedoheptulose-bisphosphatase [EC:3.1.3.37] [KO:K01100] [EC:3.1.3.37]
+OSTLU_12567  
+hypothetical protein; K01807 ribose 5-phosphate isomerase A [EC:5.3.1.6] [KO:K01807] [EC:5.3.1.6]
+OSTLU_45513  
+hypothetical protein; K00855 phosphoribulokinase [EC:2.7.1.19] [KO:K00855] [EC:2.7.1.19]
+OSTLU_24989  
+hypothetical protein; K01803 triosephosphate isomerase (TIM) [EC:5.3.1.1] [KO:K01803] [EC:5.3.1.1]
+OSTLU_43602  
+hypothetical protein; K01803 triosephosphate isomerase (TIM) [EC:5.3.1.1] [KO:K01803] [EC:5.3.1.1]
+OSTLU_36521  
+hypothetical protein; K01803 triosephosphate isomerase (TIM) [EC:5.3.1.1] [KO:K01803] [EC:5.3.1.1]
+OSTLU_17265  
+hypothetical protein; K01783 ribulose-phosphate 3-epimerase [EC:5.1.3.1] [KO:K01783] [EC:5.1.3.1]
+OSTLU_41053  
+hypothetical protein; K01783 ribulose-phosphate 3-epimerase [EC:5.1.3.1] [KO:K01783] [EC:5.1.3.1]
+OSTLU_32100  
+hypothetical protein; K01783 ribulose-phosphate 3-epimerase [EC:5.1.3.1] [KO:K01783] [EC:5.1.3.1]
+OSTLU_51006  
+hypothetical protein; K01595 phosphoenolpyruvate carboxylase [EC:4.1.1.31] [KO:K01595] [EC:4.1.1.31]
+OSTLU_40662  
+hypothetical protein; K00873 pyruvate kinase [EC:2.7.1.40] [KO:K00873] [EC:2.7.1.40]
+OSTLU_27708  
+hypothetical protein; K00873 pyruvate kinase [EC:2.7.1.40] [KO:K00873] [EC:2.7.1.40]
+OSTLU_30612  
+hypothetical protein; K00814 alanine transaminase [EC:2.6.1.2] [KO:K00814] [EC:2.6.1.2]
+OSTLU_29856  
+hypothetical protein; K01006 pyruvate,orthophosphate dikinase [EC:2.7.9.1] [KO:K01006] [EC:2.7.9.1]
+OSTLU_41212  
+hypothetical protein; K00029 malate dehydrogenase (oxaloacetate-decarboxylating)(NADP+) [EC:1.1.1.40] [KO:K00029] [EC:1.1.1.40]
+OSTLU_12474  
+hypothetical protein; K00029 malate dehydrogenase (oxaloacetate-decarboxylating)(NADP+) [EC:1.1.1.40] [KO:K00029] [EC:1.1.1.40]
+OSTLU_42336  
+hypothetical protein; K00051 malate dehydrogenase (NADP+) [EC:1.1.1.82] [KO:K00051] [EC:1.1.1.82]
+OSTLU_31597  
+hypothetical protein; K14455 aspartate aminotransferase, mitochondrial [EC:2.6.1.1] [KO:K14455] [EC:2.6.1.1]
+OSTLU_87414  
+hypothetical protein; K00025 malate dehydrogenase [EC:1.1.1.37] [KO:K00025] [EC:1.1.1.37]
+OSTLU_32875  
+hypothetical protein; K00026 malate dehydrogenase [EC:1.1.1.37] [KO:K00026] [EC:1.1.1.37]
+OSTLU_24671  
+hypothetical protein; K00026 malate dehydrogenase [EC:1.1.1.37] [KO:K00026] [EC:1.1.1.37]
+OSTLU_12282  
+hypothetical protein; K00026 malate dehydrogenase [EC:1.1.1.37] [KO:K00026] [EC:1.1.1.37]
+OSTLU_26919  
+hypothetical protein; K00028 malate dehydrogenase (decarboxylating) [EC:1.1.1.39] [KO:K00028] [EC:1.1.1.39]

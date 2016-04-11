@@ -1,0 +1,42 @@
+CHLREDRAFT_186321  
+hypothetical protein; K03123 transcription initiation factor TFIIA small subunit [KO:K03123]
+CHLREDRAFT_115221  
+hypothetical protein; K03124 transcription initiation factor TFIIB [KO:K03124]
+CHLREDRAFT_144556  
+global transcription factor; K03120 transcription initiation factor TFIID TATA-box-binding protein [KO:K03120]
+CHLREDRAFT_165922  
+TafII-250 protein; K03125 transcription initiation factor TFIID subunit 1 [KO:K03125]
+CHLREDRAFT_168749  
+hypothetical protein; K03128 transcription initiation factor TFIID subunit 2 [KO:K03128]
+CHLREDRAFT_171399  
+hypothetical protein; K03132 transcription initiation factor TFIID subunit 7 [KO:K03132]
+CHLREDRAFT_170213  
+hypothetical protein; K14649 transcription initiation factor TFIID subunit 8 [KO:K14649]
+CHLREDRAFT_185094  
+hypothetical protein; K03134 transcription initiation factor TFIID subunit 10 [KO:K03134]
+CHLREDRAFT_150691  
+transcription initiation factor TFIID; K03130 transcription initiation factor TFIID subunit 5 [KO:K03130]
+CHLREDRAFT_172500  
+hypothetical protein; K03126 transcription initiation factor TFIID subunit 12 [KO:K03126]
+CHLREDRAFT_101370  
+hypothetical protein; K03131 transcription initiation factor TFIID subunit 6 [KO:K03131]
+CHLREDRAFT_182007  
+hypothetical protein; K14535 transcription initiation factor TFIID subunit 9 / adenylate kinase [EC:2.7.4.3] [KO:K14535] [EC:2.7.4.3]
+CHLREDRAFT_60063  
+hypothetical protein; K03133 transcription initiation factor TFIID subunit 9B [KO:K03133]
+CHLREDRAFT_171402  
+hypothetical protein; K03135 transcription initiation factor TFIID subunit 11 [KO:K03135]
+CHLREDRAFT_144686  
+hypothetical protein; K03137 transcription initiation factor TFIIE subunit beta [KO:K03137]
+CHLREDRAFT_127751  
+TF2H2; transcription factor TFIIH, 44 kDa subunit [KO:K03142]
+CHLREDRAFT_169016  
+TFB4; TFIIH 34kDa subunit [KO:K03143]
+CHLREDRAFT_138157  
+hypothetical protein; K03144 transcription initiation factor TFIIH subunit 4 [KO:K03144]
+CHLREDRAFT_100548  
+hypothetical protein; K10844 DNA excision repair protein ERCC-2 [EC:3.6.4.12] [KO:K10844] [EC:3.6.4.12]
+CHLREDRAFT_137457  
+CDKD1; CDK activating kinase [KO:K02202] [EC:2.7.11.23 2.7.11.22]
+CHLREDRAFT_193689  
+hypothetical protein; K10842 CDK-activating kinase assembly factor MAT1 [KO:K10842]

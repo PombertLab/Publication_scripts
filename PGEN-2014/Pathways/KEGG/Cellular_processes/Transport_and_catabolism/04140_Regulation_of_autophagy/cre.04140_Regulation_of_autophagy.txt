@@ -1,0 +1,18 @@
+CHLREDRAFT_106184  
+hypothetical protein; K07198 5'-AMP-activated protein kinase, catalytic alpha subunit [EC:2.7.11.11] [KO:K07198] [EC:2.7.11.11]
+CHLREDRAFT_195652  
+APG6; autophagy protein [KO:K08334]
+CHLREDRAFT_196943  
+VPS34; VPS34-like PI-3-kinase [KO:K00914] [EC:2.7.1.137]
+CHLREDRAFT_194981  
+APG12; autophagy protein [KO:K08336]
+CHLREDRAFT_114160  
+APG7; autophagy protein [KO:K08337]
+CHLREDRAFT_196810  
+APG5; autophagy protein [KO:K08339]
+CHLREDRAFT_59275  
+APG8; autophagy protein [KO:K08341]
+CHLREDRAFT_169763  
+APG4; autophagy protein [KO:K08342] [EC:3.4.22.-]
+CHLREDRAFT_186904  
+APG3; autophagy protein [KO:K08343]

@@ -1,0 +1,44 @@
+CHLREDRAFT_165863  
+hypothetical protein; K10563 formamidopyrimidine-DNA glycosylase [EC:3.2.2.23 4.2.99.18] [KO:K10563] [EC:4.2.99.18 3.2.2.23]
+CHLREDRAFT_107185  
+hypothetical protein; K03660 N-glycosylase/DNA lyase [EC:3.2.2.- 4.2.99.18] [KO:K03660] [EC:4.2.99.18 3.2.2.-]
+CHLREDRAFT_153844  
+DNA repair glycosylase; K10773 endonuclease III [EC:4.2.99.18] [KO:K10773] [EC:4.2.99.18]
+CHLREDRAFT_105620  
+hypothetical protein; K01247 DNA-3-methyladenine glycosylase II [EC:3.2.2.21] [KO:K01247] [EC:3.2.2.21]
+CHLREDRAFT_108734  
+UNG1; uracil DNA-glycosylase [KO:K03648] [EC:3.2.2.27]
+CHLREDRAFT_141355  
+DNA repair glycosylase; K03575 A/G-specific adenine glycosylase [EC:3.2.2.-] [KO:K03575] [EC:3.2.2.-]
+CHLREDRAFT_154125  
+hypothetical protein; K10801 methyl-CpG-binding domain protein 4 [EC:3.2.2.-] [KO:K10801] [EC:3.2.2.-]
+CHLREDRAFT_143864  
+hypothetical protein; K10771 AP endonuclease 1 [EC:4.2.99.18] [KO:K10771] [EC:4.2.99.18]
+CHLREDRAFT_172466  
+hypothetical protein; K10772 AP endonuclease 2 [EC:4.2.99.18] [KO:K10772] [EC:4.2.99.18]
+CHLREDRAFT_175586  
+hypothetical protein; K02335 DNA polymerase I [EC:2.7.7.7] [KO:K02335] [EC:2.7.7.7]
+CHLREDRAFT_142283  
+high mobility group protein; K10802 high mobility group protein B1 [KO:K10802]
+CHLREDRAFT_192899  
+high mobility group protein; K10802 high mobility group protein B1 [KO:K10802]
+CHLREDRAFT_140580  
+PCN1; PCNA proliferating cell nuclear antigen [KO:K04802]
+CHLREDRAFT_189721  
+POLD1; DNA polymerase delta subunit one [KO:K02327] [EC:2.7.7.7]
+CHLREDRAFT_103391  
+POLD2; DNA polymerase delta small subunit [KO:K02328]
+CHLREDRAFT_190579  
+hypothetical protein; K03504 DNA polymerase delta subunit 3 [KO:K03504]
+CHLREDRAFT_185774  
+hypothetical protein; K03505 DNA polymerase delta subunit 4 [KO:K03505]
+CHLREDRAFT_9481  
+POLE1; DNA polymerase epsilon catalytic subunit A/1 [KO:K02324] [EC:2.7.7.7]
+CHLREDRAFT_111410  
+hypothetical protein; K02325 DNA polymerase epsilon subunit 2 [EC:2.7.7.7] [KO:K02325] [EC:2.7.7.7]
+CHLREDRAFT_101275  
+hypothetical protein; K02326 DNA polymerase epsilon subunit 3 [EC:2.7.7.7] [KO:K02326] [EC:2.7.7.7]
+CHLREDRAFT_130834  
+FEN1; nuclease, Rad2 family [KO:K04799] [EC:3.-.-.-]
+CHLREDRAFT_133143  
+LIG1; DNA ligase [KO:K10747] [EC:6.5.1.1]

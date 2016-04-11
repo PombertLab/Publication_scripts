@@ -1,0 +1,16 @@
+CHLREDRAFT_141779  
+hypothetical protein; K16190 glucuronokinase [EC:2.7.1.43] [KO:K16190] [EC:2.7.1.43]
+CHLREDRAFT_32796  
+UAP2; UDP-N-acetylglucosamine-pyrophosphorylase [KO:K12447] [EC:2.7.7.64]
+CHLREDRAFT_185081  
+UGD2; UDP-glucose dehydrogenase [KO:K00012] [EC:1.1.1.22]
+CHLREDRAFT_205498  
+UGD1; UDP-glucose dehydrogenase [KO:K00012] [EC:1.1.1.22]
+CHLREDRAFT_157049  
+UGP1; UDP-glucose pyrophosphorylase [KO:K00963] [EC:2.7.7.9]
+CHLREDRAFT_135614  
+RPE1; ribulose phosphate-3-epimerase, chloroplast precursor [KO:K01783] [EC:5.1.3.1]
+CHLREDRAFT_6964  
+RPE2; ribulose phosphate-3-epimerase [KO:K01783] [EC:5.1.3.1]
+CHLREDRAFT_135609  
+aldehyde dehydrogenase; K00128 aldehyde dehydrogenase (NAD+) [EC:1.2.1.3] [KO:K00128] [EC:1.2.1.3]

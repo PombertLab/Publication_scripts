@@ -1,0 +1,8 @@
+VOLCADRAFT_30482  
+hypothetical protein; K00681 gamma-glutamyltranspeptidase [EC:2.3.2.2] [KO:K00681] [EC:2.3.2.2]
+VOLCADRAFT_81312  
+shmt3; glycine/serine hydroxymethyltransferase [KO:K00600] [EC:2.1.2.1]
+VOLCADRAFT_72779  
+shmt2; serine hydroxymethyltransferase [KO:K00600] [EC:2.1.2.1]
+VOLCADRAFT_84741  
+shmt1; serine hydroxymethyltransferase [KO:K00600] [EC:2.1.2.1]

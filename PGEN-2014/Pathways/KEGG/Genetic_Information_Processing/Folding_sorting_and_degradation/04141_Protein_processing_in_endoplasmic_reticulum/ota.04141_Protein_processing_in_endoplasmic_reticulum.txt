@@ -1,0 +1,100 @@
+Ot15g02090  
+putative Sec61 alpha form 2 [Oryza sativa (ISS); K10956 protein transport protein SEC61 subunit alpha [KO:K10956]
+Ot01g04130  
+protein transport protein subunit-like (ISS); K09481 protein transport protein SEC61 subunit beta [KO:K09481]
+Ot06g02680  
+Membrane component of ER protein translocation complex (ISS); K12275 translocation protein SEC62 [KO:K12275]
+Ot03g05320  
+putative DnaJ protein; 34 (ISS) [KO:K09540]
+Ot05g02940  
+oligosaccharyl transferase subunit; K07151 dolichyl-diphosphooligosaccharide--protein glycosyltransferase [EC:2.4.99.18] [KO:K07151] [EC:2.4.99.18]
+Ot05g04510  
+putative growth regulator (ISS); K09486 hypoxia up-regulated 1 [KO:K09486]
+Ot02g02150  
+bip; Bip Luminal binding protein precursor, probable (IC) [KO:K09490]
+Ot05g00270  
+Molecular chaperone (DnaJ superfamily) (ISS); K09517 DnaJ homolog subfamily B member 11 [KO:K09517]
+Ot17g00070  
+heat shock protein 90 (ISS); K09487 heat shock protein 90kDa beta [KO:K09487]
+Ot01g00190  
+heat shock protein 90C (ISS); K09487 heat shock protein 90kDa beta [KO:K09487]
+Ot08g02780  
+alpha glucosidase II (ISS); K05546 alpha 1,3-glucosidase [EC:3.2.1.84] [KO:K05546] [EC:3.2.1.84]
+Ot16g01030  
+Glycosyl hydrolase; K01230 mannosyl-oligosaccharide alpha-1,2-mannosidase [EC:3.2.1.113] [KO:K01230] [EC:3.2.1.113]
+Ot14g02810  
+putative Sar1 GTP binding protein (ISS); K07953 GTP-binding protein SAR1 [EC:3.6.5.-] [KO:K07953] [EC:3.6.5.-]
+Ot11g03460  
+Sec13l1 protein (ISS); K14004 protein transport protein SEC13 [KO:K14004]
+Ot12g00920  
+ATP-dependent RNA helicase (ISS); K14005 protein transport protein SEC31 [KO:K14005]
+Ot08g03210  
+protein transport protein Sec23 (ISS); K14006 protein transport protein SEC23 [KO:K14006]
+Ot11g02630  
+S24C_ARATH Protein transport protein Sec24-like CEF (ISS); K14007 protein transport protein SEC24 [KO:K14007]
+Ot12g02470  
+Vesicle coat complex COPII; K14007 protein transport protein SEC24 [KO:K14007]
+Ot01g01510  
+UDP-glucose:glycoprotein glucosyltransferase; K11718 UDP-glucose:glycoprotein glucosyltransferase [EC:2.4.1.-] [KO:K11718] [EC:2.4.1.-]
+Ot10g03020  
+1; K10085 ER degradation enhancer, mannosidase alpha-like 2 [KO:K10085]
+Ot05g02760  
+Thioredoxin/protein disulfide isomerase (ISS); K09580 protein disulfide-isomerase A1 [EC:5.3.4.1] [KO:K09580] [EC:5.3.4.1]
+Ot06g01850  
+protein disulfide isomerase; K09584 protein disulfide-isomerase A6 [EC:5.3.4.1] [KO:K09584] [EC:5.3.4.1]
+Ot12g03010  
+Protein OS-9 (ISS); K10088 protein OS-9 [KO:K10088]
+Ot01g01100  
+translocon-associated protein beta (ISS); K13250 translocon-associated protein subunit beta [KO:K13250]
+Ot09g03850  
+putative membrane trafficking factor (ISS); K14012 UBX domain-containing protein 1 [KO:K14012]
+Ot01g03680  
+putative transitional endoplasmic reticulum ATPase (ISS); K13525 transitional endoplasmic reticulum ATPase [KO:K13525]
+Ot04g03400  
+Nuclear pore complex; K14015 nuclear protein localization protein 4 homolog [KO:K14015]
+Ot09g00790  
+Ubiquitin fusion-degradation protein (IC); K14016 ubiquitin fusion degradation protein 1 [KO:K14016]
+Ot17g02270  
+putative hsp70 (ISS); K03283 heat shock 70kDa protein 1/8 [KO:K03283]
+Ot06g00920  
+Hsp70 chaperone (ISS); K03283 heat shock 70kDa protein 1/8 [KO:K03283]
+Ot08g03410  
+DnaJ-like protein (ISS); K09503 DnaJ homolog subfamily A member 2 [KO:K09503]
+Ot01g05590  
+Molecular chaperone (DnaJ superfamily) (ISS); K09518 DnaJ homolog subfamily B member 12 [KO:K09518]
+Ot10g01300  
+Molecular chaperone (HSP90 family) (ISS); K04079 molecular chaperone HtpG [KO:K04079]
+Ot09g00770  
+heat shock protein (IC); K13993 HSP20 family protein [KO:K13993]
+Ot17g00870  
+putative heat shock protein (ISS); K13993 HSP20 family protein [KO:K13993]
+Ot10g01920  
+Nucleotide excision repair factor NEF2; K10839 UV excision repair protein RAD23 [KO:K10839]
+Ot18g00690  
+probable ubiquitin-like protein (ISS); K04523 ubiquilin [KO:K04523]
+Ot14g02360  
+Peptide:N-glycanase (ISS); K01456 peptide-N4-(N-acetyl-beta-glucosaminyl)asparagine amidase [EC:3.5.1.52] [KO:K01456] [EC:3.5.1.52]
+Ot09g01480  
+Ataxin 3/Josephin (ISS); K11863 Ataxin-3 [EC:3.4.22.-] [KO:K11863] [EC:3.4.22.-]
+Ot17g01860  
+U-box domain-containing protein (ISS); K10597 ubiquitin conjugation factor E4 B [EC:6.3.2.19] [KO:K10597] [EC:6.3.2.19]
+Ot02g03060  
+Eif2a; Eif2a Eukaryotic translation initiation factor 2, alpha subunit (IC) [KO:K03237]
+Ot16g03090  
+Subtilisin kexin isozyme-1/site 1 protease; K08653 membrane-bound transcription factor site-1 protease [EC:3.4.21.112] [KO:K08653] [EC:3.4.21.112]
+Ot14g00680  
+Ubiquitin-protein ligase (ISS); K04554 ubiquitin-conjugating enzyme E2 J2 [EC:6.3.2.19] [KO:K04554] [EC:6.3.2.19]
+Ot04g04950  
+ubiquitin-conjugating enzyme E2-maize (ISS); K10575 ubiquitin-conjugating enzyme E2 G1 [EC:6.3.2.19] [KO:K10575] [EC:6.3.2.19]
+Ot10g01730  
+putative zinc finger protein (ISS); K10601 E3 ubiquitin-protein ligase synoviolin [EC:6.3.2.19] [KO:K10601] [EC:6.3.2.19]
+Ot16g02110  
+Sel1 (ISS); K14026 SEL1 protein [KO:K14026]
+Ot01g02700  
+hypothetical protein; K09561 STIP1 homology and U-box containing protein 1 [EC:6.3.2.19] [KO:K09561] [EC:6.3.2.19]
+Ot05g05090  
+Ubiquitin-protein ligase (ISS); K06689 ubiquitin-conjugating enzyme E2 D/E [EC:6.3.2.19] [KO:K06689] [EC:6.3.2.19]
+Ot02g00670  
+rbx1; Rbx1 Conserved RING-H2 finger protein Rbx1 (IC) [KO:K03868]
+Ot07g00170  
+cullin-like protein1 (ISS); K03347 cullin 1 [KO:K03347]

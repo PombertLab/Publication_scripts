@@ -1,0 +1,28 @@
+CHLREDRAFT_196366  
+GLYK; glycerate kinase [KO:K15918] [EC:2.7.1.31]
+CHLREDRAFT_135609  
+aldehyde dehydrogenase; K00128 aldehyde dehydrogenase (NAD+) [EC:1.2.1.3] [KO:K00128] [EC:1.2.1.3]
+CHLREDRAFT_128764  
+glycerol kinase; K00864 glycerol kinase [EC:2.7.1.30] [KO:K00864] [EC:2.7.1.30]
+CHLREDRAFT_126704  
+glycerol acyltransferase family protein; K13506 glycerol-3-phosphate O-acyltransferase 3/4 [EC:2.3.1.15] [KO:K13506] [EC:2.3.1.15]
+CHLREDRAFT_205741  
+PLSB1; glycerol-3-phosphate acyltransferase [KO:K00630] [EC:2.3.1.15]
+CHLREDRAFT_174358  
+lysophosphatidic acid acyltransferase; K00655 1-acyl-sn-glycerol-3-phosphate acyltransferase [EC:2.3.1.51] [KO:K00655] [EC:2.3.1.51]
+CHLREDRAFT_99951  
+hypothetical protein; K15728 phosphatidate phosphatase LPIN [EC:3.1.3.4] [KO:K15728] [EC:3.1.3.4]
+CHLREDRAFT_186846  
+LCA1; lecithin:cholesterol acyltransferase [KO:K00679] [EC:2.3.1.158]
+CHLREDRAFT_183258  
+hypothetical protein; K14674 TAG lipase / steryl ester hydrolase / phospholipase A2 / LPA acyltransferase [EC:3.1.1.3 3.1.1.13 3.1.1.4 2.3.1.51] [KO:K14674] [EC:2.3.1.51 3.1.1.4 3.1.1.13 3.1.1.3]
+CHLREDRAFT_27658  
+SQD1; UDP-sulfoquinovose synthase [KO:K06118] [EC:3.13.1.1]
+CHLREDRAFT_121326  
+SQD3; sulfolipid synthase [KO:K06119] [EC:2.4.1.-]
+CHLREDRAFT_116277  
+SQD2; sulfolipid synthase [KO:K06119] [EC:2.4.1.-]
+CHLREDRAFT_113664  
+1; K03715 1,2-diacylglycerol 3-beta-galactosyltransferase [EC:2.4.1.46] [KO:K03715] [EC:2.4.1.46]
+CHLREDRAFT_116873  
+AGA1; alpha-galactosidase [KO:K07407] [EC:3.2.1.22]

@@ -1,0 +1,24 @@
+Ot01g04390  
+LOC443707 protein (ISS); K00815 tyrosine aminotransferase [EC:2.6.1.5] [KO:K00815] [EC:2.6.1.5]
+Ot09g00940  
+dihydroxypolyprenylbenzoate methyltransferase (ISS); K00568 2-polyprenyl-6-hydroxyphenyl methylase / 3-demethylubiquinone-9 3-methyltransferase [EC:2.1.1.222 2.1.1.64] [KO:K00568] [EC:2.1.1.64 2.1.1.222]
+Ot07g04380  
+COG2226: Methylase involved in ubiquinone/menaquinone biosynthesis (ISS); K03183 ubiquinone/menaquinone biosynthesis methyltransferase [EC:2.1.1.163 2.1.1.201] [KO:K03183] [EC:2.1.1.201 2.1.1.163]
+Ot14g02600  
+Para-hydroxybenzoate-polyprenyl transferase (ISS); K06125 4-hydroxybenzoate hexaprenyltransferase [EC:2.5.1.-] [KO:K06125] [EC:2.5.1.-]
+Ot10g00800  
+putative oxygenase [Oryza sativa (ISS); K06126 ubiquinone biosynthesis monooxygenase Coq6 [EC:1.14.13.-] [KO:K06126] [EC:1.14.13.-]
+Ot01g04180  
+putative ubiquinone (ISS); K06127 ubiquinone biosynthesis methyltransferase [EC:2.1.1.201] [KO:K06127] [EC:2.1.1.201]
+Ot17g02440  
+putative menaquinone biosynthesis protein (ISS); K14759 isochorismate synthase / 2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase / 2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase / O-succinylbenzoate synthase [EC:5.4.4.2 2.2.1.9 4.2.99.20 4.2.1.113] [KO:K14759] [EC:4.2.1.113 4.2.99.20 2.2.1.9 5.4.4.2]
+Ot01g06020  
+acyl-activating enzyme 14 (ISS); K14760 acyl-activating enzyme 14 [EC:6.2.1.26] [KO:K14760] [EC:6.2.1.26]
+Ot03g03700  
+p-hydroxyphenylpyruvate dioxigenase (ISS); K00457 4-hydroxyphenylpyruvate dioxygenase [EC:1.13.11.27] [KO:K00457] [EC:1.13.11.27]
+Ot06g01520  
+putative tocopherol polyprenyltransferase (ISS); K12501 homogentisate solanesyltransferase [KO:K12501]
+Ot07g03410  
+homogentisic acid geranylgeranyl transferase (ISS); K09833 homogenitisate phytyltransferase [KO:K09833]
+Ot16g00320  
+gamma-tocopherol methyltransferase (ISS); K05928 tocopherol O-methyltransferase [EC:2.1.1.95] [KO:K05928] [EC:2.1.1.95]

@@ -1,0 +1,48 @@
+OSTLU_31322  
+ODC1; Ornithine decarboxylase [KO:K01581] [EC:4.1.1.17]
+OSTLU_40897  
+SPD2; Spermidine synthase [KO:K00797] [EC:2.5.1.16]
+OSTLU_26437  
+SPD1; Spermidine synthase [KO:K00797] [EC:2.5.1.16]
+OSTLU_13873  
+hypothetical protein; K00128 aldehyde dehydrogenase (NAD+) [EC:1.2.1.3] [KO:K00128] [EC:1.2.1.3]
+OSTLU_13156  
+hypothetical protein; K00286 pyrroline-5-carboxylate reductase [EC:1.5.1.2] [KO:K00286] [EC:1.5.1.2]
+OSTLU_30910  
+hypothetical protein; K00294 1-pyrroline-5-carboxylate dehydrogenase [EC:1.5.1.12] [KO:K00294] [EC:1.5.1.12]
+OSTLU_18224  
+hypothetical protein; K00931 glutamate 5-kinase [EC:2.7.2.11] [KO:K00931] [EC:2.7.2.11]
+OSTLU_1184  
+hypothetical protein; K00147 glutamate-5-semialdehyde dehydrogenase [EC:1.2.1.41] [KO:K00147] [EC:1.2.1.41]
+OSTLU_93830  
+hypothetical protein; K01259 proline iminopeptidase [EC:3.4.11.5] [KO:K01259] [EC:3.4.11.5]
+OSTLU_37102  
+hypothetical protein; K00472 prolyl 4-hydroxylase [EC:1.14.11.2] [KO:K00472] [EC:1.14.11.2]
+OSTLU_37480  
+hypothetical protein; K00472 prolyl 4-hydroxylase [EC:1.14.11.2] [KO:K00472] [EC:1.14.11.2]
+OSTLU_31597  
+hypothetical protein; K14455 aspartate aminotransferase, mitochondrial [EC:2.6.1.1] [KO:K14455] [EC:2.6.1.1]
+OSTLU_28754  
+OTC1; Ornithine carbamoyltransferase [KO:K00611] [EC:2.1.3.3]
+OSTLU_19853  
+hypothetical protein; K01940 argininosuccinate synthase [EC:6.3.4.5] [KO:K01940] [EC:6.3.4.5]
+OSTLU_26950  
+hypothetical protein; K01755 argininosuccinate lyase [EC:4.3.2.1] [KO:K01755] [EC:4.3.2.1]
+OSTLU_30221  
+URE1; urease [KO:K01427] [EC:3.5.1.5]
+OSTLU_37787  
+hypothetical protein; K13253 nitric-oxide synthase, invertebrate [EC:1.14.13.39] [KO:K13253] [EC:1.14.13.39]
+OSTLU_39960  
+hypothetical protein; K01915 glutamine synthetase [EC:6.3.1.2] [KO:K01915] [EC:6.3.1.2]
+OSTLU_1828  
+hypothetical protein; K14682 amino-acid N-acetyltransferase [EC:2.3.1.1] [KO:K14682] [EC:2.3.1.1]
+OSTLU_33128  
+hypothetical protein; K00620 glutamate N-acetyltransferase / amino-acid N-acetyltransferase [EC:2.3.1.35 2.3.1.1] [KO:K00620] [EC:2.3.1.1 2.3.1.35]
+OSTLU_52011  
+hypothetical protein; K00930 acetylglutamate kinase [EC:2.7.2.8] [KO:K00930] [EC:2.7.2.8]
+OSTLU_43628  
+hypothetical protein; K00145 N-acetyl-gamma-glutamyl-phosphate reductase [EC:1.2.1.38] [KO:K00145] [EC:1.2.1.38]
+OSTLU_19153  
+hypothetical protein; K00818 acetylornithine aminotransferase [EC:2.6.1.11] [KO:K00818] [EC:2.6.1.11]
+OSTLU_29911  
+hypothetical protein; K01438 acetylornithine deacetylase [EC:3.5.1.16] [KO:K01438] [EC:3.5.1.16]

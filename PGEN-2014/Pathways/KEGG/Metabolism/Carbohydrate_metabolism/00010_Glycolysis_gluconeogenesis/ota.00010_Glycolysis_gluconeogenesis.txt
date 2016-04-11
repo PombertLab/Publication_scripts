@@ -1,0 +1,56 @@
+Ot11g02980  
+cytosolic phosphoglucose isomerase (ISS); K01810 glucose-6-phosphate isomerase [EC:5.3.1.9] [KO:K01810] [EC:5.3.1.9]
+Ot04g00450  
+putative phosphofructokinase (ISS); K00850 6-phosphofructokinase 1 [EC:2.7.1.11] [KO:K00850] [EC:2.7.1.11]
+Ot14g02170  
+putative pyrophosphate-fructose-6-phosphate 1-p (ISS); K00850 6-phosphofructokinase 1 [EC:2.7.1.11] [KO:K00850] [EC:2.7.1.11]
+Ot03g00330  
+fructose-bisphosphatase (ISS); K03841 fructose-1,6-bisphosphatase I [EC:3.1.3.11] [KO:K03841] [EC:3.1.3.11]
+Ot01g03020  
+fbaI; fructose-bisphosphate aldolase, class I (IC) [KO:K01623] [EC:4.1.2.13]
+Ot03g00610  
+fbaI; fructose-bisphosphate aldolase, class I (IC) [KO:K01623] [EC:4.1.2.13]
+Ot10g01490  
+fbaII; fructose-1,6-bisphosphate aldolase, class II (IC) [KO:K01624] [EC:4.1.2.13]
+Ot09g00080  
+triose-phosphate isomerase (ISS); K01803 triosephosphate isomerase (TIM) [EC:5.3.1.1] [KO:K01803] [EC:5.3.1.1]
+Ot02g05230  
+gap3-like; Glyceraldehyde 3-phosphate dehydrogenase 3 (IC) [KO:K00134] [EC:1.2.1.12]
+Ot02g05220  
+phosphoglycerate kinase; K00927 phosphoglycerate kinase [EC:2.7.2.3] [KO:K00927] [EC:2.7.2.3]
+Ot08g02410  
+phosphoglyceromutase (ISS); K15633 2,3-bisphosphoglycerate-independent phosphoglycerate mutase [EC:5.4.2.1] [KO:K15633] [EC:5.4.2.1]
+Ot07g03920  
+Phosphoglycerate mutase (ISS); K15634 probable phosphoglycerate mutase [EC:5.4.2.1] [KO:K15634] [EC:5.4.2.1]
+Ot01g01550  
+enolase (ISS); K01689 enolase [EC:4.2.1.11] [KO:K01689] [EC:4.2.1.11]
+Ot16g00530  
+KPYC_SOLTU Pyruvate kinase; K00873 pyruvate kinase [EC:2.7.1.40] [KO:K00873] [EC:2.7.1.40]
+Ot16g00440  
+Pyruvate kinase (ISS); K00873 pyruvate kinase [EC:2.7.1.40] [KO:K00873] [EC:2.7.1.40]
+Ot01g05450  
+E1 alpha subunit of pyruvate dehydrogenase (ISS); K00161 pyruvate dehydrogenase E1 component subunit alpha [EC:1.2.4.1] [KO:K00161] [EC:1.2.4.1]
+Ot06g02870  
+pyruvate dehydrogenase E1 component beta subunit; K00162 pyruvate dehydrogenase E1 component subunit beta [EC:1.2.4.1] [KO:K00162] [EC:1.2.4.1]
+Ot05g03030  
+putative dihydrolipoamide S-acetyltransferase (ISS); K00627 pyruvate dehydrogenase E2 component (dihydrolipoamide acetyltransferase) [EC:2.3.1.12] [KO:K00627] [EC:2.3.1.12]
+Ot03g01020  
+Dihydrolipoamide succinyltransferase (2-oxoglutarate dehydrogenase; K00627 pyruvate dehydrogenase E2 component (dihydrolipoamide acetyltransferase) [EC:2.3.1.12] [KO:K00627] [EC:2.3.1.12]
+Ot04g05070  
+putative lipoamide dehydrogenase (ISS); K00382 dihydrolipoamide dehydrogenase [EC:1.8.1.4] [KO:K00382] [EC:1.8.1.4]
+Ot11g03020  
+dihydrolipoamide dehydrogenase precursor (ISS); K00382 dihydrolipoamide dehydrogenase [EC:1.8.1.4] [KO:K00382] [EC:1.8.1.4]
+Ot15g01360  
+alcohol dehydrogenase class III [Oryza sativa (ISS); K00121 S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase [EC:1.1.1.284 1.1.1.1] [KO:K00121] [EC:1.1.1.1 1.1.1.284]
+Ot01g04160  
+fatty aldehyde dehydrogenase variant form (ISS); K00128 aldehyde dehydrogenase (NAD+) [EC:1.2.1.3] [KO:K00128] [EC:1.2.1.3]
+Ot02g04430  
+acetyl-CoA synthetase (ISS); K01895 acetyl-CoA synthetase [EC:6.2.1.1] [KO:K01895] [EC:6.2.1.1]
+Ot14g03300  
+galactose mutarotase (ISS); K01785 aldose 1-epimerase [EC:5.1.3.3] [KO:K01785] [EC:5.1.3.3]
+Ot15g02630  
+phosphoglucomutase (ISS); K01835 phosphoglucomutase [EC:5.4.2.2] [KO:K01835] [EC:5.4.2.2]
+Ot09g03970  
+hypothetical protein; K01792 glucose-6-phosphate 1-epimerase [EC:5.1.3.15] [KO:K01792] [EC:5.1.3.15]
+Ot06g02190  
+Aldehyde dehydrogenase (ISS); K00131 glyceraldehyde-3-phosphate dehydrogenase (NADP) [EC:1.2.1.9] [KO:K00131] [EC:1.2.1.9]

@@ -1,0 +1,78 @@
+Ot07g04530  
+ubiquitin activating enzyme (ISS); K03178 ubiquitin-activating enzyme E1 [EC:6.3.2.19] [KO:K03178] [EC:6.3.2.19]
+Ot20g00870  
+putative ubiquitin activating enzyme (ISS); K10684 ubiquitin-like 1-activating enzyme E1 A [EC:6.3.2.19] [KO:K10684] [EC:6.3.2.19]
+Ot04g02720  
+SUMO activating enzyme 2 (ISS); K10685 ubiquitin-like 1-activating enzyme E1 B [EC:6.3.2.19] [KO:K10685] [EC:6.3.2.19]
+Ot03g04860  
+ubiquitin activating enzyme; K10686 ubiquitin-activating enzyme E1 C [EC:6.3.2.19] [KO:K10686] [EC:6.3.2.19]
+Ot05g05090  
+Ubiquitin-protein ligase (ISS); K06689 ubiquitin-conjugating enzyme E2 D/E [EC:6.3.2.19] [KO:K06689] [EC:6.3.2.19]
+Ot04g04950  
+ubiquitin-conjugating enzyme E2-maize (ISS); K10575 ubiquitin-conjugating enzyme E2 G1 [EC:6.3.2.19] [KO:K10575] [EC:6.3.2.19]
+Ot06g01370  
+Ubiquitin-protein ligase (ISS); K10577 ubiquitin-conjugating enzyme E2 I [EC:6.3.2.19] [KO:K10577] [EC:6.3.2.19]
+Ot14g00680  
+Ubiquitin-protein ligase (ISS); K04554 ubiquitin-conjugating enzyme E2 J2 [EC:6.3.2.19] [KO:K04554] [EC:6.3.2.19]
+Ot04g03440  
+RUB1 conjugating enzyme (ISS); K10579 ubiquitin-conjugating enzyme E2 M [EC:6.3.2.19] [KO:K10579] [EC:6.3.2.19]
+Ot05g02630  
+ubiquitin-conjugating enzyme (ISS); K10580 ubiquitin-conjugating enzyme E2 N [EC:6.3.2.19] [KO:K10580] [EC:6.3.2.19]
+Ot06g01340  
+Predicted ubiquitin-conjugating enzyme (ISS); K10582 ubiquitin-conjugating enzyme E2 Q [EC:6.3.2.19] [KO:K10582] [EC:6.3.2.19]
+Ot05g01880  
+Ubiquitin-protein ligase (ISS); K10583 ubiquitin-conjugating enzyme E2 S [EC:6.3.2.19] [KO:K10583] [EC:6.3.2.19]
+Ot05g02730  
+putative ubiquitin conjugating enzyme (ISS); K04649 ubiquitin-conjugating enzyme (huntingtin interacting protein 2) [EC:6.3.2.19] [KO:K04649] [EC:6.3.2.19]
+Ot15g01790  
+Ubiquitin protein ligase RSP5/NEDD4 (ISS); K10589 ubiquitin-protein ligase E3 C [EC:6.3.2.19] [KO:K10589] [EC:6.3.2.19]
+Ot13g02730  
+Ubiquitin protein ligase RSP5/NEDD4 (ISS); K10589 ubiquitin-protein ligase E3 C [EC:6.3.2.19] [KO:K10589] [EC:6.3.2.19]
+Ot12g01130  
+HECT-domain-containing protein / ubiquitin-transferase family protein / armadillo/beta-cateni (ISS); K10590 E3 ubiquitin-protein ligase TRIP12 [EC:6.3.2.19] [KO:K10590] [EC:6.3.2.19]
+Ot17g01860  
+U-box domain-containing protein (ISS); K10597 ubiquitin conjugation factor E4 B [EC:6.3.2.19] [KO:K10597] [EC:6.3.2.19]
+Ot01g02700  
+hypothetical protein; K09561 STIP1 homology and U-box containing protein 1 [EC:6.3.2.19] [KO:K09561] [EC:6.3.2.19]
+Ot03g00480  
+peptidylprolyl isomerase (ISS); K10598 peptidyl-prolyl cis-trans isomerase-like 2 [EC:5.2.1.8] [KO:K10598] [EC:5.2.1.8]
+Ot03g01630  
+transducin family protein / WD-40 repeat family protein (ISS); K10599 pre-mRNA-processing factor 19 [EC:6.3.2.19] [KO:K10599] [EC:6.3.2.19]
+Ot03g04840  
+COP1-like protein (ISS); K10143 E3 ubiquitin-protein ligase RFWD2 [EC:6.3.2.19] [KO:K10143] [EC:6.3.2.19]
+Ot10g01730  
+putative zinc finger protein (ISS); K10601 E3 ubiquitin-protein ligase synoviolin [EC:6.3.2.19] [KO:K10601] [EC:6.3.2.19]
+Ot02g00670  
+rbx1; Rbx1 Conserved RING-H2 finger protein Rbx1 (IC) [KO:K03868]
+Ot07g00170  
+cullin-like protein1 (ISS); K03347 cullin 1 [KO:K03347]
+Ot12g01250  
+RNA polymerase II transcription elongation factor Elongin/SIII; K03872 transcription elongation factor B, polypeptide 1 [KO:K03872]
+Ot03g02780  
+putative cullin 3 (ISS); K03869 cullin 3 [KO:K03869]
+Ot04g00550  
+putative cullin (ISS); K10609 cullin 4 [KO:K10609]
+Ot10g03450  
+putative UV-damaged DNA binding factor (ISS); K10610 DNA damage-binding protein 1 [KO:K10610]
+Ot09g01800  
+DET1-like protein (ISS); K10571 de-etiolated-1 [KO:K10571]
+Ot11g00780  
+APC2; anaphase promoting complex subunit 2 (IC) [KO:K03349]
+Ot04g04760  
+CDC20; cell division cycle protein 20 homolog (p55cdc) (IC) [KO:K03363]
+Ot13g02500  
+cell cycle switch protein CCS52A (ISS); K03364 cell division cycle 20-like protein 1, cofactor of APC complex [KO:K03364]
+Ot06g02920  
+APC1; Anaphase-promoting complex, subunit 1 (IC) [KO:K03348]
+Ot06g00430  
+APC3; anaphase promoting complex subunit 3 / cell division cycle prote (IC) [KO:K03350]
+Ot06g04630  
+APC5; anaphase promoting complex subunit 5 (IC) [KO:K03352]
+Ot01g01010  
+APC6; anaphase promoting complex subunit 6/cell division cycle protein (IC) [KO:K03353]
+Ot08g00390  
+APC7; anaphase promoting complex subunit 7 (IC) [KO:K03354]
+Ot07g02350  
+APC8; anaphase promoting complex subunit 8 (IC) [KO:K03355]
+Ot10g03000  
+APC10; Anaphase-promoting complex, subunit 10 (IC) [KO:K03357]

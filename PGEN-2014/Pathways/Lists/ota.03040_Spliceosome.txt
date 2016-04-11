@@ -1,0 +1,140 @@
+Ot09g00780  
+DEAD-box protein abstrakt (ISS); K12811 ATP-dependent RNA helicase DDX46/PRP5 [EC:3.6.4.13] [KO:K12811] [EC:3.6.4.13]
+Ot14g01480  
+putative HLA-B associated transcript 1 (ISS); K12812 ATP-dependent RNA helicase UAP56/SUB2 [EC:3.6.4.13] [KO:K12812] [EC:3.6.4.13]
+Ot14g00470  
+RNA helicase-like (ISS); K12813 pre-mRNA-splicing factor ATP-dependent RNA helicase DHX16 [EC:3.6.4.13] [KO:K12813] [EC:3.6.4.13]
+Ot08g03200  
+putative DEAH-box RNA helicase (ISS); K12815 pre-mRNA-splicing factor ATP-dependent RNA helicase PRP16 [EC:3.6.4.13] [KO:K12815] [EC:3.6.4.13]
+Ot10g01140  
+C86239 protein T10O24.21 (ISS); K12816 pre-mRNA-processing factor 17 [KO:K12816]
+Ot01g05070  
+putative potassium channel regulatory factor (ISS); K12817 pre-mRNA-splicing factor 18 [KO:K12817]
+Ot04g02270  
+DHX8_ARATH Putative pre-mRNA splicing factor ATP-dep (ISS); K12818 ATP-dependent RNA helicase DHX8/PRP22 [EC:3.6.4.13] [KO:K12818] [EC:3.6.4.13]
+Ot01g02670  
+RNA helicase; K12818 ATP-dependent RNA helicase DHX8/PRP22 [EC:3.6.4.13] [KO:K12818] [EC:3.6.4.13]
+Ot14g01020  
+RNA splicing factor-Slu7p (ISS); K12819 pre-mRNA-processing factor SLU7 [KO:K12819]
+Ot01g03060  
+ATP-dependent RNA helicase-like protein (ISS); K12820 pre-mRNA-splicing factor ATP-dependent RNA helicase DHX15/PRP43 [EC:3.6.4.13] [KO:K12820] [EC:3.6.4.13]
+Ot02g07600  
+small nuclear ribonucleoprotein D2-like protein (ISS); K11096 small nuclear ribonucleoprotein D2 [KO:K11096]
+Ot13g00810  
+putative small nuclear ribonucleoprotein E (ISS); K11099 small nuclear ribonucleoprotein G [KO:K11099]
+Ot15g00780  
+Spliceosomal protein FBP11/Splicing factor PRP40 (ISS); K12821 pre-mRNA-processing factor 40 [KO:K12821]
+Ot15g00510  
+U1 snRNP complex; K12822 RNA-binding protein 25 [KO:K12822]
+Ot13g02630  
+putative ethylene-responsive RNA helicase (ISS); K12823 ATP-dependent RNA helicase DDX5/DBP2 [EC:3.6.4.13] [KO:K12823] [EC:3.6.4.13]
+Ot09g01470  
+putative U2 snRNP protein A' (ISS); K11092 U2 small nuclear ribonucleoprotein A' [KO:K11092]
+Ot01g02690  
+protein T5E21.13 (ISS); K12825 splicing factor 3A subunit 1 [KO:K12825]
+Ot14g03400  
+splicing factor (ISS); K12826 splicing factor 3A subunit 2 [KO:K12826]
+Ot16g02670  
+putative splicing factor 3a (ISS); K12827 splicing factor 3A subunit 3 [KO:K12827]
+Ot03g00250  
+splicing factor; K12828 splicing factor 3B subunit 1 [KO:K12828]
+Ot02g06350  
+putative splicing factor 3B subunit 2 (ISS); K12829 splicing factor 3B subunit 2 [KO:K12829]
+Ot06g02280  
+spliceosomal-like protein (ISS); K12830 splicing factor 3B subunit 3 [KO:K12830]
+Ot16g00870  
+putative RNA binding protein (ISS); K12833 pre-mRNA branch site protein p14 [KO:K12833]
+Ot01g03990  
+hypothetical protein; K12834 PHD finger-like domain-containing protein 5A [KO:K12834]
+Ot16g01210  
+U2 snRNP auxiliary factor; K12836 splicing factor U2AF 35 kDa subunit [KO:K12836]
+Ot03g00380  
+U2 snRNP auxiliary factor; K12837 splicing factor U2AF 65 kDa subunit [KO:K12837]
+Ot14g00790  
+Splicing factor SPF30 (ISS); K12839 survival of motor neuron-related-splicing factor 30 [KO:K12839]
+Ot14g02630  
+putative DNA damage repair protein (ISS); K12840 splicing factor 45 [KO:K12840]
+Ot01g03520  
+RNA recognition motif (ISS); K12842 U2-associated protein SR140 [KO:K12842]
+Ot07g02890  
+Sm-like protein (ISS); K12624 U6 snRNA-associated Sm-like protein LSm5 [KO:K12624]
+Ot08g02640  
+putative snRNP splicing factor-related (ISS); K12626 U6 snRNA-associated Sm-like protein LSm7 [KO:K12626]
+Ot08g00180  
+Small Nuclear ribonucleoprotein splicing factor (ISS); K12627 U6 snRNA-associated Sm-like protein LSm8 [KO:K12627]
+Ot06g03960  
+putative U4/U6-associated RNA splicing factor (ISS); K12843 U4/U6 small nuclear ribonucleoprotein PRP3 [KO:K12843]
+Ot14g00400  
+putative small nuclear ribonucleoprotein Prp4p (ISS); K12662 U4/U6 small nuclear ribonucleoprotein PRP4 [KO:K12662]
+Ot17g01890  
+cyclophilin (ISS); K09567 peptidyl-prolyl isomerase H (cyclophilin H) [EC:5.2.1.8] [KO:K09567] [EC:5.2.1.8]
+Ot02g04850  
+prpF31; PrpF31 U4/U6*U5 snRNP-associated pre-mRNA processing factor 31, (IC) [KO:K12844]
+Ot11g01560  
+putative U4/U6.U5 tri-snRNP-associated (ISS); K12847 U4/U6.U5 tri-snRNP-associated protein 2 [KO:K12847]
+Ot16g01930  
+MGC53679 protein (ISS); K11984 U4/U6.U5 tri-snRNP-associated protein 1 [KO:K11984]
+Ot16g01940  
+IgE autoantigen-like (ISS); K11984 U4/U6.U5 tri-snRNP-associated protein 1 [KO:K11984]
+Ot04g02750  
+U1-like Zn-finger protein (ISS); K12848 U4/U6.U5 tri-snRNP component SNU23 [KO:K12848]
+Ot01g03830  
+pre-mRNA splicing factor PRP38 protein-like (ISS); K12849 pre-mRNA-splicing factor 38A [KO:K12849]
+Ot04g01780  
+Putative RNA binding protein (ISS); K12850 pre-mRNA-splicing factor 38B [KO:K12850]
+Ot07g00360  
+putative elongation factor 2 (ISS); K12852 116 kDa U5 small nuclear ribonucleoprotein component [KO:K12852]
+Ot11g01350  
+DNA polymerase theta/eta; K12854 pre-mRNA-splicing helicase BRR2 [EC:3.6.4.13] [KO:K12854] [EC:3.6.4.13]
+Ot14g03150  
+putative pre-mRNA splicing factor (ISS); K12855 pre-mRNA-processing factor 6 [KO:K12855]
+Ot11g00260  
+U5 snRNP spliceosome subunit (ISS); K12856 pre-mRNA-processing factor 8 [KO:K12856]
+Ot09g03670  
+putative splicing factor (ISS); K12857 Prp8 binding protein [KO:K12857]
+Ot10g01950  
+ATP-dependent RNA helicase (ISS); K12858 ATP-dependent RNA helicase DDX23/PRP28 [EC:3.6.4.13] [KO:K12858] [EC:3.6.4.13]
+Ot03g01630  
+transducin family protein / WD-40 repeat family protein (ISS); K10599 pre-mRNA-processing factor 19 [EC:6.3.2.19] [KO:K10599] [EC:6.3.2.19]
+Ot05g00470  
+CDC5 protein (ISS); K12860 pre-mRNA-splicing factor CDC5/CEF1 [KO:K12860]
+Ot08g02080  
+PRL1 (ISS); K12862 pleiotropic regulator 1 [KO:K12862]
+Ot17g02460  
+putative nuclear protein NAP (ISS); K12864 beta-catenin-like protein 1 [KO:K12864]
+Ot17g02270  
+putative hsp70 (ISS); K03283 heat shock 70kDa protein 1/8 [KO:K03283]
+Ot06g00920  
+Hsp70 chaperone (ISS); K03283 heat shock 70kDa protein 1/8 [KO:K03283]
+Ot09g01090  
+putative poly-glutamine tract-binding protein (ISS); K12865 polyglutamine-binding protein 1 [KO:K12865]
+Ot20g00940  
+OJ1458_B07.103 gene product (ISS); K12867 pre-mRNA-splicing factor SYF1 [KO:K12867]
+Ot07g03390  
+putative crooked neck protein (ISS); K12869 crooked neck [KO:K12869]
+Ot04g03380  
+mRNA splicing factor (ISS); K12870 pre-mRNA-splicing factor ISY1 [KO:K12870]
+Ot03g03370  
+cyclophilin (ISS); K12733 peptidyl-prolyl cis-trans isomerase-like 1 [EC:5.2.1.8] [KO:K12733] [EC:5.2.1.8]
+Ot06g01900  
+RRM-containing RNA-binding protein-like (ISS); K12872 pre-mRNA-splicing factor RBM22/SLT11 [KO:K12872]
+Ot09g00920  
+G10 protein/predicted nuclear transcription regulator (ISS); K12873 bud site selection protein 31 [KO:K12873]
+Ot05g00630  
+putative aquarius (ISS); K12874 intron-binding protein aquarius [KO:K12874]
+Ot12g03060  
+putative nicotiana eukaryotic (ISS); K13025 ATP-dependent RNA helicase [EC:3.6.4.13] [KO:K13025] [EC:3.6.4.13]
+Ot06g03130  
+RNA-binding protein RBM8/Tsunagi (RRM superfamily) (ISS); K12876 RNA-binding protein 8A [KO:K12876]
+Ot03g05030  
+MGN_ORYSA Mago nashi protein homolog (ISS); K12877 protein mago nashi [KO:K12877]
+Ot02g05290  
+Nuclear matrix protein (ISS); K12878 THO complex subunit 1 [KO:K12878]
+Ot02g00350  
+tho2; Tho2 transcription & nuclear export THO-TREX component protein T (IC) [KO:K12879]
+Ot03g04300  
+WD40 repeat-containing protein (ISS); K12880 THO complex subunit 3 [KO:K12880]
+Ot14g00820  
+THOC4_HUMAN THO complex subunit 4 (ISS); K12881 THO complex subunit 4 [KO:K12881]
+Ot07g01400  
+nuclear cap-binding protein CBP80 (ISS); K12882 nuclear cap-binding protein subunit 1 [KO:K12882]

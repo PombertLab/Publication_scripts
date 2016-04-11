@@ -1,0 +1,16 @@
+Ot10g02220  
+Alanine-glyoxylate aminotransferase AGT2 (ISS); K13524 4-aminobutyrate aminotransferase / (S)-3-amino-2-methylpropionate transaminase [EC:2.6.1.19 2.6.1.22] [KO:K13524] [EC:2.6.1.22 2.6.1.19]
+Ot02g05910  
+glutamate decarboxylase (ISS); K01580 glutamate decarboxylase [EC:4.1.1.15] [KO:K01580] [EC:4.1.1.15]
+Ot02g06590  
+formate acetyltransferase (ISS); K00656 formate C-acetyltransferase [EC:2.3.1.54] [KO:K00656] [EC:2.3.1.54]
+Ot01g05450  
+E1 alpha subunit of pyruvate dehydrogenase (ISS); K00161 pyruvate dehydrogenase E1 component subunit alpha [EC:1.2.4.1] [KO:K00161] [EC:1.2.4.1]
+Ot06g02870  
+pyruvate dehydrogenase E1 component beta subunit; K00162 pyruvate dehydrogenase E1 component subunit beta [EC:1.2.4.1] [KO:K00162] [EC:1.2.4.1]
+Ot16g02270  
+acetolactate synthase 1 (ISS); K01652 acetolactate synthase I/II/III large subunit [EC:2.2.1.6] [KO:K01652] [EC:2.2.1.6]
+Ot14g00970  
+putative acetolactate synthase large subunit (ISS); K01652 acetolactate synthase I/II/III large subunit [EC:2.2.1.6] [KO:K01652] [EC:2.2.1.6]
+Ot11g00530  
+Acetolactate synthase; K01653 acetolactate synthase I/III small subunit [EC:2.2.1.6] [KO:K01653] [EC:2.2.1.6]

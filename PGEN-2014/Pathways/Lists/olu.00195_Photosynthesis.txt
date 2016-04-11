@@ -1,0 +1,64 @@
+OSTLU_26707  
+psbM; putative psbM, PSII-M, photosystem II polypeptide, typically encoded in the chloroplast genome [KO:K02714]
+OSTLU_29311  
+psbO; psbO, PSII-O, OEE1, photosystem II polypeptide, oxygen evolving enhancer 1 [KO:K02716]
+OSTLU_48109  
+psbP; oxygen evolving enhancer 2 of Photosystem II [KO:K02717]
+OSTLU_118778  
+PSBP3; lumenal PsbP-like protein [KO:K02717]
+OSTLU_27803  
+psbQ; psbQ, PSII-Q, OEE3, photosystem II polypeptide, oxygen evolving enhancer 3 [KO:K08901]
+OSTLU_31905  
+psbR; psbR, PSII-R, photosystem II polypeptide [KO:K03541]
+OSTLU_15953  
+PSBS; Photosystem II protein [KO:K03542]
+OSTLU_119497  
+PsbW; Photosystem II reaction center W protein, chloroplast precursor [KO:K02721]
+OSTLU_26717  
+psbY; possible psbY, PSII-Y, photosystem II polypeptide [KO:K02723]
+OSTLU_33201  
+psbZ; possible psbZ, PSII-Z, photosystem II polypeptide [KO:K08902]
+OSTLU_40772  
+psbW; psbW, PSII-W, photosystem II polypeptide [KO:K08903]
+OSTLU_51423  
+psaD; psaD, PSI-D, subunit II, photosystem I protein [KO:K02692]
+OSTLU_119378  
+PsaE; Photosystem I reaction center subunit IV, probable [KO:K02693]
+OSTLU_31108  
+psaF; psaF, PSI-F, subunit III, photosystem I polypeptide [KO:K02694]
+OSTLU_31549  
+psaG; psaG, PSI-G, subunit V, photosystem I polypeptide [KO:K08905]
+OSTLU_27383  
+psaHa; psaH, PSI-H, subunit VI, photosystem I polypeptide [KO:K02695]
+OSTLU_37677  
+psaK; putative psaK, PSI-K, subunit X, photosystem I polypeptide [KO:K02698]
+OSTLU_119502  
+PsaL; photosystem I subunit XI precursor [KO:K02699]
+OSTLU_31962  
+psaN; psaN, PSI-N, photosystem I polypeptide [KO:K02701]
+OSTLU_14386  
+psaO; possible psaO, PSI-O, photosystem I polypeptide [KO:K14332]
+OSTLU_40083  
+PETC; Rieske iron-sulfur protein of cytochrome b6f [KO:K02636] [EC:1.10.9.1]
+OSTLU_32458  
+hypothetical protein; K02637 cytochrome b6-f complex subunit 4 [KO:K02637]
+OSTLU_34733  
+PCY1; plastocyanin, chloroplast precursor [KO:K02638]
+OSTLU_9385  
+hypothetical protein; K02639 ferredoxin [KO:K02639]
+OSTLU_8944  
+hypothetical protein; K02639 ferredoxin [KO:K02639]
+OSTLU_37765  
+hypothetical protein; K02639 ferredoxin [KO:K02639]
+OSTLU_28333  
+hypothetical protein; K02641 ferredoxin--NADP+ reductase [EC:1.18.1.2] [KO:K02641] [EC:1.18.1.2]
+OSTLU_9790  
+CYC4; distinct from photosynthetic electron transfer catalyst, CYC6 [KO:K08906]
+OSTLU_24766  
+F-ATPase family transporter: protons (chloroplast); K02115 F-type H+-transporting ATPase subunit gamma [EC:3.6.3.14] [KO:K02115] [EC:3.6.3.14]
+OSTLU_30441  
+F-ATPase family transporter: protons (mitochondrial); K02111 F-type H+-transporting ATPase subunit alpha [EC:3.6.3.14] [KO:K02111] [EC:3.6.3.14]
+OSTLU_32540  
+F-ATPase family transporter: protons (chloroplast); K02113 F-type H+-transporting ATPase subunit delta [EC:3.6.3.14] [KO:K02113] [EC:3.6.3.14]
+OSTLU_13609  
+F-ATPase family transporter: protons (mitochondrial); K02109 F-type H+-transporting ATPase subunit b [EC:3.6.3.14] [KO:K02109] [EC:3.6.3.14]

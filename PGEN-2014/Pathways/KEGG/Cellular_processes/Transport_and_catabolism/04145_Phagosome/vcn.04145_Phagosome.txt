@@ -1,0 +1,52 @@
+VOLCADRAFT_109972  
+actA; hypothetical protein [KO:K05692]
+VOLCADRAFT_80612  
+sec22; R-SNARE, Sec22-family [KO:K08517]
+VOLCADRAFT_40672  
+hypothetical protein; K00914 phosphatidylinositol 3-kinase [EC:2.7.1.137] [KO:K00914] [EC:2.7.1.137]
+VOLCADRAFT_74447  
+atpva1; vacuolar ATP synthase, subunit A [KO:K02145] [EC:3.6.3.14]
+VOLCADRAFT_110003  
+hypothetical protein; K02147 V-type H+-transporting ATPase subunit B [EC:3.6.3.14] [KO:K02147] [EC:3.6.3.14]
+VOLCADRAFT_106399  
+atpvc1; vacuolar ATP synthase, subunit C [KO:K02148] [EC:3.6.3.14]
+VOLCADRAFT_73085  
+hypothetical protein; K02149 V-type H+-transporting ATPase subunit D [EC:3.6.3.14] [KO:K02149] [EC:3.6.3.14]
+VOLCADRAFT_75406  
+atpve1; vacuolar ATP synthase subunit E [KO:K02150] [EC:3.6.3.14]
+VOLCADRAFT_104166  
+hypothetical protein; K02151 V-type H+-transporting ATPase subunit F [EC:3.6.3.14] [KO:K02151] [EC:3.6.3.14]
+VOLCADRAFT_79461  
+hypothetical protein; K02154 V-type H+-transporting ATPase subunit I [EC:3.6.3.14] [KO:K02154] [EC:3.6.3.14]
+VOLCADRAFT_72840  
+atpvd1; vacuolar H+ ATPase V0 sector, subunit D [KO:K02146] [EC:3.6.3.14]
+VOLCADRAFT_83249  
+atpvh1; vacuolar ATP synthase, subunit H [KO:K02144] [EC:3.6.3.14]
+VOLCADRAFT_107886  
+hypothetical protein; K02155 V-type H+-transporting ATPase 16kDa proteolipid subunit [EC:3.6.3.14] [KO:K02155] [EC:3.6.3.14]
+VOLCADRAFT_109870  
+hypothetical protein; K03661 V-type H+-transporting ATPase 21kDa proteolipid subunit [EC:3.6.3.14] [KO:K03661] [EC:3.6.3.14]
+VOLCADRAFT_79428  
+rabG; RabG/Rab7 [KO:K07897]
+VOLCADRAFT_105994  
+flagellar inner arm dynein 1 heavy chain alpha; K10413 dynein heavy chain 1, cytosolic [KO:K10413]
+VOLCADRAFT_64869  
+D1bHC; cytoplasmic dynein 1b heavy chain [KO:K10414]
+VOLCADRAFT_109786  
+tubA2; alpha tubulin [KO:K07374]
+VOLCADRAFT_77526  
+tubA1; alpha tubulin [KO:K07374]
+VOLCADRAFT_75910  
+tubB1; beta tubulin [KO:K07375]
+VOLCADRAFT_77081  
+tubB2; beta tubulin [KO:K07375]
+VOLCADRAFT_72975  
+hypothetical protein; K10956 protein transport protein SEC61 subunit alpha [KO:K10956]
+VOLCADRAFT_76207  
+sec61B; SEC61-beta subunit [KO:K09481]
+VOLCADRAFT_97089  
+hypothetical protein; K07342 protein transport protein SEC61 subunit gamma and related proteins [KO:K07342]
+VOLCADRAFT_76046  
+hypothetical protein; K08057 calreticulin [KO:K08057]
+VOLCADRAFT_77379  
+hypothetical protein; K08054 calnexin [KO:K08054]

@@ -1,0 +1,60 @@
+CHLREDRAFT_95928  
+COX18; cytochrome c oxidase assembly factor [KO:K03217]
+CHLREDRAFT_187295  
+ALB3.1; inner membrane ALBINO3-like protein 1 [KO:K03217]
+CHLREDRAFT_131439  
+SECA2; chloroplast-associated SecA protein [KO:K03070]
+CHLREDRAFT_138696  
+SECA1; chloroplast-associated SecA protein [KO:K03070]
+CHLREDRAFT_127491  
+SRP54; subunit of the signal recognition particle [KO:K03106]
+CHLREDRAFT_81427  
+chloroplast SRP54 subunit of signal recognition particle; K03106 signal recognition particle subunit SRP54 [KO:K03106]
+CHLREDRAFT_105469  
+FTSY; chloroplast SRP receptor [KO:K03110]
+CHLREDRAFT_188207  
+SEC61A; SEC61-alpha subunit of ER-translocon [KO:K10956]
+CHLREDRAFT_1670  
+SEC61B; SEC61-beta subunit of ER-translocon [KO:K09481]
+CHLREDRAFT_185246  
+SEC61G; SEC61-gamma subunit or ER translocon [KO:K07342]
+CHLREDRAFT_186547  
+SEC62; SEC62-subunit of ER-translocon [KO:K12275]
+CHLREDRAFT_18187  
+SEC63; ER-targeted preprotein translocase subunit [KO:K09540]
+CHLREDRAFT_133859  
+BIP1; binding protein 1 [KO:K09490]
+CHLREDRAFT_133650  
+BIP2; binding protein 2 [KO:K09490]
+CHLREDRAFT_195484  
+SRP9; subunit of the signal recognition particle [KO:K03109]
+CHLREDRAFT_128945  
+SRP14; subunit of the signal recognition particle [KO:K03104]
+CHLREDRAFT_154339  
+SRP72; subunit of the signal recognition particle [KO:K03108]
+CHLREDRAFT_7632  
+SRP68; subunit of the signal recognition particle [KO:K03107]
+CHLREDRAFT_108173  
+SRP19; subunit of the signal recognition particle [KO:K03105]
+CHLREDRAFT_195482  
+SRRA1; alpha subunit of the SRP receptor [KO:K13431]
+CHLREDRAFT_195198  
+SRRB1; beta subunit of the SRP receptor [KO:K12272]
+CHLREDRAFT_182920  
+TATA; TatA-like sec-independent protein translocator subunit [KO:K03116]
+CHLREDRAFT_195726  
+TATC; TatC-like sec-independent protein translocon subunit [KO:K03118]
+CHLREDRAFT_183472  
+TPP1; chloroplast thylakoid processing peptidase [KO:K03100] [EC:3.4.21.89]
+CHLREDRAFT_164331  
+SPC12; signal peptidase, 12 kDa subunit [KO:K12946] [EC:3.4.-.-]
+CHLREDRAFT_150738  
+SPC25; signal peptidase, 25 kDa subunit [KO:K12947] [EC:3.4.-.-]
+CHLREDRAFT_190234  
+SPC22; signal peptidase, 22 kDa subunit [KO:K12948] [EC:3.4.-.-]
+CHLREDRAFT_105562  
+SPC18; signal peptidase, catalytic subunit [KO:K13280] [EC:3.4.-.-]
+CHLREDRAFT_196086  
+IMP1; mitochondrial inner membrane signal peptidase [KO:K09647] [EC:3.4.21.-]
+CHLREDRAFT_136408  
+IMP2; mitochondrial inner membrane signal peptidase [KO:K09648] [EC:3.4.21.-]

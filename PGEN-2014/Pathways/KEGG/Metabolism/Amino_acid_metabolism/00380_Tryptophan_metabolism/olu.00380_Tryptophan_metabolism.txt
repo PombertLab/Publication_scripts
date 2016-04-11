@@ -1,0 +1,4 @@
+OSTLU_49109  
+hypothetical protein; K00164 2-oxoglutarate dehydrogenase E1 component [EC:1.2.4.2] [KO:K00164] [EC:1.2.4.2]
+OSTLU_13873  
+hypothetical protein; K00128 aldehyde dehydrogenase (NAD+) [EC:1.2.1.3] [KO:K00128] [EC:1.2.1.3]

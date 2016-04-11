@@ -1,0 +1,36 @@
+Ot16g02270  
+acetolactate synthase 1 (ISS); K01652 acetolactate synthase I/II/III large subunit [EC:2.2.1.6] [KO:K01652] [EC:2.2.1.6]
+Ot14g00970  
+putative acetolactate synthase large subunit (ISS); K01652 acetolactate synthase I/II/III large subunit [EC:2.2.1.6] [KO:K01652] [EC:2.2.1.6]
+Ot11g00530  
+Acetolactate synthase; K01653 acetolactate synthase I/III small subunit [EC:2.2.1.6] [KO:K01653] [EC:2.2.1.6]
+Ot03g02490  
+putative ketol-acid reductoisomerase (ISS); K00053 ketol-acid reductoisomerase [EC:1.1.1.86] [KO:K00053] [EC:1.1.1.86]
+Ot03g03790  
+P0562A06.23 gene product (ISS); K01687 dihydroxy-acid dehydratase [EC:4.2.1.9] [KO:K01687] [EC:4.2.1.9]
+Ot02g04650  
+3-methyl-2-oxobutanoate hydroxy-methyl-transfer (ISS); K00606 3-methyl-2-oxobutanoate hydroxymethyltransferase [EC:2.1.2.11] [KO:K00606] [EC:2.1.2.11]
+Ot01g02000  
+hypothetical protein; K00077 2-dehydropantoate 2-reductase [EC:1.1.1.169] [KO:K00077] [EC:1.1.1.169]
+Ot09g02660  
+pantoate--beta-alanine ligase (ISS); K01918 pantoate--beta-alanine ligase [EC:6.3.2.1] [KO:K01918] [EC:6.3.2.1]
+Ot17g02400  
+pantoate--beta-alanine ligase (ISS); K01918 pantoate--beta-alanine ligase [EC:6.3.2.1] [KO:K01918] [EC:6.3.2.1]
+Ot04g00860  
+eukaryotic pantothenate kinase family protein (ISS); K09680 type II pantothenate kinase [EC:2.7.1.33] [KO:K09680] [EC:2.7.1.33]
+Ot01g00400  
+DNA/panthothenate metabolism flavoprotein family protein (ISS); K01922 phosphopantothenate-cysteine ligase [EC:6.3.2.5] [KO:K01922] [EC:6.3.2.5]
+Ot04g01710  
+CNPV141 HAL3-like domain protein (ISS); K01598 phosphopantothenoylcysteine decarboxylase [EC:4.1.1.36] [KO:K01598] [EC:4.1.1.36]
+Ot16g01180  
+Homolog to human PPAT; Ygr277cp (ISS) [KO:K02201] [EC:2.7.7.3]
+Ot16g00630  
+Dephospho-CoA kinase (ISS); K00859 dephospho-CoA kinase [EC:2.7.1.24] [KO:K00859] [EC:2.7.1.24]
+Ot08g01760  
+Alpha-aminoadipic semialdehyde dehydrogenase-phosphopantetheinyl transferase (ISS); K06133 4'-phosphopantetheinyl transferase [EC:2.7.8.-] [KO:K06133] [EC:2.7.8.-]
+Ot04g04970  
+Putative aminotransferase (ISS); K00826 branched-chain amino acid aminotransferase [EC:2.6.1.42] [KO:K00826] [EC:2.6.1.42]
+Ot08g02190  
+Branched chain aminotransferase BCAT1; K00826 branched-chain amino acid aminotransferase [EC:2.6.1.42] [KO:K00826] [EC:2.6.1.42]
+Ot14g01920  
+branched-chain amino acid aminotransferase-like protein (ISS); K00826 branched-chain amino acid aminotransferase [EC:2.6.1.42] [KO:K00826] [EC:2.6.1.42]

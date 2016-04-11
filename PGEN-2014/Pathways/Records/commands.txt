@@ -1,0 +1,17 @@
+for k in *.fasta; do
+tblastn -query $k -num_threads 4 -db ../../BLASTDB_Coccomyxa/Genome_Coccomyxa -evalue 1e-05 -outfmt 6 -out $k.tblastn.Genome
+tblastn -query $k -num_threads 4 -db ../../BLASTDB_Coccomyxa/RNA_Coccomyxa -evalue 1e-05 -outfmt 6 -out $k.tblastn.RNA
+blastp -query $k -num_threads 4 -db ../../BLASTDB_Coccomyxa/Proteins_Coccomyxa -evalue 1e-10 -outfmt 6 -out $k.blastp
+done
+
+for k in *.fasta; do
+tblastn -query $k -num_threads 4 -db ../../BLASTDB_Chlorella/Genome_Chlorella -evalue 1e-05 -outfmt 6 -out $k.tblastn.Genome
+tblastn -query $k -num_threads 4 -db ../../BLASTDB_Chlorella/RNA_Chlorella -evalue 1e-05 -outfmt 6 -out $k.tblastn.RNA
+blastp -query $k -num_threads 4 -db ../../BLASTDB_Chlorella/Proteins_Chlorella -evalue 1e-10 -outfmt 6 -out $k.blastp
+done
+
+for k in *.fasta; do
+tblastn -query $k -num_threads 4 -db ../../BLASTDB_Helico/Genome -evalue 1e-05 -outfmt 6 -out $k.tblastn.Genome
+tblastn -query $k -num_threads 4 -db ../../BLASTDB_Helico/RNA -evalue 1e-05 -outfmt 6 -out $k.tblastn.RNA
+blastp -query $k -num_threads 4 -db ../../BLASTDB_Helico/Proteins -evalue 1e-10 -outfmt 6 -out $k.blastp
+done

@@ -1,0 +1,144 @@
+VOLCADRAFT_72975  
+hypothetical protein; K10956 protein transport protein SEC61 subunit alpha [KO:K10956]
+VOLCADRAFT_76207  
+sec61B; SEC61-beta subunit [KO:K09481]
+VOLCADRAFT_97089  
+hypothetical protein; K07342 protein transport protein SEC61 subunit gamma and related proteins [KO:K07342]
+VOLCADRAFT_118781  
+dnj45; molecular chaperone [KO:K09540]
+VOLCADRAFT_103748  
+hypothetical protein; K12666 oligosaccharyltransferase complex subunit alpha (ribophorin I) [KO:K12666]
+VOLCADRAFT_103997  
+hypothetical protein; K12667 oligosaccharyltransferase complex subunit delta (ribophorin II) [KO:K12667]
+VOLCADRAFT_85655  
+dad1; epsilon subunit of defender against death protein/oligosaccharyltransferase [KO:K12668]
+VOLCADRAFT_105485  
+hypothetical protein; K12669 oligosaccharyltransferase complex subunit gamma [KO:K12669]
+VOLCADRAFT_72245  
+hypothetical protein; K12670 oligosaccharyltransferase complex subunit beta [KO:K12670]
+VOLCADRAFT_83836  
+hypothetical protein; K07151 dolichyl-diphosphooligosaccharide--protein glycosyltransferase [EC:2.4.99.18] [KO:K07151] [EC:2.4.99.18]
+VOLCADRAFT_66117  
+hypothetical protein; K07151 dolichyl-diphosphooligosaccharide--protein glycosyltransferase [EC:2.4.99.18] [KO:K07151] [EC:2.4.99.18]
+VOLCADRAFT_58521  
+hypothetical protein; K01228 mannosyl-oligosaccharide glucosidase [EC:3.2.1.106] [KO:K01228] [EC:3.2.1.106]
+VOLCADRAFT_103004  
+hsp70G; heat shock protein Hsp70G [KO:K09486]
+VOLCADRAFT_109722  
+bip1; luminal binding protein Bip1 [KO:K09490]
+VOLCADRAFT_104366  
+bip2; luminal binding protein Bip2 [KO:K09490]
+VOLCADRAFT_80696  
+hypothetical protein; K09487 heat shock protein 90kDa beta [KO:K09487]
+VOLCADRAFT_79927  
+hypothetical protein; K09487 heat shock protein 90kDa beta [KO:K09487]
+VOLCADRAFT_60238  
+hypothetical protein; K05546 alpha 1,3-glucosidase [EC:3.2.1.84] [KO:K05546] [EC:3.2.1.84]
+VOLCADRAFT_120319  
+hypothetical protein; K08288 protein kinase C substrate 80K-H [KO:K08288]
+VOLCADRAFT_77379  
+hypothetical protein; K08054 calnexin [KO:K08054]
+VOLCADRAFT_76046  
+hypothetical protein; K08057 calreticulin [KO:K08057]
+VOLCADRAFT_80466  
+arf10; small Arf-related GTPase [KO:K07953] [EC:3.6.5.-]
+VOLCADRAFT_80440  
+hypothetical protein; K14004 protein transport protein SEC13 [KO:K14004]
+VOLCADRAFT_120559  
+hypothetical protein; K14005 protein transport protein SEC31 [KO:K14005]
+VOLCADRAFT_103128  
+hypothetical protein; K14006 protein transport protein SEC23 [KO:K14006]
+VOLCADRAFT_72688  
+hypothetical protein; K14007 protein transport protein SEC24 [KO:K14007]
+VOLCADRAFT_76031  
+hypothetical protein; K14007 protein transport protein SEC24 [KO:K14007]
+VOLCADRAFT_105823  
+hypothetical protein; K11718 UDP-glucose:glycoprotein glucosyltransferase [EC:2.4.1.-] [KO:K11718] [EC:2.4.1.-]
+VOLCADRAFT_59905  
+hypothetical protein; K10085 ER degradation enhancer, mannosidase alpha-like 2 [KO:K10085]
+VOLCADRAFT_77404  
+gon15; protein disulfide isomerase 1 [KO:K09580] [EC:5.3.4.1]
+VOLCADRAFT_108380  
+hypothetical protein; K09584 protein disulfide-isomerase A6 [EC:5.3.4.1] [KO:K09584] [EC:5.3.4.1]
+VOLCADRAFT_105867  
+hypothetical protein; K09584 protein disulfide-isomerase A6 [EC:5.3.4.1] [KO:K09584] [EC:5.3.4.1]
+VOLCADRAFT_106773  
+hypothetical protein; K09584 protein disulfide-isomerase A6 [EC:5.3.4.1] [KO:K09584] [EC:5.3.4.1]
+VOLCADRAFT_85971  
+ero1; endoplasmic reticulum oxidoreductin 1 family protein [KO:K10950] [EC:1.8.4.-]
+VOLCADRAFT_108338  
+hypothetical protein; K10088 protein OS-9 [KO:K10088]
+VOLCADRAFT_109993  
+hypothetical protein; K13249 translocon-associated protein subunit alpha [KO:K13249]
+VOLCADRAFT_117033  
+hypothetical protein; K13250 translocon-associated protein subunit beta [KO:K13250]
+VOLCADRAFT_33117  
+hypothetical protein; K13989 Derlin-2/3 [KO:K13989]
+VOLCADRAFT_82188  
+hypothetical protein; K13989 Derlin-2/3 [KO:K13989]
+VOLCADRAFT_109909  
+hypothetical protein; K14012 UBX domain-containing protein 1 [KO:K14012]
+VOLCADRAFT_78972  
+cdc48; hypothetical protein [KO:K13525]
+VOLCADRAFT_69322  
+hypothetical protein; K14015 nuclear protein localization protein 4 homolog [KO:K14015]
+VOLCADRAFT_102621  
+hypothetical protein; K14016 ubiquitin fusion degradation protein 1 [KO:K14016]
+VOLCADRAFT_79550  
+hsp70A; heat-shock inducible Hsp70 [KO:K03283]
+VOLCADRAFT_80761  
+dnj1; molecular chaperone [KO:K09503]
+VOLCADRAFT_83498  
+dnj11; molecular chaperone [KO:K09518]
+VOLCADRAFT_73112  
+hypothetical protein; K04079 molecular chaperone HtpG [KO:K04079]
+VOLCADRAFT_116527  
+hypothetical protein; K09562 hsp70-interacting protein [KO:K09562]
+VOLCADRAFT_76187  
+hypothetical protein; K13993 HSP20 family protein [KO:K13993]
+VOLCADRAFT_95045  
+hypothetical protein; K13993 HSP20 family protein [KO:K13993]
+VOLCADRAFT_106305  
+hypothetical protein; K13993 HSP20 family protein [KO:K13993]
+VOLCADRAFT_104316  
+hypothetical protein; K13993 HSP20 family protein [KO:K13993]
+VOLCADRAFT_84470  
+hypothetical protein; K13719 ubiquitin thioesterase OTU1 [EC:3.1.2.-] [KO:K13719] [EC:3.1.2.-]
+VOLCADRAFT_103881  
+hypothetical protein; K14018 phospholipase A-2-activating protein [KO:K14018]
+VOLCADRAFT_104016  
+hypothetical protein; K10839 UV excision repair protein RAD23 [KO:K10839]
+VOLCADRAFT_102285  
+hypothetical protein; K04523 ubiquilin [KO:K04523]
+VOLCADRAFT_87432  
+hypothetical protein; K10597 ubiquitin conjugation factor E4 B [EC:6.3.2.19] [KO:K10597] [EC:6.3.2.19]
+VOLCADRAFT_105035  
+eif2Ab; eukaryotic translation initiation factor 2 alpha [KO:K03237]
+VOLCADRAFT_85780  
+hypothetical protein; K08653 membrane-bound transcription factor site-1 protease [EC:3.4.21.112] [KO:K08653] [EC:3.4.21.112]
+VOLCADRAFT_107956  
+hypothetical protein; K08852 serine/threonine-protein kinase/endoribonuclease IRE1 [EC:2.7.11.1 3.1.26.-] [KO:K08852] [EC:3.1.26.- 2.7.11.1]
+VOLCADRAFT_120065  
+hypothetical protein; K10578 ubiquitin-conjugating enzyme E2 J1 [EC:6.3.2.19] [KO:K10578] [EC:6.3.2.19]
+VOLCADRAFT_103384  
+hypothetical protein; K04554 ubiquitin-conjugating enzyme E2 J2 [EC:6.3.2.19] [KO:K04554] [EC:6.3.2.19]
+VOLCADRAFT_106071  
+ubcA; ubiquitin conjugating enzyme E2 [KO:K10575] [EC:6.3.2.19]
+VOLCADRAFT_67392  
+hypothetical protein; K10601 E3 ubiquitin-protein ligase synoviolin [EC:6.3.2.19] [KO:K10601] [EC:6.3.2.19]
+VOLCADRAFT_34979  
+hypothetical protein; K10666 E3 ubiquitin-protein ligase RNF5 [EC:6.3.2.19] [KO:K10666] [EC:6.3.2.19]
+VOLCADRAFT_94007  
+hypothetical protein; K10636 autocrine motility factor receptor [EC:6.3.2.19] [KO:K10636] [EC:6.3.2.19]
+VOLCADRAFT_67840  
+hypothetical protein; K09561 STIP1 homology and U-box containing protein 1 [EC:6.3.2.19] [KO:K09561] [EC:6.3.2.19]
+VOLCADRAFT_84429  
+hypothetical protein; K06689 ubiquitin-conjugating enzyme E2 D/E [EC:6.3.2.19] [KO:K06689] [EC:6.3.2.19]
+VOLCADRAFT_80460  
+hypothetical protein; K06689 ubiquitin-conjugating enzyme E2 D/E [EC:6.3.2.19] [KO:K06689] [EC:6.3.2.19]
+VOLCADRAFT_75918  
+hypothetical protein; K03868 RING-box protein 1 [KO:K03868]
+VOLCADRAFT_108919  
+hypothetical protein; K03347 cullin 1 [KO:K03347]
+VOLCADRAFT_73445  
+hypothetical protein; K03094 S-phase kinase-associated protein 1 [KO:K03094]

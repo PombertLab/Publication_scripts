@@ -1,0 +1,8 @@
+Ot03g02230  
+putative 2-oxoglutarate dehydrogenase E1 component (ISS); K00164 2-oxoglutarate dehydrogenase E1 component [EC:1.2.4.2] [KO:K00164] [EC:1.2.4.2]
+Ot16g00490  
+Predicted 2-oxoglutarate dehydrogenase; K00164 2-oxoglutarate dehydrogenase E1 component [EC:1.2.4.2] [KO:K00164] [EC:1.2.4.2]
+Ot06g04370  
+dihydrolipoamide S-succinyltransferase (ISS); K00658 2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase) [EC:2.3.1.61] [KO:K00658] [EC:2.3.1.61]
+Ot01g04160  
+fatty aldehyde dehydrogenase variant form (ISS); K00128 aldehyde dehydrogenase (NAD+) [EC:1.2.1.3] [KO:K00128] [EC:1.2.1.3]

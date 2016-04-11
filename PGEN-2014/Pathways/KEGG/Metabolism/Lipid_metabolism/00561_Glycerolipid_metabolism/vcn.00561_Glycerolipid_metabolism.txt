@@ -1,0 +1,28 @@
+VOLCADRAFT_94435  
+hypothetical protein; K15918 D-glycerate 3-kinase [EC:2.7.1.31] [KO:K15918] [EC:2.7.1.31]
+VOLCADRAFT_73567  
+hypothetical protein; K00128 aldehyde dehydrogenase (NAD+) [EC:1.2.1.3] [KO:K00128] [EC:1.2.1.3]
+VOLCADRAFT_91722  
+hypothetical protein; K00864 glycerol kinase [EC:2.7.1.30] [KO:K00864] [EC:2.7.1.30]
+VOLCADRAFT_78866  
+hypothetical protein; K13506 glycerol-3-phosphate O-acyltransferase 3/4 [EC:2.3.1.15] [KO:K13506] [EC:2.3.1.15]
+VOLCADRAFT_81121  
+hypothetical protein; K00630 glycerol-3-phosphate O-acyltransferase [EC:2.3.1.15] [KO:K00630] [EC:2.3.1.15]
+VOLCADRAFT_105609  
+hypothetical protein; K00655 1-acyl-sn-glycerol-3-phosphate acyltransferase [EC:2.3.1.51] [KO:K00655] [EC:2.3.1.51]
+VOLCADRAFT_120919  
+hypothetical protein; K13519 lysophospholipid acyltransferase [EC:2.3.1.51 2.3.1.23 2.3.1.-] [KO:K13519] [EC:2.3.1.- 2.3.1.23 2.3.1.51]
+VOLCADRAFT_32171  
+hypothetical protein; K15728 phosphatidate phosphatase LPIN [EC:3.1.3.4] [KO:K15728] [EC:3.1.3.4]
+VOLCADRAFT_69078  
+hypothetical protein; K11155 diacylglycerol O-acyltransferase 1 [EC:2.3.1.20 2.3.1.75 2.3.1.76] [KO:K11155] [EC:2.3.1.76 2.3.1.75 2.3.1.20]
+VOLCADRAFT_97885  
+hypothetical protein; K00679 phospholipid:diacylglycerol acyltransferase [EC:2.3.1.158] [KO:K00679] [EC:2.3.1.158]
+VOLCADRAFT_117294  
+hypothetical protein; K14674 TAG lipase / steryl ester hydrolase / phospholipase A2 / LPA acyltransferase [EC:3.1.1.3 3.1.1.13 3.1.1.4 2.3.1.51] [KO:K14674] [EC:2.3.1.51 3.1.1.4 3.1.1.13 3.1.1.3]
+VOLCADRAFT_109932  
+hypothetical protein; K06118 UDP-sulfoquinovose synthase [EC:3.13.1.1] [KO:K06118] [EC:3.13.1.1]
+VOLCADRAFT_82536  
+hypothetical protein; K06119 sulfoquinovosyltransferase [EC:2.4.1.-] [KO:K06119] [EC:2.4.1.-]
+VOLCADRAFT_58564  
+hypothetical protein; K03715 1,2-diacylglycerol 3-beta-galactosyltransferase [EC:2.4.1.46] [KO:K03715] [EC:2.4.1.46]

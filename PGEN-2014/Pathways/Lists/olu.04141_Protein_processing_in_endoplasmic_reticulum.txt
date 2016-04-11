@@ -1,0 +1,122 @@
+OSTLU_27583  
+IISP family transporter: protein transport protein Sec61 alpha subunit; K10956 protein transport protein SEC61 subunit alpha [KO:K10956]
+OSTLU_29044  
+hypothetical protein; K09481 protein transport protein SEC61 subunit beta [KO:K09481]
+OSTLU_27333  
+hypothetical protein; K07342 protein transport protein SEC61 subunit gamma and related proteins [KO:K07342]
+OSTLU_87529  
+NSCC2 family transporter: translocation proteinSec62; K12275 translocation protein SEC62 [KO:K12275]
+OSTLU_33834  
+IISP family transporter: Translocation protein SEC63-like protein; K09540 translocation protein SEC63 [KO:K09540]
+OSTLU_49512  
+hypothetical protein; K07151 dolichyl-diphosphooligosaccharide--protein glycosyltransferase [EC:2.4.99.18] [KO:K07151] [EC:2.4.99.18]
+OSTLU_45635  
+HSP70F; Heat Shock Protein 70, ER lumen [KO:K09486]
+OSTLU_119566  
+Bip; Luminal binding protein precursor, probable [KO:K09490]
+OSTLU_38754  
+hypothetical protein; K09517 DnaJ homolog subfamily B member 11 [KO:K09517]
+OSTLU_5385  
+hypothetical protein; K09530 DnaJ homolog subfamily C member 10 [KO:K09530]
+OSTLU_19857  
+HSP90B; Heat Shock Protein 90, endoplasmic reticulum [KO:K09487]
+OSTLU_23829  
+HSP90C; Heat Shock Protein 90 [KO:K09487]
+OSTLU_429  
+hypothetical protein; K05546 alpha 1,3-glucosidase [EC:3.2.1.84] [KO:K05546] [EC:3.2.1.84]
+OSTLU_7884  
+hypothetical protein; K08288 protein kinase C substrate 80K-H [KO:K08288]
+OSTLU_2616  
+hypothetical protein; K08054 calnexin [KO:K08054]
+OSTLU_1811  
+hypothetical protein; K01230 mannosyl-oligosaccharide alpha-1,2-mannosidase [EC:3.2.1.113] [KO:K01230] [EC:3.2.1.113]
+OSTLU_43732  
+hypothetical protein; K07953 GTP-binding protein SAR1 [EC:3.6.5.-] [KO:K07953] [EC:3.6.5.-]
+OSTLU_17465  
+hypothetical protein; K14004 protein transport protein SEC13 [KO:K14004]
+OSTLU_39452  
+hypothetical protein; K14005 protein transport protein SEC31 [KO:K14005]
+OSTLU_33543  
+hypothetical protein; K14006 protein transport protein SEC23 [KO:K14006]
+OSTLU_16541  
+hypothetical protein; K14006 protein transport protein SEC23 [KO:K14006]
+OSTLU_88822  
+hypothetical protein; K14007 protein transport protein SEC24 [KO:K14007]
+OSTLU_44386  
+hypothetical protein; K14007 protein transport protein SEC24 [KO:K14007]
+OSTLU_1860  
+hypothetical protein; K10085 ER degradation enhancer, mannosidase alpha-like 2 [KO:K10085]
+OSTLU_2484  
+hypothetical protein; K09580 protein disulfide-isomerase A1 [EC:5.3.4.1] [KO:K09580] [EC:5.3.4.1]
+OSTLU_10646  
+hypothetical protein; K09584 protein disulfide-isomerase A6 [EC:5.3.4.1] [KO:K09584] [EC:5.3.4.1]
+OSTLU_26951  
+hypothetical protein; K10088 protein OS-9 [KO:K10088]
+OSTLU_27234  
+hypothetical protein; K13989 Derlin-2/3 [KO:K13989]
+OSTLU_5901  
+hypothetical protein; K13989 Derlin-2/3 [KO:K13989]
+OSTLU_36520  
+hypothetical protein; K13989 Derlin-2/3 [KO:K13989]
+OSTLU_35116  
+hypothetical protein; K14012 UBX domain-containing protein 1 [KO:K14012]
+OSTLU_29008  
+hypothetical protein; K13525 transitional endoplasmic reticulum ATPase [KO:K13525]
+OSTLU_31250  
+hypothetical protein; K14015 nuclear protein localization protein 4 homolog [KO:K14015]
+OSTLU_34773  
+hypothetical protein; K14016 ubiquitin fusion degradation protein 1 [KO:K14016]
+OSTLU_31330  
+HSP70D; Heat Shock Protein 70 [KO:K03283]
+OSTLU_48839  
+HSP70B; Heat Shock Protein 70, chloroplast [KO:K03283]
+OSTLU_28169  
+HSP70A; Heat Shock Protein 70, cytosolic [KO:K03283]
+OSTLU_32019  
+HSP70G; Heat Shock Protein 70, cytosolic [KO:K03283]
+OSTLU_19643  
+hypothetical protein; K09503 DnaJ homolog subfamily A member 2 [KO:K09503]
+OSTLU_26093  
+HSP90A; Heat Shock Protein 90, cytosolic [KO:K04079]
+OSTLU_16769  
+hypothetical protein; K13719 ubiquitin thioesterase OTU1 [EC:3.1.2.-] [KO:K13719] [EC:3.1.2.-]
+OSTLU_26154  
+hypothetical protein; K10839 UV excision repair protein RAD23 [KO:K10839]
+OSTLU_28268  
+hypothetical protein; K04523 ubiquilin [KO:K04523]
+OSTLU_5312  
+hypothetical protein; K01456 peptide-N4-(N-acetyl-beta-glucosaminyl)asparagine amidase [EC:3.5.1.52] [KO:K01456] [EC:3.5.1.52]
+OSTLU_33432  
+hypothetical protein; K11863 Ataxin-3 [EC:3.4.22.-] [KO:K11863] [EC:3.4.22.-]
+OSTLU_28133  
+hypothetical protein; K10597 ubiquitin conjugation factor E4 B [EC:6.3.2.19] [KO:K10597] [EC:6.3.2.19]
+OSTLU_119592  
+Eif2a; Eukaryotic translation initiation factor 2, alpha subunit [KO:K03237]
+OSTLU_40456  
+hypothetical protein; K08653 membrane-bound transcription factor site-1 protease [EC:3.4.21.112] [KO:K08653] [EC:3.4.21.112]
+OSTLU_48805  
+hypothetical protein; K08852 serine/threonine-protein kinase/endoribonuclease IRE1 [EC:2.7.11.1 3.1.26.-] [KO:K08852] [EC:3.1.26.- 2.7.11.1]
+OSTLU_10549  
+hypothetical protein; K10578 ubiquitin-conjugating enzyme E2 J1 [EC:6.3.2.19] [KO:K10578] [EC:6.3.2.19]
+OSTLU_29356  
+hypothetical protein; K04554 ubiquitin-conjugating enzyme E2 J2 [EC:6.3.2.19] [KO:K04554] [EC:6.3.2.19]
+OSTLU_15194  
+hypothetical protein; K10575 ubiquitin-conjugating enzyme E2 G1 [EC:6.3.2.19] [KO:K10575] [EC:6.3.2.19]
+OSTLU_3177  
+hypothetical protein; K10601 E3 ubiquitin-protein ligase synoviolin [EC:6.3.2.19] [KO:K10601] [EC:6.3.2.19]
+OSTLU_26544  
+hypothetical protein; K10666 E3 ubiquitin-protein ligase RNF5 [EC:6.3.2.19] [KO:K10666] [EC:6.3.2.19]
+OSTLU_27845  
+hypothetical protein; K14026 SEL1 protein [KO:K14026]
+OSTLU_86132  
+hypothetical protein; K09561 STIP1 homology and U-box containing protein 1 [EC:6.3.2.19] [KO:K09561] [EC:6.3.2.19]
+OSTLU_38392  
+hypothetical protein; K06689 ubiquitin-conjugating enzyme E2 D/E [EC:6.3.2.19] [KO:K06689] [EC:6.3.2.19]
+OSTLU_43750  
+hypothetical protein; K06689 ubiquitin-conjugating enzyme E2 D/E [EC:6.3.2.19] [KO:K06689] [EC:6.3.2.19]
+OSTLU_119493  
+Rbx1; RING-box protein 1 [KO:K03868]
+OSTLU_50090  
+hypothetical protein; K03347 cullin 1 [KO:K03347]
+OSTLU_28570  
+hypothetical protein; K03094 S-phase kinase-associated protein 1 [KO:K03094]

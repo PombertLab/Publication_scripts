@@ -1,0 +1,52 @@
+Ot04g04130  
+ornithine decarboxylase (ISS); K01581 ornithine decarboxylase [EC:4.1.1.17] [KO:K01581] [EC:4.1.1.17]
+Ot11g01200  
+spermidine synthase 1 (ISS); K00797 spermidine synthase [EC:2.5.1.16] [KO:K00797] [EC:2.5.1.16]
+Ot06g00700  
+putative spermine synthase (ISS); K00797 spermidine synthase [EC:2.5.1.16] [KO:K00797] [EC:2.5.1.16]
+Ot13g00890  
+S-adenosylmethionine decarboxylase (ISS); K01611 S-adenosylmethionine decarboxylase [EC:4.1.1.50] [KO:K01611] [EC:4.1.1.50]
+Ot01g04160  
+fatty aldehyde dehydrogenase variant form (ISS); K00128 aldehyde dehydrogenase (NAD+) [EC:1.2.1.3] [KO:K00128] [EC:1.2.1.3]
+Ot13g00090  
+pyrroline-5-carboxylate reductase (ISS); K00286 pyrroline-5-carboxylate reductase [EC:1.5.1.2] [KO:K00286] [EC:1.5.1.2]
+Ot04g03090  
+proline dehydrogenase (ISS); K00318 proline dehydrogenase [EC:1.5.99.8] [KO:K00318] [EC:1.5.99.8]
+Ot03g05840  
+delta-1-pyrroline-5-carboxylate dehydrogenase precursor (ISS); K00294 1-pyrroline-5-carboxylate dehydrogenase [EC:1.5.1.12] [KO:K00294] [EC:1.5.1.12]
+Ot10g02600  
+Gamma-glutamyl phosphate reductase (ISS); K12657 delta-1-pyrroline-5-carboxylate synthetase [EC:2.7.2.11 1.2.1.41] [KO:K12657] [EC:1.2.1.41 2.7.2.11]
+Ot16g03040  
+proline iminopeptidase (ISS); K01259 proline iminopeptidase [EC:3.4.11.5] [KO:K01259] [EC:3.4.11.5]
+Ot02g07180  
+oxidoreductase; K00472 prolyl 4-hydroxylase [EC:1.14.11.2] [KO:K00472] [EC:1.14.11.2]
+Ot01g03290  
+oxidoreductase; K00472 prolyl 4-hydroxylase [EC:1.14.11.2] [KO:K00472] [EC:1.14.11.2]
+Ot04g00140  
+P4HA1; prolyl 4-hydroxylase alpha-1 subunit precursor (IC) [KO:K00472] [EC:1.14.11.2]
+Ot05g01290  
+AAT; Aspartate aminotransferase, likely mitochondrial [Precursor] (IC) [KO:K14455] [EC:2.6.1.1]
+Ot01g01460  
+ornithine carbamoyltransferase (ISS); K00611 ornithine carbamoyltransferase [EC:2.1.3.3] [KO:K00611] [EC:2.1.3.3]
+Ot16g02920  
+COG0137: Argininosuccinate synthase (ISS); K01940 argininosuccinate synthase [EC:6.3.4.5] [KO:K01940] [EC:6.3.4.5]
+Ot12g03000  
+argininosuccinate lyase (ISS); K01755 argininosuccinate lyase [EC:4.3.2.1] [KO:K01755] [EC:4.3.2.1]
+Ot15g01750  
+UreABC; K01427 urease [EC:3.5.1.5] [KO:K01427] [EC:3.5.1.5]
+Ot17g00040  
+nitric oxide synthase (ISS); K13253 nitric-oxide synthase, invertebrate [EC:1.14.13.39] [KO:K13253] [EC:1.14.13.39]
+Ot01g04890  
+Glutamine synthetase; K01915 glutamine synthetase [EC:6.3.1.2] [KO:K01915] [EC:6.3.1.2]
+Ot08g02970  
+putative amino-acid N-acetyltransferase (ISS); K14682 amino-acid N-acetyltransferase [EC:2.3.1.1] [KO:K14682] [EC:2.3.1.1]
+Ot08g02650  
+putative glutamate/ornithine acetyltransferase (ISS); K00620 glutamate N-acetyltransferase / amino-acid N-acetyltransferase [EC:2.3.1.35 2.3.1.1] [KO:K00620] [EC:2.3.1.1 2.3.1.35]
+Ot14g02870  
+N-acetylglutamate kinase (ISS); K00930 acetylglutamate kinase [EC:2.7.2.8] [KO:K00930] [EC:2.7.2.8]
+Ot14g02070  
+N-acetyl-gamma-glutamyl-phosphate reductase (ISS); K00145 N-acetyl-gamma-glutamyl-phosphate reductase [EC:1.2.1.38] [KO:K00145] [EC:1.2.1.38]
+Ot14g03520  
+ARGD_ALNGL Acetylornithine aminotransferase; K00818 acetylornithine aminotransferase [EC:2.6.1.11] [KO:K00818] [EC:2.6.1.11]
+Ot02g06210  
+DIP-1 (ISS); K01438 acetylornithine deacetylase [EC:3.5.1.16] [KO:K01438] [EC:3.5.1.16]

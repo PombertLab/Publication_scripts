@@ -1,0 +1,44 @@
+CHLREDRAFT_139119  
+hypothetical protein; K01001 UDP-N-acetylglucosamine--dolichyl-phosphate N-acetylglucosaminephosphotransferase [EC:2.7.8.15] [KO:K01001] [EC:2.7.8.15]
+CHLREDRAFT_18353  
+GTR4; dolichol-phosphate glucosyltransferase [KO:K00729] [EC:2.4.1.117]
+CHLREDRAFT_182754  
+hypothetical protein; K07432 beta-1,4-N-acetylglucosaminyltransferase [EC:2.4.1.141] [KO:K07432] [EC:2.4.1.141]
+CHLREDRAFT_177895  
+hypothetical protein; K07441 beta-1,4-N-acetylglucosaminyltransferase [EC:2.4.1.141] [KO:K07441] [EC:2.4.1.141]
+CHLREDRAFT_138210  
+GTR1; glycosyl transferase [KO:K00721] [EC:2.4.1.83]
+CHLREDRAFT_191380  
+hypothetical protein; K09659 dolichyl-phosphate mannosyltransferase polypeptide 3 [KO:K09659]
+CHLREDRAFT_108570  
+GTR16; glycosyl transferase [KO:K03842] [EC:2.4.1.142]
+CHLREDRAFT_122195  
+GTR5; glycosyl transferase, group 1 [KO:K03843] [EC:2.4.1.257 2.4.1.132]
+CHLREDRAFT_19999  
+GTR6; glycosyl transferase [KO:K03844] [EC:2.4.1.131]
+CHLREDRAFT_178966  
+hypothetical protein; K06316 oligosaccharidyl-lipid flippase family [KO:K06316]
+CHLREDRAFT_36194  
+GTR21; glycosyl transferase, type ALG6, ALG8 [KO:K03848] [EC:2.4.1.267]
+CHLREDRAFT_104640  
+GTR20; glycosyl transferase, type ALG6, ALG8 [KO:K03849] [EC:2.4.1.265]
+CHLREDRAFT_127991  
+GTR25; oligsaccharyl transferase STT3 subunit [KO:K07151] [EC:2.4.99.18]
+CHLREDRAFT_131340  
+GTR22; glycosyl transferase [KO:K12666]
+CHLREDRAFT_175668  
+hypothetical protein; K12667 oligosaccharyltransferase complex subunit delta (ribophorin II) [KO:K12667]
+CHLREDRAFT_141763  
+DAD1; hypothetical protein [KO:K12668]
+CHLREDRAFT_196082  
+OST3/OST6 family protein; K12669 oligosaccharyltransferase complex subunit gamma [KO:K12669]
+CHLREDRAFT_121156  
+GTR26; dolichyl-diphosphooligosaccharide-protein glycosyltransferase [KO:K12670]
+CHLREDRAFT_194530  
+hypothetical protein; K07252 dolichyldiphosphatase [EC:3.6.1.43] [KO:K07252] [EC:3.6.1.43]
+CHLREDRAFT_113687  
+hypothetical protein; K01228 mannosyl-oligosaccharide glucosidase [EC:3.2.1.106] [KO:K01228] [EC:3.2.1.106]
+CHLREDRAFT_128630  
+GLH1; glycoside-hydrolase-like protein [KO:K05546] [EC:3.2.1.84]
+CHLREDRAFT_178232  
+AMD1; alpha-1,2-mannosidase [KO:K01230] [EC:3.2.1.113]

@@ -1,0 +1,8 @@
+VOLCADRAFT_87744  
+hypothetical protein; K05656 ATP-binding cassette, subfamily B (MDR/TAP), member 9 [KO:K05656]
+VOLCADRAFT_103054  
+hypothetical protein; K05658 ATP-binding cassette, subfamily B (MDR/TAP), member 1 [KO:K05658]
+VOLCADRAFT_40714  
+hypothetical protein; K05663 mitochondrial ABC transporter ATM [KO:K05663]
+VOLCADRAFT_99703  
+hypothetical protein; K05677 ATP-binding cassette, subfamily D (ALD), member 3 [KO:K05677]

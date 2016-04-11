@@ -1,0 +1,30 @@
+CHLREDRAFT_184945  
+acetyl-CoA carboxylase; K01962 acetyl-CoA carboxylase carboxyl transferase subunit alpha [EC:6.4.1.2] [KO:K01962] [EC:6.4.1.2]
+CHLREDRAFT_185478  
+BCC1; acetyl-coa biotin carboxyl carrier [KO:K02160]
+CHLREDRAFT_122970  
+biotin carboxylase; K01961 acetyl-CoA carboxylase, biotin carboxylase subunit [EC:6.4.1.2 6.3.4.14] [KO:K01961] [EC:6.3.4.14 6.4.1.2]
+CHLREDRAFT_133238  
+acetyl-coa carboxylase beta-carboxyltransferase subunit of plastidic multimeric ACCase; K01963 acetyl-CoA carboxylase carboxyl transferase subunit beta [EC:6.4.1.2] [KO:K01963] [EC:6.4.1.2]
+CHLREDRAFT_122441  
+hypothetical protein; K11262 acetyl-CoA carboxylase / biotin carboxylase [EC:6.4.1.2 6.3.4.14] [KO:K11262] [EC:6.3.4.14 6.4.1.2]
+CHLREDRAFT_101671  
+malonyl-CoA:acyl-carrier-protein transacylase; K00645 [acyl-carrier-protein] S-malonyltransferase [EC:2.3.1.39] [KO:K00645] [EC:2.3.1.39]
+CHLREDRAFT_139619  
+KAS2; 3-ketoacyl-ACP-synthase [KO:K09458] [EC:2.3.1.179]
+CHLREDRAFT_114457  
+3-ketoacyl-CoA-synthase; K09458 3-oxoacyl-[acyl-carrier-protein] synthase II [EC:2.3.1.179] [KO:K09458] [EC:2.3.1.179]
+CHLREDRAFT_123419  
+3-oxoacyl-[acyl-carrier-protein] synthase III; K00648 3-oxoacyl-[acyl-carrier-protein] synthase III [EC:2.3.1.180] [KO:K00648] [EC:2.3.1.180]
+CHLREDRAFT_132065  
+short-chain dehydrogenase/reductase SDR; K00059 3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100] [KO:K00059] [EC:1.1.1.100]
+CHLREDRAFT_114298  
+hypothetical protein; K00059 3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100] [KO:K00059] [EC:1.1.1.100]
+CHLREDRAFT_102512  
+hypothetical protein; K02372 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [EC:4.2.1.59] [KO:K02372] [EC:4.2.1.59]
+CHLREDRAFT_122688  
+enoyl-[acyl-carrier-protein] reductase; K00208 enoyl-[acyl-carrier protein] reductase I [EC:1.3.1.9 1.3.1.10] [KO:K00208] [EC:1.3.1.10 1.3.1.9]
+CHLREDRAFT_196283  
+FAT1; acyl carrier protein thioesterase [KO:K10782] [EC:3.1.2.- 3.1.2.14]
+CHLREDRAFT_205753  
+FAB2; plastid acyl-ACP desaturase [KO:K03921] [EC:1.14.19.2]

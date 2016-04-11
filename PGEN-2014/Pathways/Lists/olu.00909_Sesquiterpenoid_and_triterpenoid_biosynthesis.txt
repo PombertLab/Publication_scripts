@@ -1,0 +1,4 @@
+OSTLU_31144  
+hypothetical protein; K00801 farnesyl-diphosphate farnesyltransferase [EC:2.5.1.21] [KO:K00801] [EC:2.5.1.21]
+OSTLU_88065  
+hypothetical protein; K00511 squalene monooxygenase [EC:1.14.13.132] [KO:K00511] [EC:1.14.13.132]

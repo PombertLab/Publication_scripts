@@ -1,0 +1,104 @@
+CHLREDRAFT_116537  
+casein kinase 2 beta chain; K03115 casein kinase II subunit beta [KO:K03115]
+CHLREDRAFT_190856  
+hypothetical protein; K03097 casein kinase II subunit alpha [EC:2.7.11.1] [KO:K03097] [EC:2.7.11.1]
+CHLREDRAFT_194436  
+casein kinase 2 alpha chain; K03097 casein kinase II subunit alpha [EC:2.7.11.1] [KO:K03097] [EC:2.7.11.1]
+CHLREDRAFT_144312  
+hypothetical protein; K14544 U3 small nucleolar RNA-associated protein 22 [KO:K14544]
+CHLREDRAFT_147090  
+hypothetical protein; K14546 U3 small nucleolar RNA-associated protein 5 [KO:K14546]
+CHLREDRAFT_117285  
+hypothetical protein; K14549 U3 small nucleolar RNA-associated protein 15 [KO:K14549]
+CHLREDRAFT_190833  
+nucleolar protein; K14550 U3 small nucleolar RNA-associated protein 10 [KO:K14550]
+CHLREDRAFT_98108  
+WD40 repeat protein; K14553 U3 small nucleolar RNA-associated protein 18 [KO:K14553]
+CHLREDRAFT_187813  
+hypothetical protein; K14554 U3 small nucleolar RNA-associated protein 21 [KO:K14554]
+CHLREDRAFT_101305  
+hypothetical protein; K14555 U3 small nucleolar RNA-associated protein 13 [KO:K14555]
+CHLREDRAFT_127955  
+hypothetical protein; K14556 U3 small nucleolar RNA-associated protein 12 [KO:K14556]
+CHLREDRAFT_144177  
+hypothetical protein; K14557 U3 small nucleolar RNA-associated protein 6 [KO:K14557]
+CHLREDRAFT_195954  
+UTP1; nucleolar protein, component of the U3 processome [KO:K14558]
+CHLREDRAFT_153629  
+hypothetical protein; K14559 U3 small nucleolar RNA-associated protein MPP10 [KO:K14559]
+CHLREDRAFT_182824  
+RNP3; small nucleolar ribonucleoprotein U3 component [KO:K14560]
+CHLREDRAFT_127225  
+hypothetical protein; K14561 U3 small nucleolar ribonucleoprotein protein IMP4 [KO:K14561]
+CHLREDRAFT_186463  
+NOP1; nucleolar protein, component of C/D snoRNPs [KO:K14563] [EC:2.1.1.-]
+CHLREDRAFT_131406  
+NOP56; nucleolar protein, component of C/D snoRNPs [KO:K14564]
+CHLREDRAFT_127930  
+NOP58; nucleolar protein, component of C/D snoRNPs [KO:K14565]
+CHLREDRAFT_99415  
+CBF5; centromere/microtubule binding protein [KO:K11131] [EC:5.4.99.-]
+CHLREDRAFT_193640  
+NHP2; nucleolar protein, small subunit of H/ACA snoRNPs [KO:K11129]
+CHLREDRAFT_176419  
+NOP10; nucleolar protein, structural component of H/ACA snoRNPs [KO:K11130]
+CHLREDRAFT_118742  
+hypothetical protein; K14566 U3 small nucleolar RNA-associated protein 24 [KO:K14566]
+CHLREDRAFT_176639  
+hypothetical protein; K14567 U3 small nucleolar RNA-associated protein 14 [KO:K14567]
+CHLREDRAFT_178371  
+NEP1; pre-rRNA processing protein [KO:K14568]
+CHLREDRAFT_113591  
+hypothetical protein; K14569 ribosome biogenesis protein BMS1 [KO:K14569]
+CHLREDRAFT_137045  
+hypothetical protein; K14521 N-acetyltransferase 10 [EC:2.3.1.-] [KO:K14521] [EC:2.3.1.-]
+CHLREDRAFT_138936  
+RCL1; RNA terminal 3' phosphate cyclase [KO:K11108]
+CHLREDRAFT_171674  
+hypothetical protein; K03537 ribonuclease P/MRP protein subunit POP5 [EC:3.1.26.5] [KO:K03537] [EC:3.1.26.5]
+CHLREDRAFT_166399  
+hypothetical protein; K03539 ribonuclease P/MRP protein subunit RPP1 [EC:3.1.26.5] [KO:K03539] [EC:3.1.26.5]
+CHLREDRAFT_96755  
+hypothetical protein; K13288 oligoribonuclease [EC:3.1.-.-] [KO:K13288] [EC:3.1.-.-]
+CHLREDRAFT_95232  
+XRN1; single-stranded RNA 5'->3' exonuclease [KO:K12618] [EC:3.1.13.-]
+CHLREDRAFT_134773  
+NGB1; nucleolar GTP-binding protein [KO:K06943]
+CHLREDRAFT_173731  
+NGB2; nucleolar GTP-binding protein [KO:K06943]
+CHLREDRAFT_128793  
+hypothetical protein; K14537 nuclear GTP-binding protein [KO:K14537]
+CHLREDRAFT_116921  
+hypothetical protein; K14538 nuclear GTP-binding protein [KO:K14538]
+CHLREDRAFT_38371  
+hypothetical protein; K14571 ribosome biogenesis ATPase [KO:K14571]
+CHLREDRAFT_169185  
+hypothetical protein; K14572 midasin [KO:K14572]
+CHLREDRAFT_186870  
+hypothetical protein; K14573 nucleolar protein 4 [KO:K14573]
+CHLREDRAFT_128522  
+RAN1; ran-like small GTPase [KO:K07936]
+CHLREDRAFT_138199  
+XPO1; exportin [KO:K14290]
+CHLREDRAFT_194349  
+hypothetical protein; K07562 nonsense-mediated mRNA decay protein 3 [KO:K07562]
+CHLREDRAFT_188065  
+EIF6A; eukaryotic initiation factor [KO:K03264]
+CHLREDRAFT_102075  
+hypothetical protein; K14574 ribosome maturation protein SDO1 [KO:K14574]
+CHLREDRAFT_206017  
+hypothetical protein; K14539 large subunit GTPase 1 [EC:3.6.1.-] [KO:K14539] [EC:3.6.1.-]
+CHLREDRAFT_120247  
+hypothetical protein; K14575 AAA family ATPase [KO:K14575]
+CHLREDRAFT_182007  
+hypothetical protein; K14535 transcription initiation factor TFIID subunit 9 / adenylate kinase [EC:2.7.4.3] [KO:K14535] [EC:2.7.4.3]
+CHLREDRAFT_138512  
+hypothetical protein; K07179 RIO kinase 2 [EC:2.7.11.1] [KO:K07179] [EC:2.7.11.1]
+ChreCr001  
+rrnS; 16S ribosomal RNA [KO:K01979]
+ChreCr010  
+rrnS; 16S ribosomal RNA [KO:K01979]
+ChreCr004  
+rrnL; 23S ribosomal RNA [KO:K01982]
+ChreCr007  
+rrnL; 23S ribosomal RNA [KO:K01982]

@@ -1,0 +1,8 @@
+CHLREDRAFT_138180  
+ALSL1; acetolactate synthase, large subunit [KO:K01652] [EC:2.2.1.6]
+CHLREDRAFT_5137  
+ALSS1; acetolactate synthase, small subunit [KO:K01653] [EC:2.2.1.6]
+CHLREDRAFT_132888  
+LEU1L; isopropylmalate dehydratase, large subunit [KO:K01703] [EC:4.2.1.35 4.2.1.33]
+CHLREDRAFT_126865  
+LEU1S; isopropylmalate dehydratase, small subunit [KO:K01704] [EC:4.2.1.35 4.2.1.33]

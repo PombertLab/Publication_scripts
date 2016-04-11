@@ -1,0 +1,52 @@
+OSTLU_13673  
+hypothetical protein; K03010 DNA-directed RNA polymerase II subunit RPB2 [EC:2.7.7.6] [KO:K03010] [EC:2.7.7.6]
+OSTLU_26100  
+hypothetical protein; K03006 DNA-directed RNA polymerase II subunit RPB1 [EC:2.7.7.6] [KO:K03006] [EC:2.7.7.6]
+OSTLU_119616  
+Rpb3; DNA-directed RNA polymerase II subunit 3 [KO:K03011]
+OSTLU_35735  
+hypothetical protein; K03008 DNA-directed RNA polymerase II subunit RPB11 [KO:K03008]
+OSTLU_29798  
+hypothetical protein; K03012 DNA-directed RNA polymerase II subunit RPB4 [KO:K03012]
+OSTLU_93190  
+hypothetical protein; K03012 DNA-directed RNA polymerase II subunit RPB4 [KO:K03012]
+OSTLU_37948  
+hypothetical protein; K03015 DNA-directed RNA polymerase II subunit RPB7 [KO:K03015]
+OSTLU_26149  
+hypothetical protein; K03015 DNA-directed RNA polymerase II subunit RPB7 [KO:K03015]
+OSTLU_119611  
+Rpb9; DNA-directed RNA polymerase II subunit 9, probable [KO:K03017]
+OSTLU_36865  
+hypothetical protein; K03013 DNA-directed RNA polymerases I, II, and III subunit RPABC1 [KO:K03013]
+OSTLU_8797  
+hypothetical protein; K03014 DNA-directed RNA polymerases I, II, and III subunit RPABC2 [KO:K03014]
+OSTLU_12967  
+hypothetical protein; K03016 DNA-directed RNA polymerases I, II, and III subunit RPABC3 [KO:K03016]
+OSTLU_119610  
+Rpc10; RPC10 subunit of RNA polymerases I, II, and III, probable [KO:K03009]
+OSTLU_88539  
+hypothetical protein; K03007 DNA-directed RNA polymerases I, II, and III subunit RPABC5 [KO:K03007]
+OSTLU_39835  
+hypothetical protein; K03021 DNA-directed RNA polymerase III subunit RPC2 [EC:2.7.7.6] [KO:K03021] [EC:2.7.7.6]
+OSTLU_24022  
+hypothetical protein; K03018 DNA-directed RNA polymerase III subunit RPC1 [EC:2.7.7.6] [KO:K03018] [EC:2.7.7.6]
+OSTLU_30435  
+hypothetical protein; K03020 DNA-directed RNA polymerases I and III subunit RPAC2 [KO:K03020]
+OSTLU_35770  
+hypothetical protein; K03027 DNA-directed RNA polymerases I and III subunit RPAC1 [KO:K03027]
+OSTLU_28831  
+hypothetical protein; K14721 DNA-directed RNA polymerase III subunit RPC5 [KO:K14721]
+OSTLU_34016  
+hypothetical protein; K03019 DNA-directed RNA polymerase III subunit RPC10 [KO:K03019]
+OSTLU_15619  
+hypothetical protein; K03022 DNA-directed RNA polymerase III subunit RPC8 [KO:K03022]
+OSTLU_42021  
+hypothetical protein; K03025 DNA-directed RNA polymerase III subunit RPC6 [KO:K03025]
+OSTLU_119522  
+Acr2; DNA-directed RNA polymerase I polypeptide 2 [KO:K03002] [EC:2.7.7.6]
+OSTLU_43496  
+hypothetical protein; K02999 DNA-directed RNA polymerase I subunit RPA1 [EC:2.7.7.6] [KO:K02999] [EC:2.7.7.6]
+OSTLU_14772  
+hypothetical protein; K03000 DNA-directed RNA polymerase I subunit RPA12 [KO:K03000]
+OSTLU_25861  
+hypothetical protein; K03004 DNA-directed RNA polymerase I subunit RPA43 [KO:K03004]

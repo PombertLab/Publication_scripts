@@ -1,0 +1,18 @@
+CHLREDRAFT_139676  
+GTR18; glycosyl transferase [KO:K03857] [EC:2.4.1.198]
+CHLREDRAFT_141736  
+hypothetical protein; K03859 phosphatidylinositol glycan, class C [KO:K03859]
+CHLREDRAFT_168820  
+inositol acyltransferase; K05283 phosphatidylinositol glycan, class W [EC:2.3.-.-] [KO:K05283] [EC:2.3.-.-]
+CHLREDRAFT_121145  
+GTR14; glycosyl transferase [KO:K05284] [EC:2.4.1.-]
+CHLREDRAFT_142782  
+hypothetical protein; K07542 phosphatidylinositol glycan, class V [EC:2.4.1.-] [KO:K07542] [EC:2.4.1.-]
+CHLREDRAFT_186686  
+hypothetical protein; K05288 phosphatidylinositol glycan, class O [KO:K05288]
+CHLREDRAFT_150416  
+hypothetical protein; K05290 phosphatidylinositol glycan, class K [EC:2.6.-.-] [KO:K05290] [EC:2.6.-.-]
+CHLREDRAFT_188365  
+GPIT1; glycosyl phosphatidyl inositol transamidase subunit [KO:K05292]
+CHLREDRAFT_184581  
+LRG5; hypothetical protein [KO:K05293]

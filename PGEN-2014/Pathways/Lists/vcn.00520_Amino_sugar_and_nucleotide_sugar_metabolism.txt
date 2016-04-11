@@ -1,0 +1,52 @@
+VOLCADRAFT_82053  
+hypothetical protein; K01836 phosphoacetylglucosamine mutase [EC:5.4.2.3] [KO:K01836] [EC:5.4.2.3]
+VOLCADRAFT_117497  
+hypothetical protein; K00972 UDP-N-acetylglucosamine pyrophosphorylase [EC:2.7.7.23] [KO:K00972] [EC:2.7.7.23]
+VOLCADRAFT_74532  
+cbr1; NADH-cytochrome b5 reductase [KO:K00326] [EC:1.6.2.2]
+VOLCADRAFT_107549  
+hypothetical protein; K00326 cytochrome-b5 reductase [EC:1.6.2.2] [KO:K00326] [EC:1.6.2.2]
+VOLCADRAFT_67129  
+hxk1; hexokinase [KO:K00844] [EC:2.7.1.1]
+VOLCADRAFT_47170  
+hypothetical protein; K00621 glucosamine-phosphate N-acetyltransferase [EC:2.3.1.4] [KO:K00621] [EC:2.3.1.4]
+VOLCADRAFT_105759  
+hypothetical protein; K00820 glucosamine--fructose-6-phosphate aminotransferase (isomerizing) [EC:2.6.1.16] [KO:K00820] [EC:2.6.1.16]
+VOLCADRAFT_120799  
+hypothetical protein; K12447 UDP-sugar pyrophosphorylase [EC:2.7.7.64] [KO:K12447] [EC:2.7.7.64]
+VOLCADRAFT_87343  
+hypothetical protein; K12448 UDP-arabinose 4-epimerase [EC:5.1.3.5] [KO:K12448] [EC:5.1.3.5]
+VOLCADRAFT_103185  
+hypothetical protein; K01810 glucose-6-phosphate isomerase [EC:5.3.1.9] [KO:K01810] [EC:5.3.1.9]
+VOLCADRAFT_78928  
+hypothetical protein; K01835 phosphoglucomutase [EC:5.4.2.2] [KO:K01835] [EC:5.4.2.2]
+VOLCADRAFT_105295  
+hypothetical protein; K00963 UTP--glucose-1-phosphate uridylyltransferase [EC:2.7.7.9] [KO:K00963] [EC:2.7.7.9]
+VOLCADRAFT_82358  
+hypothetical protein; K12450 UDP-glucose 4,6-dehydratase [EC:4.2.1.76] [KO:K12450] [EC:4.2.1.76]
+VOLCADRAFT_76853  
+hypothetical protein; K12451 3,5-epimerase/4-reductase [EC:5.1.3.- 1.1.1.-] [KO:K12451] [EC:1.1.1.- 5.1.3.-]
+VOLCADRAFT_107492  
+hypothetical protein; K00012 UDPglucose 6-dehydrogenase [EC:1.1.1.22] [KO:K00012] [EC:1.1.1.22]
+VOLCADRAFT_72551  
+hypothetical protein; K00012 UDPglucose 6-dehydrogenase [EC:1.1.1.22] [KO:K00012] [EC:1.1.1.22]
+VOLCADRAFT_109932  
+hypothetical protein; K06118 UDP-sulfoquinovose synthase [EC:3.13.1.1] [KO:K06118] [EC:3.13.1.1]
+VOLCADRAFT_98854  
+hypothetical protein; K00849 galactokinase [EC:2.7.1.6] [KO:K00849] [EC:2.7.1.6]
+VOLCADRAFT_77596  
+hypothetical protein; K01784 UDP-glucose 4-epimerase [EC:5.1.3.2] [KO:K01784] [EC:5.1.3.2]
+VOLCADRAFT_127350  
+NAD-dependent epimerase/dehydratase; K08679 UDP-glucuronate 4-epimerase [EC:5.1.3.6] [KO:K08679] [EC:5.1.3.6]
+VOLCADRAFT_109528  
+hypothetical protein; K01840 phosphomannomutase [EC:5.4.2.8] [KO:K01840] [EC:5.4.2.8]
+VOLCADRAFT_81984  
+hypothetical protein; K00966 mannose-1-phosphate guanylyltransferase [EC:2.7.7.13] [KO:K00966] [EC:2.7.7.13]
+VOLCADRAFT_65163  
+hypothetical protein; K01809 mannose-6-phosphate isomerase [EC:5.3.1.8] [KO:K01809] [EC:5.3.1.8]
+VOLCADRAFT_77112  
+hypothetical protein; K10046 GDP-D-mannose 3', 5'-epimerase [EC:5.1.3.18 5.1.3.-] [KO:K10046] [EC:5.1.3.- 5.1.3.18]
+VOLCADRAFT_76956  
+hypothetical protein; K00975 glucose-1-phosphate adenylyltransferase [EC:2.7.7.27] [KO:K00975] [EC:2.7.7.27]
+VOLCADRAFT_75183  
+hypothetical protein; K00975 glucose-1-phosphate adenylyltransferase [EC:2.7.7.27] [KO:K00975] [EC:2.7.7.27]

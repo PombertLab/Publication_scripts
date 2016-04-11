@@ -1,0 +1,60 @@
+CHLREDRAFT_205985  
+SAT1a; serine acetyl transferase [KO:K00640] [EC:2.3.1.30]
+CHLREDRAFT_205984  
+SAT2; serine O-acetyl transferase [KO:K00640] [EC:2.3.1.30]
+CHLREDRAFT_189320  
+OASTL4; cysteine synthase [KO:K01738] [EC:2.5.1.47]
+CHLREDRAFT_196485  
+OASTL2; cysteine synthase [KO:K01738] [EC:2.5.1.47]
+CHLREDRAFT_196886  
+OASTL3; cysteine synthase [KO:K01738] [EC:2.5.1.47]
+CHLREDRAFT_175651  
+OASTL1; cysteine synthase [KO:K01738] [EC:2.5.1.47]
+CHLREDRAFT_196483  
+METC; cystathionine beta-lyase [KO:K01760] [EC:4.4.1.8]
+CHLREDRAFT_76715  
+METH1; cobalamin-dependent methionine synthase [KO:K00548] [EC:2.1.1.13]
+CHLREDRAFT_182408  
+METM; S-Adenosylmethionine synthetase [KO:K00789] [EC:2.5.1.6]
+CHLREDRAFT_183928  
+DCA1; S-adenosylmethionine decarboxylase [KO:K01611] [EC:4.1.1.50]
+CHLREDRAFT_206050  
+SPD1; spermidine synthase [KO:K00797] [EC:2.5.1.16]
+CHLREDRAFT_206069  
+SPS1; spermine synthase [KO:K00797] [EC:2.5.1.16]
+CHLREDRAFT_135128  
+5'-methylthioadenosine nucleosidase; K01244 5'-methylthioadenosine nucleosidase [EC:3.2.2.16] [KO:K01244] [EC:3.2.2.16]
+CHLREDRAFT_118729  
+5-methyl thioribose kinase-related protein; K00899 5-methylthioribose kinase [EC:2.7.1.100] [KO:K00899] [EC:2.7.1.100]
+CHLREDRAFT_149134  
+eukaryotic initiation factor; K08963 methylthioribose-1-phosphate isomerase [EC:5.3.1.23] [KO:K08963] [EC:5.3.1.23]
+CHLREDRAFT_137265  
+ARD1; aci-reductone dioxygenase [KO:K08967] [EC:1.13.11.54 1.13.11.53]
+CHLREDRAFT_15852  
+cytosine-C5 specific DNA methyltransferase; K00558 DNA (cytosine-5-)-methyltransferase [EC:2.1.1.37] [KO:K00558] [EC:2.1.1.37]
+CHLREDRAFT_112308  
+DMT1; cytosine-C5 specific DNA methyltransferase [KO:K00558] [EC:2.1.1.37]
+CHLREDRAFT_205478  
+cytosine-C5 specific DNA methyltransferase; K00558 DNA (cytosine-5-)-methyltransferase [EC:2.1.1.37] [KO:K00558] [EC:2.1.1.37]
+CHLREDRAFT_8793  
+cytosine-C5 specific DNA methyltransferase; K00558 DNA (cytosine-5-)-methyltransferase [EC:2.1.1.37] [KO:K00558] [EC:2.1.1.37]
+CHLREDRAFT_129593  
+SAH1; S-Adenosyl homocysteine hydrolase [KO:K01251] [EC:3.3.1.1]
+CHLREDRAFT_161455  
+ASK1; aspartate kinase [KO:K00928] [EC:2.7.2.4]
+CHLREDRAFT_196925  
+AHD1; bifunctional aspartate kinase/homoserine dehydrogenase [KO:K12524] [EC:1.1.1.3 2.7.2.4]
+CHLREDRAFT_148810  
+ASSD1; aspartate semialdehyde dehydrogenase [KO:K00133] [EC:1.2.1.11]
+CHLREDRAFT_24268  
+CGS1; cystathionine gamma-synthase [KO:K01739] [EC:2.5.1.48]
+CHLREDRAFT_143892  
+CDO1; cysteine dioxygenase [KO:K00456] [EC:1.13.11.20]
+CHLREDRAFT_174097  
+AST1; aspartate aminotransferase [KO:K14454] [EC:2.6.1.1]
+CHLREDRAFT_126943  
+AST4; aspartate aminotransferase [KO:K14455] [EC:2.6.1.1]
+CHLREDRAFT_186959  
+AST3; aspartate aminotransferase [KO:K00811] [EC:2.6.1.1]
+CHLREDRAFT_132010  
+TST; thiosulfate sulfurtransferase [KO:K01011] [EC:2.8.1.2 2.8.1.1]

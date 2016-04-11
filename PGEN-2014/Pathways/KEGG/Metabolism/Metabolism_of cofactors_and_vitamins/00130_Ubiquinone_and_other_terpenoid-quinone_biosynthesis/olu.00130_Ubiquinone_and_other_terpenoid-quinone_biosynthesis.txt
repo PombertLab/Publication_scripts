@@ -1,0 +1,28 @@
+OSTLU_3820  
+hypothetical protein; K00815 tyrosine aminotransferase [EC:2.6.1.5] [KO:K00815] [EC:2.6.1.5]
+OSTLU_12765  
+hypothetical protein; K03183 ubiquinone/menaquinone biosynthesis methyltransferase [EC:2.1.1.163 2.1.1.201] [KO:K03183] [EC:2.1.1.201 2.1.1.163]
+OSTLU_43450  
+hypothetical protein; K06125 4-hydroxybenzoate hexaprenyltransferase [EC:2.5.1.-] [KO:K06125] [EC:2.5.1.-]
+OSTLU_88383  
+hypothetical protein; K06126 ubiquinone biosynthesis monooxygenase Coq6 [EC:1.14.13.-] [KO:K06126] [EC:1.14.13.-]
+OSTLU_39585  
+hypothetical protein; K06127 ubiquinone biosynthesis methyltransferase [EC:2.1.1.201] [KO:K06127] [EC:2.1.1.201]
+OSTLU_37751  
+hypothetical protein; K02552 menaquinone-specific isochorismate synthase [EC:5.4.4.2] [KO:K02552] [EC:5.4.4.2]
+OSTLU_40076  
+hypothetical protein; K01661 naphthoate synthase [EC:4.1.3.36] [KO:K01661] [EC:4.1.3.36]
+OSTLU_6184  
+hypothetical protein; K02548 1,4-dihydroxy-2-naphthoate octaprenyltransferase [EC:2.5.1.74 2.5.1.-] [KO:K02548] [EC:2.5.1.- 2.5.1.74]
+OSTLU_45212  
+hypothetical protein; K00457 4-hydroxyphenylpyruvate dioxygenase [EC:1.13.11.27] [KO:K00457] [EC:1.13.11.27]
+OSTLU_32069  
+hypothetical protein; K12501 homogentisate solanesyltransferase [KO:K12501]
+OSTLU_31099  
+hypothetical protein; K12501 homogentisate solanesyltransferase [KO:K12501]
+OSTLU_119481  
+Hpt1; homogentisate phytylprenyltransferase/homogentisic acid geranylgeranyl transferase [KO:K09833]
+OSTLU_39591  
+hypothetical protein; K09834 tocopherol cyclase [KO:K09834]
+OSTLU_40586  
+hypothetical protein; K05928 tocopherol O-methyltransferase [EC:2.1.1.95] [KO:K05928] [EC:2.1.1.95]

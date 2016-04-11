@@ -1,0 +1,118 @@
+OSTLU_44941  
+hypothetical protein; K03115 casein kinase II subunit beta [KO:K03115]
+OSTLU_13142  
+hypothetical protein; K03097 casein kinase II subunit alpha [EC:2.7.11.1] [KO:K03097] [EC:2.7.11.1]
+OSTLU_16259  
+hypothetical protein; K14544 U3 small nucleolar RNA-associated protein 22 [KO:K14544]
+OSTLU_18243  
+hypothetical protein; K14545 ribosomal RNA-processing protein 7 [KO:K14545]
+OSTLU_93153  
+hypothetical protein; K14546 U3 small nucleolar RNA-associated protein 5 [KO:K14546]
+OSTLU_31328  
+hypothetical protein; K14548 U3 small nucleolar RNA-associated protein 4 [KO:K14548]
+OSTLU_2239  
+hypothetical protein; K14549 U3 small nucleolar RNA-associated protein 15 [KO:K14549]
+OSTLU_30316  
+hypothetical protein; K14552 NET1-associated nuclear protein 1 (U3 small nucleolar RNA-associated protein 17) [KO:K14552]
+OSTLU_119571  
+Wdr50; WD-repeat protein [KO:K14553]
+OSTLU_37792  
+hypothetical protein; K14554 U3 small nucleolar RNA-associated protein 21 [KO:K14554]
+OSTLU_42847  
+hypothetical protein; K14555 U3 small nucleolar RNA-associated protein 13 [KO:K14555]
+OSTLU_311  
+hypothetical protein; K14556 U3 small nucleolar RNA-associated protein 12 [KO:K14556]
+OSTLU_119550  
+Utp6; U3 snoRNP protein Utp6p [KO:K14557]
+OSTLU_8348  
+hypothetical protein; K14558 periodic tryptophan protein 2 [KO:K14558]
+OSTLU_31612  
+hypothetical protein; K14559 U3 small nucleolar RNA-associated protein MPP10 [KO:K14559]
+OSTLU_29359  
+hypothetical protein; K14560 U3 small nucleolar ribonucleoprotein protein IMP3 [KO:K14560]
+OSTLU_29310  
+hypothetical protein; K14561 U3 small nucleolar ribonucleoprotein protein IMP4 [KO:K14561]
+OSTLU_32524  
+hypothetical protein; K14563 rRNA 2'-O-methyltransferase fibrillarin [EC:2.1.1.-] [KO:K14563] [EC:2.1.1.-]
+OSTLU_50302  
+hypothetical protein; K14564 nucleolar protein 56 [KO:K14564]
+OSTLU_30396  
+hypothetical protein; K14565 nucleolar protein 58 [KO:K14565]
+OSTLU_41236  
+hypothetical protein; K12845 U4/U6 small nuclear ribonucleoprotein SNU13 [KO:K12845]
+OSTLU_30197  
+hypothetical protein; K11131 H/ACA ribonucleoprotein complex subunit 4 [EC:5.4.99.-] [KO:K11131] [EC:5.4.99.-]
+OSTLU_17769  
+hypothetical protein; K11129 H/ACA ribonucleoprotein complex subunit 2 [KO:K11129]
+OSTLU_31537  
+hypothetical protein; K11130 H/ACA ribonucleoprotein complex subunit 3 [KO:K11130]
+OSTLU_15766  
+hypothetical protein; K14566 U3 small nucleolar RNA-associated protein 24 [KO:K14566]
+OSTLU_31001  
+hypothetical protein; K14567 U3 small nucleolar RNA-associated protein 14 [KO:K14567]
+OSTLU_39810  
+hypothetical protein; K14568 essential for mitotic growth 1 [KO:K14568]
+OSTLU_39301  
+hypothetical protein; K14569 ribosome biogenesis protein BMS1 [KO:K14569]
+OSTLU_38443  
+hypothetical protein; K14521 N-acetyltransferase 10 [EC:2.3.1.-] [KO:K14521] [EC:2.3.1.-]
+OSTLU_35655  
+hypothetical protein; K11108 RNA 3'-terminal phosphate cyclase-like protein [KO:K11108]
+OSTLU_30614  
+hypothetical protein; K01164 ribonuclease P/MRP protein subunit POP1 [EC:3.1.26.5] [KO:K01164] [EC:3.1.26.5]
+OSTLU_93614  
+hypothetical protein; K03538 ribonuclease P protein subunit POP4 [EC:3.1.26.5] [KO:K03538] [EC:3.1.26.5]
+OSTLU_94165  
+hypothetical protein; K03538 ribonuclease P protein subunit POP4 [EC:3.1.26.5] [KO:K03538] [EC:3.1.26.5]
+OSTLU_31306  
+hypothetical protein; K03537 ribonuclease P/MRP protein subunit POP5 [EC:3.1.26.5] [KO:K03537] [EC:3.1.26.5]
+OSTLU_26376  
+hypothetical protein; K03539 ribonuclease P/MRP protein subunit RPP1 [EC:3.1.26.5] [KO:K03539] [EC:3.1.26.5]
+OSTLU_40875  
+hypothetical protein; K14570 RNA exonuclease 1 [EC:3.1.-.-] [KO:K14570] [EC:3.1.-.-]
+OSTLU_33043  
+hypothetical protein; K14570 RNA exonuclease 1 [EC:3.1.-.-] [KO:K14570] [EC:3.1.-.-]
+OSTLU_87987  
+hypothetical protein; K14570 RNA exonuclease 1 [EC:3.1.-.-] [KO:K14570] [EC:3.1.-.-]
+OSTLU_41082  
+hypothetical protein; K12618 5'-3' exoribonuclease 1 [EC:3.1.13.-] [KO:K12618] [EC:3.1.13.-]
+OSTLU_18607  
+hypothetical protein; K12618 5'-3' exoribonuclease 1 [EC:3.1.13.-] [KO:K12618] [EC:3.1.13.-]
+OSTLU_526  
+hypothetical protein; K12619 5'-3' exoribonuclease 2 [EC:3.1.13.-] [KO:K12619] [EC:3.1.13.-]
+OSTLU_35887  
+hypothetical protein; K06943 nucleolar GTP-binding protein [KO:K06943]
+OSTLU_3188  
+hypothetical protein; K06943 nucleolar GTP-binding protein [KO:K06943]
+OSTLU_42327  
+hypothetical protein; K14537 nuclear GTP-binding protein [KO:K14537]
+OSTLU_34264  
+hypothetical protein; K14538 nuclear GTP-binding protein [KO:K14538]
+OSTLU_37691  
+hypothetical protein; K14571 ribosome biogenesis ATPase [KO:K14571]
+OSTLU_40957  
+hypothetical protein; K14572 midasin [KO:K14572]
+OSTLU_26255  
+hypothetical protein; K14573 nucleolar protein 4 [KO:K14573]
+OSTLU_41444  
+hypothetical protein; K11883 RNA-binding protein NOB1 [KO:K11883]
+OSTLU_41856  
+hypothetical protein; K07936 GTP-binding nuclear protein Ran [KO:K07936]
+OSTLU_29941  
+hypothetical protein; K14290 exportin-1 [KO:K14290]
+OSTLU_3943  
+hypothetical protein; K07562 nonsense-mediated mRNA decay protein 3 [KO:K07562]
+OSTLU_119613  
+Eif6; eukaryotic translation initiation factor 6 [KO:K03264]
+OSTLU_5118  
+hypothetical protein; K14574 ribosome maturation protein SDO1 [KO:K14574]
+OSTLU_438  
+hypothetical protein; K14536 ribosome assembly protein 1 [EC:3.6.5.-] [KO:K14536] [EC:3.6.5.-]
+OSTLU_2179  
+hypothetical protein; K14539 large subunit GTPase 1 [EC:3.6.1.-] [KO:K14539] [EC:3.6.1.-]
+OSTLU_8345  
+hypothetical protein; K14535 transcription initiation factor TFIID subunit 9 / adenylate kinase [EC:2.7.4.3] [KO:K14535] [EC:2.7.4.3]
+OSTLU_2858  
+hypothetical protein; K07178 RIO kinase 1 [EC:2.7.11.1] [KO:K07178] [EC:2.7.11.1]
+OSTLU_40859  
+hypothetical protein; K07179 RIO kinase 2 [EC:2.7.11.1] [KO:K07179] [EC:2.7.11.1]

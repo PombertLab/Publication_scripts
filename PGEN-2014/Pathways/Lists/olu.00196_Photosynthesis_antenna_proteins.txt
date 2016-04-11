@@ -1,0 +1,12 @@
+OSTLU_33699  
+lhca2; chlorophyll a/b binding, possibly photosystem I light harvesting complex [KO:K08908]
+OSTLU_47897  
+lhca3; photosystem I light harvesting complex, chlorophyll a/b binding [KO:K08909]
+OSTLU_24045  
+lhca4; Photosystem I light harvesting complex, chlorophyll a/b binding [KO:K08910]
+OSTLU_31850  
+lhca5; chlorophyll a/b binding, possibly photosystem I light harvesting complex [KO:K08911]
+OSTLU_27891  
+lhcb4; possibly CP29, chlorophyll a/b binding [KO:K08915]
+OSTLU_29411  
+lhcb5; putative CP26, photosystem II light harvesting complex [KO:K08916]

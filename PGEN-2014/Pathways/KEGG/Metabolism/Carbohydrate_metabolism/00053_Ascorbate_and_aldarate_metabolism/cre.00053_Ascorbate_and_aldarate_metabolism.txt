@@ -1,0 +1,26 @@
+CHLREDRAFT_185081  
+UGD2; UDP-glucose dehydrogenase [KO:K00012] [EC:1.1.1.22]
+CHLREDRAFT_205498  
+UGD1; UDP-glucose dehydrogenase [KO:K00012] [EC:1.1.1.22]
+CHLREDRAFT_32796  
+UAP2; UDP-N-acetylglucosamine-pyrophosphorylase [KO:K12447] [EC:2.7.7.64]
+CHLREDRAFT_141779  
+hypothetical protein; K16190 glucuronokinase [EC:2.7.1.43] [KO:K16190] [EC:2.7.1.43]
+CHLREDRAFT_116415  
+hypothetical protein; K00469 inositol oxygenase [EC:1.13.99.1] [KO:K00469] [EC:1.13.99.1]
+CHLREDRAFT_196952  
+SNE1; sugar nucleotide epimerase [KO:K10046] [EC:5.1.3.- 5.1.3.18]
+CHLREDRAFT_113717  
+hypothetical protein; K14190 GDP-L-galactose phosphorylase [EC:2.7.7.69] [KO:K14190] [EC:2.7.7.69]
+CHLREDRAFT_120462  
+L-galactose-1-phosphate phosphatase; K10047 inositol-phosphate phosphatase / L-galactose 1-phosphate phosphatase [EC:3.1.3.25 3.1.3.-] [KO:K10047] [EC:3.1.3.- 3.1.3.25]
+CHLREDRAFT_139735  
+MDAR1; monodehydroascorbate reductase [KO:K08232] [EC:1.6.5.4]
+CHLREDRAFT_186597  
+APX1; ascorbate peroxidase [KO:K00434] [EC:1.11.1.11]
+CHLREDRAFT_165193  
+L-ascorbate peroxidase; K00434 L-ascorbate peroxidase [EC:1.11.1.11] [KO:K00434] [EC:1.11.1.11]
+CHLREDRAFT_205910  
+APX2; L-ascorbate peroxidase [KO:K00434] [EC:1.11.1.11]
+CHLREDRAFT_135609  
+aldehyde dehydrogenase; K00128 aldehyde dehydrogenase (NAD+) [EC:1.2.1.3] [KO:K00128] [EC:1.2.1.3]

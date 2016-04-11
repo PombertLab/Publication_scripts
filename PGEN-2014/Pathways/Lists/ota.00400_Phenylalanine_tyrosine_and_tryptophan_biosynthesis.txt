@@ -1,0 +1,36 @@
+Ot06g03510  
+Phospho-2-dehydro-3-deoxyheptonate aldolase 1; K01626 3-deoxy-7-phosphoheptulonate synthase [EC:2.5.1.54] [KO:K01626] [EC:2.5.1.54]
+Ot05g01830  
+dehydroquinate synthase (ISS); K01735 3-dehydroquinate synthase [EC:4.2.3.4] [KO:K01735] [EC:4.2.3.4]
+Ot12g02660  
+putative dehydroquinate dehydratase (ISS); K13832 3-dehydroquinate dehydratase / shikimate dehydrogenase [EC:4.2.1.10 1.1.1.25] [KO:K13832] [EC:1.1.1.25 4.2.1.10]
+Ot14g03180  
+AROK_SYNY3 Shikimate kinase (ISS); K00891 shikimate kinase [EC:2.7.1.71] [KO:K00891] [EC:2.7.1.71]
+Ot14g02430  
+5-enolpyruvylshikimate-3-phosphate (ISS); K00800 3-phosphoshikimate 1-carboxyvinyltransferase [EC:2.5.1.19] [KO:K00800] [EC:2.5.1.19]
+Ot02g06020  
+chorismate synthase (ISS); K01736 chorismate synthase [EC:4.2.3.5] [KO:K01736] [EC:4.2.3.5]
+Ot07g00990  
+anthranilate synthase alpha subunit (ISS); K01657 anthranilate synthase component I [EC:4.1.3.27] [KO:K01657] [EC:4.1.3.27]
+Ot10g02500  
+B1358B12.20 [Oryza sativa (ISS); K01658 anthranilate synthase component II [EC:4.1.3.27] [KO:K01658] [EC:4.1.3.27]
+Ot06g01890  
+phosphoribosylanthranilate transferase (ISS); K00766 anthranilate phosphoribosyltransferase [EC:2.4.2.18] [KO:K00766] [EC:2.4.2.18]
+Ot11g03290  
+phosphoribosylanthranilate isomerase (ISS); K01817 phosphoribosylanthranilate isomerase [EC:5.3.1.24] [KO:K01817] [EC:5.3.1.24]
+Ot02g05010  
+Anthranilate synthase component II (ISS); K01609 indole-3-glycerol phosphate synthase [EC:4.1.1.48] [KO:K01609] [EC:4.1.1.48]
+Ot04g00330  
+putative indole-3-glycerol phosphate lyase (ISS); K01695 tryptophan synthase alpha chain [EC:4.2.1.20] [KO:K01695] [EC:4.2.1.20]
+Ot07g02680  
+tryptophan synthase beta-subunit (ISS); K01696 tryptophan synthase beta chain [EC:4.2.1.20] [KO:K01696] [EC:4.2.1.20]
+Ot02g03650  
+ardH; Ardh (IC) [KO:K15227] [EC:1.3.1.78]
+Ot01g01250  
+putative P-protein (ISS); K05359 arogenate/prephenate dehydratase [EC:4.2.1.91 4.2.1.51] [KO:K05359] [EC:4.2.1.51 4.2.1.91]
+Ot05g01290  
+AAT; Aspartate aminotransferase, likely mitochondrial [Precursor] (IC) [KO:K14455] [EC:2.6.1.1]
+Ot16g00690  
+putative aspartate aminotransferase (ISS); K15849 bifunctional aspartate aminotransferase and glutamate/aspartate-prephenate aminotransferase [EC:2.6.1.1 2.6.1.78 2.6.1.79] [KO:K15849] [EC:2.6.1.79 2.6.1.78 2.6.1.1]
+Ot01g04390  
+LOC443707 protein (ISS); K00815 tyrosine aminotransferase [EC:2.6.1.5] [KO:K00815] [EC:2.6.1.5]

@@ -1,0 +1,38 @@
+CHLREDRAFT_146253  
+hypothetical protein; K07456 DNA mismatch repair protein MutS2 [KO:K07456]
+CHLREDRAFT_101121  
+hypothetical protein; K10858 DNA mismatch repair protein PMS2 [KO:K10858]
+CHLREDRAFT_146633  
+MLH1; mismatch repair protein [KO:K08734]
+CHLREDRAFT_150793  
+RFC1; DNA replication factor C complex subunit 1 [KO:K10754]
+CHLREDRAFT_185418  
+RFC2; DNA replication factor C complex subunit 2 [KO:K10755]
+CHLREDRAFT_195837  
+RFC4; DNA replication factor C complex subunit 4 [KO:K10755]
+CHLREDRAFT_137896  
+RFC3; DNA replication factor C complex subunit 3 [KO:K10756]
+CHLREDRAFT_519  
+RFC5; DNA replication factor C complex subunit 5 [KO:K10756]
+CHLREDRAFT_140580  
+PCN1; PCNA proliferating cell nuclear antigen [KO:K04802]
+CHLREDRAFT_122732  
+hypothetical protein; K10746 exonuclease 1 [EC:3.1.-.-] [KO:K10746] [EC:3.1.-.-]
+CHLREDRAFT_123566  
+RPA70A; replication protein A, 70 kDa DNA-binding subunit [KO:K07466]
+CHLREDRAFT_205634  
+RPA70B; replication protein A, 70 kDa DNA-binding subunit [KO:K07466]
+CHLREDRAFT_79613  
+hypothetical protein; K07466 replication factor A1 [KO:K07466]
+CHLREDRAFT_186935  
+RPA30; replication protein A 30 kDa subunit [KO:K10739]
+CHLREDRAFT_189721  
+POLD1; DNA polymerase delta subunit one [KO:K02327] [EC:2.7.7.7]
+CHLREDRAFT_103391  
+POLD2; DNA polymerase delta small subunit [KO:K02328]
+CHLREDRAFT_190579  
+hypothetical protein; K03504 DNA polymerase delta subunit 3 [KO:K03504]
+CHLREDRAFT_185774  
+hypothetical protein; K03505 DNA polymerase delta subunit 4 [KO:K03505]
+CHLREDRAFT_133143  
+LIG1; DNA ligase [KO:K10747] [EC:6.5.1.1]

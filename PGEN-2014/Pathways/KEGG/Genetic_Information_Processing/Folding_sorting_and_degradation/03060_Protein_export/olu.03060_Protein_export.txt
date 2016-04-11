@@ -1,0 +1,50 @@
+OSTLU_26881  
+hypothetical protein; K03075 preprotein translocase subunit SecG [KO:K03075]
+OSTLU_40894  
+Oxa1 family transporter: 60 KD inner membrane protein OxaA-like protein; K03217 preprotein translocase subunit YidC [KO:K03217]
+OSTLU_3334  
+Oxa1 family transporter: 60 KD inner membrane protein OxaA-like protein; K03217 preprotein translocase subunit YidC [KO:K03217]
+OSTLU_49779  
+hypothetical protein; K03070 preprotein translocase subunit SecA [KO:K03070]
+OSTLU_36933  
+hypothetical protein; K03070 preprotein translocase subunit SecA [KO:K03070]
+OSTLU_26018  
+IISP family transporter: Signal recognition particle 54 kDa protein (SRP54); K03106 signal recognition particle subunit SRP54 [KO:K03106]
+OSTLU_39979  
+IISP family transporter: signal recognition particle protein (SRP54); K03106 signal recognition particle subunit SRP54 [KO:K03106]
+OSTLU_4604  
+IISP family transporter: SRP receptor alpha-chain-like protein FtsY; K03110 fused signal recognition particle receptor [KO:K03110]
+OSTLU_27583  
+IISP family transporter: protein transport protein Sec61 alpha subunit; K10956 protein transport protein SEC61 subunit alpha [KO:K10956]
+OSTLU_29044  
+hypothetical protein; K09481 protein transport protein SEC61 subunit beta [KO:K09481]
+OSTLU_27333  
+hypothetical protein; K07342 protein transport protein SEC61 subunit gamma and related proteins [KO:K07342]
+OSTLU_87529  
+NSCC2 family transporter: translocation proteinSec62; K12275 translocation protein SEC62 [KO:K12275]
+OSTLU_33834  
+IISP family transporter: Translocation protein SEC63-like protein; K09540 translocation protein SEC63 [KO:K09540]
+OSTLU_119566  
+Bip; Luminal binding protein precursor, probable [KO:K09490]
+OSTLU_9161  
+hypothetical protein; K03104 signal recognition particle subunit SRP14 [KO:K03104]
+OSTLU_32815  
+hypothetical protein; K03107 signal recognition particle subunit SRP68 [KO:K03107]
+OSTLU_10601  
+hypothetical protein; K03105 signal recognition particle subunit SRP19 [KO:K03105]
+OSTLU_119580  
+srrA; hypothetical protein [KO:K13431]
+OSTLU_26405  
+hypothetical protein; K12272 signal recognition particle receptor subunit beta [KO:K12272]
+OSTLU_9857  
+Tat family transporter: protein export (chloroplast membrane protein HCF106C); K03116 sec-independent protein translocase protein TatA [KO:K03116]
+OSTLU_10686  
+Tat family transporter: pH-dependent thylakoid protein export into thylakoid; K03116 sec-independent protein translocase protein TatA [KO:K03116]
+OSTLU_43950  
+Tat family transporter: protein export TatC; K03118 sec-independent protein translocase protein TatC [KO:K03118]
+OSTLU_5885  
+hypothetical protein; K03100 signal peptidase I [EC:3.4.21.89] [KO:K03100] [EC:3.4.21.89]
+OSTLU_87247  
+hypothetical protein; K13280 signal peptidase, endoplasmic reticulum-type [EC:3.4.-.-] [KO:K13280] [EC:3.4.-.-]
+OSTLU_38229  
+hypothetical protein; K09647 mitochondrial inner membrane protease subunit 1 [EC:3.4.21.-] [KO:K09647] [EC:3.4.21.-]

@@ -1,0 +1,4 @@
+CHLREDRAFT_117669  
+XDH1; xanthine dehydrogenase/oxidase [KO:K00106] [EC:1.17.3.2 1.17.1.4]
+CHLREDRAFT_183011  
+UOX; urate oxidase II [KO:K00365] [EC:1.7.3.3]

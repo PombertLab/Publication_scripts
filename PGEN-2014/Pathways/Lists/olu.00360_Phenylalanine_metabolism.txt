@@ -1,0 +1,12 @@
+OSTLU_31597  
+hypothetical protein; K14455 aspartate aminotransferase, mitochondrial [EC:2.6.1.1] [KO:K14455] [EC:2.6.1.1]
+OSTLU_89248  
+hypothetical protein; K15849 bifunctional aspartate aminotransferase and glutamate/aspartate-prephenate aminotransferase [EC:2.6.1.1 2.6.1.78 2.6.1.79] [KO:K15849] [EC:2.6.1.79 2.6.1.78 2.6.1.1]
+OSTLU_3820  
+hypothetical protein; K00815 tyrosine aminotransferase [EC:2.6.1.5] [KO:K00815] [EC:2.6.1.5]
+OSTLU_119523  
+His8; Histidinol-phosphate aminotransferase, chloroplast precursor, probable [KO:K00817] [EC:2.6.1.9]
+OSTLU_45212  
+hypothetical protein; K00457 4-hydroxyphenylpyruvate dioxygenase [EC:1.13.11.27] [KO:K00457] [EC:1.13.11.27]
+OSTLU_17653  
+hypothetical protein; K07253 phenylpyruvate tautomerase [EC:5.3.2.1] [KO:K07253] [EC:5.3.2.1]

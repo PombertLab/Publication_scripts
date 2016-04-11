@@ -1,0 +1,38 @@
+Ot01g01700  
+DNA-directed RNA polymerase (ISS); K03010 DNA-directed RNA polymerase II subunit RPB2 [EC:2.7.7.6] [KO:K03010] [EC:2.7.7.6]
+Ot10g01380  
+DNA-directed RNA polymerase (ISS); K03006 DNA-directed RNA polymerase II subunit RPB1 [EC:2.7.7.6] [KO:K03006] [EC:2.7.7.6]
+Ot02g01760  
+rpb3; Rpb3 DNA-directed RNA polymerase II subunit 3 (IC) [KO:K03011]
+Ot10g01880  
+DNA-directed RNA polymerase subunit E' (ISS); K03015 DNA-directed RNA polymerase II subunit RPB7 [KO:K03015]
+Ot04g05140  
+RNA polymerase I; K03013 DNA-directed RNA polymerases I, II, and III subunit RPABC1 [KO:K03013]
+Ot02g00410  
+RNA polymerase subunit K (ISS); K03014 DNA-directed RNA polymerases I, II, and III subunit RPABC2 [KO:K03014]
+Ot02g03900  
+rpc10; Rpc10 RPC10 subunit of RNA polymerases I, II, and III, probable (IC) [KO:K03009]
+Ot01g06000  
+RNA polymerase III subunit RPC2 (ISS); K03021 DNA-directed RNA polymerase III subunit RPC2 [EC:2.7.7.6] [KO:K03021] [EC:2.7.7.6]
+Ot02g06220  
+RNA polymerase I; K03018 DNA-directed RNA polymerase III subunit RPC1 [EC:2.7.7.6] [KO:K03018] [EC:2.7.7.6]
+Ot07g03060  
+RNA polymerase subunit (ISS); K03027 DNA-directed RNA polymerases I and III subunit RPAC1 [KO:K03027]
+Ot02g00840  
+rpc3; Rpc3 DNA-directed RNA polymerase III 62 kDa polypeptide (RNA pol (IC) [KO:K03023]
+Ot01g02230  
+polr3e-prov protein (ISS); K14721 DNA-directed RNA polymerase III subunit RPC5 [KO:K14721]
+Ot03g03890  
+RNA polymerase III subunit C11 (ISS); K03019 DNA-directed RNA polymerase III subunit RPC10 [KO:K03019]
+Ot06g00120  
+KIAA1665 protein (ISS); K03022 DNA-directed RNA polymerase III subunit RPC8 [KO:K03022]
+Ot18g01360  
+RNA polymerase III; K03025 DNA-directed RNA polymerase III subunit RPC6 [KO:K03025]
+Ot02g04330  
+RNA polymerase III; K03002 DNA-directed RNA polymerase I subunit RPA2 [EC:2.7.7.6] [KO:K03002] [EC:2.7.7.6]
+Ot14g01100  
+RNA polymerase I; K02999 DNA-directed RNA polymerase I subunit RPA1 [EC:2.7.7.6] [KO:K02999] [EC:2.7.7.6]
+Ot03g04700  
+RNA polymerase III subunit C11 (ISS); K03000 DNA-directed RNA polymerase I subunit RPA12 [KO:K03000]
+Ot14g01850  
+DNA polymerase epsilon; K03004 DNA-directed RNA polymerase I subunit RPA43 [KO:K03004]

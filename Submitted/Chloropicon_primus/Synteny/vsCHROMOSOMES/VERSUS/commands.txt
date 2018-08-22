@@ -1,0 +1,3 @@
+for k in ../SPLIT_LIST/OLUCI/*; do ./chromosome_explorer.pl -q $k -b ../BLAST/OLUCIvs/OLUCIvsCOCCO.blastp.6 -s ../LISTS/COCCO.list -o OLUCI.vs.COCCO.txt; done
+
+

@@ -1,0 +1,16 @@
+#!/usr/bin/Rscript
+library(ComplexHeatmap)
+library(RColorBrewer)
+library(methods)
+message ("Plotting OLUCIvsCOCCO.matrix...")
+colors <- colorRampPalette(c("white", "blue", "magenta"))(n = 300)
+ht_global_opt(heatmap_row_names_gp = gpar(fontsize = 8, fontface = "italic"), heatmap_column_names_gp = gpar(fontsize = 8), heatmap_column_title_gp = gpar(fontsize = 12))
+pdf(file="OLUCIvsCOCCO.matrix.pdf", useDingbats=FALSE, width=6, height=4)
+OLUCIvsCOCCO <- read.csv("OLUCIvsCOCCO.matrix", header=TRUE)
+rownames(OLUCIvsCOCCO) <- OLUCIvsCOCCO[,1]
+colnames(OLUCIvsCOCCO)
+data_OLUCIvsCOCCO <- data.matrix(OLUCIvsCOCCO[,2:ncol(OLUCIvsCOCCO)])
+ht_OLUCIvsCOCCO = Heatmap(data_OLUCIvsCOCCO, name = "OLUCIvsCOCCO", width = unit(87, "mm"), cluster_rows = FALSE, cluster_columns = FALSE, rect_gp = gpar(col = "white", lty = 1, lwd = 1), column_title = "OLUCIvsCOCCOmatrix", col = colors)
+class(ht_OLUCIvsCOCCO)
+draw(ht_OLUCIvsCOCCO, heatmap_legend_side = "right")
+dev.off()

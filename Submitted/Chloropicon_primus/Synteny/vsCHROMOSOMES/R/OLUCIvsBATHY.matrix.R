@@ -1,0 +1,16 @@
+#!/usr/bin/Rscript
+library(ComplexHeatmap)
+library(RColorBrewer)
+library(methods)
+message ("Plotting OLUCIvsBATHY.matrix...")
+colors <- colorRampPalette(c("white", "blue", "magenta"))(n = 300)
+ht_global_opt(heatmap_row_names_gp = gpar(fontsize = 8, fontface = "italic"), heatmap_column_names_gp = gpar(fontsize = 8), heatmap_column_title_gp = gpar(fontsize = 12))
+pdf(file="OLUCIvsBATHY.matrix.pdf", useDingbats=FALSE, width=5, height=4)
+OLUCIvsBATHY <- read.csv("OLUCIvsBATHY.matrix", header=TRUE)
+rownames(OLUCIvsBATHY) <- OLUCIvsBATHY[,1]
+colnames(OLUCIvsBATHY)
+data_OLUCIvsBATHY <- data.matrix(OLUCIvsBATHY[,2:ncol(OLUCIvsBATHY)])
+ht_OLUCIvsBATHY = Heatmap(data_OLUCIvsBATHY, name = "OLUCIvsBATHY", width = unit(57, "mm"), cluster_rows = FALSE, cluster_columns = FALSE, rect_gp = gpar(col = "white", lty = 1, lwd = 1), column_title = "OLUCIvsBATHYmatrix", col = colors)
+class(ht_OLUCIvsBATHY)
+draw(ht_OLUCIvsBATHY, heatmap_legend_side = "right")
+dev.off()

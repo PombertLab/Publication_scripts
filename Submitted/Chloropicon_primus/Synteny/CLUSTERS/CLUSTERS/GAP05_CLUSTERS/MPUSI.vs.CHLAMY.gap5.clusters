@@ -1,0 +1,2 @@
+##Query_QA	Strand_QA	Query_QB	Strand_QB	Query_contig	Subject_SA	Strand_SA	Subject_SB	Strand_SB	Subject_contig	Relative_orientation	Genes_in-between
+2492	+	2493	+	scaffold_13	Cre12.g542800.t1.2	-	Cre12.g542950.t1.1	-	chromosome_12	REVERSE	2

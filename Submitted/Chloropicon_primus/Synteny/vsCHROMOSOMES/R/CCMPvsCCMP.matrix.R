@@ -1,0 +1,16 @@
+#!/usr/bin/Rscript
+library(ComplexHeatmap)
+library(RColorBrewer)
+library(methods)
+message ("Plotting CCMPvsCCMP.matrix...")
+colors <- colorRampPalette(c("white", "blue", "magenta"))(n = 300)
+ht_global_opt(heatmap_row_names_gp = gpar(fontsize = 8, fontface = "italic"), heatmap_column_names_gp = gpar(fontsize = 8), heatmap_column_title_gp = gpar(fontsize = 12))
+pdf(file="CCMPvsCCMP.matrix.pdf", useDingbats=FALSE, width=5, height=4)
+CCMPvsCCMP <- read.csv("CCMPvsCCMP.matrix", header=TRUE)
+rownames(CCMPvsCCMP) <- CCMPvsCCMP[,1]
+colnames(CCMPvsCCMP)
+data_CCMPvsCCMP <- data.matrix(CCMPvsCCMP[,2:ncol(CCMPvsCCMP)])
+ht_CCMPvsCCMP = Heatmap(data_CCMPvsCCMP, name = "CCMPvsCCMP", width = unit(60, "mm"), cluster_rows = FALSE, cluster_columns = FALSE, rect_gp = gpar(col = "white", lty = 1, lwd = 1), column_title = "CCMPvsCCMPmatrix", col = colors)
+class(ht_CCMPvsCCMP)
+draw(ht_CCMPvsCCMP, heatmap_legend_side = "right")
+dev.off()

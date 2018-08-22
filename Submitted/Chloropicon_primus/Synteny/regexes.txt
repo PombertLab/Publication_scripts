@@ -1,0 +1,13 @@
+Auxenochlorella = ^(\S+).*CDS\t(\d+)\t(\d+)\t\.\t([+-])\t[012.].*Genbank:(\w+\.\d+)
+Bathycoccus = ^(\S+).*gene\t(\d+)\t(\d+)\t\.\t([+-])\t[012.].*Name=(\w+)
+Chlorella = ^(\S+).*CDS\t(\d+)\t(\d+)\t\.\t([+-])\t[012.].*Name=(\w+\.\d+)
+Coccomyxa = ^(\S+).*CDS\t(\d+)\t(\d+)\t\.\t([+-])\t[012.].*Name=(\w+\.\d+)
+Chlamydomonas = ^(\S+).*mRNA\t(\d+)\t(\d+)\t\.\t([+-])\t[012.].*Name=(\S+);pacid
+Gonium = ^(\S+).*CDS\t(\d+)\t(\d+)\t\.\t([+-])\t[012.].*protein_id=(\w+\.\d+)
+Helicosporidium = ^(\S+).*CDS\t(\d+)\t(\d+)\t\.\t([+-])\t[012.].*protein_id=(\w+\.\d+)
+Klebsormidium = ^(\S+).*CDS\t(\d+)\t(\d+)\t\.\t([+-])\t[012.].*protein_id=(\w+\.\d+)
+Mpusilla = ^(\S+).*gene\t(\d+)\t(\d+)\t\.\t([+-])\t[012.].*proteinid=(\d+)
+Mcommoda RCC = ^(\S+).*CDS\t(\d+)\t(\d+)\t\.\t([+-])\t[012.].*ID=(\d+)
+Ostreococcus lucimarinus = ^(\S+).*CDS\t(\d+)\t(\d+)\t\.\t([+-])\t[012.].*proteinId (\d+)
+Ostreococcus tauri = ^(\S+).*CDS\t(\d+)\t(\d+)\t\.\t([+-])\t[012.].*Genbank:(\w+\.\d+)
+Volvox = ^(\S+).*CDS\t(\d+)\t(\d+)\t\.\t([+-])\t[012.].*Name=(\w+\.\d+)

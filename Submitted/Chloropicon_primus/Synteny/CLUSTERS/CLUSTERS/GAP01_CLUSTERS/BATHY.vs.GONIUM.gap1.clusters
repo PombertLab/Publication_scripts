@@ -1,0 +1,2 @@
+##Query_QA	Strand_QA	Query_QB	Strand_QB	Query_contig	Subject_SA	Strand_SA	Subject_SB	Strand_SB	Subject_contig	Relative_orientation	Genes_in-between
+Bathy18g00380	+	Bathy18g00420	+	FO082261.1	KXZ51213.1	-	KXZ51212.1	-	LSYV01000014.1	REVERSE	0

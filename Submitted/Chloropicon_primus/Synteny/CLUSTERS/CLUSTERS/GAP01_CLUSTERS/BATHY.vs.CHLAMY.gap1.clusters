@@ -1,0 +1,2 @@
+##Query_QA	Strand_QA	Query_QB	Strand_QB	Query_contig	Subject_SA	Strand_SA	Subject_SB	Strand_SB	Subject_contig	Relative_orientation	Genes_in-between
+Bathy18g01000	-	Bathy18g01010	-	FO082261.1	Cre02.g095107.t1.1	-	Cre02.g095109.t1.1	-	chromosome_2	FORWARD	1

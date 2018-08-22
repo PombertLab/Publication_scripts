@@ -1,0 +1,16 @@
+#!/usr/bin/Rscript
+library(ComplexHeatmap)
+library(RColorBrewer)
+library(methods)
+message ("Plotting BATHYvsOTAURI.matrix...")
+colors <- colorRampPalette(c("white", "blue", "magenta"))(n = 300)
+ht_global_opt(heatmap_row_names_gp = gpar(fontsize = 8, fontface = "italic"), heatmap_column_names_gp = gpar(fontsize = 8), heatmap_column_title_gp = gpar(fontsize = 12))
+pdf(file="BATHYvsOTAURI.matrix.pdf", useDingbats=FALSE, width=5, height=4)
+BATHYvsOTAURI <- read.csv("BATHYvsOTAURI.matrix", header=TRUE)
+rownames(BATHYvsOTAURI) <- BATHYvsOTAURI[,1]
+colnames(BATHYvsOTAURI)
+data_BATHYvsOTAURI <- data.matrix(BATHYvsOTAURI[,2:ncol(BATHYvsOTAURI)])
+ht_BATHYvsOTAURI = Heatmap(data_BATHYvsOTAURI, name = "BATHYvsOTAURI", width = unit(66, "mm"), cluster_rows = FALSE, cluster_columns = FALSE, rect_gp = gpar(col = "white", lty = 1, lwd = 1), column_title = "BATHYvsOTAURImatrix", col = colors)
+class(ht_BATHYvsOTAURI)
+draw(ht_BATHYvsOTAURI, heatmap_legend_side = "right")
+dev.off()

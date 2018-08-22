@@ -1,0 +1,2 @@
+##Query_QA	Strand_QA	Query_QB	Strand_QB	Query_contig	Subject_SA	Strand_SA	Subject_SB	Strand_SB	Subject_contig	Relative_orientation	Genes_in-between
+2683	-	2685	-	scaffold_13	KXZ55595.1	+	KXZ55594.1	+	LSYV01000003.1	REVERSE	0

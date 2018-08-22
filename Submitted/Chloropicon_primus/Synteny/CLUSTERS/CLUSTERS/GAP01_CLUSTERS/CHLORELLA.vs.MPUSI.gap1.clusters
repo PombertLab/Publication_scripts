@@ -1,0 +1,4 @@
+##Query_QA	Strand_QA	Query_QB	Strand_QB	Query_contig	Subject_SA	Strand_SA	Subject_SB	Strand_SB	Subject_contig	Relative_orientation	Genes_in-between
+XP_005844685.1	+	XP_005844761.1	-	NW_005435067.1	5237	+	5238	-	scaffold_3	FORWARD	0
+XP_005847911.1	+	XP_005847912.1	+	NW_005435079.1	4956	-	4955	-	scaffold_2	REVERSE	0
+XP_005849742.1	-	XP_005849473.1	+	NW_005435083.1	5941	+	5939	-	scaffold_3	REVERSE	1

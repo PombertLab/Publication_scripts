@@ -1,0 +1,3 @@
+##Query_QA	Strand_QA	Query_QB	Strand_QB	Query_contig	Subject_SA	Strand_SA	Subject_SB	Strand_SB	Subject_contig	Relative_orientation	Genes_in-between
+XP_003081650.1	+	XP_003081651.1	+	NC_014435.1	KXZ50010.1	+	KXZ50011.1	+	LSYV01000019.1	FORWARD	0
+XP_003081935.1	+	XP_003081937.1	+	NC_014436.1	KXZ52596.1	+	KXZ52597.1	+	LSYV01000010.1	FORWARD	0

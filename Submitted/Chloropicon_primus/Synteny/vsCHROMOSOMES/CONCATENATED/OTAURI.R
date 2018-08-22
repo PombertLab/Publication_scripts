@@ -1,0 +1,53 @@
+#!/usr/bin/Rscript
+library(ComplexHeatmap)
+library(RColorBrewer)
+library(methods)
+library(circlize)
+colors <- colorRamp2(c(0, 20, 40, 60, 80, 100), c("white", "yellow", "lightblue", "blue", "magenta", "red"))
+ht_global_opt(heatmap_row_names_gp = gpar(fontsize = 1, fontface = "italic"), heatmap_column_names_gp = gpar(fontsize = 1), heatmap_column_title_gp = gpar(fontsize = 1))
+OTAURIvsBATHY <- read.csv("OTAURIvsBATHY.matrix", header=TRUE)
+rownames(OTAURIvsBATHY) <- OTAURIvsBATHY[,1]
+colnames(OTAURIvsBATHY)
+data_OTAURIvsBATHY <- data.matrix(OTAURIvsBATHY[,2:ncol(OTAURIvsBATHY)])
+ht_OTAURIvsBATHY = Heatmap(data_OTAURIvsBATHY, name = "OTAURIvsBATHY", width = unit(57, "mm"), show_row_names = FALSE, cluster_rows = FALSE, cluster_columns = FALSE, rect_gp = gpar(col = "white", lty = 1, lwd = 0.01),column_title = "OTAURIvsBATHY", col = colors)
+class(ht_OTAURIvsBATHY)
+OTAURIvsCCMP <- read.csv("OTAURIvsCCMP.matrix", header=TRUE)
+rownames(OTAURIvsCCMP) <- OTAURIvsCCMP[,1]
+colnames(OTAURIvsCCMP)
+data_OTAURIvsCCMP <- data.matrix(OTAURIvsCCMP[,2:ncol(OTAURIvsCCMP)])
+ht_OTAURIvsCCMP = Heatmap(data_OTAURIvsCCMP, name = "OTAURIvsCCMP", width = unit(60, "mm"), show_row_names = FALSE, cluster_rows = FALSE, cluster_columns = FALSE, rect_gp = gpar(col = "white", lty = 1, lwd = 0.01),column_title = "OTAURIvsCCMP", col = colors)
+class(ht_OTAURIvsCCMP)
+OTAURIvsCOCCO <- read.csv("OTAURIvsCOCCO.matrix", header=TRUE)
+rownames(OTAURIvsCOCCO) <- OTAURIvsCOCCO[,1]
+colnames(OTAURIvsCOCCO)
+data_OTAURIvsCOCCO <- data.matrix(OTAURIvsCOCCO[,2:ncol(OTAURIvsCOCCO)])
+ht_OTAURIvsCOCCO = Heatmap(data_OTAURIvsCOCCO, name = "OTAURIvsCOCCO", width = unit(87, "mm"), show_row_names = FALSE, cluster_rows = FALSE, cluster_columns = FALSE, rect_gp = gpar(col = "white", lty = 1, lwd = 0.01),column_title = "OTAURIvsCOCCO", col = colors)
+class(ht_OTAURIvsCOCCO)
+OTAURIvsMCOMMODA <- read.csv("OTAURIvsMCOMMODA.matrix", header=TRUE)
+rownames(OTAURIvsMCOMMODA) <- OTAURIvsMCOMMODA[,1]
+colnames(OTAURIvsMCOMMODA)
+data_OTAURIvsMCOMMODA <- data.matrix(OTAURIvsMCOMMODA[,2:ncol(OTAURIvsMCOMMODA)])
+ht_OTAURIvsMCOMMODA = Heatmap(data_OTAURIvsMCOMMODA, name = "OTAURIvsMCOMMODA", width = unit(51, "mm"), show_row_names = FALSE, cluster_rows = FALSE, cluster_columns = FALSE, rect_gp = gpar(col = "white", lty = 1, lwd = 0.01),column_title = "OTAURIvsMCOMMODA", col = colors)
+class(ht_OTAURIvsMCOMMODA)
+OTAURIvsMPUSI <- read.csv("OTAURIvsMPUSI.matrix", header=TRUE)
+rownames(OTAURIvsMPUSI) <- OTAURIvsMPUSI[,1]
+colnames(OTAURIvsMPUSI)
+data_OTAURIvsMPUSI <- data.matrix(OTAURIvsMPUSI[,2:ncol(OTAURIvsMPUSI)])
+ht_OTAURIvsMPUSI = Heatmap(data_OTAURIvsMPUSI, name = "OTAURIvsMPUSI", width = unit(60, "mm"), show_row_names = FALSE, cluster_rows = FALSE, cluster_columns = FALSE, rect_gp = gpar(col = "white", lty = 1, lwd = 0.01),column_title = "OTAURIvsMPUSI", col = colors)
+class(ht_OTAURIvsMPUSI)
+OTAURIvsOLUCI <- read.csv("OTAURIvsOLUCI.matrix", header=TRUE)
+rownames(OTAURIvsOLUCI) <- OTAURIvsOLUCI[,1]
+colnames(OTAURIvsOLUCI)
+data_OTAURIvsOLUCI <- data.matrix(OTAURIvsOLUCI[,2:ncol(OTAURIvsOLUCI)])
+ht_OTAURIvsOLUCI = Heatmap(data_OTAURIvsOLUCI, name = "OTAURIvsOLUCI", width = unit(63, "mm"), show_row_names = FALSE, cluster_rows = FALSE, cluster_columns = FALSE, rect_gp = gpar(col = "white", lty = 1, lwd = 0.01),column_title = "OTAURIvsOLUCI", col = colors)
+class(ht_OTAURIvsOLUCI)
+OTAURIvsOTAURI <- read.csv("OTAURIvsOTAURI.matrix", header=TRUE)
+rownames(OTAURIvsOTAURI) <- OTAURIvsOTAURI[,1]
+colnames(OTAURIvsOTAURI)
+data_OTAURIvsOTAURI <- data.matrix(OTAURIvsOTAURI[,2:ncol(OTAURIvsOTAURI)])
+ht_OTAURIvsOTAURI = Heatmap(data_OTAURIvsOTAURI, name = "OTAURIvsOTAURI", width = unit(66, "mm"), show_row_names = TRUE, cluster_rows = FALSE, cluster_columns = FALSE, rect_gp = gpar(col = "white", lty = 1, lwd = 0.01),column_title = "OTAURIvsOTAURI", col = colors)
+class(ht_OTAURIvsOTAURI)
+pdf(file="OTAURI.pdf", useDingbats=FALSE, width=23, height=5)
+ht_list = ht_OTAURIvsBATHY + ht_OTAURIvsCCMP + ht_OTAURIvsCOCCO + ht_OTAURIvsMCOMMODA + ht_OTAURIvsMPUSI + ht_OTAURIvsOLUCI + ht_OTAURIvsOTAURI 
+draw(ht_list, gap = unit(0.75, "mm"), heatmap_legend_side = "bottom")
+dev.off()

@@ -1,0 +1,7 @@
+##Query_QA	Strand_QA	Query_QB	Strand_QB	Query_contig	Subject_SA	Strand_SA	Subject_SB	Strand_SB	Subject_contig	Relative_orientation	Genes_in-between
+37938	-	50765	+	Chr_10	Cre09.g410950.t1.2	+	Cre09.g410750.t1.2	-	chromosome_9	REVERSE	3
+41525	-	27115	+	Chr_13	Cre09.g396139.t1.1	+	Cre09.g394954.t1.1	-	chromosome_9	REVERSE	34
+28010	+	93844	-	Chr_16	Cre02.g104900.t1.2	-	Cre02.g103900.t1.1	+	chromosome_2	REVERSE	22
+19090	+	19091	-	Chr_20	Cre01.g054850.t1.2	-	Cre01.g052350.t1.1	+	chromosome_1	REVERSE	48
+14765	+	34350	+	Chr_3	Cre07.g339700.t1.2	+	Cre07.g342350.t1.2	+	chromosome_7	FORWARD	37
+32748	-	8148	+	Chr_7	Cre06.g298650.t1.2	+	Cre06.g296600.t1.2	-	chromosome_6	REVERSE	48

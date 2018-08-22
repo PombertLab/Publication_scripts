@@ -1,0 +1,6 @@
+##Query_QA	Strand_QA	Query_QB	Strand_QB	Query_contig	Subject_SA	Strand_SA	Subject_SB	Strand_SB	Subject_contig	Relative_orientation	Genes_in-between
+XP_003078371.1	+	XP_003078373.1	+	NC_014428.1	Cre07.g339700.t1.2	+	Cre07.g342350.t1.2	+	chromosome_7	FORWARD	37
+XP_003079250.1	+	XP_003079251.1	+	NC_014430.1	Cre03.g196350.t1.2	+	Cre03.g197750.t1.2	+	chromosome_3	FORWARD	29
+XP_003080066.1	-	XP_003080072.1	-	NC_014431.1	Cre10.g435500.t1.1	-	Cre10.g437150.t1.2	-	chromosome_10	FORWARD	32
+XP_003081488.1	+	XP_003081490.1	-	NC_014435.1	Cre13.g569200.t1.2	-	Cre13.g567650.t1.1	+	chromosome_13	REVERSE	36
+XP_003081526.1	-	XP_003081527.1	+	NC_014435.1	Cre09.g410950.t1.2	+	Cre09.g410750.t1.2	-	chromosome_9	REVERSE	3

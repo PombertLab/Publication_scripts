@@ -1,0 +1,2 @@
+##Query_QA	Strand_QA	Query_QB	Strand_QB	Query_contig	Subject_SA	Strand_SA	Subject_SB	Strand_SB	Subject_contig	Relative_orientation	Genes_in-between
+1078	-	1079	-	scaffold_10	XP_011401102.1	-	XP_011401103.1	-	NW_011934399.1	FORWARD	0

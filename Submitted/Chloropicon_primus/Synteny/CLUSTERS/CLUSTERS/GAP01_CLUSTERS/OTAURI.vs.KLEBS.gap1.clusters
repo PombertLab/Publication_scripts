@@ -1,0 +1,3 @@
+##Query_QA	Strand_QA	Query_QB	Strand_QB	Query_contig	Subject_SA	Strand_SA	Subject_SB	Strand_SB	Subject_contig	Relative_orientation	Genes_in-between
+XP_003084149.1	+	XP_003084150.1	-	NC_014443.1	GAQ85375.1	-	GAQ85374.1	+	DF237181.1	REVERSE	0
+XP_003084426.1	-	XP_003084427.1	+	NC_014445.1	GAQ90353.1	-	GAQ90354.1	+	DF237580.1	FORWARD	0

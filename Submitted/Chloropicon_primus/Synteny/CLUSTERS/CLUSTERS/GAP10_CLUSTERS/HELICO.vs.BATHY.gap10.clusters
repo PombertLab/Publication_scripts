@@ -1,0 +1,4 @@
+##Query_QA	Strand_QA	Query_QB	Strand_QB	Query_contig	Subject_SA	Strand_SA	Subject_SB	Strand_SB	Subject_contig	Relative_orientation	Genes_in-between
+KDD76481.1	-	KDD76476.1	-	AYPS01000212.1	Bathy11g00480	+	Bathy11g00450	+	FO082268.1	REVERSE	2
+KDD75836.1	-	KDD75837.1	+	AYPS01000477.1	Bathy12g02680	-	Bathy12g02790	+	FO082267.1	FORWARD	10
+KDD73857.1	-	KDD73858.1	+	AYPS01001781.1	Bathy03g04550	-	Bathy03g04560	+	FO082276.1	FORWARD	0

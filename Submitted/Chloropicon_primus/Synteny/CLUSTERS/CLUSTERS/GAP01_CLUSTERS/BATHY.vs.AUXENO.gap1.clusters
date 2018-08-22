@@ -1,0 +1,2 @@
+##Query_QA	Strand_QA	Query_QB	Strand_QB	Query_contig	Subject_SA	Strand_SA	Subject_SB	Strand_SB	Subject_contig	Relative_orientation	Genes_in-between
+Bathy11g02230	+	Bathy11g02240	+	FO082268.1	XP_011401725.1	-	XP_011401724.1	-	NW_011934458.1	REVERSE	0

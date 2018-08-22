@@ -1,0 +1,2 @@
+##Query_QA	Strand_QA	Query_QB	Strand_QB	Query_contig	Subject_SA	Strand_SA	Subject_SB	Strand_SB	Subject_contig	Relative_orientation	Genes_in-between
+XP_003081526.1	-	XP_003081527.1	+	NC_014435.1	Cre09.g410950.t1.2	+	Cre09.g410750.t1.2	-	chromosome_9	REVERSE	3

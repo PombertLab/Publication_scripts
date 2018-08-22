@@ -1,0 +1,2 @@
+##Query_QA	Strand_QA	Query_QB	Strand_QB	Query_contig	Subject_SA	Strand_SA	Subject_SB	Strand_SB	Subject_contig	Relative_orientation	Genes_in-between
+XP_003078089.1	-	XP_003078090.1	-	NC_014428.1	KDD74943.1	-	KDD74944.1	-	AYPS01000973.1	FORWARD	0

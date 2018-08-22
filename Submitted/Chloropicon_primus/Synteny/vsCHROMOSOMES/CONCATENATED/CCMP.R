@@ -1,0 +1,53 @@
+#!/usr/bin/Rscript
+library(ComplexHeatmap)
+library(RColorBrewer)
+library(methods)
+library(circlize)
+colors <- colorRamp2(c(0, 20, 40, 60, 80, 100), c("white", "yellow", "lightblue", "blue", "magenta", "red"))
+ht_global_opt(heatmap_row_names_gp = gpar(fontsize = 1, fontface = "italic"), heatmap_column_names_gp = gpar(fontsize = 1), heatmap_column_title_gp = gpar(fontsize = 1))
+CCMPvsBATHY <- read.csv("CCMPvsBATHY.matrix", header=TRUE)
+rownames(CCMPvsBATHY) <- CCMPvsBATHY[,1]
+colnames(CCMPvsBATHY)
+data_CCMPvsBATHY <- data.matrix(CCMPvsBATHY[,2:ncol(CCMPvsBATHY)])
+ht_CCMPvsBATHY = Heatmap(data_CCMPvsBATHY, name = "CCMPvsBATHY", width = unit(57, "mm"), show_row_names = FALSE, cluster_rows = FALSE, cluster_columns = FALSE, rect_gp = gpar(col = "white", lty = 1, lwd = 0.01),column_title = "CCMPvsBATHY", col = colors)
+class(ht_CCMPvsBATHY)
+CCMPvsCCMP <- read.csv("CCMPvsCCMP.matrix", header=TRUE)
+rownames(CCMPvsCCMP) <- CCMPvsCCMP[,1]
+colnames(CCMPvsCCMP)
+data_CCMPvsCCMP <- data.matrix(CCMPvsCCMP[,2:ncol(CCMPvsCCMP)])
+ht_CCMPvsCCMP = Heatmap(data_CCMPvsCCMP, name = "CCMPvsCCMP", width = unit(60, "mm"), show_row_names = FALSE, cluster_rows = FALSE, cluster_columns = FALSE, rect_gp = gpar(col = "white", lty = 1, lwd = 0.01),column_title = "CCMPvsCCMP", col = colors)
+class(ht_CCMPvsCCMP)
+CCMPvsCOCCO <- read.csv("CCMPvsCOCCO.matrix", header=TRUE)
+rownames(CCMPvsCOCCO) <- CCMPvsCOCCO[,1]
+colnames(CCMPvsCOCCO)
+data_CCMPvsCOCCO <- data.matrix(CCMPvsCOCCO[,2:ncol(CCMPvsCOCCO)])
+ht_CCMPvsCOCCO = Heatmap(data_CCMPvsCOCCO, name = "CCMPvsCOCCO", width = unit(87, "mm"), show_row_names = FALSE, cluster_rows = FALSE, cluster_columns = FALSE, rect_gp = gpar(col = "white", lty = 1, lwd = 0.01),column_title = "CCMPvsCOCCO", col = colors)
+class(ht_CCMPvsCOCCO)
+CCMPvsMCOMMODA <- read.csv("CCMPvsMCOMMODA.matrix", header=TRUE)
+rownames(CCMPvsMCOMMODA) <- CCMPvsMCOMMODA[,1]
+colnames(CCMPvsMCOMMODA)
+data_CCMPvsMCOMMODA <- data.matrix(CCMPvsMCOMMODA[,2:ncol(CCMPvsMCOMMODA)])
+ht_CCMPvsMCOMMODA = Heatmap(data_CCMPvsMCOMMODA, name = "CCMPvsMCOMMODA", width = unit(51, "mm"), show_row_names = FALSE, cluster_rows = FALSE, cluster_columns = FALSE, rect_gp = gpar(col = "white", lty = 1, lwd = 0.01),column_title = "CCMPvsMCOMMODA", col = colors)
+class(ht_CCMPvsMCOMMODA)
+CCMPvsMPUSI <- read.csv("CCMPvsMPUSI.matrix", header=TRUE)
+rownames(CCMPvsMPUSI) <- CCMPvsMPUSI[,1]
+colnames(CCMPvsMPUSI)
+data_CCMPvsMPUSI <- data.matrix(CCMPvsMPUSI[,2:ncol(CCMPvsMPUSI)])
+ht_CCMPvsMPUSI = Heatmap(data_CCMPvsMPUSI, name = "CCMPvsMPUSI", width = unit(60, "mm"), show_row_names = FALSE, cluster_rows = FALSE, cluster_columns = FALSE, rect_gp = gpar(col = "white", lty = 1, lwd = 0.01),column_title = "CCMPvsMPUSI", col = colors)
+class(ht_CCMPvsMPUSI)
+CCMPvsOLUCI <- read.csv("CCMPvsOLUCI.matrix", header=TRUE)
+rownames(CCMPvsOLUCI) <- CCMPvsOLUCI[,1]
+colnames(CCMPvsOLUCI)
+data_CCMPvsOLUCI <- data.matrix(CCMPvsOLUCI[,2:ncol(CCMPvsOLUCI)])
+ht_CCMPvsOLUCI = Heatmap(data_CCMPvsOLUCI, name = "CCMPvsOLUCI", width = unit(63, "mm"), show_row_names = FALSE, cluster_rows = FALSE, cluster_columns = FALSE, rect_gp = gpar(col = "white", lty = 1, lwd = 0.01),column_title = "CCMPvsOLUCI", col = colors)
+class(ht_CCMPvsOLUCI)
+CCMPvsOTAURI <- read.csv("CCMPvsOTAURI.matrix", header=TRUE)
+rownames(CCMPvsOTAURI) <- CCMPvsOTAURI[,1]
+colnames(CCMPvsOTAURI)
+data_CCMPvsOTAURI <- data.matrix(CCMPvsOTAURI[,2:ncol(CCMPvsOTAURI)])
+ht_CCMPvsOTAURI = Heatmap(data_CCMPvsOTAURI, name = "CCMPvsOTAURI", width = unit(66, "mm"), show_row_names = TRUE, cluster_rows = FALSE, cluster_columns = FALSE, rect_gp = gpar(col = "white", lty = 1, lwd = 0.01),column_title = "CCMPvsOTAURI", col = colors)
+class(ht_CCMPvsOTAURI)
+pdf(file="CCMP.pdf", useDingbats=FALSE, width=23, height=5)
+ht_list = ht_CCMPvsBATHY + ht_CCMPvsCCMP + ht_CCMPvsCOCCO + ht_CCMPvsMCOMMODA + ht_CCMPvsMPUSI + ht_CCMPvsOLUCI + ht_CCMPvsOTAURI 
+draw(ht_list, gap = unit(0.75, "mm"), heatmap_legend_side = "bottom")
+dev.off()

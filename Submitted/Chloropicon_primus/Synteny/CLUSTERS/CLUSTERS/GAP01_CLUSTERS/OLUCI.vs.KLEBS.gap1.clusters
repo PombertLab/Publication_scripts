@@ -1,0 +1,5 @@
+##Query_QA	Strand_QA	Query_QB	Strand_QB	Query_contig	Subject_SA	Strand_SA	Subject_SB	Strand_SB	Subject_contig	Relative_orientation	Genes_in-between
+13870	+	29044	-	Chr_1	GAQ90663.1	+	GAQ90664.1	-	DF237619.1	FORWARD	0
+41951	+	18701	-	Chr_17	GAQ85375.1	-	GAQ85374.1	+	DF237181.1	REVERSE	0
+28559	-	5907	+	Chr_19	GAQ90353.1	-	GAQ90354.1	+	DF237580.1	FORWARD	0
+31087	+	14967	+	Chr_4	GAQ80768.1	+	GAQ80769.1	+	DF237011.1	FORWARD	0

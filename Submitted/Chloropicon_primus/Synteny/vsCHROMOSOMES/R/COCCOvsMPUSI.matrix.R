@@ -1,0 +1,16 @@
+#!/usr/bin/Rscript
+library(ComplexHeatmap)
+library(RColorBrewer)
+library(methods)
+message ("Plotting COCCOvsMPUSI.matrix...")
+colors <- colorRampPalette(c("white", "blue", "magenta"))(n = 300)
+ht_global_opt(heatmap_row_names_gp = gpar(fontsize = 8, fontface = "italic"), heatmap_column_names_gp = gpar(fontsize = 8), heatmap_column_title_gp = gpar(fontsize = 12))
+pdf(file="COCCOvsMPUSI.matrix.pdf", useDingbats=FALSE, width=5, height=4)
+COCCOvsMPUSI <- read.csv("COCCOvsMPUSI.matrix", header=TRUE)
+rownames(COCCOvsMPUSI) <- COCCOvsMPUSI[,1]
+colnames(COCCOvsMPUSI)
+data_COCCOvsMPUSI <- data.matrix(COCCOvsMPUSI[,2:ncol(COCCOvsMPUSI)])
+ht_COCCOvsMPUSI = Heatmap(data_COCCOvsMPUSI, name = "COCCOvsMPUSI", width = unit(60, "mm"), cluster_rows = FALSE, cluster_columns = FALSE, rect_gp = gpar(col = "white", lty = 1, lwd = 1), column_title = "COCCOvsMPUSImatrix", col = colors)
+class(ht_COCCOvsMPUSI)
+draw(ht_COCCOvsMPUSI, heatmap_legend_side = "right")
+dev.off()

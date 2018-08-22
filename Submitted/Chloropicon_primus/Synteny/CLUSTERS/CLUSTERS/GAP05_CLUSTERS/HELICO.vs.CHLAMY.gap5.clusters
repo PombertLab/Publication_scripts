@@ -1,0 +1,6 @@
+##Query_QA	Strand_QA	Query_QB	Strand_QB	Query_contig	Subject_SA	Strand_SA	Subject_SB	Strand_SB	Subject_contig	Relative_orientation	Genes_in-between
+KDD76646.1	-	KDD76647.1	+	AYPS01000149.1	Cre06.g249300.t1.2	+	Cre06.g249250.t1.2	-	chromosome_6	REVERSE	0
+KDD76647.1	+	KDD76648.1	-	AYPS01000149.1	Cre06.g249250.t1.2	-	Cre06.g249200.t1.2	+	chromosome_6	REVERSE	0
+KDD76352.1	-	KDD76353.1	+	AYPS01000257.1	Cre14.g614900.t2.1	-	Cre14.g615050.t1.2	+	chromosome_14	FORWARD	2
+KDD75798.1	+	KDD75799.1	-	AYPS01000494.1	Cre17.g726050.t1.2	+	Cre17.g726100.t1.2	-	chromosome_17	FORWARD	0
+KDD73857.1	-	KDD73858.1	+	AYPS01001781.1	Cre16.g650300.t1.2	+	Cre16.g650250.t1.2	-	chromosome_16	REVERSE	0

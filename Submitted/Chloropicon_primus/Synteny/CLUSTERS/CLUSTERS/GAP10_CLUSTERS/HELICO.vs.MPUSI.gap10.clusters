@@ -1,0 +1,3 @@
+##Query_QA	Strand_QA	Query_QB	Strand_QB	Query_contig	Subject_SA	Strand_SA	Subject_SB	Strand_SB	Subject_contig	Relative_orientation	Genes_in-between
+KDD74395.1	-	KDD74396.1	-	AYPS01001344.1	5495	+	5487	+	scaffold_3	REVERSE	7
+KDD71315.1	+	KDD71314.1	+	AYPS01005313.1	4946	+	4954	+	scaffold_2	FORWARD	7

@@ -1,0 +1,16 @@
+##Query_QA	Strand_QA	Query_QB	Strand_QB	Query_contig	Subject_SA	Strand_SA	Subject_SB	Strand_SB	Subject_contig	Relative_orientation	Genes_in-between
+Cre01.g023787.t1.1	+	Cre01.g024050.t1.2	+	chromosome_1	12543	+	94311	+	Chr_5	FORWARD	9
+Cre01.g032139.t1.2	-	Cre01.g032250.t1.1	+	chromosome_1	3307	+	88591	-	Chr_11	REVERSE	9
+Cre01.g041050.t2.1	+	Cre01.g041100.t1.1	+	chromosome_1	43398	-	17964	-	Chr_14	REVERSE	2
+Cre01.g050350.t1.1	-	Cre01.g050451.t1.1	-	chromosome_1	32784	+	35218	+	Chr_7	REVERSE	48
+Cre10.g450900.t1.2	+	Cre10.g451000.t1.2	-	chromosome_10	14356	-	35942	+	Chr_2	REVERSE	25
+Cre12.g508200.t1.2	-	Cre12.g508150.t1.2	+	chromosome_12	32864	+	12759	-	Chr_7	REVERSE	34
+Cre12.g518900.t1.2	+	Cre12.g518950.t1.2	+	chromosome_12	31589	-	6725	-	Chr_5	REVERSE	29
+Cre13.g576100.t1.1	+	Cre13.g576150.t1.1	-	chromosome_13	6232	+	27196	-	Chr_13	FORWARD	35
+Cre16.g652100.t1.2	+	Cre16.g652150.t1.2	+	chromosome_16	48274	-	40330	-	Chr_1	REVERSE	24
+Cre16.g663900.t1.2	+	Cre16.g663950.t1.2	-	chromosome_16	31592	-	6297	+	Chr_5	REVERSE	28
+Cre17.g746347.t2.1	-	Cre17.g746597.t2.1	+	chromosome_17	94976	+	39506	-	Chr_12	REVERSE	22
+Cre03.g170550.t1.1	+	Cre03.g170750.t1.2	-	chromosome_3	29318	+	29359	-	Chr_20	FORWARD	40
+Cre03.g201050.t1.2	+	Cre03.g200600.t2.1	+	chromosome_3	31228	+	45426	+	Chr_4	FORWARD	10
+Cre09.g396065.t1.1	-	Cre09.g396139.t1.1	+	chromosome_9	6232	+	41525	-	Chr_13	REVERSE	44
+Cre09.g410850.t1.2	-	Cre09.g410950.t1.2	+	chromosome_9	26062	+	37938	-	Chr_10	REVERSE	3

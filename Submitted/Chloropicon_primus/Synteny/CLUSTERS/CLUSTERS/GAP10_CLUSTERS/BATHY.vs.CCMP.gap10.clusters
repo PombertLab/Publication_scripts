@@ -1,0 +1,6 @@
+##Query_QA	Strand_QA	Query_QB	Strand_QB	Query_contig	Subject_SA	Strand_SA	Subject_SB	Strand_SB	Subject_contig	Relative_orientation	Genes_in-between
+Bathy13g00810	-	Bathy13g00820	+	FO082266.1	A3770_03p20500	+	A3770_03p20490	-	Chromosome_03	REVERSE	0
+Bathy09g00590	+	Bathy09g00600	-	FO082270.1	A3770_01p07500	+	A3770_01p07510	-	Chromosome_01	FORWARD	0
+Bathy03g04030	+	Bathy03g04040	-	FO082276.1	A3770_05p40160	+	A3770_05p40170	-	Chromosome_05	FORWARD	0
+Bathy03g04550	-	Bathy03g04560	+	FO082276.1	A3770_03p20490	-	A3770_03p20500	+	Chromosome_03	FORWARD	0
+Bathy02g01510	-	Bathy02g01520	+	FO082277.1	A3770_02p11800	+	A3770_02p11790	-	Chromosome_02	REVERSE	0

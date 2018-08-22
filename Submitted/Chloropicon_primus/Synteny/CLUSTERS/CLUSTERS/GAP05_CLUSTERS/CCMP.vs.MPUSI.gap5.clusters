@@ -1,0 +1,10 @@
+##Query_QA	Strand_QA	Query_QB	Strand_QB	Query_contig	Subject_SA	Strand_SA	Subject_SB	Strand_SB	Subject_contig	Relative_orientation	Genes_in-between
+A3770_01p07500	+	A3770_01p07510	-	Chromosome_01	4031	-	4030	+	scaffold_17	REVERSE	0
+A3770_02p11760	+	A3770_02p11770	-	Chromosome_02	6826	+	6831	-	scaffold_4	FORWARD	4
+A3770_02p11790	-	A3770_02p11800	+	Chromosome_02	6823	-	6824	+	scaffold_4	FORWARD	0
+A3770_03p22340	+	A3770_03p22350	-	Chromosome_03	380	+	381	-	scaffold_1	FORWARD	0
+A3770_03p26990	-	A3770_03p27000	-	Chromosome_03	4955	-	4956	-	scaffold_2	FORWARD	0
+A3770_05p39900	-	A3770_05p39910	-	Chromosome_05	4955	-	4956	-	scaffold_2	FORWARD	0
+A3770_10p58360	+	A3770_10p58370	+	Chromosome_10	8570	+	8571	+	scaffold_7	FORWARD	0
+A3770_10p60730	+	A3770_10p60740	-	Chromosome_10	5945	+	5946	-	scaffold_3	FORWARD	0
+A3770_10p60820	-	A3770_10p60830	+	Chromosome_10	7304	+	7301	-	scaffold_5	REVERSE	2

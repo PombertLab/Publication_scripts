@@ -1,0 +1,4 @@
+##Query_QA	Strand_QA	Query_QB	Strand_QB	Query_contig	Subject_SA	Strand_SA	Subject_SB	Strand_SB	Subject_contig	Relative_orientation	Genes_in-between
+17380	-	44220	+	Chr_11	A3770_03p20490	-	A3770_03p20500	+	Chromosome_03	FORWARD	0
+89546	+	42161	-	Chr_17	A3770_01p07510	-	A3770_01p07500	+	Chromosome_01	REVERSE	0
+7883	+	29915	-	Chr_2	A3770_10p60730	+	A3770_10p60740	-	Chromosome_10	FORWARD	0

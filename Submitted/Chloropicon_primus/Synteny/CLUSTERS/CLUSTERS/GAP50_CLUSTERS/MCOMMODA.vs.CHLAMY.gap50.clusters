@@ -1,0 +1,9 @@
+##Query_QA	Strand_QA	Query_QB	Strand_QB	Query_contig	Subject_SA	Strand_SA	Subject_SB	Strand_SB	Subject_contig	Relative_orientation	Genes_in-between
+2508311522	+	2508311524	-	Chr_01	Cre03.g189200.t1.2	+	Cre03.g189800.t1.2	-	chromosome_3	FORWARD	11
+2508311699	-	2508311700	-	Chr_02	Cre03.g206600.t1.2	+	Cre03.g207150.t1.1	+	chromosome_3	REVERSE	12
+2508312287	-	2508312288	+	Chr_02	Cre09.g397105.t1.1	-	Cre09.g398289.t1.1	+	chromosome_9	FORWARD	31
+2508315269	-	2508315271	+	Chr_06	Cre09.g396139.t1.1	+	Cre09.g394954.t1.1	-	chromosome_9	REVERSE	34
+2508315702	+	2508315703	-	Chr_06	Cre14.g620350.t1.2	+	Cre14.g620951.t1.1	-	chromosome_14	FORWARD	10
+2508317856	+	2508317859	+	Chr_10	Cre12.g542800.t1.2	-	Cre12.g542950.t1.1	-	chromosome_12	REVERSE	2
+2508318748	+	2508318749	-	Chr_11	Cre10.g436500.t1.2	+	Cre10.g438050.t1.1	-	chromosome_10	FORWARD	30
+2508319454	-	2508319460	+	Chr_13	Cre03.g184900.t1.2	+	Cre03.g183500.t1.2	-	chromosome_3	REVERSE	28

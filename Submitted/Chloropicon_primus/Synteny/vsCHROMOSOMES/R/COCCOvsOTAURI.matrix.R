@@ -1,0 +1,16 @@
+#!/usr/bin/Rscript
+library(ComplexHeatmap)
+library(RColorBrewer)
+library(methods)
+message ("Plotting COCCOvsOTAURI.matrix...")
+colors <- colorRampPalette(c("white", "blue", "magenta"))(n = 300)
+ht_global_opt(heatmap_row_names_gp = gpar(fontsize = 8, fontface = "italic"), heatmap_column_names_gp = gpar(fontsize = 8), heatmap_column_title_gp = gpar(fontsize = 12))
+pdf(file="COCCOvsOTAURI.matrix.pdf", useDingbats=FALSE, width=5, height=4)
+COCCOvsOTAURI <- read.csv("COCCOvsOTAURI.matrix", header=TRUE)
+rownames(COCCOvsOTAURI) <- COCCOvsOTAURI[,1]
+colnames(COCCOvsOTAURI)
+data_COCCOvsOTAURI <- data.matrix(COCCOvsOTAURI[,2:ncol(COCCOvsOTAURI)])
+ht_COCCOvsOTAURI = Heatmap(data_COCCOvsOTAURI, name = "COCCOvsOTAURI", width = unit(66, "mm"), cluster_rows = FALSE, cluster_columns = FALSE, rect_gp = gpar(col = "white", lty = 1, lwd = 1), column_title = "COCCOvsOTAURImatrix", col = colors)
+class(ht_COCCOvsOTAURI)
+draw(ht_COCCOvsOTAURI, heatmap_legend_side = "right")
+dev.off()

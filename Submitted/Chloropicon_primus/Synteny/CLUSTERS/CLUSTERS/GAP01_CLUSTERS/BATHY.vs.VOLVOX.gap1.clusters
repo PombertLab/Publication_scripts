@@ -1,0 +1,2 @@
+##Query_QA	Strand_QA	Query_QB	Strand_QB	Query_contig	Subject_SA	Strand_SA	Subject_SB	Strand_SB	Subject_contig	Relative_orientation	Genes_in-between
+Bathy05g04030	-	Bathy05g04060	+	FO082274.1	XP_002948310.1	-	XP_002948168.1	+	NW_003307552.1	FORWARD	1

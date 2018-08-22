@@ -1,0 +1,16 @@
+#!/usr/bin/Rscript
+library(ComplexHeatmap)
+library(RColorBrewer)
+library(methods)
+message ("Plotting BATHYvsCOCCO.matrix...")
+colors <- colorRampPalette(c("white", "blue", "magenta"))(n = 300)
+ht_global_opt(heatmap_row_names_gp = gpar(fontsize = 8, fontface = "italic"), heatmap_column_names_gp = gpar(fontsize = 8), heatmap_column_title_gp = gpar(fontsize = 12))
+pdf(file="BATHYvsCOCCO.matrix.pdf", useDingbats=FALSE, width=6, height=4)
+BATHYvsCOCCO <- read.csv("BATHYvsCOCCO.matrix", header=TRUE)
+rownames(BATHYvsCOCCO) <- BATHYvsCOCCO[,1]
+colnames(BATHYvsCOCCO)
+data_BATHYvsCOCCO <- data.matrix(BATHYvsCOCCO[,2:ncol(BATHYvsCOCCO)])
+ht_BATHYvsCOCCO = Heatmap(data_BATHYvsCOCCO, name = "BATHYvsCOCCO", width = unit(87, "mm"), cluster_rows = FALSE, cluster_columns = FALSE, rect_gp = gpar(col = "white", lty = 1, lwd = 1), column_title = "BATHYvsCOCCOmatrix", col = colors)
+class(ht_BATHYvsCOCCO)
+draw(ht_BATHYvsCOCCO, heatmap_legend_side = "right")
+dev.off()

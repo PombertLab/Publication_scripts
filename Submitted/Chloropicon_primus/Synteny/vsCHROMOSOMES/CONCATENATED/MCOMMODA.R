@@ -1,0 +1,53 @@
+#!/usr/bin/Rscript
+library(ComplexHeatmap)
+library(RColorBrewer)
+library(methods)
+library(circlize)
+colors <- colorRamp2(c(0, 20, 40, 60, 80, 100), c("white", "yellow", "lightblue", "blue", "magenta", "red"))
+ht_global_opt(heatmap_row_names_gp = gpar(fontsize = 1, fontface = "italic"), heatmap_column_names_gp = gpar(fontsize = 1), heatmap_column_title_gp = gpar(fontsize = 1))
+MCOMMODAvsBATHY <- read.csv("MCOMMODAvsBATHY.matrix", header=TRUE)
+rownames(MCOMMODAvsBATHY) <- MCOMMODAvsBATHY[,1]
+colnames(MCOMMODAvsBATHY)
+data_MCOMMODAvsBATHY <- data.matrix(MCOMMODAvsBATHY[,2:ncol(MCOMMODAvsBATHY)])
+ht_MCOMMODAvsBATHY = Heatmap(data_MCOMMODAvsBATHY, name = "MCOMMODAvsBATHY", width = unit(57, "mm"), show_row_names = FALSE, cluster_rows = FALSE, cluster_columns = FALSE, rect_gp = gpar(col = "white", lty = 1, lwd = 0.01),column_title = "MCOMMODAvsBATHY", col = colors)
+class(ht_MCOMMODAvsBATHY)
+MCOMMODAvsCCMP <- read.csv("MCOMMODAvsCCMP.matrix", header=TRUE)
+rownames(MCOMMODAvsCCMP) <- MCOMMODAvsCCMP[,1]
+colnames(MCOMMODAvsCCMP)
+data_MCOMMODAvsCCMP <- data.matrix(MCOMMODAvsCCMP[,2:ncol(MCOMMODAvsCCMP)])
+ht_MCOMMODAvsCCMP = Heatmap(data_MCOMMODAvsCCMP, name = "MCOMMODAvsCCMP", width = unit(60, "mm"), show_row_names = FALSE, cluster_rows = FALSE, cluster_columns = FALSE, rect_gp = gpar(col = "white", lty = 1, lwd = 0.01),column_title = "MCOMMODAvsCCMP", col = colors)
+class(ht_MCOMMODAvsCCMP)
+MCOMMODAvsCOCCO <- read.csv("MCOMMODAvsCOCCO.matrix", header=TRUE)
+rownames(MCOMMODAvsCOCCO) <- MCOMMODAvsCOCCO[,1]
+colnames(MCOMMODAvsCOCCO)
+data_MCOMMODAvsCOCCO <- data.matrix(MCOMMODAvsCOCCO[,2:ncol(MCOMMODAvsCOCCO)])
+ht_MCOMMODAvsCOCCO = Heatmap(data_MCOMMODAvsCOCCO, name = "MCOMMODAvsCOCCO", width = unit(87, "mm"), show_row_names = FALSE, cluster_rows = FALSE, cluster_columns = FALSE, rect_gp = gpar(col = "white", lty = 1, lwd = 0.01),column_title = "MCOMMODAvsCOCCO", col = colors)
+class(ht_MCOMMODAvsCOCCO)
+MCOMMODAvsMCOMMODA <- read.csv("MCOMMODAvsMCOMMODA.matrix", header=TRUE)
+rownames(MCOMMODAvsMCOMMODA) <- MCOMMODAvsMCOMMODA[,1]
+colnames(MCOMMODAvsMCOMMODA)
+data_MCOMMODAvsMCOMMODA <- data.matrix(MCOMMODAvsMCOMMODA[,2:ncol(MCOMMODAvsMCOMMODA)])
+ht_MCOMMODAvsMCOMMODA = Heatmap(data_MCOMMODAvsMCOMMODA, name = "MCOMMODAvsMCOMMODA", width = unit(51, "mm"), show_row_names = FALSE, cluster_rows = FALSE, cluster_columns = FALSE, rect_gp = gpar(col = "white", lty = 1, lwd = 0.01),column_title = "MCOMMODAvsMCOMMODA", col = colors)
+class(ht_MCOMMODAvsMCOMMODA)
+MCOMMODAvsMPUSI <- read.csv("MCOMMODAvsMPUSI.matrix", header=TRUE)
+rownames(MCOMMODAvsMPUSI) <- MCOMMODAvsMPUSI[,1]
+colnames(MCOMMODAvsMPUSI)
+data_MCOMMODAvsMPUSI <- data.matrix(MCOMMODAvsMPUSI[,2:ncol(MCOMMODAvsMPUSI)])
+ht_MCOMMODAvsMPUSI = Heatmap(data_MCOMMODAvsMPUSI, name = "MCOMMODAvsMPUSI", width = unit(60, "mm"), show_row_names = FALSE, cluster_rows = FALSE, cluster_columns = FALSE, rect_gp = gpar(col = "white", lty = 1, lwd = 0.01),column_title = "MCOMMODAvsMPUSI", col = colors)
+class(ht_MCOMMODAvsMPUSI)
+MCOMMODAvsOLUCI <- read.csv("MCOMMODAvsOLUCI.matrix", header=TRUE)
+rownames(MCOMMODAvsOLUCI) <- MCOMMODAvsOLUCI[,1]
+colnames(MCOMMODAvsOLUCI)
+data_MCOMMODAvsOLUCI <- data.matrix(MCOMMODAvsOLUCI[,2:ncol(MCOMMODAvsOLUCI)])
+ht_MCOMMODAvsOLUCI = Heatmap(data_MCOMMODAvsOLUCI, name = "MCOMMODAvsOLUCI", width = unit(63, "mm"), show_row_names = FALSE, cluster_rows = FALSE, cluster_columns = FALSE, rect_gp = gpar(col = "white", lty = 1, lwd = 0.01),column_title = "MCOMMODAvsOLUCI", col = colors)
+class(ht_MCOMMODAvsOLUCI)
+MCOMMODAvsOTAURI <- read.csv("MCOMMODAvsOTAURI.matrix", header=TRUE)
+rownames(MCOMMODAvsOTAURI) <- MCOMMODAvsOTAURI[,1]
+colnames(MCOMMODAvsOTAURI)
+data_MCOMMODAvsOTAURI <- data.matrix(MCOMMODAvsOTAURI[,2:ncol(MCOMMODAvsOTAURI)])
+ht_MCOMMODAvsOTAURI = Heatmap(data_MCOMMODAvsOTAURI, name = "MCOMMODAvsOTAURI", width = unit(66, "mm"), show_row_names = TRUE, cluster_rows = FALSE, cluster_columns = FALSE, rect_gp = gpar(col = "white", lty = 1, lwd = 0.01),column_title = "MCOMMODAvsOTAURI", col = colors)
+class(ht_MCOMMODAvsOTAURI)
+pdf(file="MCOMMODA.pdf", useDingbats=FALSE, width=23, height=5)
+ht_list = ht_MCOMMODAvsBATHY + ht_MCOMMODAvsCCMP + ht_MCOMMODAvsCOCCO + ht_MCOMMODAvsMCOMMODA + ht_MCOMMODAvsMPUSI + ht_MCOMMODAvsOLUCI + ht_MCOMMODAvsOTAURI 
+draw(ht_list, gap = unit(0.75, "mm"), heatmap_legend_side = "bottom")
+dev.off()

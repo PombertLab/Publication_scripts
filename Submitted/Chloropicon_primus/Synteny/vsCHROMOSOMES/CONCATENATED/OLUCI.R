@@ -1,0 +1,53 @@
+#!/usr/bin/Rscript
+library(ComplexHeatmap)
+library(RColorBrewer)
+library(methods)
+library(circlize)
+colors <- colorRamp2(c(0, 20, 40, 60, 80, 100), c("white", "yellow", "lightblue", "blue", "magenta", "red"))
+ht_global_opt(heatmap_row_names_gp = gpar(fontsize = 1, fontface = "italic"), heatmap_column_names_gp = gpar(fontsize = 1), heatmap_column_title_gp = gpar(fontsize = 1))
+OLUCIvsBATHY <- read.csv("OLUCIvsBATHY.matrix", header=TRUE)
+rownames(OLUCIvsBATHY) <- OLUCIvsBATHY[,1]
+colnames(OLUCIvsBATHY)
+data_OLUCIvsBATHY <- data.matrix(OLUCIvsBATHY[,2:ncol(OLUCIvsBATHY)])
+ht_OLUCIvsBATHY = Heatmap(data_OLUCIvsBATHY, name = "OLUCIvsBATHY", width = unit(57, "mm"), show_row_names = FALSE, cluster_rows = FALSE, cluster_columns = FALSE, rect_gp = gpar(col = "white", lty = 1, lwd = 0.01),column_title = "OLUCIvsBATHY", col = colors)
+class(ht_OLUCIvsBATHY)
+OLUCIvsCCMP <- read.csv("OLUCIvsCCMP.matrix", header=TRUE)
+rownames(OLUCIvsCCMP) <- OLUCIvsCCMP[,1]
+colnames(OLUCIvsCCMP)
+data_OLUCIvsCCMP <- data.matrix(OLUCIvsCCMP[,2:ncol(OLUCIvsCCMP)])
+ht_OLUCIvsCCMP = Heatmap(data_OLUCIvsCCMP, name = "OLUCIvsCCMP", width = unit(60, "mm"), show_row_names = FALSE, cluster_rows = FALSE, cluster_columns = FALSE, rect_gp = gpar(col = "white", lty = 1, lwd = 0.01),column_title = "OLUCIvsCCMP", col = colors)
+class(ht_OLUCIvsCCMP)
+OLUCIvsCOCCO <- read.csv("OLUCIvsCOCCO.matrix", header=TRUE)
+rownames(OLUCIvsCOCCO) <- OLUCIvsCOCCO[,1]
+colnames(OLUCIvsCOCCO)
+data_OLUCIvsCOCCO <- data.matrix(OLUCIvsCOCCO[,2:ncol(OLUCIvsCOCCO)])
+ht_OLUCIvsCOCCO = Heatmap(data_OLUCIvsCOCCO, name = "OLUCIvsCOCCO", width = unit(87, "mm"), show_row_names = FALSE, cluster_rows = FALSE, cluster_columns = FALSE, rect_gp = gpar(col = "white", lty = 1, lwd = 0.01),column_title = "OLUCIvsCOCCO", col = colors)
+class(ht_OLUCIvsCOCCO)
+OLUCIvsMCOMMODA <- read.csv("OLUCIvsMCOMMODA.matrix", header=TRUE)
+rownames(OLUCIvsMCOMMODA) <- OLUCIvsMCOMMODA[,1]
+colnames(OLUCIvsMCOMMODA)
+data_OLUCIvsMCOMMODA <- data.matrix(OLUCIvsMCOMMODA[,2:ncol(OLUCIvsMCOMMODA)])
+ht_OLUCIvsMCOMMODA = Heatmap(data_OLUCIvsMCOMMODA, name = "OLUCIvsMCOMMODA", width = unit(51, "mm"), show_row_names = FALSE, cluster_rows = FALSE, cluster_columns = FALSE, rect_gp = gpar(col = "white", lty = 1, lwd = 0.01),column_title = "OLUCIvsMCOMMODA", col = colors)
+class(ht_OLUCIvsMCOMMODA)
+OLUCIvsMPUSI <- read.csv("OLUCIvsMPUSI.matrix", header=TRUE)
+rownames(OLUCIvsMPUSI) <- OLUCIvsMPUSI[,1]
+colnames(OLUCIvsMPUSI)
+data_OLUCIvsMPUSI <- data.matrix(OLUCIvsMPUSI[,2:ncol(OLUCIvsMPUSI)])
+ht_OLUCIvsMPUSI = Heatmap(data_OLUCIvsMPUSI, name = "OLUCIvsMPUSI", width = unit(60, "mm"), show_row_names = FALSE, cluster_rows = FALSE, cluster_columns = FALSE, rect_gp = gpar(col = "white", lty = 1, lwd = 0.01),column_title = "OLUCIvsMPUSI", col = colors)
+class(ht_OLUCIvsMPUSI)
+OLUCIvsOLUCI <- read.csv("OLUCIvsOLUCI.matrix", header=TRUE)
+rownames(OLUCIvsOLUCI) <- OLUCIvsOLUCI[,1]
+colnames(OLUCIvsOLUCI)
+data_OLUCIvsOLUCI <- data.matrix(OLUCIvsOLUCI[,2:ncol(OLUCIvsOLUCI)])
+ht_OLUCIvsOLUCI = Heatmap(data_OLUCIvsOLUCI, name = "OLUCIvsOLUCI", width = unit(63, "mm"), show_row_names = FALSE, cluster_rows = FALSE, cluster_columns = FALSE, rect_gp = gpar(col = "white", lty = 1, lwd = 0.01),column_title = "OLUCIvsOLUCI", col = colors)
+class(ht_OLUCIvsOLUCI)
+OLUCIvsOTAURI <- read.csv("OLUCIvsOTAURI.matrix", header=TRUE)
+rownames(OLUCIvsOTAURI) <- OLUCIvsOTAURI[,1]
+colnames(OLUCIvsOTAURI)
+data_OLUCIvsOTAURI <- data.matrix(OLUCIvsOTAURI[,2:ncol(OLUCIvsOTAURI)])
+ht_OLUCIvsOTAURI = Heatmap(data_OLUCIvsOTAURI, name = "OLUCIvsOTAURI", width = unit(66, "mm"), show_row_names = TRUE, cluster_rows = FALSE, cluster_columns = FALSE, rect_gp = gpar(col = "white", lty = 1, lwd = 0.01),column_title = "OLUCIvsOTAURI", col = colors)
+class(ht_OLUCIvsOTAURI)
+pdf(file="OLUCI.pdf", useDingbats=FALSE, width=23, height=5)
+ht_list = ht_OLUCIvsBATHY + ht_OLUCIvsCCMP + ht_OLUCIvsCOCCO + ht_OLUCIvsMCOMMODA + ht_OLUCIvsMPUSI + ht_OLUCIvsOLUCI + ht_OLUCIvsOTAURI 
+draw(ht_list, gap = unit(0.75, "mm"), heatmap_legend_side = "bottom")
+dev.off()

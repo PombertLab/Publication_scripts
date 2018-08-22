@@ -1,0 +1,15 @@
+##Query_QA	Strand_QA	Query_QB	Strand_QB	Query_contig	Subject_SA	Strand_SA	Subject_SB	Strand_SB	Subject_contig	Relative_orientation	Genes_in-between
+380	+	381	-	scaffold_1	A3770_03p22340	+	A3770_03p22350	-	Chromosome_03	FORWARD	0
+417	-	418	+	scaffold_1	A3770_03p20470	-	A3770_03p20480	+	Chromosome_03	FORWARD	0
+439	+	440	+	scaffold_1	A3770_15p73640	-	A3770_15p73620	-	Chromosome_15	REVERSE	1
+2565	+	2567	+	scaffold_13	A3770_10p59430	+	A3770_10p59450	+	Chromosome_10	FORWARD	1
+3143	+	3144	+	scaffold_15	A3770_05p39910	-	A3770_05p39900	-	Chromosome_05	REVERSE	0
+4030	+	4031	-	scaffold_17	A3770_01p07510	-	A3770_01p07500	+	Chromosome_01	REVERSE	0
+5271	+	5272	-	scaffold_3	A3770_04p32730	+	A3770_04p32770	-	Chromosome_04	FORWARD	3
+5945	+	5946	-	scaffold_3	A3770_10p60730	+	A3770_10p60740	-	Chromosome_10	FORWARD	0
+6433	+	6434	-	scaffold_4	A3770_10p59120	-	A3770_10p59080	+	Chromosome_10	REVERSE	3
+6823	-	6824	+	scaffold_4	A3770_02p11790	-	A3770_02p11800	+	Chromosome_02	FORWARD	0
+6826	+	6827	-	scaffold_4	A3770_02p11760	+	A3770_02p11770	-	Chromosome_02	FORWARD	0
+7235	-	7236	+	scaffold_5	A3770_03p20480	+	A3770_03p20470	-	Chromosome_03	REVERSE	0
+7879	-	7880	+	scaffold_6	A3770_03p20500	+	A3770_03p20490	-	Chromosome_03	REVERSE	0
+8570	+	8571	+	scaffold_7	A3770_10p58360	+	A3770_10p58370	+	Chromosome_10	FORWARD	0

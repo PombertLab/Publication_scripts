@@ -1,0 +1,15 @@
+for k in {BATHY,CCMP,COCCO,MCOMMODA,MPUSI,OLUCI,OTAURI}; do ./get_matrix.pl VERSUS/BATHY.vs.$k.txt METRICS/BATHY.vs.$k.txt.metrics ../LISTS/$k.list BATHYvs$k.matrix; done
+for k in {BATHY,CCMP,COCCO,MCOMMODA,MPUSI,OLUCI,OTAURI}; do ./get_matrix.pl VERSUS/CCMP.vs.$k.txt METRICS/CCMP.vs.$k.txt.metrics ../LISTS/$k.list CCMPvs$k.matrix; done
+for k in {BATHY,CCMP,COCCO,MCOMMODA,MPUSI,OLUCI,OTAURI}; do ./get_matrix.pl VERSUS/COCCO.vs.$k.txt METRICS/COCCO.vs.$k.txt.metrics ../LISTS/$k.list COCCOvs$k.matrix; done
+for k in {BATHY,CCMP,COCCO,MCOMMODA,MPUSI,OLUCI,OTAURI}; do ./get_matrix.pl VERSUS/MCOMMODA.vs.$k.txt METRICS/MCOMMODA.vs.$k.txt.metrics ../LISTS/$k.list MCOMMODAvs$k.matrix; done
+for k in {BATHY,CCMP,COCCO,MCOMMODA,MPUSI,OLUCI,OTAURI}; do ./get_matrix.pl VERSUS/MPUSI.vs.$k.txt METRICS/MPUSI.vs.$k.txt.metrics ../LISTS/$k.list MPUSIvs$k.matrix; done
+for k in {BATHY,CCMP,COCCO,MCOMMODA,MPUSI,OLUCI,OTAURI}; do ./get_matrix.pl VERSUS/OLUCI.vs.$k.txt METRICS/OLUCI.vs.$k.txt.metrics ../LISTS/$k.list OLUCIvs$k.matrix; done
+for k in {BATHY,CCMP,COCCO,MCOMMODA,MPUSI,OLUCI,OTAURI}; do ./get_matrix.pl VERSUS/OTAURI.vs.$k.txt METRICS/OTAURI.vs.$k.txt.metrics ../LISTS/$k.list OTAURIvs$k.matrix; done
+
+../../Matrix_plotter.pl -i *.matrix -f pdf
+
+mkdir R; mv *.R R/
+mkdir MATRIX; mv *.matrix MATRIX/
+mkdir PDF; mv *.pdf PDF/
+
+

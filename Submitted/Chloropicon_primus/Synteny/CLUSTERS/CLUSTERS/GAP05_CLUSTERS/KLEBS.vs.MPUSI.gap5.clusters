@@ -1,0 +1,6 @@
+##Query_QA	Strand_QA	Query_QB	Strand_QB	Query_contig	Subject_SA	Strand_SA	Subject_SB	Strand_SB	Subject_contig	Relative_orientation	Genes_in-between
+GAQ78052.1	+	GAQ78056.1	-	DF236956.1	9662	-	9658	+	scaffold_9	REVERSE	3
+GAQ78586.1	-	GAQ78587.1	+	DF236964.1	9724	-	9725	+	scaffold_9	FORWARD	0
+GAQ84712.1	-	GAQ84713.1	+	DF237151.1	6824	+	6823	-	scaffold_4	REVERSE	0
+GAQ85374.1	+	GAQ85375.1	-	DF237181.1	3936	-	3934	+	scaffold_17	REVERSE	1
+GAQ90353.1	-	GAQ90354.1	+	DF237580.1	2714	+	2713	-	scaffold_13	REVERSE	0

@@ -1,0 +1,4 @@
+##Query_QA	Strand_QA	Query_QB	Strand_QB	Query_contig	Subject_SA	Strand_SA	Subject_SB	Strand_SB	Subject_contig	Relative_orientation	Genes_in-between
+89243	-	89244	-	Chr_15	XP_011400889.1	+	XP_011400888.1	+	NW_011934370.1	REVERSE	0
+31087	+	14967	+	Chr_4	XP_011397977.1	-	XP_011397976.1	-	NW_011934213.1	REVERSE	0
+35503	-	32569	+	Chr_7	XP_011396724.1	-	XP_011396734.1	+	NW_011934187.1	FORWARD	9

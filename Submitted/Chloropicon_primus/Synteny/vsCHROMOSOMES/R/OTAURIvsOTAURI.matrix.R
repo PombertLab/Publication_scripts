@@ -1,0 +1,16 @@
+#!/usr/bin/Rscript
+library(ComplexHeatmap)
+library(RColorBrewer)
+library(methods)
+message ("Plotting OTAURIvsOTAURI.matrix...")
+colors <- colorRampPalette(c("white", "blue", "magenta"))(n = 300)
+ht_global_opt(heatmap_row_names_gp = gpar(fontsize = 8, fontface = "italic"), heatmap_column_names_gp = gpar(fontsize = 8), heatmap_column_title_gp = gpar(fontsize = 12))
+pdf(file="OTAURIvsOTAURI.matrix.pdf", useDingbats=FALSE, width=5, height=4)
+OTAURIvsOTAURI <- read.csv("OTAURIvsOTAURI.matrix", header=TRUE)
+rownames(OTAURIvsOTAURI) <- OTAURIvsOTAURI[,1]
+colnames(OTAURIvsOTAURI)
+data_OTAURIvsOTAURI <- data.matrix(OTAURIvsOTAURI[,2:ncol(OTAURIvsOTAURI)])
+ht_OTAURIvsOTAURI = Heatmap(data_OTAURIvsOTAURI, name = "OTAURIvsOTAURI", width = unit(66, "mm"), cluster_rows = FALSE, cluster_columns = FALSE, rect_gp = gpar(col = "white", lty = 1, lwd = 1), column_title = "OTAURIvsOTAURImatrix", col = colors)
+class(ht_OTAURIvsOTAURI)
+draw(ht_OTAURIvsOTAURI, heatmap_legend_side = "right")
+dev.off()

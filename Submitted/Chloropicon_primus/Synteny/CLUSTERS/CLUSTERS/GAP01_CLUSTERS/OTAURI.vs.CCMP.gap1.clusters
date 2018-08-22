@@ -1,0 +1,3 @@
+##Query_QA	Strand_QA	Query_QB	Strand_QB	Query_contig	Subject_SA	Strand_SA	Subject_SB	Strand_SB	Subject_contig	Relative_orientation	Genes_in-between
+XP_003075220.1	+	XP_003075221.1	-	NC_014427.1	A3770_10p60740	-	A3770_10p60730	+	Chromosome_10	REVERSE	0
+XP_003084183.1	+	XP_003084184.1	-	NC_014443.1	A3770_01p07510	-	A3770_01p07500	+	Chromosome_01	REVERSE	0

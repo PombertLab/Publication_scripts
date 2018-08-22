@@ -1,0 +1,4 @@
+##Query_QA	Strand_QA	Query_QB	Strand_QB	Query_contig	Subject_SA	Strand_SA	Subject_SB	Strand_SB	Subject_contig	Relative_orientation	Genes_in-between
+KXZ53572.1	+	KXZ53575.1	-	LSYV01000007.1	35077	+	33504	-	Chr_9	FORWARD	4
+KXZ49558.1	-	KXZ49738.1	+	LSYV01000021.1	26062	+	37938	-	Chr_10	REVERSE	3
+KXZ42582.1	+	KXZ42583.1	+	LSYV01000132.1	30510	-	92416	-	Chr_3	REVERSE	0

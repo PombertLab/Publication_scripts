@@ -1,0 +1,6 @@
+##Query_QA	Strand_QA	Query_QB	Strand_QB	Query_contig	Subject_SA	Strand_SA	Subject_SB	Strand_SB	Subject_contig	Relative_orientation	Genes_in-between
+Cre12.g504550.t1.2	-	Cre12.g504500.t1.2	+	chromosome_12	XP_003080759.1	+	XP_003080758.1	-	NC_014433.1	REVERSE	0
+Cre12.g530800.t1.1	-	Cre12.g530900.t1.2	+	chromosome_12	XP_003081614.1	+	XP_003081612.1	-	NC_014435.1	REVERSE	1
+Cre12.g538850.t1.1	-	Cre12.g538900.t1.2	-	chromosome_12	XP_003084061.1	+	XP_003084060.1	+	NC_014443.1	REVERSE	0
+Cre13.g605000.t1.1	-	Cre13.g605050.t1.1	+	chromosome_13	XP_003083111.1	-	XP_003083112.1	+	NC_014439.1	FORWARD	0
+Cre06.g271350.t1.2	-	Cre06.g271376.t1.1	+	chromosome_6	XP_003080758.1	-	XP_003080759.1	+	NC_014433.1	FORWARD	0

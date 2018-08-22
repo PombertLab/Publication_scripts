@@ -1,0 +1,8 @@
+##Query_QA	Strand_QA	Query_QB	Strand_QB	Query_contig	Subject_SA	Strand_SA	Subject_SB	Strand_SB	Subject_contig	Relative_orientation	Genes_in-between
+A3770_01p01970	+	A3770_01p01980	-	Chromosome_01	Cre12.g508900.t1.2	-	Cre12.g509050.t1.1	+	chromosome_12	REVERSE	2
+A3770_01p05410	+	A3770_01p05420	-	Chromosome_01	Cre03.g187200.t1.2	-	Cre03.g187150.t1.1	+	chromosome_3	REVERSE	0
+A3770_03p21560	-	A3770_03p21570	-	Chromosome_03	Cre10.g465950.t1.2	-	Cre10.g466000.t1.2	-	chromosome_10	FORWARD	0
+A3770_06p46040	-	A3770_06p46050	+	Chromosome_06	Cre02.g080650.t1.2	-	Cre02.g080700.t1.2	+	chromosome_2	FORWARD	0
+A3770_10p58360	+	A3770_10p58370	+	Chromosome_10	Cre08.g370300.t1.2	-	Cre08.g370250.t2.1	-	chromosome_8	REVERSE	0
+A3770_14p72520	+	A3770_14p72530	-	Chromosome_14	Cre06.g300100.t1.2	+	Cre06.g300200.t1.2	-	chromosome_6	FORWARD	4
+A3770_14p73040	+	A3770_14p73060	+	Chromosome_14	Cre06.g300750.t1.1	+	Cre06.g300800.t1.2	+	chromosome_6	FORWARD	0

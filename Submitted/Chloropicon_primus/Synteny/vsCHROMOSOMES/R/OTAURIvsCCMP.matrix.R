@@ -1,0 +1,16 @@
+#!/usr/bin/Rscript
+library(ComplexHeatmap)
+library(RColorBrewer)
+library(methods)
+message ("Plotting OTAURIvsCCMP.matrix...")
+colors <- colorRampPalette(c("white", "blue", "magenta"))(n = 300)
+ht_global_opt(heatmap_row_names_gp = gpar(fontsize = 8, fontface = "italic"), heatmap_column_names_gp = gpar(fontsize = 8), heatmap_column_title_gp = gpar(fontsize = 12))
+pdf(file="OTAURIvsCCMP.matrix.pdf", useDingbats=FALSE, width=5, height=4)
+OTAURIvsCCMP <- read.csv("OTAURIvsCCMP.matrix", header=TRUE)
+rownames(OTAURIvsCCMP) <- OTAURIvsCCMP[,1]
+colnames(OTAURIvsCCMP)
+data_OTAURIvsCCMP <- data.matrix(OTAURIvsCCMP[,2:ncol(OTAURIvsCCMP)])
+ht_OTAURIvsCCMP = Heatmap(data_OTAURIvsCCMP, name = "OTAURIvsCCMP", width = unit(60, "mm"), cluster_rows = FALSE, cluster_columns = FALSE, rect_gp = gpar(col = "white", lty = 1, lwd = 1), column_title = "OTAURIvsCCMPmatrix", col = colors)
+class(ht_OTAURIvsCCMP)
+draw(ht_OTAURIvsCCMP, heatmap_legend_side = "right")
+dev.off()

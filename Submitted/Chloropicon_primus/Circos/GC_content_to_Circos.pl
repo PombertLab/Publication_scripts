@@ -1,42 +1,38 @@
 #!/usr/bin/perl
 ## Pombert Lab, 2017
+my $name = 'GC_content_to_Circos.pl';
+my $version = 0.1;
 
-use strict;
-use warnings;
-use Getopt::Long qw(GetOptions);
+use strict; use warnings; use Getopt::Long qw(GetOptions);
 
-my $usage = "USAGE = GC_content_to_Circos.pl -f *.fasta";
-die "\n$usage\t# Type -h for help\n\n" unless @ARGV;
+my $options = <<"OPTIONS";
 
-my $options = <<'OPTIONS';
+NAME		$name
+VERSION		$version
+SYNOPSIS	Calculates GC content across chromosomes using sliding windows to plot with Circos
+EXAMPLE		GC_content_to_Circos.pl -f *.fasta -s 500 -w 1000
 
-EXAMPLE: GC_content_to_Circos.pl -f *.fasta -s 500 -w 1000
-
--h (-help)	Displays list of options	
+OPTIONS:
 -f (--fasta)	Input files in fasta format
 -o (--ouput)	Output file names prefix [Default: genome]
 -c (--color)	Color for genotype [Default: black]
 -s (--step)	Size of the steps between windows [Default: 500]
 -w (--window)	Width of the sliding windows [Default: 1000]
-
 OPTIONS
+die "$options\n" unless @ARGV;
 
-my $help;
 my @fasta;
 my $output = 'genome';
 my $color = 'black';
 my $slide = 500; my $window = 1000;
 
 GetOptions(
-	'h|help' => \$help,
 	'f|fasta=s@{1,}' => \@fasta,
 	'o|ouput=s' => \$output,
 	'c|color=s' => \$color,
 	's|slide=i' => \$slide,
 	'w|window=i' => \$window
 );
-
-die $options if $help;
 
 my %sequences;
 my @seq_list;

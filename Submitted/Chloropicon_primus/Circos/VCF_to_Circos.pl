@@ -1,42 +1,38 @@
 #!/usr/bin/perl
 ## Pombert Lab, 2017
+my $name = 'VCF_to_Circos.pl';
+my $version = 0.1;
 
-use strict;
-use warnings;
-use Getopt::Long qw(GetOptions);
+use strict; use warnings; use Getopt::Long qw(GetOptions);
 
-my $usage = "USAGE = VCF_to_Circos.pl -v *.vcf -f *.fasta";
-die "\n$usage\t# Type -h for help\n\n" unless @ARGV;
+my $options = <<"OPTIONS";
 
-my $options = <<'OPTIONS';
+NAME		$name
+VERSION		$version
+SYNOPSIS	Generates variants distribution from VarScan2 VCF files using sliding windows to plot with Circos
+EXAMPLE		VCF_to_Circos.pl -v *.vcf -f *.fasta
 
-EXAMPLE: VCF_to_Circos.pl -v *.vcf -f *.fasta
-
--h (-help)	Displays list of options	
+OPTIONS:
 -f (--fasta)	Input files in fasta format
 -o (--ouput)	Output file names prefix [Default: genome]
 -v (--vcf)	Input files in vcf format
 -s (--step)	Size of the steps between windows [Default: 500]
 -w (--window)	Width of the sliding windows [Default: 1000]
-
 OPTIONS
+die "$options\n" unless @ARGV;
 
-my $help;
 my @vcf;
 my @fasta;
 my $output = 'genome';
 my $slide = 500; my $window = 1000;
 
 GetOptions(
-	'h|help' => \$help,
 	'v|vcf=s@{1,}' => \@vcf,
 	'f|fasta=s@{1,}' => \@fasta,
 	'o|ouput=s' => \$output,
 	's|slide=i' => \$slide,
 	'w|window=i' => \$window
 );
-
-die $options if $help;
 
 ## Populating list of SNPs
 my %SNP;

@@ -1,11 +1,24 @@
 #!/usr/bin/perl
+## Pombert Lab, 2018
+my $name = 'Blast_to_Circos.pl';
+my $version = 0.1;
 
-use strict;
-use warnings;
-use Getopt::Long qw(GetOptions);
+use strict; use warnings; use Getopt::Long qw(GetOptions);
 
-my $usage = 'USAGE = Blast_to_Circos.pl -l genome.list -b file.blastp.6 -c red -e 1e-10';
-die "\n$usage\n\n" unless @ARGV;
+my $options = <<"OPTIONS";
+
+NAME		$name
+VERSION		$version
+SYNOPSIS	Generates highlights from BLAST hits that can be used as tracks for Circos
+EXAMPLE		Blast_to_Circos.pl -l genome.list -b file.blastp.6 -c red -e 1e-10
+
+OPTIONS:
+-l	List of locus_tags and their positions for Circos ## See genome.list
+-b	BLAST output (outfmt 6 format) of sequences from genome.list as queries
+-c	Desired color for the Circos highlights
+-e	Minimum BLAST E-value to plot [Default: 1e-10]
+OPTIONS
+die "$options\n" unless @ARGV;
 
 my $list;
 my @blast;

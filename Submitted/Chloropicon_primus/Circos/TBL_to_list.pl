@@ -1,33 +1,31 @@
 #!/usr/bin/perl
 ## Pombert Lab, 2017
+my $name = 'TBL_to_list.pl';
+my $version = 0.1;
 
-use strict;
-use warnings;
-use Getopt::Long qw(GetOptions);
+use strict; use warnings; use Getopt::Long qw(GetOptions);
 
-my $usage = "USAGE = TBL_to_list.pl -t *.tbl -ko *.ko.txt -o list";
-die "\n$usage\t# Type -h for help\n\n" unless @ARGV;
-my $options = <<'OPTIONS';
+my $options = <<"OPTIONS";
 
-EXAMPLE: TBL_to_list.pl -t *.tbl -o list
+NAME		$name
+VERSION		$version
+SYNOPSIS	Creates genome.list for Circos from TBL annotations
+EXAMPLE		TBL_to_list.pl -t *.tbl -ko *.ko.txt -o list
 
--h (--help)	Displays list of options	
--t (--tbl)		Input files in TBL format
+-t (--tbl)	Input files in TBL format
 -ko		KEGG orthologs found with GHOSTKOALA
--o (--ouput)	Output file name prefix [Default: genome]
-
+-o (--output)	Output file name prefix [Default: genome]
 OPTIONS
-my $help;
+die "$options\n" unless @ARGV;
+
 my @tbl;
 my @ko;
 my $output = 'genome';
 GetOptions(
-	'h|help' => \$help,
 	't|tbl=s@{1,}' => \@tbl,
 	'ko=s@{1,}' => \@ko,
-	'o|ouput=s' => \$output
+	'o|output=s' => \$output
 );
-die $options if $help;
 
 ## Creating KOs database
 my %KO;

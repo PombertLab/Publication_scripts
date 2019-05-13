@@ -1,11 +1,24 @@
 #!/usr/bin/perl
+## Pombert Lab, 2018
+my $name = 'mapping_KOs.pl';
+my $version = 0.1;
 
-use strict;
-use warnings;
-use Getopt::Long qw(GetOptions);
+use strict; use warnings; use Getopt::Long qw(GetOptions);
 
-my $usage = 'USAGE = mapping_KOs.pl -l genome.list -c red -ko 2.1_Transcription.ko';
-die "\n$usage\n\n" unless @ARGV;
+my $options = <<"OPTIONS";
+
+NAME		$name
+VERSION		$version
+SYNOPSIS	Creates Circos tracks for KEGG orthologs
+EXAMPLE		mapping_KOs.pl -l genome.list -c red -ko 2.1_Transcription.ko
+
+OPTIONS:
+-l	List of locus_tags and their positions for Circos ## See genome.list
+-c	Desired color for the Circos highlights
+-ko	KEGG orthology (.ko) reference file for desired pathway
+OPTIONS
+die "$options\n" unless @ARGV;
+
 
 my $ko;
 my $list;

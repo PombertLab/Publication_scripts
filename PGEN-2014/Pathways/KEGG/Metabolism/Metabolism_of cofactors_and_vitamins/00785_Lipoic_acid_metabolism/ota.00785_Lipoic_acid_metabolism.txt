@@ -1,4 +1,0 @@
-Ot05g03120  
-Lipoyltransferase (ISS); K03801 lipoyl(octanoyl) transferase [EC:2.3.1.181] [KO:K03801] [EC:2.3.1.181]
-Ot01g04560  
-lipoyltransferase (ISS); K03801 lipoyl(octanoyl) transferase [EC:2.3.1.181] [KO:K03801] [EC:2.3.1.181]

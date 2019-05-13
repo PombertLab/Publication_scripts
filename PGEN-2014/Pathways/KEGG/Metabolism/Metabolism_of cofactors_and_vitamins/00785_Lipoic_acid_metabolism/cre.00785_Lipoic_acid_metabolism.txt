@@ -1,8 +1,0 @@
-CHLREDRAFT_196092  
-LIPA2; lipoic acid synthetase [KO:K03644] [EC:2.8.1.8]
-CHLREDRAFT_194766  
-LIPA1; lipoic acid synthetase [KO:K03644] [EC:2.8.1.8]
-CHLREDRAFT_50452  
-hypothetical protein; K03801 lipoyl(octanoyl) transferase [EC:2.3.1.181] [KO:K03801] [EC:2.3.1.181]
-CHLREDRAFT_195940  
-LIPB; lipoate protein ligase [KO:K03801] [EC:2.3.1.181]

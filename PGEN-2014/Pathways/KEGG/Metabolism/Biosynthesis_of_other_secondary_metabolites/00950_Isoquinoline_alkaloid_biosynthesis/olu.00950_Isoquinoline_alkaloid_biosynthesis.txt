@@ -1,6 +1,0 @@
-OSTLU_31597  
-hypothetical protein; K14455 aspartate aminotransferase, mitochondrial [EC:2.6.1.1] [KO:K14455] [EC:2.6.1.1]
-OSTLU_89248  
-hypothetical protein; K15849 bifunctional aspartate aminotransferase and glutamate/aspartate-prephenate aminotransferase [EC:2.6.1.1 2.6.1.78 2.6.1.79] [KO:K15849] [EC:2.6.1.79 2.6.1.78 2.6.1.1]
-OSTLU_3820  
-hypothetical protein; K00815 tyrosine aminotransferase [EC:2.6.1.5] [KO:K00815] [EC:2.6.1.5]

@@ -1,4 +1,0 @@
-Ot02g04260  
-putative sphingosine-1-phosphate lyase (ISS); K01634 sphinganine-1-phosphate aldolase [EC:4.1.2.27] [KO:K01634] [EC:4.1.2.27]
-Ot07g03490  
-putative beta-galactosidase (ISS); K01190 beta-galactosidase [EC:3.2.1.23] [KO:K01190] [EC:3.2.1.23]

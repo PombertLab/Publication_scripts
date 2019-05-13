@@ -1,6 +1,0 @@
-VOLCADRAFT_115992  
-hypothetical protein; K01191 alpha-mannosidase [EC:3.2.1.24] [KO:K01191] [EC:3.2.1.24]
-VOLCADRAFT_118894  
-hypothetical protein; K01192 beta-mannosidase [EC:3.2.1.25] [KO:K01192] [EC:3.2.1.25]
-VOLCADRAFT_58694  
-hypothetical protein; K01227 mannosyl-glycoprotein endo-beta-N-acetylglucosaminidase [EC:3.2.1.96] [KO:K01227] [EC:3.2.1.96]

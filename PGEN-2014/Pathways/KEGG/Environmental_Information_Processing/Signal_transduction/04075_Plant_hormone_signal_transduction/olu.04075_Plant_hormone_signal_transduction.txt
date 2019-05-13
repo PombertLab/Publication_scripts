@@ -1,6 +1,0 @@
-OSTLU_5500  
-hypothetical protein; K14491 two-component response regulator ARR-B family [KO:K14491]
-OSTLU_28923  
-hypothetical protein; K14498 serine/threonine-protein kinase SRK2 [EC:2.7.11.1] [KO:K14498] [EC:2.7.11.1]
-OSTLU_86646  
-hypothetical protein; K14498 serine/threonine-protein kinase SRK2 [EC:2.7.11.1] [KO:K14498] [EC:2.7.11.1]

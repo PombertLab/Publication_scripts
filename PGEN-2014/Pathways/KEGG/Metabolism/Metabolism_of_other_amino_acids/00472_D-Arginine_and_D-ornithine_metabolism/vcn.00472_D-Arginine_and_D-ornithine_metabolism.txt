@@ -1,2 +1,0 @@
-VOLCADRAFT_69505  
-hypothetical protein; K00273 D-amino-acid oxidase [EC:1.4.3.3] [KO:K00273] [EC:1.4.3.3]

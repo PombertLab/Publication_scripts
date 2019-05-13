@@ -1,4 +1,0 @@
-Ot16g01320  
-OJ1695_H09.29 gene product (ISS); K14491 two-component response regulator ARR-B family [KO:K14491]
-Ot01g02880  
-Serine/threonine protein kinase (ISS); K14498 serine/threonine-protein kinase SRK2 [EC:2.7.11.1] [KO:K14498] [EC:2.7.11.1]

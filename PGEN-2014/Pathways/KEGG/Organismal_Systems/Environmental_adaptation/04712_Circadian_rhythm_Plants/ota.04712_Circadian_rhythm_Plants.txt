@@ -1,6 +1,0 @@
-Ot12g02620  
-putative casein kinase II catalytic (ISS); K03097 casein kinase II subunit alpha [EC:2.7.11.1] [KO:K03097] [EC:2.7.11.1]
-Ot02g03010  
-Ck2b; Ck2b protein kinase CK2, B regulatory subunit, probable (IC) [KO:K03115]
-Ot03g04840  
-COP1-like protein (ISS); K10143 E3 ubiquitin-protein ligase RFWD2 [EC:6.3.2.19] [KO:K10143] [EC:6.3.2.19]

@@ -1,6 +1,0 @@
-VOLCADRAFT_43591  
-hypothetical protein; K03644 lipoic acid synthetase [EC:2.8.1.8] [KO:K03644] [EC:2.8.1.8]
-VOLCADRAFT_65732  
-hypothetical protein; K03801 lipoyl(octanoyl) transferase [EC:2.3.1.181] [KO:K03801] [EC:2.3.1.181]
-VOLCADRAFT_59336  
-hypothetical protein; K03801 lipoyl(octanoyl) transferase [EC:2.3.1.181] [KO:K03801] [EC:2.3.1.181]

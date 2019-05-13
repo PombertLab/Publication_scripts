@@ -1,2 +1,0 @@
-CHLREDRAFT_118013  
-hypothetical protein; K01190 beta-galactosidase [EC:3.2.1.23] [KO:K01190] [EC:3.2.1.23]

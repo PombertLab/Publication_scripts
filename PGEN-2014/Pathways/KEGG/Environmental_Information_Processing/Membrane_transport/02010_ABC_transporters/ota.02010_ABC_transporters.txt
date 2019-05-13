@@ -1,8 +1,0 @@
-Ot18g01460  
-Lipid exporter ABCA1 and related proteins; K05641 ATP-binding cassette, subfamily A (ABC1), member 1 [KO:K05641]
-Ot01g04530  
-Multidrug/pheromone exporter; K05658 ATP-binding cassette, subfamily B (MDR/TAP), member 1 [KO:K05658]
-Ot13g00850  
-putative ABC transporter protein (ISS); K05663 mitochondrial ABC transporter ATM [KO:K05663]
-Ot02g06480  
-ATP-binding cassette; K05677 ATP-binding cassette, subfamily D (ALD), member 3 [KO:K05677]

@@ -1,17 +1,26 @@
 #!/usr/bin/perl
+## Pombert Lab, 2018
+my $name = 'parse_tcdb.pl';
+my $version = 0.1;
 
-use strict;
-use warnings;
-use Getopt::Long qw(GetOptions);
+use strict; use warnings; use Getopt::Long qw(GetOptions);
 
-my $usage = "EXAMPLE = parse_tcdb.pl -t tcdb.fasta -e 1e-10 -b *.blastp.6 -top 5
+my $options = <<"OPTIONS";
 
+NAME		$name
+VERSION		$version
+SYNOPSIS	Parses the output of blast queries performed against tcdb.fasta
+REQUIREMENTS	NCBI BLAST - ftp://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/
+		TCDB fasta sequences - http://www.tcdb.org/download.php
+USAGE		parse_tcdb.pl -t tcdb.fasta -e 1e-10 -b *.blastp.6 -top 5
+
+OPTIONS:
 -t	TCDB fasta file
 -e	Evalue cutoff
 -b	BLAST ouput [in outfmt 6 format]
 -top	Keep top X hits only [default = 1]
-";
-die "\n$usage\n" unless @ARGV;
+OPTIONS
+die "$options\n" unless @ARGV;
 
 my $tcdb;
 my $evalue = '1e-10';

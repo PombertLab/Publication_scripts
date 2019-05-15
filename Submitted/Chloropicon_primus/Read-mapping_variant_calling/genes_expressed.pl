@@ -1,24 +1,23 @@
 #!/usr/bin/perl
 ## Pombert lab 2018
-## Uses the output of RNAseq mapping, samtools, and EMBL annotations to identify which genes are expressed
-## v0.1
+my $version = 0.1;
+my $name = 'genes_expressed.pl';
 
-use strict;
-use warnings;
-use Getopt::Long qw(GetOptions);
+use strict; use warnings; use Getopt::Long qw(GetOptions);
 
-my $usage = <<'OPTIONS';
+my $usage = <<"OPTIONS";
 
-USAGE = genes_expressed.pl -c PASS.coverage -p Verified_products_ALL.list -o expressed_proteins.tsv e *.embl
+NAME		$name
+VERSION		$version
+SYNOPSIS	Uses the output of RNAseq mapping, samtools, and EMBL annotations to identify which genes are expressed
+USAGE		genes_expressed.pl -c PASS.coverage -p Verified_products_ALL.list -e *.embl -o expressed_proteins.tsv
 
 -c	Coverage file obtained with Samtools # samtools depth -aa PASS_sorted.bam > PASS.coverage
 -p	Product list (tab-delimited)
--o	Output file in TSV format [Default = expressed_proteins.tsv]
 -e	Annotations (in EMBL format)
-
+-o	Output file in TSV format [Default = expressed_proteins.tsv]
 OPTIONS
-
-die "$usage" unless @ARGV;
+die "$usage\n" unless @ARGV;
 
 my $coverage;
 my $products;

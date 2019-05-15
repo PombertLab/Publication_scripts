@@ -1,5 +1,18 @@
 #!/usr/bin/perl
-## Generates a product list from the NCBI faa files
+## Pombert Lab, 2017
+my $version = '0.1';
+my $name = 'getProducts.pl';
+
+
+## Defining options
+my $options = <<"OPTIONS";
+
+NAME		$name
+VERSION		$version
+SYNOPSIS	Generates a product list from the NCBI protein fasta files (*.faa)
+USAGE		getProducts.pl *.faa
+OPTIONS
+die "$options\n" unless @ARGV;
 
 while (my $file = shift@ARGV){
 	open IN, "<$file";

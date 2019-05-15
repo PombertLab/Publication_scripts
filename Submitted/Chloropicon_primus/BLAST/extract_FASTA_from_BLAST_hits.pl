@@ -1,30 +1,47 @@
 #!/usr/bin/perl
+## Pombert Lab, 2019
+my $version = '0.2';
+my $name = 'extract_FASTA_from_BLAST_hits.pl';
 
-use strict;
-use warnings;
+use strict; use warnings; use Getopt::Long qw(GetOptions);
 
-my $usage = "USAGE = perl extract_FASTA_from_BLAST_hits.pl db (e.g. nr) cutoff (e.g. 1e-05) blast_hit_files";
-die "$usage\n" unless@ARGV;
+## Defining options
+my $options = <<"OPTIONS";
 
-my $db = shift@ARGV;
-my $cutoff = shift@ARGV;
-my $min = printf("%.100f", $cutoff); ## Reformatting evalues in decimal numbers
+NAME		$name
+VERSION		$version
+SYNOPSIS	Extracts sequence from BLAST hits against the NCBI nr database
+REQUIREMENTS	NCBI Blast+ (blastdbcmd) - ftp://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/
+		A local copy of the NCBI NR database - ftp://ftp.ncbi.nlm.nih.gov/blast/db/
+		
+USAGE		extract_FASTA_from_BLAST_hits.pl -db nr -e 1e-05 -b *.blast.6 
 
-while (my $file = shift@ARGV){
+OPTIONS:
+-db		Database queried
+-e		E-value cutoff
+-b		BLAST tabular output file(s) (outfmt 6)
+OPTIONS
+die "$options\n" unless @ARGV;
+
+my @blast;
+my $cutoff;
+my $db;
+GetOptions(
+	'b=s@{1,}' => \@blast,
+	'e=s' => \$cutoff,
+	'db=s' => \$db,
+);
+
+while (my $file = shift@blast){
 	open IN, "<$file";
 	$file =~ s/\..*$//;
 	system "echo Working on $file.$cutoff.fasta";
-	system "cat $file.fsa > $file.$cutoff.fasta"; ## Adding the fasta from the query to the top of the file
 	while (my $line = <IN>){
 		chomp $line;
-		if ($line =~ /^(\w+)\tgi\|(\d+)\S+\t\d+\t\d+\t\S+\t\d+\s+\S+\s+(\S+)/){
-			my $query = $1;
-			my $hit = $2;
-			my $evalue = $3;
-			my $value = printf("%.100f", $evalue);
-			if ($value <= $min){
-				system "blastdbcmd -entry $hit -db nr -outfmt '%f' >> $file.$cutoff.fasta";
-			}
-		}
+		my @columns = split ("\t", $line);
+		my $query = $columns[0];
+		my ($hit) = $columns[1] =~ /^gi\|(\d+)/;
+		my $evalue = $columns[10];
+		if ($evalue <= $cutoff){system "blastdbcmd -entry $hit -db $db -outfmt '%f' >> $file.$cutoff.fasta";}
 	}
 }

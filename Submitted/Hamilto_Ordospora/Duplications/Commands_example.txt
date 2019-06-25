@@ -1,0 +1,30 @@
+## Creating a blast database
+mkdir DB; makeblastdb -in BEOM2.contigs.fasta -dbtype nucl -out DB/BEOM2
+
+## Running BLASTN query of a genome against itself
+blastn -query BEOM2.contigs.fasta -db DB/BEOM2 -outfmt '6 qseqid sseqid qlen slen evalue nident pident' -evalue 1e-50 -out BEOM2.blastn.6
+
+## Checking for possible duplications
+parse_BLAST_selftest.pl -p 80 -b BEOM2.blastn.6 ## using 80% identity
+
+## Mapping sequencing reads against contigs (https://github.com/PombertLab/SNPs/blob/master/SSRG/get_SNPs.pl)
+get_SNPs.pl -t 10 -fa BEOM2.contigs.fasta -pe1 BEOM2.R1.fastq -pe2 BEOM2.R2.fastq -mapper bowtie2 -rmo
+
+## Comparing the sequencing depths of contigs to that their assembly average
+seq_depth.pl bowtie2.rmo.coverage/*.coverage
+## NOTE: This is now done automatically by get_SNPs.pl; result can be found in bowtie2.rmo.depth/
+
+## Checking the top 10 lines from the .depth file
+head -n 10 bowtie2.rmo.depth/BEOM2.R1.fastq.BEOM2.contigs.fasta.bowtie2.depth
+## Contig  Average depth   Average (all contigs)   Difference      Ratio Contig/Average
+## contig-0001     24.70   25.84   -1.14   0.96
+## contig-0002     25.95   25.84   0.11    1.00
+## contig-0003     12.49   25.84   -13.35  0.48
+## contig-0004     11.80   25.84   -14.04  0.46
+## contig-0005     12.23   25.84   -13.61  0.47
+## contig-0006     22.53   25.84   -3.31   0.87
+## contig-0007     12.62   25.84   -13.22  0.49
+## contig-0008     13.63   25.84   -12.21  0.53
+## contig-0009     22.33   25.84   -3.51   0.86
+
+

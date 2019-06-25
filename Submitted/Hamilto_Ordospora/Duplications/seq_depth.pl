@@ -1,10 +1,24 @@
 #!/usr/bin/perl
+## Pombert Lab, 2017
+my $name = 'seq_depth.pl';
+my $version = 0.1;
 
-use strict;
-use warnings;
+use strict; use warnings;
 
-die "\nUSAGE = seq_depth.pl *.coverage\n" unless @ARGV;
+## Defining options
+my $usage = <<"OPTIONS";
 
+NAME		$name
+VERSION		$version
+SYNOPSIS	Compares the sequencing depths of contigs to that their assembly average
+		The sequencing depth information is obtained from samtools: samtools depth -aa file.bam > output.coverage
+USAGE		seq_depth.pl *.coverage
+NOTE		seq_depth.pl is now integrated in get_SNPs.pl (https://github.com/PombertLab/SNPs/blob/master/SSRG/get_SNPs.pl)
+
+OPTIONS
+die "$usage" unless @ARGV;
+
+## Working on files
 while (my $file = shift@ARGV){
 	open COV, "<$file";
 	$file =~ s/.coverage$//;

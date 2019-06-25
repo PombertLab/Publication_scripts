@@ -1,19 +1,36 @@
 #!/usr/bin/perl
 ## Pombert Lab, 2017
 ## blastn -query BEOM2.contigs.fasta -db DB/BEOM2 -outfmt '6 qseqid sseqid qlen slen evalue nident pident' -evalue 1e-50 -out BEOM2.blastn.6
+my $name = 'parse_BLAST_selftest.pl';
+my $version = 0.1;
 
-use strict;
-use warnings;
+use strict; use warnings; use Getopt::Long qw(GetOptions);
 
-my $usage = "USAGE = parse_BLAST_selftest.pl 80 BEOM2.blastn.6
-\n## BLASTN searches must be performed with the -outfmt '6 qseqid sseqid qlen slen evalue nident pident' option
-";
-die "\n$usage\n" unless @ARGV;
+## Defining options
+my $usage = <<"OPTIONS";
 
-my $min = $ARGV[0];
+NAME		$name
+VERSION		$version
+SYNOPSIS	Parses the output of BLASTN searches of a genome assembly against itself to identify possible duplications
+USAGE		parse_BLAST_selftest.pl -p 80 -b BEOM2.blastn.6
 
-open IN, "<$ARGV[1]";
-open OUT, ">$ARGV[1].$min.duplications";
+OPTIONS:
+-p	## Minimum percentage identity [default: 80]
+-b	## BLASTN input file; must be performed with the -outfmt '6 qseqid sseqid qlen slen evalue nident pident' option 
+OPTIONS
+die "$usage\n" unless @ARGV;
+
+my $percent = 80;
+my $blastn;
+GetOptions(
+	'p=i' => \$percent,
+	'b=s' => \$blastn
+);
+my $min = $percent;
+
+## Working on BLASTN file
+open IN, "<$blastn";
+open OUT, ">$blastn.$min.duplications";
 print OUT "Query\tSubject\t# of identities\t% of identities\t% of query\t% of target\tRedundant bp approx\n";
 
 my %contigs;
@@ -34,5 +51,5 @@ while (my $line = <IN>){
 		}
 	}
 }
-open LOG, ">>Redudancy.txt";
+open LOG, ">>Redundancy.txt";
 print LOG "Approx. $redundancy bp in $ARGV[1] in are redundant at $min %\n";

@@ -1,0 +1,18 @@
+## Running OrthoFinder (http://www.stevekellylab.com/software/orthofinder)
+orthofinder -f ./ -t 10
+
+## Splitting OrthoFinder CSV output file (tested with OrthoFinder 2.2.6)
+split_CSV.pl Orthogroups.csv
+
+## Creating PHAST datasets (http://compgen.cshl.edu/phast/)
+make_PHAST_datasets.pl -f mRNAs.fasta -c single_copy.csv
+
+## Aligning Datasets with MACSE (https://doi.org/10.1371/journal.pone.0022594)
+run_macse.pl -t 10 -f *.fasta -v /opt/MACSE/macse_v2.01.jar -p alignSequences -g 1
+
+## Running phyloFit and phastBias (http://compgen.cshl.edu/phast/) on the alignments
+run_phyloFit_ORDOSPORA.pl CWI40 *.NT.macse \
+run_phyloFit_ORDOSPORA.pl CWI41 *.NT.macse \
+run_phyloFit_ORDOSPORA.pl CWI42 *.NT.macse \
+run_phyloFit_ORDOSPORA.pl M896 *.NT.macse
+

@@ -1,7 +1,7 @@
 #!/usr/bin/perl
 ## Pombert Lab, 2018
 my $name = 'run_macse.pl';
-my $version = 1.0;
+my $version = '1.0';
 
 use strict; use warnings; use Getopt::Long qw(GetOptions);
 use threads; use threads::shared;

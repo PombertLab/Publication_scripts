@@ -1,22 +1,38 @@
 #!/usr/bin/perl
 ## Pombert Lab, 2018
-## Create Fasta datasets from Orthofinder Orthgroups output files.
+my $name = 'make_datasets.pl';
+my $version = 0.1;
 
-use strict;
-use warnings;
+use strict; use warnings; use Getopt::Long qw(GetOptions);
 
-die "USAGE = make_datasets.pl mRNAs.fasta file.csv\n" unless @ARGV;
+my $options = <<"OPTIONS";
 
-open RNA, "<$ARGV[0]";
-open CSV, "<$ARGV[1]";
+NAME		$name
+VERSION		$version
+SYNOPSIS	Creates FASTA datasets from Orthofinder orthogroups output files
+EXAMPLE		make_datasets.pl -f mRNAs.fasta -c file.csv
+
+OPTIONS:
+-f (--fasta)	FASTA input file (mRNAs)
+-c (--csv)	CSV input file (orthogroups from Orthofinder)
+OPTIONS
+die "$options\n" unless @ARGV;
+
+my $fasta; my $csv;
+GetOptions(
+	'f|fasta=s' => \$fasta,
+	'c|csv=s' => \$csv
+);
+
+open RNA, "<$fasta"; open CSV, "<$csv";
 
 ## Creating RNA database
 my %RNA;
-my $name;
+my $locus;
 while (my $line = <RNA>){
 	chomp $line;
-	if ($line =~ /^>(\S+)/){$name = $1;}
-	else{$RNA{$name} .= $line;}
+	if ($line =~ /^>(\S+)/){$locus = $1;}
+	else{$RNA{$locus} .= $line;}
 }
 
 ## Creating fastas

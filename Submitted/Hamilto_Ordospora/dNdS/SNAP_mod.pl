@@ -1,6 +1,4 @@
-#! /usr/local/bin/perl 
-##
-## This code calculates syn and nonsyn values for an alignment
+#! /usr/bin/perl 
 ##
 ## Notice:
 ##                                                                 6/15/98
@@ -19,10 +17,14 @@
 ## 
 ## Read the filenames from the command line
 
-## Modified to included the input name in the output instead of using process IDs (Pombert Lab, 2018)
-
 sub usage {
-    printf "Usage: %s -plot (Y or N) -list (Y or N) file1 \n\n", __FILE__;
+	printf "\nNAME\t\tSNAP_mod.pl\n";
+	printf "SOURCE\t\tThe original SNAP.pl script is available at https://www.hiv.lanl.gov/content/sequence/SNAP/SNAP.html"."\n";
+	printf "CITATION\tKorber B. (2000). HIV Signature and Sequence Variation Analysis. Computational Analysis of HIV Molecular Sequences\n";
+	printf "\t\tChapter 4, pages 55-72. Allen G. Rodrigo and Gerald H. Learn, eds. Dordrecht, Netherlands: Kluwer Academic Publishers.\n";
+	printf "MODIFICATION\tModified to append input names instead of process IDs to output files (Pombert lab, 2018)\n\n";
+	printf "SYNOPSIS\tThis code calculates syn and nonsyn values for an alignment\n";
+	printf "USAGE\t\t%s -plot (Y or N) -list (Y or N) file1 \n\n", __FILE__;
 }
 
 # syn-nonsyn.pl on it's own at the command line will produce a usage message.

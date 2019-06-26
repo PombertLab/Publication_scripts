@@ -1,36 +1,55 @@
 #!/usr/bin/perl
 ## Pombert Lab, 2018
-## Quick script to generate tables from the SNAP summary files
+my $name = 'cat_summaries.pl';
+my $version = '0.1';
 
-use strict;
-use warnings;
+use strict; use warnings; use Getopt::Long qw(GetOptions);
 
-die "USAGE = cat_summaries.pl products.txt summary.*\n" unless @ARGV;
+my $usage = <<"OPTIONS";
+
+NAME		$name
+VERSION		$version
+SYNOPSIS	Quick script to generate a summary table from the SNAP summary files
+USAGE		cat_summaries.pl -p products.txt -spp species.txt -sum summary.* -o summaries_table.tsv
+
+OPTIONS:
+-p	## Tab-delimited list of locus tags and their products [defailt: products.txt]
+-spp	## Tab-delimited list of locus tag prefixes and corresponding species [default: species.txt]
+-sum	## Summary output files created by run_SNAP.pl/SNAP_mod.pl
+-o	## Desired output name for the tab-delimited table
+OPTIONS
+die "$usage\n" unless @ARGV;
+
+my $products = 'products.txt';
+my $species = 'species.txt';
+my @summaries;
+my $output;
+GetOptions(
+	'p=s' => \$products,
+	'spp=s' => \$species,
+	'sum=s@{1,}' => \@summaries,
+	'o=s' => \$output
+);
 
 ## Products database
-my $products = shift@ARGV;
 open PD, "<$products";
 my %prod;
 while (my $line = <PD>){
 	chomp $line;
 	if ($line =~ /^(\S+)\t(.*)$/){$prod{$1} = $2;}
 }
-
-my %species = (
-	'AEWD_' => 'Encephalitozoon_cuniculi_EC1', 'AEWQ_' => 'Encephalitozoon_cuniculi_EC2', 'AEWR_' => 'Encephalitozoon_cuniculi_EC3',
-	'ECU01_' => 'Encephalitozoon_cuniculi_GB-M1',	'ECU02_' => 'Encephalitozoon_cuniculi_GB-M1', 'ECU03_' => 'Encephalitozoon_cuniculi_GB-M1', 'ECU04_' => 'Encephalitozoon_cuniculi_GB-M1', 'ECU05_' => 'Encephalitozoon_cuniculi_GB-M1',
-	'ECU06_' => 'Encephalitozoon_cuniculi_GB-M1', 'ECU07_' => 'Encephalitozoon_cuniculi_GB-M1', 'ECU08_' => 'Encephalitozoon_cuniculi_GB-M1', 'ECU09_' => 'Encephalitozoon_cuniculi_GB-M1', 'ECU10_' => 'Encephalitozoon_cuniculi_GB-M1',
-	'ECU11_' => 'Encephalitozoon_cuniculi_GB-M1',
-	'EHEL_' => 'Encephalitozoon_hellem_ATCC_50504', 'KMI_' => 'Encephalitozoon_hellem_Swiss', 'Eint_' => 'Encephalitozoon_intestinalis_ATCC_50506', 'EROM_' => 'Encephalitozoon_romaleae_SJ-2008',
-	'CWI42_' => 'Ordospora_colligata_FI-SK-17-1', 'CWI41_' => 'Ordospora_colligata_GB-EP-1', 'CWI40_' => 'Ordospora_colligata_NO-V-7', 'M896_' => 'Ordospora_colligata__OC4',
-	'CWI36_' => 'Hamiltosporidium_magnivora_BE-OM-2', 'CWI37_' => 'Hamiltosporidium_tvaerminnensis_FI-OER-3-3',  'CWI38_' => 'Hamiltosporidium_tvaerminnensis_IL-G-3', 'CWI39_' => 'Hamiltosporidium_magnivora_IL-BN-2',
-	'Napis_' => 'Nosema_apis_BRL01', 'NBO_' => 'Nosema_bombycis_CQ1', 'NCER_' => 'Nosema_ceranae_BRL01'	
-);
+## Species database
+open SPP, "<$species" or die "Can't open file $species\n";
+my %species;
+while (my $line = <SPP>){
+	chomp $line;
+	if ($line =~ /^(\S+)\t(.*)$/){$species{$1} = $2;}
+}
 
 ## Working on summaries
-open OUT, ">summaries_table.tsv";
+open OUT, ">$output";
 print OUT "Orthogroup\tSpecies_1\tseq1\tProduct(seq1)\tSpecies_2\tseq2\tProduct(seq2)\tds\tdn\tds\/dn\tdn\/ds\n";
-while (my $summary = shift@ARGV){
+while (my $summary = shift@summaries){
 	open SUM, "<$summary";
 	my $og = $summary; $og =~ s/^summary.//; $og =~ s/.NT$//; $og =~ s/.AA$//;
 	while (my $line = <SUM>){

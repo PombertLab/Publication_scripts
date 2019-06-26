@@ -1,19 +1,22 @@
 #!/usr/bin/perl
 ## Pombert Lab, 2018
-## Runs MACSE alignments
-## v1.0; now implements multithreading
+my $name = 'run_macse.pl';
+my $version = '1.0';
 
-use strict; use warnings;
+use strict; use warnings; use Getopt::Long qw(GetOptions);
 use threads; use threads::shared;
-use Getopt::Long qw(GetOptions);
 
-my $usage = <<'OPTIONS';
+my $usage = <<"OPTIONS";
 
-USAGE = run_macse.pl -t 10 -f *.fasta -v /opt/MACSE/macse_v1.2.jar -p alignSequences -g 1
+NAME		$name
+VERSION		$version
+SYNOPSIS	Runs MACSE alignments on multifasta files 
+USAGE		run_macse.pl -t 10 -f *.fasta -v /opt/MACSE/macse_v2.01.jar -p alignSequences -g 1
+
 OPTIONS:
 -t	## Threads [Default: 10]
 -f	## Files in multifasta format
--v	## Path to MACSE jar file [Default: /opt/MACSE/macse_v1.2.jar]
+-v	## Path to MACSE jar file [Default: /opt/MACSE/macse_v2.01.jar]
 -p	## MACSE program [Default: alignSequences]
 -g	## NCBI genetic code [Default: 1]
 
@@ -22,7 +25,7 @@ die $usage unless @ARGV;
 
 my $threads = 10;
 my @fasta;
-my $var = '/opt/MACSE/macse_v1.2.jar';
+my $var = '/opt/MACSE/macse_v2.01.jar';
 my $program = 'alignSequences';
 my $gc = '1';
 GetOptions(
@@ -50,7 +53,7 @@ sub exe{
 	while (my $fasta = shift @files) {
 		$fasta =~ s/.fasta//;
 		print "Thread $id aligning $fasta...\n";
-		system "java -jar $var -prog $program -seq $fasta.fasta -out_NT $fasta.NT.macse -out_AA $fasta.AA.macse -def_gc $gc";
+		system "java -jar $var -prog $program -seq $fasta.fasta -out_NT $fasta.NT.macse -out_AA $fasta.AA.macse -gc_def $gc";
 	}	
 	threads->exit();
 }

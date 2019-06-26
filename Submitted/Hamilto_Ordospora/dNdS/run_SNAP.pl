@@ -1,15 +1,18 @@
 #!/usr/bin/perl
 ## Pombert Lab, 2018
-## Runs SNAP on aligned sequences in fasta format
-## v1.0; now implements multithreading
+my $name = 'run_SNAP.pl';
+my $version = '1.0';
 
-use strict; use warnings;
+use strict; use warnings; use Getopt::Long qw(GetOptions);
 use threads; use threads::shared;
-use Getopt::Long qw(GetOptions);
 
-my $usage = <<'OPTIONS';
+my $usage = <<"OPTIONS";
 
-USAGE = run_SNAP.pl -t 10 -s SNAP_mod.pl -a *.macse
+NAME		$name
+VERSION		$version
+SYNOPSIS	Runs SNAP on aligned sequences in fasta format
+USAGE		run_SNAP.pl -t 10 -s SNAP_mod.pl -a *.macse
+
 OPTIONS:
 -s	## Modified SNAP script
 -a	## Alignment in multifasta format

@@ -1,0 +1,11 @@
+## Filter contigs by GC content
+filter_by_GC.pl -min 20 -max 60 -fa BEOM2.contigs.fasta -out GC_summary.txt
+
+## Filter content by sequencing depth
+## Mapping sequencing reads against contigs (https://github.com/PombertLab/SNPs/blob/master/SSRG/get_SNPs.pl)
+get_SNPs.pl -t 10 -fa BEOM2.contigs.fasta -pe1 BEOM2.R1.fastq -pe2 BEOM2.R2.fastq -mapper bowtie2 -rmo
+
+## Filtering by depth
+## Sequencing depth is obtained with 'samtools depth -aa file.bam > output.coverage' as implemented in get_SNPs.pl
+filter_by_coverage.pl -min 20 -max 200 -fa BEOM2.contigs.fasta -cov BEOM2.R1.fastq.BEOM2.contigs.fasta.bowtie2.coverage -out depth_summary.txt
+

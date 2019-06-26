@@ -1,0 +1,17 @@
+## Running OrthoFinder (http://www.stevekellylab.com/software/orthofinder)
+orthofinder -f ./ -t 10
+
+## Splitting OrthoFinder CSV output file (tested with OrthoFinder 2.2.6)
+split_CSV.pl Orthogroups.csv
+
+## Creating FASTA datasets 
+make_datasets.pl -f mRNAs.fasta -c single_copy.csv
+
+## Aligning Datasets with MACSE (https://doi.org/10.1371/journal.pone.0022594)
+run_macse.pl -t 10 -f *.fasta -v /opt/MACSE/macse_v2.01.jar -p alignSequences -g 1
+
+## Running SNAP on aligned datasets
+run_SNAP.pl -t 10 -s SNAP_mod.pl -a *.macse
+
+## Creating a summary table of results
+cat_summaries.pl -p products.txt -spp species.txt -sum summary.* -o summaries_table.tsv

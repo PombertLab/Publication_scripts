@@ -1,23 +1,39 @@
 #!/usr/bin/perl
-
 ## Pombert Lab, IIT, 2017
-## Version 1.2 Corrected suspicious open reading frames errors in TBL2ASN
+my $name = 'EMBLtoTBL.pl';
+my $version = '1.2'; ## Corrected suspicious open reading frames errors in TBL2ASN
 
-## Converts EMBL files to NCBI TBL format for TBL2ASN.
-## NOTE: Requires the EMBL files. the corresponding fasta inputs (*.fsa) and the products list in the same folder
-## NOTE: Requires locus_tags to be defined in the EMBL files.
+use strict; use warnings; use Bio::SeqIO; use Getopt::Long qw(GetOptions);
 
-use strict;
-use warnings;
-use Bio::SeqIO;
+my $usage = <<"OPTIONS";
 
-my $instID = 'IITBIO'; ## Insert desired institute ID here
-my $products = "../protein_list.txt"; ## Insert product list here
+NAME		$name
+VERSION		$version
+SYNOPSIS	Converts EMBL files to NCBI TBL format for TBL2ASN
+REQUIREMENTS	BioPerl's Bio::SeqIO module
+NOTE		The EMBL (*.embl) and FASTA (*.fsa) files must be in the same folder.
+		Requires locus_tags to be defined in the EMBL files.
 
-my $usage = 'USAGE = EMBLtoTBL *.embl';
-die $usage unless @ARGV;
+USAGE		EMBLtoPROT -id IITBIO -p product_list.txt -embl *.embl
 
-sub numSort {if ($a < $b) { return -1; }elsif ($a == $b) { return 0;}elsif ($a > $b) { return 1; }}
+OPTIONS:
+-id		Desired institute ID [default: IITBIO]
+-p		Tab-delimited list of locus_tags and their products
+-embl		EMBL files to convert
+OPTIONS
+die "$usage\n" unless @ARGV;
+
+my $instID = 'IITBIO'; ## 
+my $products; ## protein_list.txt
+my @embl;
+GetOptions(
+	'id=s' => \$instID,
+	'p=s' => $products,
+	'embl=s@{1,}' => \@embl,
+);
+
+
+sub numSort {if ($a < $b){return -1;} elsif ($a == $b){return 0;} elsif ($a > $b) {return 1;}}
 
 ### Filling the products database
 my %hash = ();

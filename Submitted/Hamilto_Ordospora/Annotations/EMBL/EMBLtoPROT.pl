@@ -1,16 +1,21 @@
 #!/usr/bin/perl
-
 ## Pombert Lab, IIT, 2017
-## Version 1.3a: added length info to ouput files
-## Writes predicted proteins and mRNAs to separate FASTA files with the .prot and .mRNA extensions.
-## NOTE: Requires the EMBL and the corresponding fasta inputs (*.fsa) in the same folder
+my $name = 'EMBLtoPROT.pl';
+my $version = '1.3a'; ## Added length info to ouput files
 
-use strict;
-use warnings;
-use Bio::SeqIO;
+use strict; use warnings; use Bio::SeqIO;
 
-my $usage = 'USAGE = EMBLtoPROT *.embl';
-die "\n$usage\n\n" unless @ARGV;
+my $usage = <<"OPTIONS";
+
+NAME		$name
+VERSION		$version
+SYNOPSIS	Writes predicted proteins and mRNAs to separate FASTA files with the .prot and .mRNA extensions.
+REQUIREMENTS	BioPerl's Bio::SeqIO module
+NOTE		The EMBL (*.embl) and corresponding FASTA (*.fsa) files must be in the same folder
+
+USAGE		EMBLtoPROT *.embl
+OPTIONS
+die "$usage\n" unless @ARGV;
 
 sub numSort {
 		if ($a < $b) { return -1; }

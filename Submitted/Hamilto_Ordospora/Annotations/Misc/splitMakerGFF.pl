@@ -1,9 +1,17 @@
 #!/usr/bin/perl
+## Pombert Lab, IIT, 2017
+my $name = 'splitMakerGFF.pl';
+my $version = '0.1'; 
 
-use strict;
-use warnings;
+use strict; use warnings;
 
-my $usage = 'perl splitMakerGFF.pl *.gff';
+my $usage = <<"OPTIONS";
+
+NAME		$name
+VERSION		$version
+SYNOPSIS	Splits the augustus, genemark and repeatmasker entries into ones; useful for loading them as separate tracks in WebApollo.
+USAGE		splitMakerGFF.pl *.gff
+OPTIONS
 die "$usage\n" unless @ARGV;
 
 while(my $file = shift@ARGV){

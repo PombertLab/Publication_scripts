@@ -1,12 +1,16 @@
 #!/usr/bin/perl
+## Pombert Lab, IIT, 2017
+my $name = 'annot_multifasta.pl';
+my $version = '0.1';
 
-use strict;
-use warnings;
-use Getopt::Long qw(GetOptions);
+use strict; use warnings; use Getopt::Long qw(GetOptions);
 
-my $options = <<'OPTIONS';
+my $options = <<"OPTIONS";
 
-EXAMPLE = annot_multifasta.pl -a BEOM2.annotations.curated -f BEOM2.proteins.fasta -s 'Hamiltosporidium magnivora' -i BE-OM-2
+NAME		$name
+VERSION		$version
+SYNOPSIS	Adds predicted functions FASTA headers
+USAGE		annot_multifasta.pl -a BEOM2.annotations.curated -f BEOM2.proteins.fasta -s 'Hamiltosporidium magnivora' -i BE-OM-2
 
 -a	Annotations list (tab-delimited)
 -f	Protein/mRNA multifasta file

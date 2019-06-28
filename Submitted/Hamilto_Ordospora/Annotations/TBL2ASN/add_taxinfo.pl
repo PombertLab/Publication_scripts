@@ -1,22 +1,28 @@
 #!/usr/bin/perl
+## Pombert Lab, IIT, 2018
+my $name = 'add_taxinfo.pl';
+my $version = '0.1';
 
-use strict;
-use warnings;
-use Getopt::Long qw(GetOptions);
+use strict; use warnings; use Getopt::Long qw(GetOptions);
 
-my $usage = "USAGE = add_taxinfo.pl -sp 'Hamiltosporidium magnivora' -is BE-OM-2 -fa *.fsa
+my $usage = <<"OPTIONS";
 
--sp	species
--is	isolate
--fa	FASTA files
-";
+NAME		$name
+VERSION		$version
+SYNOPSIS	Adds taxonomic info to FASTA headers; useful for TBL2ASN
+USAGE		add_taxinfo.pl -sp 'Hamiltosporidium magnivora' -is BE-OM-2 -fa *.fsa
+NOTE		Quick script, most info is hard-coded in the print OUT lines...
 
-die "\n$usage\n" unless @ARGV;
+OPTIONS:
+-sp	## species
+-is	## isolate
+-fa	## FASTA files
+OPTIONS
+die "$usage\n" unless @ARGV;
 
 my $species;
 my $isolate;
 my @fasta;
-
 GetOptions(
 	'sp=s' => \$species,
 	'is=s' => \$isolate,

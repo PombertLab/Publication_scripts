@@ -1,0 +1,385 @@
+
+ GESAMT: General Efficient Structural Alignment of Macromolecular Targets
+ ------------------------------------------------------------------------
+ Version 1.16 of 14-Jan-2020, built with MMDB v.2.0.20
+ 
+ ###############################################################
+ ###############################################################
+ ###############################################################
+ ### CCP4 7.1: Gesamt                   version 7.1 :         ##
+ ###############################################################
+ User: carolm  Run date: 15/ 3/2022 Run time: 12:52:42 
+
+
+ Please reference: Collaborative Computational Project, Number 4. 2011.
+ "Overview of the CCP4 suite and current developments". Acta Cryst. D67, 235-242.
+ as well as any specific reference in the program write-up.
+
+$TEXT:Reference: $$Please cite$$
+E. Krissinel (2012). Enhanced fold recognition using efficient
+short fragment clustering. J. Mol. Biochem. 1(2) 76-85.
+$$
+<!--SUMMARY_BEGIN-->
+
+ ===============================================================================
+
+ ... reading FIXED structure : file '/media/Data_1/Carol/Microsporidia/3D_Annotation/ecuniculi/structural_alignment/3ja9/3ja9_A.pdb', selection '*'
+        255 atoms selected
+            crystal data not found
+ ... reading MOVING structure: file '/media/Data_1/Carol/Microsporidia/3D_Annotation/ecuniculi/E_cuniculi_paper/CUNICULI_PDBs/ECU05_1030_1sxjF.pdb', selection '*'
+        267 atoms selected
+            crystal data not found
+<!--SUMMARY_END-->
+
+ ===============================================================================
+
+ CPU stage 1 (clustering):   0.03212 secs
+ CPU stage 2 (refinement):   0.00676 secs
+
+ ===== Structures
+
+     Ref.  |  Nres  | File (selection)                                                                                                  | Output File                                    
+   ========+========+===================================================================================================================+================================================
+     FIXED |   255  | /media/Data_1/Carol/Microsporidia/3D_Annotation/ecuniculi/structural_alignment/3ja9/3ja9_A.pdb (*) | PCNA_human_ecu.pdb (models 1-1, unchanged) 
+    MOVING |   267  | /media/Data_1/Carol/Microsporidia/3D_Annotation/ecuniculi/E_cuniculi_paper/CUNICULI_PDBs/ECU05_1030_1sxjF.pdb (*) | PCNA_human_ecu.pdb (models 2-2, superposed) 
+
+ have been aligned and superposed.
+
+
+ ===============================================================================
+
+ SUPERPOSITION
+ ~~~~~~~~~~~~~
+
+ Q-score          : 0.761     
+ RMSD             : 1.331     
+ Aligned residues : 249
+ Sequence Id:     : 0.285     
+
+ Transformation matrix for FIXED structure is identity.
+
+ Transformation matrix for MOVING structure:
+
+          Rx           Ry           Rz             T
+      0.49145     -0.48918      0.72054      -15.81792
+     -0.51230     -0.83144     -0.21506       85.31256
+      0.70429     -0.26344     -0.65922       33.20054
+
+ Direction cosines of the rotation axis: -0.86353 0.29000 -0.41258
+ Rotation angle                        : 178.39466 
+
+ -------------------------------------------------------------------------------
+
+ CENTROIDS
+ ~~~~~~~~~            Orthogonal                       Fractional
+               X          Y          Z            XF       YF       ZF
+  FIXED    -28.95715   -7.74405   -1.13672      -.--     -.--     -.--   
+ MOVING     17.30890   93.00243   32.88600      -.--     -.--     -.--   
+
+ Distance between centroids                   : 115.96528 
+ Direction cosines of vector between centroids: 0.39896 0.86876 0.29339
+ Angle between rotation axis and vector between centroids: 102.33481
+
+ -------------------------------------------------------------------------------
+
+ CCP4 format rotation-translation operator
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ Polar angles (omega,phi,kappa)   :    114.36727    161.43645    178.39466
+ Euler angles (alpha,beta,gamma)  :    -16.61871    131.24064   -159.49160
+ Orthogonal translation (Angstrom):    -15.81792     85.31256     33.20054
+
+ ===============================================================================
+
+ RESIDUE ALIGNMENT
+ ~~~~~~~~~~~~~~~~~
+$$
+
+.-------------.------------.-------------.
+|   FIXED     |  Dist.(A)  |   MOVING    |
+|-------------+------------+-------------|
+| - A:MET   1 | <**1.18**> | -   MET   1 |
+|S- A:PHE   2 | <**0.22**> |S-   PHE   2 |
+|S+ A:GLU   3 | <**0.79**> |S+   GLU   3 |
+|S- A:ALA   4 | <--0.58--> |S-   LEU   4 |
+|S+ A:ARG   5 | <--0.45--> |S+   GLU   5 |
+|S- A:LEU   6 | <**0.95**> | -   LEU   6 |
+|             |            | -   VAL   7 |
+| - A:VAL   7 | <--1.37--> | -   ALA   8 |
+|             |            | +   ARG   9 |
+|             |            | +   GLU  10 |
+|             |            | +   LYS  11 |
+|             |            | -   GLY  12 |
+|             |            | +   LYS  13 |
+|             |            | +   ASP  14 |
+|             |            | .   THR  15 |
+|             |            | .   THR  16 |
+|             |            | .   THR  17 |
+|             |            | .   SER  18 |
+| + A:GLN   8 | <==1.84==> | +   ASP  19 |
+|             |            |H-   ALA  20 |
+| - A:GLY   9 | <::1.12::> |H-   LEU  21 |
+|H. A:SER  10 | <**0.79**> |H.   SER  22 |
+|H- A:ILE  11 | <++1.00++> |H-   LEU  23 |
+|H- A:LEU  12 | <++0.70++> |H-   MET  24 |
+|H+ A:LYS  13 | <**0.80**> |H+   LYS  25 |
+|H+ A:LYS  14 | <++0.77++> |H+   ARG  26 |
+|H- A:VAL  15 | <++0.97++> |H-   ILE  27 |
+|H- A:LEU  16 | <**1.35**> |H-   LEU  28 |
+|H+ A:GLU  17 | <**1.72**> |H+   GLU  29 |
+|H- A:ALA  18 | <::1.71::> |H.   SER  30 |
+|H- A:LEU  19 | <**1.35**> |H-   LEU  31 |
+|H+ A:LYS  20 | <..0.80..> |H.   SER  32 |
+|H+ A:ASP  21 | <==0.80==> |H+   GLU  33 |
+|H- A:LEU  22 | <++0.98++> |H-   ILE  34 |
+| - A:ILE  23 | <++1.19++> | -   VAL  35 |
+| + A:ASN  24 | <==1.69==> | +   GLU  36 |
+|S+ A:GLU  25 | <..0.78..> | .   THR  37 |
+|S- A:ALA  26 | <**0.73**> | -   ALA  38 |
+|S- A:CYS  27 | <..1.08..> | +   ASP  39 |
+|S. A:TRP  28 | <++0.67++> |S-   ILE  40 |
+|S+ A:ASP  29 | <--0.84--> |S+   LYS  41 |
+|S- A:ILE  30 | <--0.23--> |S-   ALA  42 |
+|S. A:SER  31 | <==0.59==> | .   THR  43 |
+| . A:SER  32 | <..0.84..> | +   GLU  44 |
+| . A:SER  33 | <..0.57..> | +   LYS  45 |
+|S- A:GLY  34 | <**0.72**> |S-   GLY  46 |
+|S- A:VAL  35 | <++0.09++> |S-   LEU  47 |
+|S+ A:ASN  36 | <..0.35..> |S.   SER  48 |
+|S- A:LEU  37 | <++0.60++> |S-   ILE  49 |
+|S+ A:GLN  38 | <**0.38**> |S+   GLN  50 |
+|S. A:SER  39 | <..0.35..> |S-   VAL  51 |
+|S- A:MET  40 | <**0.47**> |S-   MET  52 |
+| + A:ASP  41 | <**1.95**> | +   ASP  53 |
+| . A:SER  42 | <..3.09..> | -   VAL  54 |
+| . A:SER  43 | <==2.33==> | .   THR  55 |
+| + A:HIS  44 | <**1.67**> | +   HIS  56 |
+| - A:VAL  45 | <**0.93**> | -   VAL  57 |
+| . A:SER  46 | <::0.43::> |S-   ALA  58 |
+|S- A:LEU  47 | <++0.26++> |S-   PHE  59 |
+|S- A:VAL  48 | <--0.22--> |S-   ALA  60 |
+|S+ A:GLN  49 | <==0.34==> |S+   ASP  61 |
+|S- A:LEU  50 | <++0.43++> |S-   ILE  62 |
+|S. A:THR  51 | <..0.50..> |S-   PHE  63 |
+|S- A:LEU  52 | <**0.53**> |S-   LEU  64 |
+|S+ A:ARG  53 | <..0.64..> |S.   SER  65 |
+| . A:SER  54 | <**1.72**> | .   SER  66 |
+| + A:GLU  55 | <..2.75..> | .   THR  67 |
+| - A:GLY  56 | <::1.88::> | -   MET  68 |
+| - A:PHE  57 | <**0.27**> | -   PHE  69 |
+| + A:ASP  58 | <..0.11..> | .   THR  70 |
+|S. A:THR  59 | <..0.53..> | +   LYS  71 |
+|S. A:TYR  60 | <**0.60**> |S.   TYR  72 |
+|S+ A:ARG  61 | <**0.32**> |S+   ARG  73 |
+|S- A:CYS  62 | <**1.04**> | -   CYS  74 |
+| + A:ASP  63 | <**2.32**> | +   ASP  75 |
+| + A:ARG  64 | <**0.84**> | +   ARG  76 |
+| + A:ASN  65 | <==0.82==> | +   GLU  77 |
+|S- A:LEU  66 | <**1.16**> |S-   LEU  78 |
+|S- A:ALA  67 | <--1.58--> |S-   VAL  79 |
+|S- A:MET  68 | <++1.49++> |S-   ILE  80 |
+|S- A:GLY  69 | <**1.34**> | -   GLY  81 |
+|S- A:VAL  70 | <**1.27**> | -   VAL  82 |
+|S+ A:ASN  71 | <==1.06==> | +   GLN  83 |
+|H- A:LEU  72 | <**1.12**> |H-   LEU  84 |
+|H. A:THR  73 | <..1.20..> |H+   LYS  85 |
+|H. A:SER  74 | <==0.98==> |H.   THR  86 |
+|H- A:MET  75 | <++0.61++> |H-   LEU  87 |
+|H. A:SER  76 | <..0.43..> |H-   ILE  88 |
+|H+ A:LYS  77 | <**0.92**> |H+   LYS  89 |
+|H- A:ILE  78 | <**0.55**> |H-   ILE  90 |
+|H- A:LEU  79 | <++0.72++> |H-   ILE  91 |
+| + A:LYS  80 | <**1.39**> | +   LYS  92 |
+| - A:CYS  81 | <..1.33..> | -   GLY  93 |
+| - A:ALA  82 | <--1.23--> | -   MET  94 |
+| - A:GLY  83 | <..1.15..> | .   SER  95 |
+| + A:ASN  84 | <..2.16..> | -   VAL  96 |
+| + A:GLU  85 | <**2.60**> | +   GLU  97 |
+| + A:ASP  86 | <..1.21..> | -   GLY  98 |
+|S- A:ILE  87 | <::0.54::> |S-   GLY  99 |
+|S- A:ILE  88 | <::0.55::> |S-   GLY 100 |
+|S. A:THR  89 | <**0.57**> |S.   THR 101 |
+|S- A:LEU  90 | <++0.54++> |S-   PHE 102 |
+|S+ A:ARG  91 | <**0.42**> |S+   ARG 103 |
+|S- A:ALA  92 | <--0.31--> |S-   MET 104 |
+| + A:GLU  93 | <**0.94**> | +   GLU 105 |
+| + A:ASP  94 | <..0.96..> | -   CYS 106 |
+| + A:ASN  95 | <==3.53==> | +   ASP 107 |
+| - A:ALA  96 | <..3.98..> | +   ASP 108 |
+| + A:ASP  97 | <..1.62..> | -   ALA 109 |
+| . A:THR  98 | <**1.23**> | .   THR 110 |
+|S- A:LEU  99 | <..0.49..> |S.   THR 111 |
+|S- A:ALA 100 | <..0.33..> |S+   ASN 112 |
+|S- A:LEU 101 | <**0.35**> |S-   LEU 113 |
+|S- A:VAL 102 | <..0.69..> |S+   ASN 114 |
+|S- A:PHE 103 | <++1.15++> |S-   ILE 115 |
+|S+ A:GLU 104 | <--1.15--> |S+   ARG 116 |
+| - A:ALA 105 |            |             |
+| + A:PRO 106 | <..2.87..> | +   ASN 117 |
+|             |            | .   THR 118 |
+| + A:ASN 107 | <--2.16--> | +   ARG 119 |
+| + A:GLN 108 | <==2.78==> | +   GLU 120 |
+| + A:GLU 109 | <..3.16..> | -   GLY 121 |
+| + A:LYS 110 | <--1.52--> | +   ASN 122 |
+|S- A:VAL 111 | <**0.95**> | -   VAL 123 |
+|S. A:SER 112 | <..0.97..> |S-   LEU 124 |
+|S+ A:ASP 113 | <..0.77..> |S.   SER 125 |
+|S. A:TYR 114 | <**0.70**> |S-   PHE 126 |
+|S+ A:GLU 115 | <--1.09--> |S+   LYS 127 |
+|S- A:MET 116 | <++1.09++> |S-   LEU 128 |
+| + A:LYS 117 | <**1.22**> | +   LYS 129 |
+| - A:LEU 118 | <**1.40**> | -   LEU 130 |
+| - A:MET 119 | <++2.35++> | -   PHE 131 |
+| + A:ASP 120 | <..2.79..> | .   THR 132 |
+| - A:LEU 121 | <..2.62..> | .   SER 133 |
+| + A:ASP 122 | <**1.32**> | +   ASP 134 |
+| - A:VAL 123 | <..0.58..> | .   SER 135 |
+| + A:GLU 124 | <**3.23**> | +   GLU 136 |
+| + A:GLN 125 | <..2.00..> | -   ALA 137 |
+| - A:LEU 126 | <++2.39++> | .   TYR 138 |
+| - A:GLY 127 | <..2.62..> | +   ASN 139 |
+| - A:ILE 128 | <**1.38**> | -   ILE 140 |
+| + A:PRO 129 | <**3.00**> | +   PRO 141 |
+|             |            | +   GLU 142 |
+| + A:GLU 130 | <..1.87..> | -   PHE 143 |
+| + A:GLN 131 |            |             |
+| + A:GLU 132 | <==2.26==> | +   ASP 144 |
+| . A:TYR 133 | <**0.99**> | -   PHE 145 |
+| . A:SER 134 | <..1.11..> | +   ASP 146 |
+|S- A:CYS 135 | <..0.90..> |S-   ALA 147 |
+|S- A:VAL 136 | <..0.74..> |S.   SER 148 |
+|S- A:VAL 137 | <--1.00--> |S-   ALA 149 |
+|S+ A:LYS 138 | <..1.10..> |S.   THR 150 |
+|S- A:MET 139 | <++1.13++> |S-   ILE 151 |
+|S+ A:PRO 140 | <**1.24**> |S+   PRO 152 |
+|H. A:SER 141 | <::1.16::> |H-   ALA 153 |
+|H- A:GLY 142 | <..0.87..> |H+   ASP 154 |
+|H+ A:GLU 143 | <**0.85**> |H+   GLU 155 |
+|H- A:PHE 144 | <**0.71**> |H-   PHE 156 |
+|H- A:ALA 145 | <--0.62--> |H-   MET 157 |
+|H+ A:ARG 146 | <..0.46..> |H.   TYR 158 |
+|H- A:ILE 147 | <++0.23++> |H-   VAL 159 |
+|H- A:CYS 148 | <..0.65..> |H+   PRO 160 |
+|H+ A:ARG 149 | <++0.84++> |H+   LYS 161 |
+|H+ A:ASP 150 | <..0.51..> |H-   LEU 162 |
+|H- A:LEU 151 | <++0.55++> |H-   VAL 163 |
+|H. A:SER 152 | <..0.71..> |H-   GLY 164 |
+|H+ A:HIS 153 | <::0.94::> |H.   THR 165 |
+|H- A:ILE 154 | <++0.71++> |H-   PHE 166 |
+| - A:GLY 155 | <**0.61**> | -   GLY 167 |
+| + A:ASP 156 | <**1.00**> | +   ASP 168 |
+|S- A:ALA 157 | <--0.64--> |S-   VAL 169 |
+|S- A:VAL 158 | <**0.74**> |S-   VAL 170 |
+|S- A:VAL 159 | <::1.15::> |S-   GLY 171 |
+|S- A:ILE 160 | <++0.95++> |S-   VAL 172 |
+|S. A:SER 161 | <..0.86..> |S+   GLN 173 |
+|S- A:CYS 162 | <..0.71..> |S-   ALA 174 |
+|S- A:ALA 163 | <..1.78..> |S+   GLU 175 |
+| + A:LYS 164 | <..2.35..> | -   GLY 176 |
+| + A:ASP 165 | <--2.38--> | +   LYS 177 |
+|S- A:GLY 166 | <..1.17..> |S.   THR 178 |
+|S- A:VAL 167 | <++0.65++> |S-   LEU 179 |
+|S+ A:LYS 168 | <..0.64..> |S-   MET 180 |
+|S- A:PHE 169 | <**0.51**> |S-   PHE 181 |
+|S. A:SER 170 | <..0.53..> |S-   PHE 182 |
+|S- A:ALA 171 | <..0.58..> |S+   GLN 183 |
+|S. A:SER 172 | <==1.49==> |S.   THR 184 |
+|S- A:GLY 173 | <**1.50**> | -   GLY 185 |
+| + A:GLU 174 | <**2.90**> | +   GLU 186 |
+| - A:LEU 175 | <::1.81::> | +   HIS 187 |
+|S- A:GLY 176 | <--1.09--> | -   ALA 188 |
+|S+ A:ASN 177 | <==0.80==> |S+   ASP 189 |
+|S- A:GLY 178 | <--0.69--> |S-   ALA 190 |
+|S+ A:ASN 179 | <..0.51..> |S.   SER 191 |
+|S- A:ILE 180 | <++0.35++> |S-   MET 192 |
+|S+ A:LYS 181 | <..0.63..> |S.   SER 193 |
+|S- A:LEU 182 | <++0.39++> |S-   PHE 194 |
+| . A:SER 183 | <..1.55..> | +   GLU 195 |
+| + A:GLN 184 | <==2.02==> | +   GLU 196 |
+| . A:THR 185 | <..2.24..> |S-   CYS 197 |
+| . A:SER 186 |            |             |
+| + A:ASN 187 | <..2.61..> | +   PRO 198 |
+| - A:VAL 188 |            |             |
+| + A:ASP 189 |            |             |
+| + A:LYS 190 |            |             |
+| + A:GLU 191 | <..3.44..> | -   ALA 199 |
+| + A:GLU 192 | <--2.45--> | +   ARG 200 |
+| + A:GLU 193 | <**1.76**> | +   GLU 201 |
+| - A:ALA 194 | <..1.44..> | +   GLU 202 |
+| - A:VAL 195 | <++1.38++> |S-   LEU 203 |
+|S. A:THR 196 | <..1.77..> |S+   LYS 204 |
+|S- A:ILE 197 | <**1.60**> |S-   ILE 205 |
+|S+ A:GLU 198 | <**1.36**> |S+   GLU 206 |
+|S- A:MET 199 | <--1.16--> |S-   ALA 207 |
+| + A:ASN 200 | <**1.11**> | +   ASN 208 |
+| + A:GLU 201 | <..0.93..> | .   THR 209 |
+| + A:PRO 202 | <..0.72..> | -   LEU 210 |
+| - A:VAL 203 | <++0.49++> |S-   ILE 211 |
+|S+ A:GLN 204 | <..0.49..> | .   THR 212 |
+|S- A:LEU 205 | <..0.34..> | +   GLN 213 |
+|S. A:THR 206 | <..0.22..> |S+   GLU 214 |
+|S- A:PHE 207 | <++0.42++> |S-   ILE 215 |
+|S- A:ALA 208 | <**0.93**> |S-   ALA 216 |
+|H- A:LEU 209 | <++1.01++> |H-   MET 217 |
+|H+ A:ARG 210 | <++1.57++> |H+   LYS 218 |
+|H. A:TYR 211 | <**0.84**> |H.   TYR 219 |
+|H- A:LEU 212 | <++1.24++> |H-   VAL 220 |
+|H+ A:ASN 213 | <**0.89**> |H+   ASN 221 |
+|H- A:PHE 214 | <++0.72++> |H-   LEU 222 |
+|H- A:PHE 215 | <++1.08++> |H-   ILE 223 |
+| . A:THR 216 | <..1.12..> | -   GLY 224 |
+| + A:LYS 217 | <**1.15**> | +   LYS 225 |
+| - A:ALA 218 | <--1.42--> | -   VAL 226 |
+| . A:THR 219 | <..0.93..> | -   VAL 227 |
+| + A:PRO 220 | <**2.13**> | +   PRO 228 |
+| - A:LEU 221 | <**1.90**> | -   LEU 229 |
+| . A:SER 222 | <..1.32..> | -   CYS 230 |
+| . A:SER 223 | <..1.41..> | +   LYS 231 |
+|S. A:THR 224 | <..1.13..> |S+   GLU 232 |
+|S- A:VAL 225 | <**0.91**> |S-   VAL 233 |
+|S. A:THR 226 | <..0.99..> |S+   LYS 234 |
+|S- A:LEU 227 | <++0.92++> |S-   ILE 235 |
+|S. A:SER 228 | <..0.53..> |S-   PHE 236 |
+|S- A:MET 229 | <++0.76++> |S-   LEU 237 |
+| . A:SER 230 | <..0.79..> | -   GLY 238 |
+| - A:ALA 231 | <::1.02::> | .   THR 239 |
+| + A:ASP 232 | <--0.76--> | +   LYS 240 |
+| - A:VAL 233 | <..0.57..> | +   LYS 241 |
+| + A:PRO 234 | <**0.20**> | +   PRO 242 |
+|S- A:LEU 235 | <++0.18++> |S-   VAL 243 |
+|S- A:VAL 236 | <++0.28++> |S-   PHE 244 |
+|S- A:VAL 237 | <++0.35++> |S-   PHE 245 |
+|S+ A:GLU 238 | <==0.49==> |S+   ASN 246 |
+|S. A:TYR 239 | <++0.39++> |S-   LEU 247 |
+|S+ A:LYS 240 | <..0.83..> |S-   CYS 248 |
+|S- A:ILE 241 | <++1.55++> | -   MET 249 |
+| - A:ALA 242 | <..2.77..> | +   ASP 250 |
+| + A:ASP 243 | <..2.65..> | -   GLY 251 |
+| - A:MET 244 | <++1.29++> | -   VAL 252 |
+|S- A:GLY 245 | <..0.83..> |S.   SER 253 |
+|S+ A:HIS 246 | <**0.40**> |S+   HIS 254 |
+|S- A:LEU 247 | <++0.54++> |S-   MET 255 |
+|S+ A:LYS 248 | <**0.27**> |S+   LYS 256 |
+|S. A:TYR 249 | <++0.37++> |S-   LEU 257 |
+|S. A:TYR 250 | <**0.53**> |S.   TYR 258 |
+|S- A:LEU 251 | <++0.28++> |S-   VAL 259 |
+| - A:ALA 252 | <**0.53**> | -   ALA 260 |
+| + A:PRO 253 | <**0.42**> | +   PRO 261 |
+| + A:LYS 254 | <**0.44**> | +   LYS 262 |
+| - A:ILE 255 | <++1.29++> | -   PHE 263 |
+|             |            | +   GLU 264 |
+|             |            | +   ASN 265 |
+|             |            | +   ASP 266 |
+|             |            | .   TYR 267 |
+`-------------'------------'-------------'
+
+ Notations:
+ S/H   residue belongs to a strand/helix
+ +/-/. hydrophylic/hydrophobic/neutral residue
+ **    identical residues matched: similarity 5
+ ++    similarity 4
+ ==    similarity 3
+ --    similarity 2
+ ::    similarity 1
+ ..    dissimilar residues: similarity 0
+ Gesamt:  Normal termination

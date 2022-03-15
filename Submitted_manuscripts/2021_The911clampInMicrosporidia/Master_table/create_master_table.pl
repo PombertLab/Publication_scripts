@@ -67,18 +67,19 @@ my $previous_locus = '';
 while(my $line = <GESAMT>){
 	chomp($line);
 	unless(($line =~ /^###/)||($line eq '')){
-		my ($locus_tag,$predictor,$rcsb_code,$rcsb_chain,$qscore,$rmsd,undef,$nalign,undef,undef,$description) = split("\t",$line);
+		my ($locus_tag,$predictor,$rcsb_code,$rcsb_chain,$qscore,$rmsd,$seqid,$nalign,undef,undef,$description) = split("\t",$line);
+		$seqid = sprintf("%4.2f",$seqid*100);
 		my ($locus) = $locus_tag =~ /(\w+)-m1/;
 		unless($previous_locus eq $locus){
 			$alphafold_counter = 1;
 			$raptorx_counter = 1;
 		}
 		if(($predictor eq 'ALPHAFOLD')&&($alphafold_counter < 6)){
-			push(@{$alignment_scores{$locus}{$predictor}{"qscore"}},[$qscore,$description,$rcsb_code,$rcsb_chain,$rmsd,$nalign]);
+			push(@{$alignment_scores{$locus}{$predictor}{"qscore"}},[$qscore,$description,$rcsb_code,$rcsb_chain,$rmsd,$nalign,$seqid]);
 			$alphafold_counter++;
 		}
 		if(($predictor eq 'RAPTORX')&&($raptorx_counter < 6)){
-			push(@{$alignment_scores{$locus}{$predictor}{"qscore"}},[$qscore,$description,$rcsb_code,$rcsb_chain,$rmsd,$nalign]);
+			push(@{$alignment_scores{$locus}{$predictor}{"qscore"}},[$qscore,$description,$rcsb_code,$rcsb_chain,$rmsd,$nalign,$seqid]);
 			$raptorx_counter++;
 		}
 		$previous_locus = $locus;
@@ -116,12 +117,9 @@ while(my $line=<MICAN>){
 		$locus =~ s/\D$//;
 		if($alignment_scores{$locus}{uc($predictor)}{"qscore"}){
 			foreach my $alignment (@{$alignment_scores{$locus}{uc($predictor)}{"qscore"}}){
-				# print(join("\t",@{$alignment})."\n");
 				my ($qscore,$description,$g_rcsb_code,$g_rcsb_chain) = @{$alignment};
 				if(($g_rcsb_code eq $rcsb_code)&&($g_rcsb_chain eq $rcsb_chain)){
-					# print("Match found\n");
 					push(@{$alignment_scores{$locus}{uc($predictor)}{"tmscore"}},[$tmscore,$rmsd,$length,$seqid]);
-					# print(join("\t",@{$alignment_scores{$locus}{uc($predictor)}{"tmscore"}[0]})."\n");
 				}
 			}
 		}
@@ -141,12 +139,9 @@ while(my $line=<SPALIGN>){
 		$locus =~ s/\D$//;
 		if($alignment_scores{$locus}{uc($predictor)}{"qscore"}){
 			foreach my $alignment (@{$alignment_scores{$locus}{uc($predictor)}{"qscore"}}){
-				# print(join("\t",@{$alignment})."\n");
 				my ($qscore,$description,$g_rcsb_code,$g_rcsb_chain) = @{$alignment};
 				if(($g_rcsb_code eq $rcsb_code)&&($g_rcsb_chain eq $rcsb_chain)){
-					# print("Match found\n");
 					push(@{$alignment_scores{$locus}{uc($predictor)}{"gdt"}},[$gdt,$rmsd,$nalign]);
-					# print(join("\t",@{$alignment_scores{$locus}{uc($predictor)}{"tmscore"}[0]})."\n");
 				}
 			}
 		}
@@ -170,7 +165,7 @@ while(my $line = <VOROCNN>){
 
 my $line;
 print("Locus\tMicrosporidiaDB\tNCBI\tpLDDT");
-print(("\tVoroCNN\tRCSB Code\tRCSB Chain\tQ-score\tRMSD\t3D Alignment Length\tTMscore\tRMSD\t3D Alignment Length\tGDT\tRMSD\t3D Alignment Length\tDescription"x2)."\n");
+print(("\tVoroCNN\tRCSB Code\tRCSB Chain\tQ-score\tRMSD\tAlign. Length\t% Id\tTMscore\tRMSD\tAlign. Length\t% Id\tGDT\tRMSD\tAlign. Length\tDescription"x2)."\n");
 ANNOT:foreach my $locus (sort(keys(%msdb_annotations))){
 	for (my $i = 0; $i < 6; $i++){
 		$line = '';
@@ -210,19 +205,17 @@ ANNOT:foreach my $locus (sort(keys(%msdb_annotations))){
 			}
 
 			if($alignment_scores{$locus}{"ALPHAFOLD"}{"qscore"}){
-				my ($qscore,$description,$rcsb_code,$rcsb_chain,$rmsd,$nalign) = @{$alignment_scores{$locus}{"ALPHAFOLD"}{"qscore"}[0]};
-				$line .= "\t".$rcsb_code."\t".$rcsb_chain."\t".$qscore."\t".$rmsd."\t".$nalign;
+				my ($qscore,$description,$rcsb_code,$rcsb_chain,$rmsd,$nalign,$seqid) = @{$alignment_scores{$locus}{"ALPHAFOLD"}{"qscore"}[0]};
+				$line .= "\t".$rcsb_code."\t".$rcsb_chain."\t".$qscore."\t".$rmsd."\t".$nalign."\t".$seqid;
 				if($alignment_scores{$locus}{"ALPHAFOLD"}{"tmscore"}){
 					my ($tmscore,$rmsd,$length,$seqid) = @{$alignment_scores{$locus}{"ALPHAFOLD"}{"tmscore"}[0]};
-					# print("$locus\t$rcsb_code\t$rcsb_chain\t$tmscore\t$rmsd\n");
-					$line .= "\t".$tmscore."\t".$rmsd."\t".$length;
+					$line .= "\t".$tmscore."\t".$rmsd."\t".$length."\t".$seqid;
 				}
 				else{
-					$line .= "\t---"x3;
+					$line .= "\t---"x4;
 				}
 				if($alignment_scores{$locus}{"ALPHAFOLD"}{"gdt"}){
 					my ($gdt,$rmsd,$nalign) = @{$alignment_scores{$locus}{"ALPHAFOLD"}{"gdt"}[0]};
-					# print("$locus\t$rcsb_code\t$rcsb_chain\t$tmscore\t$rmsd\n");
 					$line .= "\t".$gdt."\t".$rmsd."\t".$nalign;
 				}
 				else{
@@ -231,7 +224,7 @@ ANNOT:foreach my $locus (sort(keys(%msdb_annotations))){
 				$line .= "\t".$description;
 			}
 			else{
-				$line .= "\t---"x12;
+				$line .= "\t---"x14;
 				$skip++;
 			}
 
@@ -250,22 +243,18 @@ ANNOT:foreach my $locus (sort(keys(%msdb_annotations))){
 			}
 
 			if($alignment_scores{$locus}{"RAPTORX"}{"qscore"}){
-				my ($qscore,$description,$rcsb_code,$rcsb_chain,$rmsd,$nalign) = @{$alignment_scores{$locus}{"RAPTORX"}{"qscore"}[0]};
-				$line .= "\t".$rcsb_code."\t".$rcsb_chain."\t".$qscore."\t".$rmsd."\t".$nalign;
-
-				# @{$alignment_scores{$locus}{uc($predictor)}{"tmscore"}},[$tmscore,$rmsd])
+				my ($qscore,$description,$rcsb_code,$rcsb_chain,$rmsd,$nalign,$seqid) = @{$alignment_scores{$locus}{"RAPTORX"}{"qscore"}[0]};
+				$line .= "\t".$rcsb_code."\t".$rcsb_chain."\t".$qscore."\t".$rmsd."\t".$nalign."\t".$seqid;
 
 				if($alignment_scores{$locus}{"RAPTORX"}{"tmscore"}){
 					my ($tmscore,$rmsd,$length,$seqid) = @{$alignment_scores{$locus}{"RAPTORX"}{"tmscore"}[0]};
-					# print("$locus\t$tmscore\t$rmsd\n");
-					$line .= "\t".$tmscore."\t".$rmsd."\t".$length;
+					$line .= "\t".$tmscore."\t".$rmsd."\t".$length."\t".$seqid;
 				}
 				else{
-					$line .= "\t---"x3;
+					$line .= "\t---"x4;
 				}
 				if($alignment_scores{$locus}{"RAPTORX"}{"gdt"}){
 					my ($gdt,$rmsd,$nalign) = @{$alignment_scores{$locus}{"RAPTORX"}{"gdt"}[0]};
-					# print("$locus\t$rcsb_code\t$rcsb_chain\t$tmscore\t$rmsd\n");
 					$line .= "\t".$gdt."\t".$rmsd."\t".$nalign;
 				}
 				else{
@@ -274,7 +263,7 @@ ANNOT:foreach my $locus (sort(keys(%msdb_annotations))){
 				$line .= "\t".$description;
 			}
 			else{
-				$line .= "\t---"x12;
+				$line .= "\t---"x14;
 				$skip++;
 			}
 
@@ -288,14 +277,14 @@ ANNOT:foreach my $locus (sort(keys(%msdb_annotations))){
 		else{
 			if($alignment_scores{$locus}{"ALPHAFOLD"}{"qscore"}[$i]){
 				$line .= "\t"x4;
-				my ($qscore,$description,$rcsb_code,$rcsb_chain,$rmsd,$nalign) = @{$alignment_scores{$locus}{"ALPHAFOLD"}{"qscore"}[$i]};
-				$line .= "\t".$rcsb_code."\t".$rcsb_chain."\t".$qscore."\t".$rmsd."\t".$nalign;
+				my ($qscore,$description,$rcsb_code,$rcsb_chain,$rmsd,$nalign,$seqid) = @{$alignment_scores{$locus}{"ALPHAFOLD"}{"qscore"}[$i]};
+				$line .= "\t".$rcsb_code."\t".$rcsb_chain."\t".$qscore."\t".$rmsd."\t".$nalign."\t".$seqid;
 				if($alignment_scores{$locus}{"ALPHAFOLD"}{"tmscore"}[$i]){
 					my ($tmscore,$rmsd,$length,$seqid) = @{$alignment_scores{$locus}{"ALPHAFOLD"}{"tmscore"}[$i]};
-					$line .= "\t".$tmscore."\t".$rmsd."\t".$length;
+					$line .= "\t".$tmscore."\t".$rmsd."\t".$length."\t".$seqid;
 				}
 				else{
-					$line .= "\t"x6;
+					$line .= "\t"x7;
 				}
 				if($alignment_scores{$locus}{"ALPHAFOLD"}{"gdt"}[$i]){
 					my ($gdt,$rmsd,$nalign) = @{$alignment_scores{$locus}{"ALPHAFOLD"}{"gdt"}[$i]};
@@ -307,20 +296,20 @@ ANNOT:foreach my $locus (sort(keys(%msdb_annotations))){
 				$line .= "\t".$description;
 			}
 			else{
-				$line .= "\t"x16;
+				$line .= "\t"x18;
 				$skip++;
 			}
 
 			if($alignment_scores{$locus}{"RAPTORX"}{"qscore"}[$i]){
 				$line .= "\t";
-				my ($qscore,$description,$rcsb_code,$rcsb_chain,$rmsd,$nalign) = @{$alignment_scores{$locus}{"RAPTORX"}{"qscore"}[$i]};
-				$line .= "\t".$rcsb_code."\t".$rcsb_chain."\t".$qscore."\t".$rmsd."\t".$nalign;
+				my ($qscore,$description,$rcsb_code,$rcsb_chain,$rmsd,$nalign,$seqid) = @{$alignment_scores{$locus}{"RAPTORX"}{"qscore"}[$i]};
+				$line .= "\t".$rcsb_code."\t".$rcsb_chain."\t".$qscore."\t".$rmsd."\t".$nalign."\t".$seqid;
 				if($alignment_scores{$locus}{"RAPTORX"}{"tmscore"}[$i]){
 					my ($tmscore,$rmsd,$length,$seqid) = @{$alignment_scores{$locus}{"RAPTORX"}{"tmscore"}[$i]};
-					$line .= "\t".$tmscore."\t".$rmsd."\t".$length;
+					$line .= "\t".$tmscore."\t".$rmsd."\t".$length."\t".$seqid;
 				}
 				else{
-					$line .= "\t"x6;
+					$line .= "\t"x7;
 				}
 				if($alignment_scores{$locus}{"RAPTORX"}{"gdt"}[$i]){
 					my ($gdt,$rmsd,$nalign) = @{$alignment_scores{$locus}{"RAPTORX"}{"gdt"}[$i]};
@@ -332,7 +321,7 @@ ANNOT:foreach my $locus (sort(keys(%msdb_annotations))){
 				$line .= "\t".$description;
 			}
 			else{
-				$line .= "\t"x7;
+				$line .= "\t"x9;
 				$skip++;
 			}
 			if($skip >= 2){

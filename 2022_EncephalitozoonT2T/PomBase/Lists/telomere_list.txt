@@ -1,0 +1,102 @@
+##### telomere organization (GO:0032200)
+
+### telomere organization
+bqt3	bouquet formation protein Bqt3
+bqt4	bouquet formation protein Bqt4
+
+### mitotic telomere maintenance via semi-conservative replication
+taz1	shelterin complex subunit Taz1
+tpz1	shelterin complex subunit Tpz1
+
+### negative regulation of telomere maintenance via telomerase
+ccq1	shelterin complex HEAT repeat subunit Ccq1
+ssu72	RNA polymerase II CTD phosphatase Ssu72
+stn1	telomere cap complex subunit Stn1
+tpz1	shelterin complex subunit Tpz1
+
+### positive regulation of telomere maintenance via semi-conservative replication
+ssu72	RNA polymerase II CTD phosphatase Ssu72
+
+### positive regulation of telomere maintenance via telomerase
+ccq1	shelterin complex HEAT repeat subunit Ccq1
+
+### protection from non-homologous end joining at telomere
+pso2	DNA 5' exonuclease
+rap1	shelterin complex telomere binding subunit Rap1
+taz1	shelterin complex subunit Taz1
+
+### regulation of telomere maintenance via recombination
+pli1	SUMO E3 ligase Pli1
+
+### regulation of telomere maintenance via telomerase
+ctr1	telomerase regulatory factor Ctr1
+mtl1	MTREC (exosome adaptor) complex RNA helicase subunit Mtl1
+pot1	shelterin complex subunit Pot1
+
+### subtelomeric heterochromatin formation
+chp2	heterochromatin (HP1) family chromodomain protein Chp2
+cul4	cullin 4
+hat1	histone acetyltransferase Hat1
+hst4	histone deacetylase, Sirtuin family, NAD-dependent Hst4
+raf1	CLRC ubiquitin ligase complex WD repeat subunit Raf1/Dos1
+raf2	CLRC ubiquitin ligase complex subunit Raf2
+stc1	CLRC complex-Argonaute linker protein Stc1
+
+### telomere capping
+ccq1	shelterin complex HEAT repeat subunit Ccq1
+pot1	shelterin complex subunit Pot1
+poz1	shelterin complex subunit Poz1
+stn1	telomere cap complex subunit Stn1
+ten1	nuclear telomere cap complex subunit Ten1
+tpz1	shelterin complex subunit Tpz1
+
+### telomere maintenance
+bmc1	Bin3 family, 7SK RNA methyltransferase Bmc1
+def1	RNAPII degradation factor Def1
+elg1	DNA replication factor C complex subunit Elg1
+exo1	exonuclease I Exo1
+hus1	checkpoint clamp complex protein Hus1
+mre11	Mre11 nuclease
+pbfh1	5' to 3' DNA helicase Pif1/Pfh1
+pku70	Ku domain helicase (human XRCC6 ortholog) Pku70
+pku80	Ku domain helicase (human XRCC5 ortholog) Pku80
+pmt3	ubiquitin-like protein modifier SUMO
+pof3	F-box protein Pof3
+rad1	checkpoint clamp complex protein Rad1
+rad17	RFC related checkpoint protein Rad17
+rad26	ATRIP, ATR checkpoint kinase regulatory subunit Rad26
+rad3	ATR checkpoint kinase Rad3
+rad51	RecA family recombinase Rad51/Rhp51
+rad9	checkpoint clamp complex protein Rad9
+rif1	telomere length regulator protein Rif1
+ssb3	DNA replication factor A subunit Ssb3
+tcg1	single-stranded telomeric binding protein Tgc1
+tel1	ATM checkpoint kinase
+bqt4	bouquet formation protein Bqt4
+
+### telomere maintenance via recombination
+nbs1	Mre11 complex BRCT domain subunit Nbs1
+rad50	DNA repair protein Rad50
+rad52	DNA recombination mediator Rad52 (previously Rad22)
+tlh1	RecQ type DNA helicase
+tlh2	RecQ type DNA helicase Tlh1
+
+### telomere maintenance via telomerase
+est1	telomerase regulator Est1
+pof8	LARP7 family RNA-binding protein Pof8/Lar7
+ssb1	DNA replication factor A subunit Ssb1
+tel2	Tel2/Rad-5/Clk-2 family protein Tel2
+ter1	telomerase RNA
+trt1	telomerase reverse transcriptase 1 protein Trt1
+
+### telomere maintenance via telomere lengthening
+rap1	shelterin complex telomere binding subunit Rap1
+tbf1	DNA binding factor Trf1
+
+### telomere-telomerase complex assembly
+ccq1	shelterin complex HEAT repeat subunit Ccq1
+est1	telomerase regulator Est1
+tpz1	shelterin complex subunit Tpz1
+
+### telomeric 3' overhang formation
+dna2	DNA replication endonuclease-helicase Dna2

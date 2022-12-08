@@ -1,0 +1,70 @@
+##### centromere complex assembly (GO:0034508)
+
+### centromere complex assembly
+mal2	CENP-O ortholog Mal2
+mst1	histone acetyltransferase, KAT5 family Mst1
+
+### CENP-A containing chromatin assembly
+arp8	Ino80 complex actin-like protein Arp8
+ccp1	histone chaperone, CENP-A nucleosome disassembly Ccp1
+cdc20	DNA polymerase epsilon catalytic subunit Pol2
+cnp1	centromere-specific histone H3 CENP-A
+hrp1	CHD family chromatin remodeller, CENP-A chaperone Hrp1
+iec1	Ino80 complex subunit Iec1
+iec3	Ino80 complex subunit Iec3
+ies2	Ino80 complex subunit Ies2
+ies6	Ino80 complex subunit Ies6
+ino80	SNF2 family ATP-dependent chromatin remodeller Ino80
+mis15	CENP-N ortholog Mis15
+mis16	kinetochore protein Mis16
+mis17	CENP-U ortholog Mis17
+mis18	kinetochore protein Mis18
+mis6	CENP-I ortholog, inner centromere connector Mis6
+pht1	histone H2A variant H2A.Z Pht1
+raf1	CLRC ubiquitin ligase complex WD repeat subunit Raf1/Dos1
+raf2	CLRC ubiquitin ligase complex subunit Raf2
+scm3	CENP-A histone chaperone Scm3
+ams2	DNA-binding transcription factor for histones, zf-GATA-type Ams2
+sim3	NASP family CENP-A chaperone
+
+### kinetochore assembly
+cnp20	CENP-T histone fold, kinetochore scaffold protein
+cnp3	CENP-C ortholog Cnp3
+fta3	CENP-H ortholog Fta3
+mhf2	CENP-X ortholog, FANCM-MHF complex subunit Mhf2
+mis12	MIS12/MIND complex Mis12
+mis15	CENP-N ortholog Mis15
+mis18	kinetochore protein Mis18
+sim4	CENP-K ortholog Sim4
+
+### pericentric heterochromatin formation
+ago1	argonaute
+chp1	heterochromatin (HP1) family chromodomain protein Chp1
+chp2	heterochromatin (HP1) family chromodomain protein Chp2
+cid12	poly(A) polymerase Cid12
+clr4	histone lysine H3-K9 methyltransferase Clr4
+cul4	cullin 4
+dcr1	dicer
+ers1	RNA-silencing factor Ers1
+hrr1	RNAi-mediated heterochromatin assembly helicase Hrr1
+hst2	histone deacetylase, Sirtuin family, NAD-dependent Hst2
+hst4	histone deacetylase, Sirtuin family, NAD-dependent Hst4
+pst1	Clr6 histone deacetylase complex subunit Pst1
+raf1	CLRC ubiquitin ligase complex WD repeat subunit Raf1/Dos1
+raf2	CLRC ubiquitin ligase complex subunit Raf2
+rdp1	RNA-directed RNA polymerase Rdp1
+rtt109	histone lysine acetyltransferase Rtt109
+stc1	CLRC complex-Argonaute linker protein Stc1
+tas3	RITS complex subunit 3
+
+### positive regulation of kinetochore assembly
+ark1	Aurora-B kinase Ark1
+cdc2	cyclin-dependent protein kinase Cdk1/Cdc2
+
+### protein localization to kinetochore involved in kinetochore assembly
+sos7	NMS complex subunit Sos7
+mis12	MIS12/MIND complex Mis12
+spc7	NMS complex subunit, Spc105/KNL-1 family member, blinkin, Spc7
+
+### regulation of kinetochore assembly
+nup132	nucleoporin, WD repeat Nup132

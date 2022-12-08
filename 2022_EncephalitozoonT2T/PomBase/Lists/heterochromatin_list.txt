@@ -1,0 +1,156 @@
+##### heterochromatin formation (GO:0031507)
+
+### heterochromatin formation
+ash2	Ash2-trithorax family protein
+clr6	histone deacetylase (class I) H3-K9 specific Clr6
+fft1	SMARCAD1 family ATPase Fft1
+fft2	SMARCAD1 family ATPase Fft2
+mit1	SHREC complex ATP-dependent chromatin remodeller Mit1
+rbx1	SCF complex, Cul4-RING and CLRC ubiquitin ligase ligase E3 subunit Rbx1
+rik1	CLRC ubiquitin ligase complex WD repeat protein Rik1
+sdc1	Lid2 complex Dpy-30 domain subunit Sdc1
+set1	histone lysine H3-K4 methyltransferase Set1
+shg1	Set1C complex subunit Shg1
+sir2	histone deacetylase, Sirtuin family, NAD-dependent Sir2
+spf1	Set1C PHD finger subunit Spf1
+spt2	histone chaperone Spt2
+swd1	Set1C complex subunit Swd1
+swd2	Set1C complex subunit Swd2.1
+swd3	Set1C complex WD repeat protein Swd3
+dpb3	DNA polymerase epsilon Dpb3
+dpb4	DNA polymerase epsilon subunit Dpb4
+
+### constitutive heterochromatin formation
+iec5	Ino80 complex subunit Iec5
+pob3	histone H2A-H2B chaperone, FACT complex subunit Pob3
+spt16	histone H2A-H2B chaperone, FACT complex subunit Spt16
+
+### heterochromatin boundary formation
+bdf2	BET family double bromodomain protein Bdf2
+epe1	histone demethylase (H3-K36 specific), Jmjc domain Epe1
+hht1	histone H3 h3.1
+hht2	histone H3 h3.2
+hht3	histone H3 h3.3
+leo1	RNA polymerase II associated Paf1 complex subunit Leo1
+lsd1	histone demethylase SWIRM1
+lsd2	histone demethylase SWIRM2
+mst2	histone acetyltransferase Mst2
+paf1	RNA polymerase II associated Paf1 complex
+phf1	PHD finger protein Phf1
+phf2	Lsd1/2 complex PHD finger protein Phf2
+swi6	heterochromatin (HP1) family chromodomain protein Swi6
+lid2	histone demethylase (H3-trimethyl-K4 specific), Lid2 complex subunit Lid2
+
+### postive/negative regulation of heterochromatin formation
+mst1	histone acetyltransferase, KAT5 family Mst1
+
+### negative regulation of ribosomal DNA heterochromatin formation
+cti6	histone deacetylase complex PHD finger subunit Cti6
+
+### negative regulation of small non-coding RNA-mediated heterochromatin formation
+eri1	double-strand siRNA ribonuclease Eri1
+
+### pericentric heterochromatin formation
+ago1	argonaute
+chp1	heterochromatin (HP1) family chromodomain protein Chp1
+chp2	heterochromatin (HP1) family chromodomain protein Chp2
+cid12	poly(A) polymerase Cid12
+clr4	histone lysine H3-K9 methyltransferase Clr4
+cul4	cullin 4
+dcr1	dicer
+ers1	RNA-silencing factor Ers1
+hrr1	RNAi-mediated heterochromatin assembly helicase Hrr1
+hst2	histone deacetylase, Sirtuin family, NAD-dependent Hst2
+hst4	histone deacetylase, Sirtuin family, NAD-dependent Hst4
+pst1	Clr6 histone deacetylase complex subunit Pst1
+raf1	CLRC ubiquitin ligase complex WD repeat subunit Raf1/Dos1
+raf2	CLRC ubiquitin ligase complex subunit Raf2
+rdp1	RNA-directed RNA polymerase Rdp1
+rtt109	histone lysine acetyltransferase Rtt109
+stc1	CLRC complex-Argonaute linker protein Stc1
+tas3	RITS complex subunit 3
+
+### pericentric heterochromatin organization
+lem2	LEM domain nuclear inner membrane protein Heh1/Lem2
+
+### positive regulation of pericentric heterochromatin formation
+mmi1	nucleus specific RNA binding exosome specificity factor Mmi1
+
+### rDNA heterochromatin formation
+chp2	heterochromatin (HP1) family chromodomain protein Chp2
+clr3	histone deacetylase (class II) Clr3
+hst2	histone deacetylase, Sirtuin family, NAD-dependent Hst2
+
+### regulation of heterochromatin formation
+dri1	RNA-binding protein involved in heterochromatin assembly Dri1
+rbm10	RNA-binding protein Rbm10
+
+### regulation of siRNA-dependent facultative heterochromatin formation
+cwf10	U5 snRNP GTPase subunit Cwf10
+mtl1	MTREC (exosome adaptor) complex RNA helicase subunit Mtl1
+nrl1	RNAi-mediated silencing protein, human NRDE2 ortholog Nrl1
+red1	MTREC (exosome adaptor) complex subunit Red1
+rmn1	MTREC (exosome adaptor) complex RNA-binding subunit Rmn1
+
+### regulation of siRNA-independent facultative heterochromatin formation
+erh1	enhancer of rudimentary homolog Erh1
+iss10	MTREC (exosome adaptor) complex proline-rich subunit Iss10/Pir1
+mtl1	MTREC (exosome adaptor) complex RNA helicase subunit Mtl1
+red1	MTREC (exosome adaptor) complex subunit Red1
+ssu72	RNA polymerase II CTD phosphatase Ssu72
+swd22	mRNA cleavage and polyadenylation specificity factor complex, WD repeat protein Swd22
+
+### silent mating-type cassette heterochromatin formation
+chp2	heterochromatin (HP1) family chromodomain protein Chp2
+clr1	SHREC complex intermodule linker subunit Clr1
+clr2	chromatin silencing protein Clr2
+clr3	histone deacetylase (class II) Clr3
+clr4	histone lysine H3-K9 methyltransferase Clr4
+cul4	cullin 4
+raf1	CLRC ubiquitin ligase complex WD repeat subunit Raf1/Dos1
+raf2	CLRC ubiquitin ligase complex subunit Raf2
+stc1	CLRC complex-Argonaute linker protein Stc1
+swi6	heterochromatin (HP1) family chromodomain protein Swi6
+tas3	RITS complex subunit 3
+
+### siRNA-independent facultative heterochromatin formation
+mmi1	nucleus specific RNA binding exosome specificity factor Mmi1
+rrp6	exosome 3'-5' exoribonuclease subunit Rrp6
+
+### small non-coding RNA-dependent heterochromatin formation
+arb1	argonaute inhibitor protein 1
+arb2	argonaute binding protein 2
+cdc20	DNA polymerase epsilon catalytic subunit Pol2
+chp1	heterochromatin (HP1) family chromodomain protein Chp1
+chp2	heterochromatin (HP1) family chromodomain protein Chp2
+cid12	poly(A) polymerase Cid12
+clr4	histone lysine H3-K9 methyltransferase Clr4
+cul4	cullin 4
+ers1	RNA-silencing factor Ers1
+hen1	small RNA 2'-O-methyltransferase Hen1
+hrr1	RNAi-mediated heterochromatin assembly helicase Hrr1
+hsp90	Hsp90 chaperone
+lid2	histone demethylase (H3-trimethyl-K4 specific), Lid2 complex subunit Lid2
+mas5	Hsp40 family DNAJ domain protein Mas5
+pir2	MTREC (exosome adaptor) complex zf-C2H2 type zinc finger subunit Pir2
+raf1	CLRC ubiquitin ligase complex WD repeat subunit Raf1/Dos1
+raf2	CLRC ubiquitin ligase complex subunit Raf2
+rpb2	RNA polymerase II complex subunit Rpb2
+snd1	RNA-binding protein, involved in chromatin silencing by small RNA, Snd1
+stc1	CLRC complex-Argonaute linker protein Stc1
+tas3	RITS complex subunit 3
+tri1	triman, ribonuclease involved in priRNA formation Tri1
+ago1	argonaute
+dcr1	dicer
+dsh1	RNAi protein, Dsh1
+rdp1	RNA-directed RNA polymerase Rdp1
+sgf73	SAGA complex deubiquitinating submodule subunit Sgf73
+
+### subtelomeric heterochromatin formation
+chp2	heterochromatin (HP1) family chromodomain protein Chp2
+cul4	cullin 4
+hat1	histone acetyltransferase Hat1
+hst4	histone deacetylase, Sirtuin family, NAD-dependent Hst4
+raf1	CLRC ubiquitin ligase complex WD repeat subunit Raf1/Dos1
+raf2	CLRC ubiquitin ligase complex subunit Raf2
+stc1	CLRC complex-Argonaute linker protein Stc1

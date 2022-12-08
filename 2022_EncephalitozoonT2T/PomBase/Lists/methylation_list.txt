@@ -1,0 +1,83 @@
+##### methylation (GO:0032259)
+
+### 7-methylguanosine cap hypermethylation
+tgs1	rRNA methyltransferase Tgs1
+
+### enzyme-directed rRNA 2'-O-methylation
+spb1	rRNA methyltransferase Spb1
+
+### mitochondrial tRNA methylation
+trm5	tRNA (guanine(37)-N(1))-methyltransferase activity Trm5
+
+### mRNA methylation
+ime4	mRNA (N6-adenosine)-methyltransferase Ime4
+
+### RNA methylation
+bmc1	Bin3 family, 7SK RNA methyltransferase Bmc1
+hen1	small RNA 2'-O-methyltransferase Hen1
+pcm1	P-TEFb-cap methyltransferase Pcm1
+xxx1	SPBC8D2.16c SPOUT domain containing methyltransferase
+
+### rRNA (guanine-N7)-methylation
+bud23	rRNA (guanine-N7-)-methyltransferase Bud23
+trm112	eRF1 methyltransferase complex and tRNA (m2G10) methyltransferase complex regulatory subunit Trm112
+
+### rRNA base methylation
+bmt5	ribosome biogenesis protein Bmt5
+mra1	rRNA (pseudouridine) methyltransferase Mra1
+mtl16	23S rRNA/U6 snRNA (adenine-N(6))-methyltransferase Mtl16
+nop2	rRNA (cytosine-C5-)-methyltransferase activity Nop2
+rcm1	rRNA (cytosine-5-)-methyltransferase Rcm1
+
+### rRNA methylation
+bmt2	rRNA (adenine) methyltransferase activity Bmt2
+cdh1	18S rRNA dimethylase Cdh1
+fib1	fibrillarin, rRNA and histone methyltransferase
+mrm1	mitochondrial ribose methyltransferase Mrm1
+mrm2	mitochondrial 2' O-ribose methyltransferase Mrm2
+mrm202	mitochondrial 2' O-ribose methyltransferase Mrm2-like
+rrp8	rRNA methyltransferase Rrp8
+xxx2	SPBC4.02c rRNA 2'-O-methyltransferase fibrillarin-like
+
+### tRNA (guanine-N7)-methylation
+trm8	tRNA (guanine-N7-)-methyltransferase catalytic subunit Trm8
+trm82	tRNA (guanine-N7-)-methyltransferase WD repeat subunit Trm82
+
+### tRNA C3-cytosine methylation
+trm140	tRNA (cytosine-3) methyltransferase Trm140
+trm141	tRNA(Ser) residue 32 (cytosine-3-)-methyltransferase Trm141
+
+### tRNA C5-cytosine methylation
+pmt1	tRNA (cytosine-5-)-methyltransferase Pmt1
+trm401	tRNA (cytosine-5-)-methyltransferase
+
+### tRNA methylation
+cpd1	tRNA (cytosine-5-)-methyltransferase
+gcd10	tRNA (m1A) methyltransferase non-catalytic subunit Gcd10
+ips1	mitochondrial GIDA family tRNA uridine 5-carboxymethylaminomethyl modification enzyme Ips1
+mss1	mitochondrial tRNA wobble uridine modification GTPase Mss1
+ppm2	tRNA methyltransferase Ppm2
+trm112	eRF1 methyltransferase complex and tRNA (m2G10) methyltransferase complex regulatory subunit Trm112
+trm12	tRNA 4-demethylwyosine alpha-amino-alpha-carboxypropyltransferase Trm12
+trm13	tRNA 2'-O-methyltransferase Trm13
+trm2	tRNA (m5U54) methyltransferase Trm2
+trm44	tRNA(Ser) Um(44) 2'-O-methyltransferasetRNA Trm44
+trm732	tRNA (cytosine 32-2'-O)-methyltransferase regulator Trm732
+trm734	tRNA (guanosine 34-2'-O)-methyltransferase regulator Trm734
+trm9	tRNA (uridine) methyltransferase Trm9
+tyw3	wybutosine biosynthesis protein Tyw3
+
+### tRNA N1-guanine methylation
+trm10	tRNA m(1)G methyltransferase Trm10
+trm5	tRNA (guanine(37)-N(1))-methyltransferase activity Trm5
+
+### tRNA N2-guanine methylation
+trm1	tRNA (guanine-N2-)-methyltransferase Trm1
+trm11	tRNA (guanine-N2-)-methyltransferase catalytic subunit Trm11
+
+### tRNA wobble base cytosine methylation
+til1	mitochondrial tRNA(Ile)-lysidine synthetase Til1
+trm402	tRNA (cytosine-5-)-methyltransferase
+
+### wobble position ribose methylation
+trm7	tRNA 2'-O-ribose methyltransferase Trm7

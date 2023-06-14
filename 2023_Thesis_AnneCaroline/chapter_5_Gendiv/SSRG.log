@@ -1,0 +1,6 @@
+# Mon Apr 24 16:13:20 EDT 2023
+COMMAND LINE: SSRG.pl -f /home/jpombert/Analyses/Encephalitozoon/GenDiv/FASTA/NOV7.fasta /home/jpombert/Analyses/Encephalitozoon/GenDiv/FASTA/GBEP.fasta /home/jpombert/Analyses/Encephalitozoon/GenDiv/FASTA/FISK.fasta /home/jpombert/Analyses/Encephalitozoon/GenDiv/FASTA/OC4.fasta -o /home/jpombert/Analyses/Encephalitozoon/GenDiv/FASTQ/FASTQ_250 -gzip -r 250
+
+# Mon Apr 24 16:14:09 EDT 2023
+COMMAND LINE: SSRG.pl -f /home/jpombert/Analyses/Encephalitozoon/GenDiv/FASTA/NOV7.fasta /home/jpombert/Analyses/Encephalitozoon/GenDiv/FASTA/GBEP.fasta /home/jpombert/Analyses/Encephalitozoon/GenDiv/FASTA/FISK.fasta /home/jpombert/Analyses/Encephalitozoon/GenDiv/FASTA/OC4.fasta -o /home/jpombert/Analyses/Encephalitozoon/GenDiv/FASTQ/FASTQ_150 -gzip -r 150
+

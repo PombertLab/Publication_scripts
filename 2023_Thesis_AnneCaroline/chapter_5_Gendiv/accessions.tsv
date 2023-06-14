@@ -1,0 +1,20 @@
+# isolate	Genotype	Description	Genome	SRA
+50451	1B	USA:GA; AIDS patient; urine; CDC:0291:V213	43.71	https://www.ncbi.nlm.nih.gov/assembly/GCA_029215505.1	SRR23560257; SRR23560258
+50604	1A	USA:NY; human patient; urine	43.67	https://www.ncbi.nlm.nih.gov/assembly/GCA_024399255.1	SRR17853475
+50504	1A	USA:NY; HIV-seropositive patient; corneal scrapings	43.37	https://www.ncbi.nlm.nih.gov/assembly/GCA_000277815.3	N/A
+Swiss	2B	CHE:ZH; HIV-seropositive patient	43.60	https://www.ncbi.nlm.nih.gov/assembly/GCA_018342045.1	SRR14062087; SRR14017862
+50506	1	USA:NY; HIV-seropositive patient; alveolar material	41.93	https://www.ncbi.nlm.nih.gov/assembly/GCA_024399295.1	SRR17865591
+50507	1	USA:NY; HIV-seropositive patient; nasal material	41.34	XXX	SRR24007516
+50603	1	USA:GA; AIDS patient; duodenal biopsy; CDC:V307	41.34	XXX	SRR24007515
+50651	1	USA:CA; AIDS patient; clinical isolate; CDC:V297	41.34	XXX	SRR24007514
+50602	3	USA:CO; AIDS patient; urine; CDC:V282	47.93	https://www.ncbi.nlm.nih.gov/assembly/GCA_027571585.1	SRR17858635; SRR17858636
+GB_M1	1	UK; mouse isolate; E.U. Canning	47.30	https://www.ncbi.nlm.nih.gov/assembly/GCA_000091225.2	N/A
+ECI	1	USA:OH; rabbit; ATCC 50503	46.87	https://microsporidiadb.org/micro/app/downloads/Current_Release/EcuniculiEC1/	SRR122312; SRR122313; SRR122314
+ECII	2	CZE; mouse isolate; J. Vavra	46.86	https://microsporidiadb.org/micro/app/downloads/Current_Release/EcuniculiEC2/	SRR122309; SRR122311; SRR122315
+ECII_CZ	2	CZE; wild mouse isolate	46.85	https://www.ncbi.nlm.nih.gov/nuccore/; KC513604 to KC513657	SRR636827
+ECIII	3	USA:TX; canine isolate; ATCC 50502	46.85	https://microsporidiadb.org/micro/app/downloads/Current_Release/EcuniculiEC3/	SRR122310; SRR122316; SRR122317
+ECIII_L	3	CZE; Steppe lemming (Lagurus lagurus)	46.90	https://www.ncbi.nlm.nih.gov/assembly/GCA_001078035.1	SRR2105612
+OC4	X	GBR; Daphnia magna Straus isolate	38.50	https://www.ncbi.nlm.nih.gov/assembly/GCA_000803265.1	N/A
+GBEP	X	GBR; Daphnia magna isolate	38.40	https://www.ncbi.nlm.nih.gov/assembly/GCA_004324935.1	SRR9597069
+FISK	X	FIN; Daphnia magna isolate	38.50	https://www.ncbi.nlm.nih.gov/assembly/GCA_004325055.1	SRR9597070
+NOV7	X	NOR; Daphnia magna isolate	38.40	https://www.ncbi.nlm.nih.gov/assembly/GCA_004324945.1	SRR9597068

@@ -879,3 +879,101 @@ $CP/Scripts/get_species_set.pl \
   -o $CP/OrthoFinder/C_primus \
   -p C_primus
 
+## List the content of all orthogroups and their functions
+expand_og_list.pl \
+    -i $CP/OrthoFinder/Results/Results_Nov16/Orthogroups/Orthogroups.txt \
+    -a $CP/SYNY_NEW/LISTS/*.list \
+    -o $CP/OrthoFinder/expanded_ogs.txt
+
+####################################################################################
+### CAFE v5 - https://github.com/hahnlab/CAFE5
+####################################################################################
+
+## Intall CAFE5 with bioconda => aborts (core dump)
+# conda create -n cafe
+# conda activate cafe
+# conda install -c bioconda cafe
+
+## Intall CAFE5 from source
+aria2c https://github.com/hahnlab/CAFE5/archive/refs/tags/v5.1.tar.gz
+tar -xvf CAFE5-5.1.tar.gz
+cd CAFE5-5.1
+autoconf
+./configure
+make
+
+## Creating subdirs
+mkdir $CP/CAFE
+cp $CP/OrthoFinder/Results/Results_Nov16/Orthogroups/Orthogroups.GeneCount.tsv $CP/CAFE
+cp $CP/OrthoFinder/Results/Results_Nov16/Species_Tree/SpeciesTree_rooted.txt $CP/CAFE
+
+## Converting OrthoFinder tree to ultrametric with R
+cd $CP/CAFE
+
+R
+> install.packages("ape")
+> library(ape)
+> tre <- read.tree('SpeciesTree_rooted.txt')
+> is.rooted(tre)
+# [1] TRUE
+> is.binary(tre)
+# [1] TRUE
+> is.ultrametric(tre)
+# [1] FALSE
+
+> utre <- chronos(tre)
+
+# Setting initial dates...
+# Fitting in progress... get a first set of estimates
+#         (Penalised) log-lik = -1.251192
+# Optimising rates... dates... -1.251192
+
+# log-Lik = -1.25121
+# PHIIC = 24.5
+> is.ultrametric(utre)
+# [1] TRUE
+> is.binary(utre)
+# [1] TRUE
+> is.rooted(utre)
+# [1] TRUE
+> write.tree(utre, 'utre.txt')
+> quit()
+
+## Converting Orthogroups.GeneCount.tsv To CAFE5 compatible format
+og_to_cafe.pl -o $CP/CAFE/Orthogroups.GeneCount.tsv -c $CP/CAFE/cafe.tsv
+
+## Run CAFE5
+cafe5 \
+  --infile $CP/CAFE/cafe.tsv \
+  --tree $CP/CAFE/utre.txt \
+  --cores 8 \
+  --output_prefix $CP/CAFE/cafe5_results
+
+## Plot CAFE5 results with cafe5_draw_tree.py
+## Note: Tree-types help message is wrong:
+##       Increase not Expansions
+##       Decrease not Contractions
+##       Rapid does not work => wrong key?
+##       default = Increase
+
+python3 /opt/CAFE5-5.1/docs/tutorial/cafe5_draw_tree.py \
+  --input-file $CP/CAFE/cafe5_results/Base_clade_results.txt \
+  --ids $CP/CAFE/cafe5_results/Base_report.cafe \
+  --tree-type Increase \
+  --output-file $CP/CAFE/cafe5_results/Increase.png
+
+python3 /opt/CAFE5-5.1/docs/tutorial/cafe5_draw_tree.py \
+  --input-file $CP/CAFE/cafe5_results/Base_clade_results.txt \
+  --ids $CP/CAFE/cafe5_results/Base_report.cafe \
+  --tree-type Decrease \
+  --output-file $CP/CAFE/cafe5_results/Decrease.png
+
+## Extract significant results per node
+cafe_sig_tree.pl \
+  -i $CP/CAFE/cafe5_results/Base_asr.tre \
+  -t $CP/CAFE/cafe5_results/Base_change.tab \
+  -u $CP/CAFE/cafe5_results/Base_count.tab \
+  -r $CP/CAFE/cafe5_results/Base_branch_probabilities.tab \
+  -o $CP/CAFE/SIGS \
+  -p significant_trees
+

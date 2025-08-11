@@ -1,13 +1,16 @@
-#!/usr/bin/python
+#!/usr/bin/env python3
 ## Pombert lab, 2022
-version = '0.5'
+version = '0.5g'
+updated = '2024-04-16'
 name = 'read_len_plot.py'
 
 import os
 import sys
 import gzip
+import pragzip
 import argparse
 import matplotlib.pyplot as plt
+from tqdm import tqdm
 
 ################################################################################
 ## README
@@ -16,8 +19,13 @@ import matplotlib.pyplot as plt
 usage = f"""
 NAME		{name}
 VERSION		{version}
+UPDATED		{updated}
 SYNOPSIS	Plots the read length distribution for a given FASTQ dataset with 
 		matplotlib
+
+REQS		pragzip - https://pypi.org/project/pragzip/ 
+		tqdm - https://pypi.org/project/tqdm/
+		## pip install pragzip tqdm
 
 COMMAND		{name} \\
 		  -f reads.fastq \\
@@ -28,6 +36,8 @@ COMMAND		{name} \\
 I/O OPTIONS:
 -f (--fastq)	FASTQ file to plot (GZIP files are supported)
 -d (--outdir)	Output directory [Default: ./]
+-m (--metrics)	Metrics output file [Default: read_metrics.txt]
+-v (--verbose)	Print progress (every 25,000 reads)
 -o (--output)	Save plot to specified output file(s)
 		## Defaults to matplotlib GUI otherwize
 		## Supported formats: png, pdf, png, ps and svg
@@ -36,11 +46,13 @@ PLOT OPTIONS:
 -c (--color)	Color to use; red, green, blue... [Default: green]
 		# https://matplotlib.org/stable/gallery/color/named_colors.html
 -b (--bar)	Bar type: Read sum or read count [Default: sum]
--h (--height)	Figure height in inches [Default: 19.2]
--w (--width)	Figure width in inches [Default: 10.8]
+-h (--height)	Figure height in inches [Default: 10.8]
+-w (--width)	Figure width in inches [Default: 19.2]
 -x (--xmax)	Set max X-axis value [Default: automatic]
 -t (--ticks)	Set ticks every X kb [Default: 5]
 -y (--yscale)	Set yscale: linear or log [Default: linear]
+--title		Set title; defaults to file basename if not set
+--title_font	Set title font: normal, bold, heavy [Default: normal]
 """
 
 # Print custom message if argv is empty
@@ -56,6 +68,8 @@ cmd = argparse.ArgumentParser(add_help=False)
 cmd.add_argument("-f", "--fastq")
 cmd.add_argument("-o", "--output", nargs='*')
 cmd.add_argument("-d", "--outdir", default='./')
+cmd.add_argument("-m", "--metrics", default='read_metrics.txt')
+cmd.add_argument("-v", "--verbose", action='store_true')
 cmd.add_argument("-c", "--color", default='green')
 cmd.add_argument("-b", "--bar", default='sum', choices=['sum', 'count'])
 cmd.add_argument("-h", "--height", default=10.8)
@@ -63,11 +77,15 @@ cmd.add_argument("-w", "--width", default=19.2)
 cmd.add_argument("-x", "--xmax", type=int)
 cmd.add_argument("-t", "--ticks", type=int, default=5)
 cmd.add_argument("-y", "--yscale", default='linear', choices=['linear', 'log'])
+cmd.add_argument("--title")
+cmd.add_argument("--title_font", default='normal', choices=['normal', 'bold', 'heavy'])
 args = cmd.parse_args()
 
 fastq = args.fastq
 output = args.output
 outdir = args.outdir
+metrics_file = args.metrics
+verbose = args.verbose
 bar = args.bar
 height = args.height
 width = args.width
@@ -75,7 +93,8 @@ rgb = args.color
 xmax = args.xmax
 set_ticks = args.ticks
 yscale = args.yscale
-
+title = args.title
+title_font = args.title_font
 
 ################################################################################
 ## Working on output directory
@@ -94,26 +113,71 @@ if output is not None:
 ################################################################################
 
 read_sizes = []
+num_lines = 0
 line_counter = 0
+read_num = 0
 
+## Check gzip status
+def check_gzip(file):
+    with open(file, 'rb') as test:
+        return test.read(2) == b'\x1f\x8b'
+
+zipflag = check_gzip(fastq)
 FH = None
 
-## Check if file is gzipped or not
-try:
+if (zipflag == True):
 	FH = gzip.open(fastq,'r')
-except:
+else:
 	FH = open(fastq,'r')
 
-print(f"Working on {fastq}...")
+print(f"\nWorking on {fastq}...\n")
 
+num_reads = None
+
+## Count lines/reads
+if zipflag == True:
+	with pragzip.open(fastq) as file:
+		while chunk := file.read( 1024*1024 ):
+			num_lines += chunk.count(b'\n')
+
+	num_reads = int(num_lines / 4)
+	print(f"Total number of reads: {num_reads:,}")
+
+if zipflag == False:
+
+	def _line_counter(reader):
+		b = reader(1024 * 1024)
+		while b:
+			yield b
+			b = reader(1024 * 1024)
+
+	with open(fastq, 'rb') as f:
+		line_count = _line_counter(f.raw.read)
+		num_lines = sum(buffer.count(b'\n') for buffer in line_count)
+		num_reads = int(num_lines / 4)
+		print(f"Total number of reads: {num_reads:,}")
+
+if verbose:
+	pbar = tqdm(desc='Progress', total = num_reads)
+
+## Parse reads
 for line in FH:
+
 	line_counter += 1
+
 	if (line_counter == 2):
 		line = line.strip()
 		read_size = len(line)
 		read_sizes.append(read_size)
+
 	elif (line_counter == 4):
 		line_counter = 0
+		read_num += 1
+		if verbose:
+			pbar.update()
+
+if verbose:
+	pbar.close()
 
 ################################################################################
 ## Calculate read metrics
@@ -152,6 +216,27 @@ read_sizes.sort(reverse=True)
 n50 = n_metric(read_sizes,0.5)
 n75 = n_metric(read_sizes,0.75)
 n90 = n_metric(read_sizes,0.9)
+
+# Print metrics to file or STDOUT
+pmetrics = f"""Metrics for {fastq}:
+
+Total bases:\t{read_sum}
+# reads:\t{read_num}
+Longest:\t{longest_read}
+Shortest:\t{shortest_read}
+Average:\t{average}
+Median:\t\t{median}
+N50:\t\t{n50}
+N75:\t\t{n75}
+N90:\t\t{n90}
+"""
+
+if output is None:
+	print(pmetrics)
+else:
+	metrics_output = outdir + '/' + metrics_file
+	METRICS = open(metrics_output,'w')
+	print(pmetrics, file=METRICS)
 
 
 ################################################################################
@@ -246,21 +331,23 @@ if bar == 'sum':
 elif bar == 'count':
 	ylabel = 'Total read count'
 
-basename = os.path.basename(fastq)
+if title is None:
+	title = os.path.basename(fastq)
 
 plt.title(
-	basename,
+	title,
 	loc='center',
 	fontsize = 12,
 	y = 1.0,
-	pad=-50
+	pad=-50,
+	fontweight=title_font
 )
 plt.text(
 	x_metrics_location,
 	y_metrics_location,
 	metrics,
 	fontsize=10,
-	font='monospace',
+	family='monospace',
 	va='top',
 	ha='right'
 )
@@ -277,6 +364,7 @@ if output is None:
 	plt.show()
 else:
 	for x in output:
-		filename = outdir + '/' + x
-		print(f"  Creating {filename}...")
+		filename = outdir + '/' + x 
+		print(f"Creating {filename}...")
 		plt.savefig(filename)
+	print("")
